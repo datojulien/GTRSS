@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:ns1="http://www.spotify.com/ns/rss" xmlns:ns2="http://www.google.com/schemas/play-podcasts/1.0" xmlns:ns3="https://podcastindex.org/namespace/1.0" xmlns:ns4="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Les Grosses Têtes (L’intégrale) (L’intégrale) (L’intégrale)</title>
+    <title>Les Grosses Têtes (L’intégrale)</title>
     <link>https://www.rtl.fr/emission/les-grosses-tetes</link>
     <description>&lt;p&gt;Tous les jours de 15h30 à 18h, plongez dans l'univers hilarant et décalé des "Grosses Têtes", l'émission culte animée par Laurent Ruquier. Entre anecdotes croustillantes, quiz culturels, et débats endiablés retrouvez les sociétaires des Grosses Têtes dans les intégrales, les bonus et les archives de l'émission ! Abonnez-vous et ne manquez aucun épisode !&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Distribué par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Fri, 04 Jul 2025 23:53:31 GMT</lastBuildDate>
-    <pubDate>Fri, 04 Jul 2025 23:53:31 GMT</pubDate>
+    <lastBuildDate>Fri, 04 Jul 2025 23:56:06 GMT</lastBuildDate>
+    <pubDate>Fri, 04 Jul 2025 23:56:06 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -47,60 +47,6 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/KxAcscK</ns3:txt>
-    <item>
-      <title>L'INTÉGRALE - Le Best of de l'été du lundi 30 juin 2025</title>
-      <guid isPermaLink="false">b9e6b66c-6723-4128-98b1-4ba0ecf6b4c7</guid>
-      <description>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du lundi 30 juin 2025.
-
-
-
-
-
-
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Distribué par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du lundi 30 juin 2025.
-
-
-
-
-
-
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Distribué par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Mon, 30 Jun 2025 16:00:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/b9e6b66c-6723-4128-98b1-4ba0ecf6b4c7.mp3?_=1751631243" length="100215202" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du lundi 30 juin 2025.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Distribué par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du lundi 30 juin 2025.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Distribué par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du lundi 30 juin 2025.
-
-
-
-
-
-
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Distribué par Audiomeans. Visitez </itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>01:44:23</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/550e197d-dfdf-49c0-b6c3-4d0d43e05a20.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/550e197d-dfdf-49c0-b6c3-4d0d43e05a20.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/UoeKfKx</ns3:txt>
-      <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes,intégral,réécoute intégrale</itunes:keywords>
-    </item>
     <item>
       <title>L'INTÉGRALE - Le Best of de l'été du vendredi 4 juillet 2025</title>
       <guid isPermaLink="false">045361e7-c905-46bb-aa05-e1443ec61305</guid>
@@ -179,25 +125,11 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <pubDate>Thu, 03 Jul 2025 16:00:00 GMT</pubDate>
       <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/219eaf32-a7e7-4305-b528-6b90a89f7219.mp3?_=1751450000" length="102134073" type="audio/mpeg" />
       <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du jeudi 3 juillet 2025.
-
-
-
-
-
-
-
+      <itunes:summary>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du jeudi 3 juillet 2025.
 Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
  Distribué par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
  </itunes:summary>
-      <ns2:description>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du jeudi 3 juillet 2025.
-
-
-
-
-
-
-
+      <ns2:description>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du jeudi 3 juillet 2025.
 Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
  Distribué par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
  </ns2:description>
@@ -247,25 +179,11 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <pubDate>Wed, 02 Jul 2025 16:00:00 GMT</pubDate>
       <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/cffdf96b-e838-4dbf-998a-ede6bbad6746.mp3?_=1751449990" length="101085007" type="audio/mpeg" />
       <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du mercredi 2 juillet 2025.
-
-
-
-
-
-
-
+      <itunes:summary>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du mercredi 2 juillet 2025.
 Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
  Distribué par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
  </itunes:summary>
-      <ns2:description>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du mercredi 2 juillet 2025.
-
-
-
-
-
-
-
+      <ns2:description>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du mercredi 2 juillet 2025.
 Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
  Distribué par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
  </ns2:description>
@@ -315,25 +233,11 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <pubDate>Tue, 01 Jul 2025 16:00:00 GMT</pubDate>
       <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/49fc394f-def4-498b-8947-a1e7299920d6.mp3?_=1751363887" length="68081274" type="audio/mpeg" />
       <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du mardi 1er juillet 2025.
-
-
-
-
-
-
-
+      <itunes:summary>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du mardi 1er juillet 2025.
 Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
  Distribué par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
  </itunes:summary>
-      <ns2:description>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du mardi 1er juillet 2025.
-
-
-
-
-
-
-
+      <ns2:description>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du mardi 1er juillet 2025.
 Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
  Distribué par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
  </ns2:description>
@@ -360,6 +264,60 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes,intégral,réécoute intégrale</itunes:keywords>
     </item>
     <item>
+      <title>L'INTÉGRALE - Le Best of de l'été du lundi 30 juin 2025</title>
+      <guid isPermaLink="false">b9e6b66c-6723-4128-98b1-4ba0ecf6b4c7</guid>
+      <description>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du lundi 30 juin 2025.
+
+
+
+
+
+
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Distribué par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du lundi 30 juin 2025.
+
+
+
+
+
+
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Distribué par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Mon, 30 Jun 2025 16:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/b9e6b66c-6723-4128-98b1-4ba0ecf6b4c7.mp3?_=1751631243" length="100215202" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du lundi 30 juin 2025.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Distribué par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du lundi 30 juin 2025.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Distribué par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du lundi 30 juin 2025.
+
+
+
+
+
+
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Distribué par Audiomeans. Visitez </itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>01:44:23</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/550e197d-dfdf-49c0-b6c3-4d0d43e05a20.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/550e197d-dfdf-49c0-b6c3-4d0d43e05a20.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/UoeKfKx</ns3:txt>
+      <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes,intégral,réécoute intégrale</itunes:keywords>
+    </item>
+    <item>
       <title>L'INTÉGRALE - Le Best of du Les Grosses Têtes du 29 juin 2025</title>
       <guid isPermaLink="false">ca7bb2eb-d46c-4072-b68b-4a264df03082</guid>
       <description>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du dimanche 29 juin 2025. 
@@ -371,13 +329,11 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <pubDate>Sun, 29 Jun 2025 16:51:16 GMT</pubDate>
       <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/ca7bb2eb-d46c-4072-b68b-4a264df03082.mp3?_=1751215992" length="114051795" type="audio/mpeg" />
       <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du dimanche 29 juin 2025. 
-
+      <itunes:summary>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du dimanche 29 juin 2025. 
 Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
  Distribué par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
  </itunes:summary>
-      <ns2:description>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du dimanche 29 juin 2025. 
-
+      <ns2:description>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du dimanche 29 juin 2025. 
 Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
  Distribué par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
  </ns2:description>
@@ -409,13 +365,11 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <pubDate>Sat, 28 Jun 2025 16:43:40 GMT</pubDate>
       <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/1491c580-46a1-41d5-a69a-d7647b447271.mp3?_=1751129292" length="95947057" type="audio/mpeg" />
       <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du samedi 28 juin 2025. 
-
+      <itunes:summary>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du samedi 28 juin 2025. 
 Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
  Distribué par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
  </itunes:summary>
-      <ns2:description>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du samedi 28 juin 2025. 
-
+      <ns2:description>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du samedi 28 juin 2025. 
 Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
  Distribué par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
  </ns2:description>
@@ -487,14 +441,12 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <pubDate>Thu, 26 Jun 2025 16:00:00 GMT</pubDate>
       <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/e72e1e51-b91c-4b64-a02c-6e55afaeab06.mp3?_=1750937597" length="100468457" type="audio/mpeg" />
       <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>
-Avec Yoann Riou, Michèle Bernier, Marcela Iacub, Max Boublil, Olivier Bellamy et Isabelle Mergault ! 
+      <itunes:summary>Avec Yoann Riou, Michèle Bernier, Marcela Iacub, Max Boublil, Olivier Bellamy et Isabelle Mergault ! 
 
 Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
  Distribué par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
  </itunes:summary>
-      <ns2:description>
-Avec Yoann Riou, Michèle Bernier, Marcela Iacub, Max Boublil, Olivier Bellamy et Isabelle Mergault ! 
+      <ns2:description>Avec Yoann Riou, Michèle Bernier, Marcela Iacub, Max Boublil, Olivier Bellamy et Isabelle Mergault ! 
 
 Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
  Distribué par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
@@ -532,14 +484,12 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
       <itunes:summary>Avec Yoann Riou, Caroline Diament, Laurent Baffie, AZ, Julie Leclerc et Roman Doduik.
 
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- 
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL. 
  Distribué par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
  </itunes:summary>
       <ns2:description>Avec Yoann Riou, Caroline Diament, Laurent Baffie, AZ, Julie Leclerc et Roman Doduik.
 
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- 
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL. 
  Distribué par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
  </ns2:description>
       <itunes:author>Laurent Ruquier</itunes:author>
@@ -620,22 +570,12 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/e2a3bda1-1ceb-4a22-a31e-74a2c71ca401.mp3?_=1750688893" length="105530777" type="audio/mpeg" />
       <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
       <itunes:summary>Avec Adil Rami, Caroline Diament, Christophe Beaugrand, AZ, Roselyne Bachelot et François Alu.
-
-
-
-
-
-
+
 Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
  Distribué par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
  </itunes:summary>
       <ns2:description>Avec Adil Rami, Caroline Diament, Christophe Beaugrand, AZ, Roselyne Bachelot et François Alu.
-
-
-
-
-
-
+
 Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
  Distribué par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
  </ns2:description>
@@ -674,14 +614,12 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <pubDate>Sun, 22 Jun 2025 16:35:00 GMT</pubDate>
       <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/183226f9-6294-463c-a37b-77f7ed5495ec.mp3?_=1750610290" length="104709571" type="audio/mpeg" />
       <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du dimanche 22 juin 2025. 
-
+      <itunes:summary>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du dimanche 22 juin 2025. 
 Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
 
  Distribué par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
  </itunes:summary>
-      <ns2:description>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du dimanche 22 juin 2025. 
-
+      <ns2:description>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du dimanche 22 juin 2025. 
 Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
 
  Distribué par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
@@ -701,44 +639,6 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <ns2:image href="https://static.audiomeans.fr/img/episode/37b3af3d-0663-40fa-b3a4-d4273062482f.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/vNKKkrj</ns3:txt>
-      <itunes:keywords>divertissement,humour,Laurent Ruquier,culture,replay intégral</itunes:keywords>
-    </item>
-    <item>
-      <title>L'INTÉGRALE - Le Best of du Les Grosses Têtes du 21 juin 2025</title>
-      <guid isPermaLink="false">251cbba7-1b81-436f-88e8-96501bec0e25</guid>
-      <description>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du samedi 21 juin 2025. 
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Distribué par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du samedi 21 juin 2025. 
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Distribué par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Sat, 21 Jun 2025 16:32:49 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/251cbba7-1b81-436f-88e8-96501bec0e25.mp3?_=1750523589" length="95523664" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du samedi 21 juin 2025. 
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Distribué par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du samedi 21 juin 2025. 
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Distribué par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du samedi 21 juin 2025. 
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Distribué par Audiomeans. Visitez </itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>01:39:30</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/acc26ea2-9e5a-4d7e-a0ea-54b67e0ddf2f.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/acc26ea2-9e5a-4d7e-a0ea-54b67e0ddf2f.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/jKkOQOD</ns3:txt>
       <itunes:keywords>divertissement,humour,Laurent Ruquier,culture,replay intégral</itunes:keywords>
     </item>
   </channel>
