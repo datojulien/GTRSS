@@ -3,7 +3,6 @@ name: Update L’INTÉGRALE RSS
 on:
   schedule:
     - cron: "*/14 * * * *"        # every 20 minutes (UTC)
-  workflow_dispatch: {}           # allow manual runs
 
 jobs:
   build:
