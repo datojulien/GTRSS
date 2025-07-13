@@ -1,10 +1,9 @@
 name: Update L’INTÉGRALE RSS
 
-# run every 20 minutes, plus allow manual runs
 on:
   schedule:
-    - cron: "*/5 * * * *"
-  workflow_dispatch:
+    - cron: "*/20 * * * *"        # every 20 minutes, in UTC
+  workflow_dispatch: {}           # allow manual runs
 
 jobs:
   build:
@@ -14,7 +13,6 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          # preserve the GITHUB_TOKEN so we can push back
           persist-credentials: true
 
       - name: Set up Python
@@ -32,7 +30,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          # only commit if there are changes
           if [ -n "$(git status --porcelain)" ]; then
             git add only_integrale_feed.xml
             git commit -m "chore: update L’INTÉGRALE feed"
