@@ -3,7 +3,7 @@ name: Update L’INTÉGRALE RSS
 # run every 20 minutes, plus allow manual runs
 on:
   schedule:
-    - cron: "*/20 * * * *"
+    - cron: "*/5 * * * *"
   workflow_dispatch:
 
 jobs:
