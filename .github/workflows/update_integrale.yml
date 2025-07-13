@@ -1,0 +1,42 @@
+name: Update L’INTÉGRALE RSS
+
+# run every 20 minutes, plus allow manual runs
+on:
+  schedule:
+    - cron: "*/20 * * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          # preserve the GITHUB_TOKEN so we can push back
+          persist-credentials: true
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.x"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run RSS filter script
+        run: python keep_integrale.py
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          # only commit if there are changes
+          if [ -n "$(git status --porcelain)" ]; then
+            git add only_integrale_feed.xml
+            git commit -m "chore: update L’INTÉGRALE feed"
+            git push
+          else
+            echo "No changes to commit"
+          fi
