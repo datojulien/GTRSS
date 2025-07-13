@@ -1,4 +1,8 @@
-name: Update L’INTÉGRALE RSS
+name: Original Update RSS
+
+# limit GITHUB_TOKEN to only what's strictly needed
+permissions:
+  contents: write
 
 on:
   schedule:
