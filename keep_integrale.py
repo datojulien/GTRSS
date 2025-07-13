@@ -5,12 +5,12 @@ from email.utils import formatdate
 import subprocess
 import os
 
-# ─── CONFIG ────────────────────────────────────────────────────────────────────
-feed_url     = "https://feeds.audiomeans.fr/feed/d7c6111b-04c1-46bc-b74c-d941a90d37fb.xml"
-output_file  = os.path.expanduser("~/GTRSS/only_integrale_feed.xml")
+# ─── CONFIG ───────────────────────────────────────────────────────
+feed_url    = "https://feeds.audiomeans.fr/feed/…"
+output_file = "only_integrale_feed.xml"   # relative to repo root
+repo_path   = "."                         # current directory
 include_pref = "L'INTÉGRALE"
-repo_path    = os.path.expanduser("~/GTRSS")
-# ────────────────────────────────────────────────────────────────────────────────
+# ─────────────────────────────────────────────────────────────────
 
 # ensure <itunes:duration> etc keep their prefix
 ET.register_namespace('itunes','http://www.itunes.com/dtds/podcast-1.0.dtd')
