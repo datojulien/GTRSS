@@ -6,8 +6,8 @@
     <description>&lt;p&gt;Tous les jours de 15h30 à 18h, plongez dans l'univers hilarant et décalé des "Grosses Têtes", l'émission culte animée par Laurent Ruquier. Entre anecdotes croustillantes, quiz culturels, et débats endiablés retrouvez les sociétaires des Grosses Têtes dans les intégrales, les bonus et les archives de l'émission ! Abonnez-vous et ne manquez aucun épisode !&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Distribué par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Tue, 15 Jul 2025 16:36:21 GMT</lastBuildDate>
-    <pubDate>Tue, 15 Jul 2025 16:36:21 GMT</pubDate>
+    <lastBuildDate>Wed, 16 Jul 2025 16:37:01 GMT</lastBuildDate>
+    <pubDate>Wed, 16 Jul 2025 16:37:01 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -48,6 +48,60 @@
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/KxAcscK</ns3:txt>
     <item>
+      <title>L'INTÉGRALE - Le Best of de l'été du 16 juillet 2025</title>
+      <guid isPermaLink="false">4a79a543-cea0-4202-b896-65dd9577cfaa</guid>
+      <description>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du mercredi 16 juillet 2025.
+
+
+
+
+
+
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Distribué par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du mercredi 16 juillet 2025.
+
+
+
+
+
+
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Distribué par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Wed, 16 Jul 2025 16:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/4a79a543-cea0-4202-b896-65dd9577cfaa.mp3?_=1751545398" length="100374880" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du mercredi 16 juillet 2025.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Distribué par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du mercredi 16 juillet 2025.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Distribué par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du mercredi 16 juillet 2025.
+
+
+
+
+
+
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Distribué par Audiomeans. Visitez </itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>01:44:33</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/5c45f01a-dcc1-4f2c-bf60-bbaf9a332293.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/5c45f01a-dcc1-4f2c-bf60-bbaf9a332293.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/elyMhIy</ns3:txt>
+      <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes,intégral,réécoute intégrale</itunes:keywords>
+    </item>
+    <item>
       <title>L'INTÉGRALE - Le Best of de l'été du 15 juillet 2025</title>
       <guid isPermaLink="false">36edb81c-477d-427e-9f0d-8f9dbb4682d3</guid>
       <description>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du mardi 15 juillet 2025.
@@ -71,11 +125,25 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <pubDate>Tue, 15 Jul 2025 16:00:00 GMT</pubDate>
       <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/36edb81c-477d-427e-9f0d-8f9dbb4682d3.mp3?_=1751545387" length="67735606" type="audio/mpeg" />
       <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du mardi 15 juillet 2025.
+      <itunes:summary>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du mardi 15 juillet 2025.
+
+
+
+
+
+
+
 Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
  Distribué par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
  </itunes:summary>
-      <ns2:description>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du mardi 15 juillet 2025.
+      <ns2:description>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du mardi 15 juillet 2025.
+
+
+
+
+
+
+
 Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
  Distribué par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
  </ns2:description>
