@@ -58,7 +58,7 @@ if os.path.exists(output_remaining):
     tree_r = ET.parse(output_remaining)
     existing_root_r = tree_r.getroot()
     existing_channel_r = existing_root_r.find('channel')
-    for item in existing_channel_r.findall('item'):
+    for item in existing_channel_r.findall('item'): 
         existing_guids_r.add(item.find('guid').text.strip())
 
 # 3) PICK UP new items
