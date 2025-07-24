@@ -14,7 +14,6 @@ integrale_pref      = "L'INTÉGRALE"
 best_prefs          = ("MEILLEUR DE LA SAISON", "BEST OF", "MOMENT CULTE")
 repo_path           = "."
 # Cover art URLs (raw GitHub links)
-# Using the datojulien/GTRSS repository
 integrale_image_url = "https://raw.githubusercontent.com/datojulien/GTRSS/main/Integrales.jpg"
 best_image_url      = "https://raw.githubusercontent.com/datojulien/GTRSS/main/Extras.jpg"
 # ───────────────────────────────────────────────────────────────
@@ -27,12 +26,11 @@ ET.register_namespace('itunes', ITUNES_NS)
 resp = requests.get(feed_url)
 resp.raise_for_status()
 raw = resp.content
-# parse once for detection
 src_root = ET.fromstring(raw)
 src_channel = src_root.find('channel')
 
 # 2) LOAD existing feeds and collect GUIDs
-# Integrale feed\existing_guids_i = set()
+existing_guids_i = set()
 existing_root_i = existing_channel_i = None
 if os.path.exists(output_integrale):
     tree_i = ET.parse(output_integrale)
@@ -41,7 +39,6 @@ if os.path.exists(output_integrale):
     for item in existing_channel_i.findall('item'):
         existing_guids_i.add(item.find('guid').text.strip())
 
-# Best-of feed
 existing_guids_b = set()
 existing_root_b = existing_channel_b = None
 if os.path.exists(output_best):
@@ -51,25 +48,24 @@ if os.path.exists(output_best):
     for item in existing_channel_b.findall('item'):
         existing_guids_b.add(item.find('guid').text.strip())
 
-# Remaining feed
 existing_guids_r = set()
 existing_root_r = existing_channel_r = None
 if os.path.exists(output_remaining):
     tree_r = ET.parse(output_remaining)
     existing_root_r = tree_r.getroot()
     existing_channel_r = existing_root_r.find('channel')
-    for item in existing_channel_r.findall('item'): 
+    for item in existing_channel_r.findall('item'):
         existing_guids_r.add(item.find('guid').text.strip())
 
 # 3) PICK UP new items
-new_i = []  # integrale
-new_b = []  # best-of
-new_r = []  # remaining
+new_i = []
+new_b = []
+new_r = []
 for item in src_channel.findall('item'):
     title = item.find('title').text.strip()
-    guid  = item.find('guid').text.strip()
+    guid = item.find('guid').text.strip()
     is_integrale = title.startswith(integrale_pref)
-    is_best      = any(title.startswith(pref) for pref in best_prefs)
+    is_best = any(title.startswith(pref) for pref in best_prefs)
     if is_integrale and guid not in existing_guids_i:
         new_i.append(item)
     if is_best and guid not in existing_guids_b:
@@ -77,10 +73,8 @@ for item in src_channel.findall('item'):
     if not is_integrale and not is_best and guid not in existing_guids_r:
         new_r.append(item)
 
-# timestamp
+# 4) Helper to apply cover art
 now = formatdate(usegmt=True)
-
-# helper: apply cover
 def apply_cover(channel, image_url):
     tag = f"{{{ITUNES_NS}}}image"
     for old in channel.findall(tag):
