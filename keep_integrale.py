@@ -82,11 +82,18 @@ def finalize_channel(channel, cover_url, title_suffix, summary_text):
     apply_cover(channel, cover_url)
     src_title = src_channel.find('title').text or ''
     channel.find('title').text = f"{src_title} ({title_suffix})"
+    # update description tag
+    desc = channel.find('description')
+    if desc is None:
+        desc = ET.SubElement(channel, 'description')
+    desc.text = summary_text
+    # update itunes:summary
     sum_tag = f"{{{ITUNES_NS}}}summary"
     node = channel.find(sum_tag)
     if node is None:
         node = ET.SubElement(channel, sum_tag)
     node.text = summary_text
+    # timestamps
     for tag in ('pubDate','lastBuildDate'):
         n = channel.find(tag)
         if n is None:
