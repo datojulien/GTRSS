@@ -24,9 +24,7 @@ remaining_summary   = "Les autres épisodes : tout le reste du flux officiel, ho
 
 # Register namespaces
 ITUNES_NS = 'http://www.itunes.com/dtds/podcast-1.0.dtd'
-NS2 = 'http://www.google.com/schemas/play-podcasts/1.0'
 ET.register_namespace('itunes', ITUNES_NS)
-ET.register_namespace('ns2', NS2)
 
 # 1) FETCH source feed
 resp = requests.get(feed_url)
@@ -36,32 +34,20 @@ src_root = ET.fromstring(raw)
 src_channel = src_root.find('channel')
 
 # 2) LOAD existing feeds and collect GUIDs
-existing_guids_i = set()
-existing_root_i = existing_channel_i = None
-if os.path.exists(output_integrale):
-    tree_i = ET.parse(output_integrale)
-    existing_root_i = tree_i.getroot()
-    existing_channel_i = existing_root_i.find('channel')
-    for item in existing_channel_i.findall('item'):
-        existing_guids_i.add(item.find('guid').text.strip())
+def load(path):
+    guids = set()
+    root = channel = None
+    if os.path.exists(path):
+        tree = ET.parse(path)
+        root = tree.getroot()
+        channel = root.find('channel')
+        for item in channel.findall('item'):
+            guids.add(item.find('guid').text.strip())
+    return root, channel, guids
 
-existing_guids_b = set()
-existing_root_b = existing_channel_b = None
-if os.path.exists(output_best):
-    tree_b = ET.parse(output_best)
-    existing_root_b = tree_b.getroot()
-    existing_channel_b = existing_root_b.find('channel')
-    for item in existing_channel_b.findall('item'):
-        existing_guids_b.add(item.find('guid').text.strip())
-
-existing_guids_r = set()
-existing_root_r = existing_channel_r = None
-if os.path.exists(output_remaining):
-    tree_r = ET.parse(output_remaining)
-    existing_root_r = tree_r.getroot()
-    existing_channel_r = existing_root_r.find('channel')
-    for item in existing_channel_r.findall('item'):
-        existing_guids_r.add(item.find('guid').text.strip())
+existing_root_i, existing_channel_i, existing_guids_i = load(output_integrale)
+existing_root_b, existing_channel_b, existing_guids_b = load(output_best)
+existing_root_r, existing_channel_r, existing_guids_r = load(output_remaining)
 
 # 3) PICK UP new items
 new_i, new_b, new_r = [], [], []
@@ -78,6 +64,7 @@ for item in src_channel.findall('item'):
         new_r.append(item)
 
 # 4) Helper to apply cover art and strip old images
+NS2 = 'http://www.google.com/schemas/play-podcasts/1.0'
 def apply_cover(channel, image_url):
     for old in channel.findall('image') + channel.findall(f"{{{NS2}}}image") + channel.findall(f"{{{ITUNES_NS}}}image"):
         channel.remove(old)
@@ -95,13 +82,11 @@ def finalize_channel(channel, cover_url, title_suffix, summary_text):
     apply_cover(channel, cover_url)
     src_title = src_channel.find('title').text or ''
     channel.find('title').text = f"{src_title} ({title_suffix})"
-    # itunes:summary
     sum_tag = f"{{{ITUNES_NS}}}summary"
     node = channel.find(sum_tag)
     if node is None:
         node = ET.SubElement(channel, sum_tag)
     node.text = summary_text
-    # pubDate and lastBuildDate
     for tag in ('pubDate','lastBuildDate'):
         n = channel.find(tag)
         if n is None:
@@ -120,11 +105,17 @@ if new_i or existing_channel_i is None:
     else:
         root_i, channel_i = existing_root_i, existing_channel_i
         first = channel_i.find('item')
-        for it in reversed(new_i): channel_i.insert(list(channel_i).index(first), it)
+        for it in reversed(new_i):
+            channel_i.insert(list(channel_i).index(first), it)
     finalize_channel(channel_i, integrale_image_url, "L’intégrale", integrale_summary)
     ET.indent(root_i, space='  ')
     ET.ElementTree(root_i).write(output_integrale, encoding='utf-8', xml_declaration=True)
     print(f"✔️ wrote {len(new_i)} integrale items to {output_integrale}")
+    if new_i:
+        os.chdir(repo_path)
+        subprocess.run(["git","add", output_integrale])
+        subprocess.run(["git","commit","-m", f"Add {len(new_i)} new integrale item(s) at {now}"], check=False)
+        subprocess.run(["git","push","origin","main"], check=False)
 
 # --- Generate Best-of (Extras) Feed ---
 if new_b or existing_channel_b is None:
@@ -137,11 +128,17 @@ if new_b or existing_channel_b is None:
     else:
         root_b, channel_b = existing_root_b, existing_channel_b
         first = channel_b.find('item')
-        for it in reversed(new_b): channel_b.insert(list(channel_b).index(first), it)
+        for it in reversed(new_b):
+            channel_b.insert(list(channel_b).index(first), it)
     finalize_channel(channel_b, best_image_url, "Extras", best_summary)
     ET.indent(root_b, space='  ')
     ET.ElementTree(root_b).write(output_best, encoding='utf-8', xml_declaration=True)
     print(f"✔️ wrote {len(new_b)} best-of items to {output_best}")
+    if new_b:
+        os.chdir(repo_path)
+        subprocess.run(["git","add", output_best])
+        subprocess.run(["git","commit","-m", f"Add {len(new_b)} new best-of item(s) at {now}"], check=False)
+        subprocess.run(["git","push","origin","main"], check=False)
 
 # --- Generate Remaining Feed ---
 if new_r or existing_channel_r is None:
@@ -155,10 +152,14 @@ if new_r or existing_channel_r is None:
     else:
         root_r, channel_r = existing_root_r, existing_channel_r
         first = channel_r.find('item')
-        for it in reversed(new_r): channel_r.insert(list(channel_r).index(first), it)
+        for it in reversed(new_r):
+            channel_r.insert(list(channel_r).index(first), it)
     finalize_channel(channel_r, integrale_image_url, "Other Episodes", remaining_summary)
     ET.indent(root_r, space='  ')
     ET.ElementTree(root_r).write(output_remaining, encoding='utf-8', xml_declaration=True)
     print(f"✔️ wrote {len(new_r)} remaining items to {output_remaining}")
-
-# Git commit/push steps can follow if needed
+    if new_r:
+        os.chdir(repo_path)
+        subprocess.run(["git","add", output_remaining])
+        subprocess.run(["git","commit","-m", f"Add {len(new_r)} new remaining item(s) at {now}"], check=False)
+        subprocess.run(["git","push","origin","main"], check=False)
