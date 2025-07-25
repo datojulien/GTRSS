@@ -7,8 +7,8 @@
     <description>Le Best Of : une sélection des moments les plus drôles et emblématiques de la saison, incluant bonus et moments cultes.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Thu, 24 Jul 2025 11:26:37 GMT</lastBuildDate>
-    <pubDate>Thu, 24 Jul 2025 11:26:37 GMT</pubDate>
+    <lastBuildDate>Fri, 25 Jul 2025 06:45:38 GMT</lastBuildDate>
+    <pubDate>Fri, 25 Jul 2025 06:45:38 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,33 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/KxAcscK</ns3:txt>
+    <item>
+      <title>MEILLEUR DE LA SAISON - Quand les Grosses Têtes doutent du mariage de Yoann Riou</title>
+      <guid isPermaLink="false">48557e1e-a592-4bab-aafe-617be2c5abf2</guid>
+      <description>Cela fait quelques mois que le journaliste sportif parle de son mariage avec sa compagne Nathalie, mais au plus le temps passe, au moins ses compairs y croient... Fous rires, réponses inattendues, nouvelles rencontres, cet été redécouvrez les meilleurs moments de cette saison 2024-2025 ! &lt;p&gt;&lt;/p&gt;&lt;p&gt;Distribué par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Cela fait quelques mois que le journaliste sportif parle de son mariage avec sa compagne Nathalie, mais au plus le temps passe, au moins ses compairs y croient... Fous rires, réponses inattendues, nouvelles rencontres, cet été redécouvrez les meilleurs moments de cette saison 2024-2025 ! &lt;p&gt;&lt;/p&gt;&lt;p&gt;Distribué par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Fri, 25 Jul 2025 06:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/48557e1e-a592-4bab-aafe-617be2c5abf2.mp3?_=1751471881" length="8108083" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Cela fait quelques mois que le journaliste sportif parle de son mariage avec sa compagne Nathalie, mais au plus le temps passe, au moins ses compairs y croient... Fous rires, réponses inattendues, nouvelles rencontres, cet été redécouvrez les meilleurs moments de cette saison 2024-2025 ! 
+ Distribué par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Cela fait quelques mois que le journaliste sportif parle de son mariage avec sa compagne Nathalie, mais au plus le temps passe, au moins ses compairs y croient... Fous rires, réponses inattendues, nouvelles rencontres, cet été redécouvrez les meilleurs moments de cette saison 2024-2025 ! 
+ Distribué par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Cela fait quelques mois que le journaliste sportif parle de son mariage avec sa compagne Nathalie, mais au plus le temps passe, au moins ses compairs y croient... Fous rires, réponses inattendues, nouvelles rencontres, cet été redécouvrez les meilleurs moments de c...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>08:26</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/a97584e7-0668-4964-9a9e-c8dfff21dc1d.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/a97584e7-0668-4964-9a9e-c8dfff21dc1d.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/lZNfHYQ</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>MEILLEUR DE LA SAISON - Olivier De Benoist cherche une nounou en pleine émission</title>
       <guid isPermaLink="false">88457f9f-97a0-45c3-8daa-0f68139d1a02</guid>
@@ -220,13 +247,19 @@ Fous rires, réponses inattendues, nouvelles rencontres, cet été redécouvrez 
       <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/377c6540-9be9-4bc2-a133-dd50436d6fb3.mp3?_=1750756083" length="6466180" type="audio/mpeg" />
       <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
       <itunes:summary>Chaque week-end, tout au long de l'été, retrouvez en exclusivité les meilleurs moments des auditeurs à l'antenne, face à leurs Grosses Têtes préférées.
-
+
+
+
+
 Revivez le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
 
  Distribué par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
  </itunes:summary>
       <ns2:description>Chaque week-end, tout au long de l'été, retrouvez en exclusivité les meilleurs moments des auditeurs à l'antenne, face à leurs Grosses Têtes préférées.
-
+
+
+
+
 Revivez le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
 
  Distribué par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
@@ -301,13 +334,19 @@ Revivez le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RT
       <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/fea4cfcf-687b-44b6-9dae-23d9a69e81bd.mp3?_=1750756082" length="6604943" type="audio/mpeg" />
       <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
       <itunes:summary>Chaque week-end, tout au long de l'été, retrouvez en exclusivité les meilleurs moments des auditeurs à l'antenne, face à leurs Grosses Têtes préférées.
-
+
+
+
+
 Revivez le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
 
  Distribué par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
  </itunes:summary>
       <ns2:description>Chaque week-end, tout au long de l'été, retrouvez en exclusivité les meilleurs moments des auditeurs à l'antenne, face à leurs Grosses Têtes préférées.
-
+
+
+
+
 Revivez le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
 
  Distribué par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
@@ -500,13 +539,15 @@ Fous rires, réponses inattendues, nouvelles rencontres, cet été redécouvrez 
       <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/27a8e059-6f54-486e-bc46-fb0e095da272.mp3?_=1750756081" length="6092939" type="audio/mpeg" />
       <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
       <itunes:summary>Chaque week-end, tout au long de l'été, retrouvez en exclusivité les meilleurs moments des auditeurs à l'antenne, face à leurs Grosses Têtes préférées.
-
+
+
 Revivez le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
 
  Distribué par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
  </itunes:summary>
       <ns2:description>Chaque week-end, tout au long de l'été, retrouvez en exclusivité les meilleurs moments des auditeurs à l'antenne, face à leurs Grosses Têtes préférées.
-
+
+
 Revivez le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
 
  Distribué par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
@@ -681,12 +722,14 @@ Invitée cette saison, Angélique Angarni-Filopon, aka Miss France 2025 et l'ani
       <pubDate>Wed, 09 Jul 2025 06:00:00 GMT</pubDate>
       <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/82b9f18c-8597-4182-a9e5-3d99633b4784.mp3?_=1751296682" length="1600442" type="audio/mpeg" />
       <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Invitée cette saison, Angélique Angarni-Filopon, aka Miss France 2025 et l'animateur ont joué un remake de la mythique émission de Jacques Martin ! 
+      <itunes:summary>
+Invitée cette saison, Angélique Angarni-Filopon, aka Miss France 2025 et l'animateur ont joué un remake de la mythique émission de Jacques Martin ! 
 
 Fous rires, réponses inattendues, nouvelles rencontres, cet été redécouvrez les meilleurs moments de cette saison 2024-2025 ! 
  Distribué par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
  </itunes:summary>
-      <ns2:description>Invitée cette saison, Angélique Angarni-Filopon, aka Miss France 2025 et l'animateur ont joué un remake de la mythique émission de Jacques Martin ! 
+      <ns2:description>
+Invitée cette saison, Angélique Angarni-Filopon, aka Miss France 2025 et l'animateur ont joué un remake de la mythique émission de Jacques Martin ! 
 
 Fous rires, réponses inattendues, nouvelles rencontres, cet été redécouvrez les meilleurs moments de cette saison 2024-2025 ! 
  Distribué par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
@@ -860,11 +903,13 @@ Revivez le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RT
       <pubDate>Sat, 05 Jul 2025 07:00:00 GMT</pubDate>
       <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/dc5b4559-0659-4bef-b830-aed2290a273e.mp3?_=1751637481" length="7285318" type="audio/mpeg" />
       <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Chaque week-end, tout au long de l'été, retrouvez en exclusivité les meilleurs moments des auditeurs à l'antenne, face à leurs Grosses Têtes préférées.
+      <itunes:summary>Chaque week-end, tout au long de l'été, retrouvez en exclusivité les meilleurs moments des auditeurs à l'antenne, face à leurs Grosses Têtes préférées.
+
 Revivez le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
  Distribué par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
  </itunes:summary>
-      <ns2:description>Chaque week-end, tout au long de l'été, retrouvez en exclusivité les meilleurs moments des auditeurs à l'antenne, face à leurs Grosses Têtes préférées.
+      <ns2:description>Chaque week-end, tout au long de l'été, retrouvez en exclusivité les meilleurs moments des auditeurs à l'antenne, face à leurs Grosses Têtes préférées.
+
 Revivez le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
  Distribué par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
  </ns2:description>
