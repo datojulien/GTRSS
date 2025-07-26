@@ -7,8 +7,8 @@
     <description>Le Best Of : une sélection des moments les plus drôles et emblématiques de la saison, incluant bonus et moments cultes.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Sat, 26 Jul 2025 04:40:51 GMT</lastBuildDate>
-    <pubDate>Sat, 26 Jul 2025 04:40:51 GMT</pubDate>
+    <lastBuildDate>Sat, 26 Jul 2025 06:38:23 GMT</lastBuildDate>
+    <pubDate>Sat, 26 Jul 2025 06:38:23 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -39,6 +39,34 @@
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/KxAcscK</ns3:txt>
     <item>
+      <title>MEILLEUR DE LA SAISON - Titoff a transmis un virus à AZ</title>
+      <guid isPermaLink="false">be99ce36-f83f-4e38-b352-c06bea684274</guid>
+      <description>C'est un virus très contagieux que l'humoriste marseillais a transmis à son homologue parisien : le retard ! Fous rires, réponses inattendues, nouvelles rencontres, cet été redécouvrez les meilleurs moments de cette saison 2024-2025 ! &lt;p&gt;&lt;/p&gt;&lt;p&gt;Distribué par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>C'est un virus très contagieux que l'humoriste marseillais a transmis à son homologue parisien : le retard ! Fous rires, réponses inattendues, nouvelles rencontres, cet été redécouvrez les meilleurs moments de cette saison 2024-2025 ! &lt;p&gt;&lt;/p&gt;&lt;p&gt;Distribué par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Sat, 26 Jul 2025 06:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/be99ce36-f83f-4e38-b352-c06bea684274.mp3?_=1751471882" length="6605780" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>C'est un virus très contagieux que l'humoriste marseillais a transmis à son homologue parisien : le retard ! Fous rires, réponses inattendues, nouvelles rencontres, cet été redécouvrez les meilleurs moments de cette saison 2024-2025 ! 
+ Distribué par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>C'est un virus très contagieux que l'humoriste marseillais a transmis à son homologue parisien : le retard ! Fous rires, réponses inattendues, nouvelles rencontres, cet été redécouvrez les meilleurs moments de cette saison 2024-2025 ! 
+ Distribué par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>C'est un virus très contagieux que l'humoriste marseillais a transmis à son homologue parisien : le retard ! Fous rires, réponses inattendues, nouvelles rencontres, cet été redécouvrez les meilleurs moments de cette saison 2024-2025 ! 
+ Distribué par Audiom...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>06:52</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/1787b2eb-5612-4190-a319-d314f4a9ff1b.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/1787b2eb-5612-4190-a319-d314f4a9ff1b.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/rvvXfaA</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
+    <item>
       <title>BEST OF - Le meilleur des auditeurs depuis le début de la saison</title>
       <guid isPermaLink="false">a8506fb9-fc58-44d4-be17-e4b60e5344aa</guid>
       <description>Chaque week-end, tout au long de l'été, retrouvez en exclusivité les meilleurs moments des auditeurs à l'antenne, face à leurs Grosses Têtes préférées.
@@ -62,14 +90,20 @@
       <pubDate>Sat, 26 Jul 2025 04:00:00 GMT</pubDate>
       <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/a8506fb9-fc58-44d4-be17-e4b60e5344aa.mp3?_=1750756084" length="5881873" type="audio/mpeg" />
       <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Chaque week-end, tout au long de l'été, retrouvez en exclusivité les meilleurs moments des auditeurs à l'antenne, face à leurs Grosses Têtes préférées.
+      <itunes:summary>Chaque week-end, tout au long de l'été, retrouvez en exclusivité les meilleurs moments des auditeurs à l'antenne, face à leurs Grosses Têtes préférées.
+
+
+
 
 Revivez le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
 
 
  Distribué par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
  </itunes:summary>
-      <ns2:description>Chaque week-end, tout au long de l'été, retrouvez en exclusivité les meilleurs moments des auditeurs à l'antenne, face à leurs Grosses Têtes préférées.
+      <ns2:description>Chaque week-end, tout au long de l'été, retrouvez en exclusivité les meilleurs moments des auditeurs à l'antenne, face à leurs Grosses Têtes préférées.
+
+
+
 
 Revivez le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
 
