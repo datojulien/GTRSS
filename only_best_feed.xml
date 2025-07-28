@@ -7,8 +7,8 @@
     <description>Le Best Of : une sélection des moments les plus drôles et emblématiques de la saison, incluant bonus et moments cultes.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Sun, 27 Jul 2025 06:40:34 GMT</lastBuildDate>
-    <pubDate>Sun, 27 Jul 2025 06:40:34 GMT</pubDate>
+    <lastBuildDate>Mon, 28 Jul 2025 06:48:50 GMT</lastBuildDate>
+    <pubDate>Mon, 28 Jul 2025 06:48:50 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,33 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/KxAcscK</ns3:txt>
+    <item>
+      <title>MEILLEUR DE LA SAISON  - Adil Rami raconte son dîner avec des stars américaines</title>
+      <guid isPermaLink="false">25281256-03fd-4ebf-b295-0075baa92df1</guid>
+      <description>Lorsqu'il était en couple avec l'actrice Pamela Anderson, l'ancien footballeur a eu l'occasion de diner avec de nombreuses célébrités. Il raconte l'une de ses festivités dans cette séquence ! Fous rires, réponses inattendues, nouvelles rencontres, cet été redécouvrez les meilleurs moments de cette saison 2024-2025 ! &lt;p&gt;&lt;/p&gt;&lt;p&gt;Distribué par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Lorsqu'il était en couple avec l'actrice Pamela Anderson, l'ancien footballeur a eu l'occasion de diner avec de nombreuses célébrités. Il raconte l'une de ses festivités dans cette séquence ! Fous rires, réponses inattendues, nouvelles rencontres, cet été redécouvrez les meilleurs moments de cette saison 2024-2025 ! &lt;p&gt;&lt;/p&gt;&lt;p&gt;Distribué par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Mon, 28 Jul 2025 06:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/25281256-03fd-4ebf-b295-0075baa92df1.mp3?_=1751472181" length="5660152" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Lorsqu'il était en couple avec l'actrice Pamela Anderson, l'ancien footballeur a eu l'occasion de diner avec de nombreuses célébrités. Il raconte l'une de ses festivités dans cette séquence ! Fous rires, réponses inattendues, nouvelles rencontres, cet été redécouvrez les meilleurs moments de cette saison 2024-2025 ! 
+ Distribué par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Lorsqu'il était en couple avec l'actrice Pamela Anderson, l'ancien footballeur a eu l'occasion de diner avec de nombreuses célébrités. Il raconte l'une de ses festivités dans cette séquence ! Fous rires, réponses inattendues, nouvelles rencontres, cet été redécouvrez les meilleurs moments de cette saison 2024-2025 ! 
+ Distribué par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Lorsqu'il était en couple avec l'actrice Pamela Anderson, l'ancien footballeur a eu l'occasion de diner avec de nombreuses célébrités. Il raconte l'une de ses festivités dans cette séquence ! Fous rires, réponses inattendues, nouvelles rencontres, cet été redécouvr...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>05:53</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/833549a8-d6a5-454b-b82d-735bd417368a.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/833549a8-d6a5-454b-b82d-735bd417368a.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/vOOMmiw</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>MEILLEUR DE LA SAISON - Les Grosses Têtes se confessent sur leurs opérations chirurgicales</title>
       <guid isPermaLink="false">c3d4a636-97ba-474a-8449-496db5887c18</guid>
