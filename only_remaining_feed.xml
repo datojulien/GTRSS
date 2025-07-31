@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Thu, 31 Jul 2025 02:23:18 GMT</lastBuildDate>
-    <pubDate>Thu, 31 Jul 2025 02:23:18 GMT</pubDate>
+    <lastBuildDate>Thu, 31 Jul 2025 09:02:19 GMT</lastBuildDate>
+    <pubDate>Thu, 31 Jul 2025 09:02:19 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,51 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/KxAcscK</ns3:txt>
+    <item>
+      <title>BLAGUE - Les histoires drôles du 31 juillet 2025</title>
+      <guid isPermaLink="false">75651961-1aa9-4817-b4f9-d3715f1dacad</guid>
+      <description>Chaque jour, cet été, retrouvez le meilleur des histoires drôles racontées par vos Grosses Têtes préférées !
+
+
+&lt;i&gt;Revivez le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/i&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;Distribué par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Chaque jour, cet été, retrouvez le meilleur des histoires drôles racontées par vos Grosses Têtes préférées !
+
+
+&lt;i&gt;Revivez le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/i&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;Distribué par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Thu, 31 Jul 2025 09:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/75651961-1aa9-4817-b4f9-d3715f1dacad.mp3?_=1750754881" length="1427142" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Chaque jour, cet été, retrouvez le meilleur des histoires drôles racontées par vos Grosses Têtes préférées !
+
+Revivez le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+
+ Distribué par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Chaque jour, cet été, retrouvez le meilleur des histoires drôles racontées par vos Grosses Têtes préférées !
+
+Revivez le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+
+ Distribué par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>RTL</itunes:author>
+      <author>RTL</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Chaque jour, cet été, retrouvez le meilleur des histoires drôles racontées par vos Grosses Têtes préférées !
+
+
+Revivez le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+
+ Distribué par Audiomeans. Visitez </itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>01:29</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/6544c27b-f673-4421-a272-1b110c963027.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/6544c27b-f673-4421-a272-1b110c963027.jpg" />
+      <ns3:txt purpose="smartlink">https://audmns.com/fbhnAFc</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>ARCHIVE - La blague d'Amanda Lear</title>
       <guid isPermaLink="false">fa9caa1b-f8bb-4378-94ee-e3d3799320f9</guid>
