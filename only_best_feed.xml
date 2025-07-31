@@ -7,8 +7,8 @@
     <description>Le Best Of : une sélection des moments les plus drôles et emblématiques de la saison, incluant bonus et moments cultes.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Wed, 30 Jul 2025 06:48:45 GMT</lastBuildDate>
-    <pubDate>Wed, 30 Jul 2025 06:48:45 GMT</pubDate>
+    <lastBuildDate>Thu, 31 Jul 2025 06:46:16 GMT</lastBuildDate>
+    <pubDate>Thu, 31 Jul 2025 06:46:16 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,33 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/KxAcscK</ns3:txt>
+    <item>
+      <title>MEILLEUR DE LA SAISON - Le plateau "bonne humeur" lors des 10 ans de L. Ruquier au Dôme</title>
+      <guid isPermaLink="false">1b73fa1a-387a-4d30-8834-5ffaa3733c9f</guid>
+      <description>Cette saison, l'animateur a fêté ses 10 ans aux commandes de l'émission. Pour l'occasion, il a rassemblé tous ses sociétaires au Dôme de Paris ! Fous rires, réponses inattendues, nouvelles rencontres, cet été redécouvrez les meilleurs moments de cette saison 2024-2025 ! &lt;p&gt;&lt;/p&gt;&lt;p&gt;Distribué par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Cette saison, l'animateur a fêté ses 10 ans aux commandes de l'émission. Pour l'occasion, il a rassemblé tous ses sociétaires au Dôme de Paris ! Fous rires, réponses inattendues, nouvelles rencontres, cet été redécouvrez les meilleurs moments de cette saison 2024-2025 ! &lt;p&gt;&lt;/p&gt;&lt;p&gt;Distribué par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Thu, 31 Jul 2025 06:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/1b73fa1a-387a-4d30-8834-5ffaa3733c9f.mp3?_=1751534883" length="9048051" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Cette saison, l'animateur a fêté ses 10 ans aux commandes de l'émission. Pour l'occasion, il a rassemblé tous ses sociétaires au Dôme de Paris ! Fous rires, réponses inattendues, nouvelles rencontres, cet été redécouvrez les meilleurs moments de cette saison 2024-2025 ! 
+ Distribué par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Cette saison, l'animateur a fêté ses 10 ans aux commandes de l'émission. Pour l'occasion, il a rassemblé tous ses sociétaires au Dôme de Paris ! Fous rires, réponses inattendues, nouvelles rencontres, cet été redécouvrez les meilleurs moments de cette saison 2024-2025 ! 
+ Distribué par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Cette saison, l'animateur a fêté ses 10 ans aux commandes de l'émission. Pour l'occasion, il a rassemblé tous ses sociétaires au Dôme de Paris ! Fous rires, réponses inattendues, nouvelles rencontres, cet été redécouvrez les meilleurs moments de cette saison 2024-2...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>09:25</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/37fb1e3b-7a19-46ae-9e97-bf3eee555635.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/37fb1e3b-7a19-46ae-9e97-bf3eee555635.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/uyCPwyT</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>MEILLEUR DE LA SAISON - Quand la chienne de Marcela Iacub devient la star de l'émission</title>
       <guid isPermaLink="false">8aaeec11-b692-452c-bb3e-1dcf654f1aae</guid>
