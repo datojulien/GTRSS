@@ -7,8 +7,8 @@
     <description>Le Best Of : une sélection des moments les plus drôles et emblématiques de la saison, incluant bonus et moments cultes.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Sun, 03 Aug 2025 05:16:35 GMT</lastBuildDate>
-    <pubDate>Sun, 03 Aug 2025 05:16:35 GMT</pubDate>
+    <lastBuildDate>Sun, 03 Aug 2025 06:41:06 GMT</lastBuildDate>
+    <pubDate>Sun, 03 Aug 2025 06:41:06 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,33 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/KxAcscK</ns3:txt>
+    <item>
+      <title>MEILLEUR DE LA SAISON - Quand Isabelle Mergailt copie Karine Lemarchand</title>
+      <guid isPermaLink="false">30e20a4d-f124-47de-b54f-32a3c6b5bb82</guid>
+      <description>La comédienne a eu un jour l'idée de venir en jupe, assez courte, à l'émission. Les autres sociétaires ont donc pris un malin plaisir de la comparer à Karine Lemarchand. Fous rires, réponses inattendues, nouvelles rencontres, cet été redécouvrez les meilleurs moments de cette saison 2024-2025 ! &lt;p&gt;&lt;/p&gt;&lt;p&gt;Distribué par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>La comédienne a eu un jour l'idée de venir en jupe, assez courte, à l'émission. Les autres sociétaires ont donc pris un malin plaisir de la comparer à Karine Lemarchand. Fous rires, réponses inattendues, nouvelles rencontres, cet été redécouvrez les meilleurs moments de cette saison 2024-2025 ! &lt;p&gt;&lt;/p&gt;&lt;p&gt;Distribué par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Sun, 03 Aug 2025 06:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/30e20a4d-f124-47de-b54f-32a3c6b5bb82.mp3?_=1751545421" length="5839740" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>La comédienne a eu un jour l'idée de venir en jupe, assez courte, à l'émission. Les autres sociétaires ont donc pris un malin plaisir de la comparer à Karine Lemarchand. Fous rires, réponses inattendues, nouvelles rencontres, cet été redécouvrez les meilleurs moments de cette saison 2024-2025 ! 
+ Distribué par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>La comédienne a eu un jour l'idée de venir en jupe, assez courte, à l'émission. Les autres sociétaires ont donc pris un malin plaisir de la comparer à Karine Lemarchand. Fous rires, réponses inattendues, nouvelles rencontres, cet été redécouvrez les meilleurs moments de cette saison 2024-2025 ! 
+ Distribué par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>La comédienne a eu un jour l'idée de venir en jupe, assez courte, à l'émission. Les autres sociétaires ont donc pris un malin plaisir de la comparer à Karine Lemarchand. Fous rires, réponses inattendues, nouvelles rencontres, cet été redécouvrez les meilleurs momen...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>06:04</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/5fe76bbd-6e56-43f0-902e-0867427fcb4f.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/5fe76bbd-6e56-43f0-902e-0867427fcb4f.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/RtpLEiw</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>BEST OF - Le meilleur des auditeurs depuis le début de la saison</title>
       <guid isPermaLink="false">80189561-a6fd-4d9e-8ae1-33a5cdbcae78</guid>

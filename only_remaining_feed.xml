@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Sun, 03 Aug 2025 02:33:27 GMT</lastBuildDate>
-    <pubDate>Sun, 03 Aug 2025 02:33:27 GMT</pubDate>
+    <lastBuildDate>Sun, 03 Aug 2025 06:41:06 GMT</lastBuildDate>
+    <pubDate>Sun, 03 Aug 2025 06:41:06 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,52 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/KxAcscK</ns3:txt>
+    <item>
+      <title>BLAGUE - Le meilleur des concours d'histoires drôles</title>
+      <guid isPermaLink="false">7aed2557-5e45-4d07-8c85-3f3c06b3d91a</guid>
+      <description>REDIFF - Chaque week-end, tout au long de l'été, retrouvez en exclusivité le meilleur des concours d'histoires drôles des Grosses Têtes.
+
+
+
+
+&lt;i&gt;Revivez le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Distribué par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>REDIFF - Chaque week-end, tout au long de l'été, retrouvez en exclusivité le meilleur des concours d'histoires drôles des Grosses Têtes.
+
+
+
+
+&lt;i&gt;Revivez le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Distribué par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Sun, 03 Aug 2025 06:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/7aed2557-5e45-4d07-8c85-3f3c06b3d91a.mp3?_=1750756687" length="7621783" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>REDIFF - Chaque week-end, tout au long de l'été, retrouvez en exclusivité le meilleur des concours d'histoires drôles des Grosses Têtes.
+
+Revivez le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Distribué par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>REDIFF - Chaque week-end, tout au long de l'été, retrouvez en exclusivité le meilleur des concours d'histoires drôles des Grosses Têtes.
+
+Revivez le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Distribué par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>RTL</itunes:author>
+      <author>RTL</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>REDIFF - Chaque week-end, tout au long de l'été, retrouvez en exclusivité le meilleur des concours d'histoires drôles des Grosses Têtes.
+
+
+
+
+Revivez le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Distribué par Audiomeans....</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>07:56</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/16b70b7c-78f5-462d-8ddf-73bfae3c74f4.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/16b70b7c-78f5-462d-8ddf-73bfae3c74f4.jpg" />
+      <ns3:txt purpose="smartlink">https://audmns.com/RCBnqlU</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>ARCHIVE - La blague de Carlos</title>
       <guid isPermaLink="false">fd15cfcf-37e9-4fec-a8ef-188a015eb984</guid>
