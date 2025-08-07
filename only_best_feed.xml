@@ -7,8 +7,8 @@
     <description>Le Best Of : une sélection des moments les plus drôles et emblématiques de la saison, incluant bonus et moments cultes.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Wed, 06 Aug 2025 05:59:37 GMT</lastBuildDate>
-    <pubDate>Wed, 06 Aug 2025 05:59:37 GMT</pubDate>
+    <lastBuildDate>Thu, 07 Aug 2025 05:58:41 GMT</lastBuildDate>
+    <pubDate>Thu, 07 Aug 2025 05:58:41 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,34 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/KxAcscK</ns3:txt>
+    <item>
+      <title>MEILLEUR DE LA SAISON - Arielle Dombasle et sa mystérieuse marraine belge</title>
+      <guid isPermaLink="false">aed751c6-fd19-4b79-b0cb-293d0fe00447</guid>
+      <description>La princesse des "Grosses Têtes" cache beaucoup de choses, dont une certaine marraine qui serait originaire du plat pays. Fous rires, réponses inattendues, nouvelles rencontres, cet été redécouvrez les meilleurs moments de cette saison 2024-2025 ! &lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>La princesse des "Grosses Têtes" cache beaucoup de choses, dont une certaine marraine qui serait originaire du plat pays. Fous rires, réponses inattendues, nouvelles rencontres, cet été redécouvrez les meilleurs moments de cette saison 2024-2025 ! &lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Thu, 07 Aug 2025 06:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/aed751c6-fd19-4b79-b0cb-293d0fe00447.mp3?_=1751551694" length="6132712" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>La princesse des "Grosses Têtes" cache beaucoup de choses, dont une certaine marraine qui serait originaire du plat pays. Fous rires, réponses inattendues, nouvelles rencontres, cet été redécouvrez les meilleurs moments de cette saison 2024-2025 ! 
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>La princesse des "Grosses Têtes" cache beaucoup de choses, dont une certaine marraine qui serait originaire du plat pays. Fous rires, réponses inattendues, nouvelles rencontres, cet été redécouvrez les meilleurs moments de cette saison 2024-2025 ! 
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>La princesse des "Grosses Têtes" cache beaucoup de choses, dont une certaine marraine qui serait originaire du plat pays. Fous rires, réponses inattendues, nouvelles rencontres, cet été redécouvrez les meilleurs moments de cette saison 2024-2025 ! 
+ Hébergé...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>06:23</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/5e299d5d-977e-4d4c-abfe-8a50c5c28abb.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/5e299d5d-977e-4d4c-abfe-8a50c5c28abb.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/VPuwYdh</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>MEILLEUR DE LA SAISON - Roman Doduik fait de l'acupuncture</title>
       <guid isPermaLink="false">3dfed169-ebff-465a-9091-b43313ae32b4</guid>
