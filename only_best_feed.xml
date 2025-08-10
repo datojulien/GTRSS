@@ -7,8 +7,8 @@
     <description>Le Best Of : une sélection des moments les plus drôles et emblématiques de la saison, incluant bonus et moments cultes.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Sun, 10 Aug 2025 04:47:45 GMT</lastBuildDate>
-    <pubDate>Sun, 10 Aug 2025 04:47:45 GMT</pubDate>
+    <lastBuildDate>Sun, 10 Aug 2025 06:37:31 GMT</lastBuildDate>
+    <pubDate>Sun, 10 Aug 2025 06:37:31 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -39,6 +39,43 @@
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/KxAcscK</ns3:txt>
     <item>
+      <title>MEILLEUR DE LA SAISON - Christine Bravo révèle qu'elle a déjà dormi avec Laurent Ruquier</title>
+      <guid isPermaLink="false">de94c85c-9823-4b60-a29f-8632884d66ab</guid>
+      <description>L'animateur et Christine Bravo sont amis de longues dates mais cette relation a néanmoins suscité quelques interrogations chez les sociétaires !
+
+Fous rires, réponses inattendues, nouvelles rencontres, cet été redécouvrez les meilleurs moments de cette saison 2024-2025 ! &lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>L'animateur et Christine Bravo sont amis de longues dates mais cette relation a néanmoins suscité quelques interrogations chez les sociétaires !
+
+Fous rires, réponses inattendues, nouvelles rencontres, cet été redécouvrez les meilleurs moments de cette saison 2024-2025 ! &lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Sun, 10 Aug 2025 06:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/de94c85c-9823-4b60-a29f-8632884d66ab.mp3?_=1751552881" length="4058040" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>L'animateur et Christine Bravo sont amis de longues dates mais cette relation a néanmoins suscité quelques interrogations chez les sociétaires !
+
+Fous rires, réponses inattendues, nouvelles rencontres, cet été redécouvrez les meilleurs moments de cette saison 2024-2025 ! 
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>L'animateur et Christine Bravo sont amis de longues dates mais cette relation a néanmoins suscité quelques interrogations chez les sociétaires !
+
+Fous rires, réponses inattendues, nouvelles rencontres, cet été redécouvrez les meilleurs moments de cette saison 2024-2025 ! 
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>L'animateur et Christine Bravo sont amis de longues dates mais cette relation a néanmoins suscité quelques interrogations chez les sociétaires !
+
+Fous rires, réponses inattendues, nouvelles rencontres, cet été redécouvrez les meilleurs moments de cette saison 2024-...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>04:13</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/cb012bc7-4653-4635-a2d2-cb072adf2b7a.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/cb012bc7-4653-4635-a2d2-cb072adf2b7a.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/sovKnYp</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
+    <item>
       <title>BEST OF - Le meilleur des auditeurs depuis le début de la saison</title>
       <guid isPermaLink="false">449fd7bc-9374-4514-9109-88b0ab49a7ab</guid>
       <description>Chaque week-end, tout au long de l'été, retrouvez en exclusivité les meilleurs moments des auditeurs à l'antenne, face à leurs Grosses Têtes préférées.
@@ -59,13 +96,19 @@
       <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/449fd7bc-9374-4514-9109-88b0ab49a7ab.mp3?_=1750756383" length="6456567" type="audio/mpeg" />
       <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
       <itunes:summary>Chaque week-end, tout au long de l'été, retrouvez en exclusivité les meilleurs moments des auditeurs à l'antenne, face à leurs Grosses Têtes préférées.
-
+
+
+
+
 Revivez le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
 
  Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
  </itunes:summary>
       <ns2:description>Chaque week-end, tout au long de l'été, retrouvez en exclusivité les meilleurs moments des auditeurs à l'antenne, face à leurs Grosses Têtes préférées.
-
+
+
+
+
 Revivez le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
 
  Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
