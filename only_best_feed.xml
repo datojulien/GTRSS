@@ -7,8 +7,8 @@
     <description>Le Best Of : une sélection des moments les plus drôles et emblématiques de la saison, incluant bonus et moments cultes.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Wed, 13 Aug 2025 06:39:44 GMT</lastBuildDate>
-    <pubDate>Wed, 13 Aug 2025 06:39:44 GMT</pubDate>
+    <lastBuildDate>Thu, 14 Aug 2025 06:40:07 GMT</lastBuildDate>
+    <pubDate>Thu, 14 Aug 2025 06:40:07 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,44 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/KxAcscK</ns3:txt>
+    <item>
+      <title>MEILLEUR DE LA SAISON - Bruno Solo joue plutôt bien au tennis</title>
+      <guid isPermaLink="false">860ece89-9cc7-494b-a4c8-1b82b64ea433</guid>
+      <description>Bruno Solo et Rafael Nadal ont un point commun... La réponse dans cet extrait !
+
+&lt;i&gt;Fous rires, réponses inattendues, nouvelles rencontres, cet été redécouvrez les meilleurs moments de cette saison 2024-2025 ! &lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Bruno Solo et Rafael Nadal ont un point commun... La réponse dans cet extrait !
+
+&lt;i&gt;Fous rires, réponses inattendues, nouvelles rencontres, cet été redécouvrez les meilleurs moments de cette saison 2024-2025 ! &lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Thu, 14 Aug 2025 06:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/860ece89-9cc7-494b-a4c8-1b82b64ea433.mp3?_=1753455781" length="3581801" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Bruno Solo et Rafael Nadal ont un point commun... La réponse dans cet extrait !
+
+Fous rires, réponses inattendues, nouvelles rencontres, cet été redécouvrez les meilleurs moments de cette saison 2024-2025 ! 
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Bruno Solo et Rafael Nadal ont un point commun... La réponse dans cet extrait !
+
+Fous rires, réponses inattendues, nouvelles rencontres, cet été redécouvrez les meilleurs moments de cette saison 2024-2025 ! 
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Bruno Solo et Rafael Nadal ont un point commun... La réponse dans cet extrait !
+
+Fous rires, réponses inattendues, nouvelles rencontres, cet été redécouvrez les meilleurs moments de cette saison 2024-2025 ! 
+ Hébergé par Audiomeans. Visitez </itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>03:43</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/3a2b1e5c-0315-4021-9e4a-82111b652489.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/3a2b1e5c-0315-4021-9e4a-82111b652489.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/RjjoJJO</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>MEILLEUR DE LA SAISON - Les Grosses Têtes cherchent le synonyme du "Bouloulou"</title>
       <guid isPermaLink="false">b5e06bf3-94cd-4d9c-ae72-bf29af5875fe</guid>
