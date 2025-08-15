@@ -7,8 +7,8 @@
     <description>Le Best Of : une sélection des moments les plus drôles et emblématiques de la saison, incluant bonus et moments cultes.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Thu, 14 Aug 2025 06:40:07 GMT</lastBuildDate>
-    <pubDate>Thu, 14 Aug 2025 06:40:07 GMT</pubDate>
+    <lastBuildDate>Fri, 15 Aug 2025 05:53:48 GMT</lastBuildDate>
+    <pubDate>Fri, 15 Aug 2025 05:53:48 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,44 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/KxAcscK</ns3:txt>
+    <item>
+      <title>MEILLEUR DE LA SAISON - Le mari de Gaël Tchakaloff vit à l'autre bout du monde !</title>
+      <guid isPermaLink="false">74863fb4-ed43-458f-b3df-96b50f4c8020</guid>
+      <description>L'époux de l'écrivaine rentre tous les 15 jours pour la voir, Stomy Bugsy l'a met en garde...
+
+&lt;i&gt;Fous rires, réponses inattendues, nouvelles rencontres, cet été redécouvrez les meilleurs moments de cette saison 2024-2025 ! &lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>L'époux de l'écrivaine rentre tous les 15 jours pour la voir, Stomy Bugsy l'a met en garde...
+
+&lt;i&gt;Fous rires, réponses inattendues, nouvelles rencontres, cet été redécouvrez les meilleurs moments de cette saison 2024-2025 ! &lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Fri, 15 Aug 2025 06:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/74863fb4-ed43-458f-b3df-96b50f4c8020.mp3?_=1753456681" length="6602040" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>L'époux de l'écrivaine rentre tous les 15 jours pour la voir, Stomy Bugsy l'a met en garde...
+
+Fous rires, réponses inattendues, nouvelles rencontres, cet été redécouvrez les meilleurs moments de cette saison 2024-2025 ! 
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>L'époux de l'écrivaine rentre tous les 15 jours pour la voir, Stomy Bugsy l'a met en garde...
+
+Fous rires, réponses inattendues, nouvelles rencontres, cet été redécouvrez les meilleurs moments de cette saison 2024-2025 ! 
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>L'époux de l'écrivaine rentre tous les 15 jours pour la voir, Stomy Bugsy l'a met en garde...
+
+Fous rires, réponses inattendues, nouvelles rencontres, cet été redécouvrez les meilleurs moments de cette saison 2024-2025 ! 
+ Hébergé par Audiomeans. Vis...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>06:52</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/fa3c45ed-8b46-4935-9d20-abec57bbfb6b.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/fa3c45ed-8b46-4935-9d20-abec57bbfb6b.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/BKqaTMC</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>MEILLEUR DE LA SAISON - Bruno Solo joue plutôt bien au tennis</title>
       <guid isPermaLink="false">860ece89-9cc7-494b-a4c8-1b82b64ea433</guid>
