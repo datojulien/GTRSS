@@ -7,8 +7,8 @@
     <description>Le Best Of : une sélection des moments les plus drôles et emblématiques de la saison, incluant bonus et moments cultes.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Sun, 17 Aug 2025 04:37:35 GMT</lastBuildDate>
-    <pubDate>Sun, 17 Aug 2025 04:37:35 GMT</pubDate>
+    <lastBuildDate>Sun, 17 Aug 2025 06:36:50 GMT</lastBuildDate>
+    <pubDate>Sun, 17 Aug 2025 06:36:50 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -39,6 +39,43 @@
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/KxAcscK</ns3:txt>
     <item>
+      <title>MEILLEUR DE LA SAISON - Sébastien Thoen a adoré "Le Comte de Monte-Cristo", mais pas pour la raison que vous imaginez...</title>
+      <guid isPermaLink="false">5fdf53cb-5b51-4042-9002-05df350b93b4</guid>
+      <description>Le film, que Sébastien Thoen a davantage apprécié pour la beauté de l'acteur Pierre Niney que pour son talent, lui a inspiré un joli jeu de mots.
+
+&lt;i&gt;Fous rires, réponses inattendues, nouvelles rencontres, cet été redécouvrez les meilleurs moments de cette saison 2024-2025 ! &lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Le film, que Sébastien Thoen a davantage apprécié pour la beauté de l'acteur Pierre Niney que pour son talent, lui a inspiré un joli jeu de mots.
+
+&lt;i&gt;Fous rires, réponses inattendues, nouvelles rencontres, cet été redécouvrez les meilleurs moments de cette saison 2024-2025 ! &lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Sun, 17 Aug 2025 06:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/5fdf53cb-5b51-4042-9002-05df350b93b4.mp3?_=1753775882" length="6910260" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Le film, que Sébastien Thoen a davantage apprécié pour la beauté de l'acteur Pierre Niney que pour son talent, lui a inspiré un joli jeu de mots.
+
+Fous rires, réponses inattendues, nouvelles rencontres, cet été redécouvrez les meilleurs moments de cette saison 2024-2025 ! 
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Le film, que Sébastien Thoen a davantage apprécié pour la beauté de l'acteur Pierre Niney que pour son talent, lui a inspiré un joli jeu de mots.
+
+Fous rires, réponses inattendues, nouvelles rencontres, cet été redécouvrez les meilleurs moments de cette saison 2024-2025 ! 
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Le film, que Sébastien Thoen a davantage apprécié pour la beauté de l'acteur Pierre Niney que pour son talent, lui a inspiré un joli jeu de mots.
+
+Fous rires, réponses inattendues, nouvelles rencontres, cet été redécouvrez les meilleurs moments de cette saison 2...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>07:11</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/627fc610-0a7a-46a6-9652-a18e32bc781c.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/627fc610-0a7a-46a6-9652-a18e32bc781c.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/WFClEbh</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
+    <item>
       <title>BEST OF - Le meilleur des auditeurs depuis le début de la saison</title>
       <guid isPermaLink="false">a36f3879-78c9-47b9-9c7c-a652854622f7</guid>
       <description>Chaque week-end, tout au long de l'été, retrouvez en exclusivité les meilleurs moments des auditeurs à l'antenne, face à leurs Grosses Têtes préférées.
@@ -59,13 +96,19 @@
       <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/a36f3879-78c9-47b9-9c7c-a652854622f7.mp3?_=1750756385" length="6148113" type="audio/mpeg" />
       <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
       <itunes:summary>Chaque week-end, tout au long de l'été, retrouvez en exclusivité les meilleurs moments des auditeurs à l'antenne, face à leurs Grosses Têtes préférées.
-
+
+
+
+
 Revivez le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
 
  Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
  </itunes:summary>
       <ns2:description>Chaque week-end, tout au long de l'été, retrouvez en exclusivité les meilleurs moments des auditeurs à l'antenne, face à leurs Grosses Têtes préférées.
-
+
+
+
+
 Revivez le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
 
  Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
