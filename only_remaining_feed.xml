@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Sun, 17 Aug 2025 06:36:50 GMT</lastBuildDate>
-    <pubDate>Sun, 17 Aug 2025 06:36:50 GMT</pubDate>
+    <lastBuildDate>Mon, 18 Aug 2025 02:21:41 GMT</lastBuildDate>
+    <pubDate>Mon, 18 Aug 2025 02:21:41 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -39,6 +39,34 @@
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/KxAcscK</ns3:txt>
     <item>
+      <title>ARCHIVE - La blague de Chantal Ladesou</title>
+      <guid isPermaLink="false">6d9fb8b4-697e-4814-9301-a975fa929ff7</guid>
+      <description>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast ! &lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast ! &lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Mon, 18 Aug 2025 00:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/6d9fb8b4-697e-4814-9301-a975fa929ff7.mp3?_=1753279081" length="1061420" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast ! 
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast ! 
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast ! 
+ Hébergé par Audiomeans. Visitez </itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>01:06</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/b383c446-6d06-4d4d-afa1-66fe5e85a793.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/b383c446-6d06-4d4d-afa1-66fe5e85a793.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/EvCWvMd</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
+    <item>
       <title>BLAGUE - Le meilleur des concours d'histoires drôles</title>
       <guid isPermaLink="false">f0abd60a-a490-4159-bba5-c022cd781c32</guid>
       <description>REDIFF - Chaque week-end, tout au long de l'été, retrouvez en exclusivité le meilleur des concours d'histoires drôles des Grosses Têtes.
@@ -57,12 +85,18 @@
       <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/f0abd60a-a490-4159-bba5-c022cd781c32.mp3?_=1750756984" length="5845457" type="audio/mpeg" />
       <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
       <itunes:summary>REDIFF - Chaque week-end, tout au long de l'été, retrouvez en exclusivité le meilleur des concours d'histoires drôles des Grosses Têtes.
-
+
+
+
+
 Revivez le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
  Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
  </itunes:summary>
       <ns2:description>REDIFF - Chaque week-end, tout au long de l'été, retrouvez en exclusivité le meilleur des concours d'histoires drôles des Grosses Têtes.
-
+
+
+
+
 Revivez le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
  Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
  </ns2:description>
