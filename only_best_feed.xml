@@ -7,8 +7,8 @@
     <description>Le Best Of : une sélection des moments les plus drôles et emblématiques de la saison, incluant bonus et moments cultes.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Thu, 21 Aug 2025 06:48:05 GMT</lastBuildDate>
-    <pubDate>Thu, 21 Aug 2025 06:48:05 GMT</pubDate>
+    <lastBuildDate>Fri, 22 Aug 2025 06:37:49 GMT</lastBuildDate>
+    <pubDate>Fri, 22 Aug 2025 06:37:49 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,43 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/KxAcscK</ns3:txt>
+    <item>
+      <title>MEILLEUR DE LA SAISON - Karine Le Marchand adore cette enseigne suédoise !</title>
+      <guid isPermaLink="false">320d2362-6c22-4abb-b7cd-3634a35543bf</guid>
+      <description>Alors qu'elle était, une fois de plus, chez IKEA, L'animatrice de télévision française a croisé un couple qui s'est étonné de la croiser ici.. 
+&lt;i&gt;&lt;/i&gt;
+&lt;i&gt;Fous rires, réponses inattendues, nouvelles rencontres, cet été redécouvrez les meilleurs moments de cette saison 2024-2025 ! &lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Alors qu'elle était, une fois de plus, chez IKEA, L'animatrice de télévision française a croisé un couple qui s'est étonné de la croiser ici.. 
+&lt;i&gt;&lt;/i&gt;
+&lt;i&gt;Fous rires, réponses inattendues, nouvelles rencontres, cet été redécouvrez les meilleurs moments de cette saison 2024-2025 ! &lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Fri, 22 Aug 2025 06:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/320d2362-6c22-4abb-b7cd-3634a35543bf.mp3?_=1754489281" length="5288064" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Alors qu'elle était, une fois de plus, chez IKEA, L'animatrice de télévision française a croisé un couple qui s'est étonné de la croiser ici.. 
+
+Fous rires, réponses inattendues, nouvelles rencontres, cet été redécouvrez les meilleurs moments de cette saison 2024-2025 ! 
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Alors qu'elle était, une fois de plus, chez IKEA, L'animatrice de télévision française a croisé un couple qui s'est étonné de la croiser ici.. 
+
+Fous rires, réponses inattendues, nouvelles rencontres, cet été redécouvrez les meilleurs moments de cette saison 2024-2025 ! 
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Alors qu'elle était, une fois de plus, chez IKEA, L'animatrice de télévision française a croisé un couple qui s'est étonné de la croiser ici.. 
+
+Fous rires, réponses inattendues, nouvelles rencontres, cet été redécouvrez les meilleurs moments de cette sai...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>05:30</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/a1c6624e-6c80-42fa-8622-d44aa388456c.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/a1c6624e-6c80-42fa-8622-d44aa388456c.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/tPkzeSt</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>MEILLEUR DE LA SAISON - Olivier Bellamy est rouge tomate</title>
       <guid isPermaLink="false">89c88054-f7db-4d6f-90e2-2c7723cb54b2</guid>
