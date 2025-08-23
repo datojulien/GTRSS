@@ -7,8 +7,8 @@
     <description>Le Best Of : une sélection des moments les plus drôles et emblématiques de la saison, incluant bonus et moments cultes.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Sat, 23 Aug 2025 04:29:25 GMT</lastBuildDate>
-    <pubDate>Sat, 23 Aug 2025 04:29:25 GMT</pubDate>
+    <lastBuildDate>Sat, 23 Aug 2025 06:33:55 GMT</lastBuildDate>
+    <pubDate>Sat, 23 Aug 2025 06:33:55 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -39,6 +39,43 @@
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/KxAcscK</ns3:txt>
     <item>
+      <title>MEILLEUR DE LA SAISON - Constance montre sa culotte léopard aux Grosses Têtes</title>
+      <guid isPermaLink="false">525c6e9e-c16a-4a68-965e-1745d6b008ba</guid>
+      <description>L'humoriste française ne manque pas une occasion de choquer les sociétaires. Cette fois, c'est le journaliste Christophe Barbier qui n'en revient pas !
+
+&lt;i&gt;Fous rires, réponses inattendues, nouvelles rencontres, cet été redécouvrez les meilleurs moments de cette saison 2024-2025 ! &lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>L'humoriste française ne manque pas une occasion de choquer les sociétaires. Cette fois, c'est le journaliste Christophe Barbier qui n'en revient pas !
+
+&lt;i&gt;Fous rires, réponses inattendues, nouvelles rencontres, cet été redécouvrez les meilleurs moments de cette saison 2024-2025 ! &lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Sat, 23 Aug 2025 06:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/525c6e9e-c16a-4a68-965e-1745d6b008ba.mp3?_=1754489282" length="9324318" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>L'humoriste française ne manque pas une occasion de choquer les sociétaires. Cette fois, c'est le journaliste Christophe Barbier qui n'en revient pas !
+
+Fous rires, réponses inattendues, nouvelles rencontres, cet été redécouvrez les meilleurs moments de cette saison 2024-2025 ! 
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>L'humoriste française ne manque pas une occasion de choquer les sociétaires. Cette fois, c'est le journaliste Christophe Barbier qui n'en revient pas !
+
+Fous rires, réponses inattendues, nouvelles rencontres, cet été redécouvrez les meilleurs moments de cette saison 2024-2025 ! 
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>L'humoriste française ne manque pas une occasion de choquer les sociétaires. Cette fois, c'est le journaliste Christophe Barbier qui n'en revient pas !
+
+Fous rires, réponses inattendues, nouvelles rencontres, cet été redécouvrez les meilleurs moments de cette sa...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>09:42</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/4baccde7-b622-44b4-8248-ec8c5666e173.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/4baccde7-b622-44b4-8248-ec8c5666e173.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/hyNbVuC</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
+    <item>
       <title>BEST OF - Le meilleur des auditeurs depuis le début de la saison</title>
       <guid isPermaLink="false">b8dd94ab-4f8a-431e-a44d-1cc11152b350</guid>
       <description>Chaque week-end, tout au long de l'été, retrouvez en exclusivité les meilleurs moments des auditeurs à l'antenne, face à leurs Grosses Têtes préférées.
@@ -59,13 +96,19 @@
       <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/b8dd94ab-4f8a-431e-a44d-1cc11152b350.mp3?_=1750756385" length="6752900" type="audio/mpeg" />
       <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
       <itunes:summary>Chaque week-end, tout au long de l'été, retrouvez en exclusivité les meilleurs moments des auditeurs à l'antenne, face à leurs Grosses Têtes préférées.
-
+
+
+
+
 Revivez le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
 
  Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
  </itunes:summary>
       <ns2:description>Chaque week-end, tout au long de l'été, retrouvez en exclusivité les meilleurs moments des auditeurs à l'antenne, face à leurs Grosses Têtes préférées.
-
+
+
+
+
 Revivez le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
 
  Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
