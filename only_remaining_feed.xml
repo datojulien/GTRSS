@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Mon, 25 Aug 2025 16:31:58 GMT</lastBuildDate>
-    <pubDate>Mon, 25 Aug 2025 16:31:58 GMT</pubDate>
+    <lastBuildDate>Mon, 25 Aug 2025 17:53:06 GMT</lastBuildDate>
+    <pubDate>Mon, 25 Aug 2025 17:53:06 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,33 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/KxAcscK</ns3:txt>
+    <item>
+      <title>Adrien Rabiot est "quelqu'un d'exemplaire, de respectueux", dit Adil Rami sur RTL</title>
+      <guid isPermaLink="false">602695fe-6e92-40ca-8dd8-66f689ccc91b</guid>
+      <description>Ecoutez l'émission du 25 août 2025.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Ecoutez l'émission du 25 août 2025.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Mon, 25 Aug 2025 17:20:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/602695fe-6e92-40ca-8dd8-66f689ccc91b.mp3?_=1756142580" length="2734577" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Ecoutez l'émission du 25 août 2025.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Ecoutez l'émission du 25 août 2025.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Ecoutez l'émission du 25 août 2025.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>02:50</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/75e7b0d5-9717-4049-9249-30b783cc83f2.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/75e7b0d5-9717-4049-9249-30b783cc83f2.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+    </item>
     <item>
       <title>IMITATIONS - Bayrou, Eboué, Bigard... Marc-Antoine Le Bret est de retour</title>
       <guid isPermaLink="false">3329ff78-5269-4ab2-bd80-3f1998d68c0f</guid>
