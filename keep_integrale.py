@@ -10,12 +10,13 @@ feed_url            = "https://feeds.audiomeans.fr/feed/d7c6111b-04c1-46bc-b74c-
 output_integrale    = "only_integrale_feed.xml"
 output_best         = "only_best_feed.xml"
 output_remaining    = "only_remaining_feed.xml"
-integrale_pref      = "L'INTÉGRALE"
+integrale_pref      = ("L'INTÉGRALE", "DÉBRIEF")
 best_prefs          = ("MEILLEUR DE LA SAISON", "BEST OF", "MOMENT CULTE")
 repo_path           = "."
 # Cover art URLs (raw GitHub links)
 integrale_image_url = "https://raw.githubusercontent.com/datojulien/GTRSS/main/Integrales.jpg"
 best_image_url      = "https://raw.githubusercontent.com/datojulien/GTRSS/main/Extras.jpg"
+autres_image_url          = "https://raw.githubusercontent.com/datojulien/GTRSS/main/Autres.jpg"
 # Custom channel summaries
 integrale_summary   = "Tous les épisodes de L'Intégrale de 'Les Grosses Têtes', regroupant la diffusion complète sans coupures ni extras."
 best_summary        = "Le Best Of : une sélection des moments les plus drôles et emblématiques de la saison, incluant bonus et moments cultes."
@@ -161,7 +162,7 @@ if new_r or existing_channel_r is None:
         first = channel_r.find('item')
         for it in reversed(new_r):
             channel_r.insert(list(channel_r).index(first), it)
-    finalize_channel(channel_r, integrale_image_url, "Other Episodes", remaining_summary)
+    finalize_channel(channel_r, autres_image_url, "Other Episodes", remaining_summary)
     ET.indent(root_r, space='  ')
     ET.ElementTree(root_r).write(output_remaining, encoding='utf-8', xml_declaration=True)
     print(f"✔️ wrote {len(new_r)} remaining items to {output_remaining}")
