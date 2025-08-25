@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Mon, 25 Aug 2025 02:04:52 GMT</lastBuildDate>
-    <pubDate>Mon, 25 Aug 2025 02:04:52 GMT</pubDate>
+    <lastBuildDate>Mon, 25 Aug 2025 09:31:35 GMT</lastBuildDate>
+    <pubDate>Mon, 25 Aug 2025 09:31:35 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,45 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/KxAcscK</ns3:txt>
+    <item>
+      <title>BLAGUE - Les 3 histoires drôles du lundi 25 août 2025</title>
+      <guid isPermaLink="false">2bdec3da-7c25-44c9-bb31-f9124c11a446</guid>
+      <description>Un professeur de philosophie qui demande à ses élèves s'ils ont tout dans leur vie, un supporter parisien sou et un soldat allemand amoureux de la France en pleine période d'occupation... Découvrez 3 histoires drôles racontées par Titoff, Gérard Jugnot et Eric Thomas. 
+
+&lt;i&gt;Tous les jours, en podcast, retrouvez une compilation des 3 meilleures blagues de vos Grosses Têtes préférées.&lt;/i&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Un professeur de philosophie qui demande à ses élèves s'ils ont tout dans leur vie, un supporter parisien sou et un soldat allemand amoureux de la France en pleine période d'occupation... Découvrez 3 histoires drôles racontées par Titoff, Gérard Jugnot et Eric Thomas. 
+
+&lt;i&gt;Tous les jours, en podcast, retrouvez une compilation des 3 meilleures blagues de vos Grosses Têtes préférées.&lt;/i&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Mon, 25 Aug 2025 09:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/2bdec3da-7c25-44c9-bb31-f9124c11a446.mp3?_=1754985481" length="2199917" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Un professeur de philosophie qui demande à ses élèves s'ils ont tout dans leur vie, un supporter parisien sou et un soldat allemand amoureux de la France en pleine période d'occupation... Découvrez 3 histoires drôles racontées par Titoff, Gérard Jugnot et Eric Thomas. 
+
+Tous les jours, en podcast, retrouvez une compilation des 3 meilleures blagues de vos Grosses Têtes préférées.
+
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Un professeur de philosophie qui demande à ses élèves s'ils ont tout dans leur vie, un supporter parisien sou et un soldat allemand amoureux de la France en pleine période d'occupation... Découvrez 3 histoires drôles racontées par Titoff, Gérard Jugnot et Eric Thomas. 
+
+Tous les jours, en podcast, retrouvez une compilation des 3 meilleures blagues de vos Grosses Têtes préférées.
+
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Un professeur de philosophie qui demande à ses élèves s'ils ont tout dans leur vie, un supporter parisien sou et un soldat allemand amoureux de la France en pleine période d'occupation... Découvrez 3 histoires drôles racontées par Titoff, Gérard Jugnot et Eric Thom...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>02:17</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/d7875c52-3e1f-4ff8-89b2-262d97be572b.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/d7875c52-3e1f-4ff8-89b2-262d97be572b.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/mMsxIRi</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>ARCHIVE - La blague d'Amanda Lear</title>
       <guid isPermaLink="false">3ffa5fe7-e9ec-4dfb-82c6-2849b719447f</guid>
