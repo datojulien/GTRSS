@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Mon, 25 Aug 2025 09:31:35 GMT</lastBuildDate>
-    <pubDate>Mon, 25 Aug 2025 09:31:35 GMT</pubDate>
+    <lastBuildDate>Mon, 25 Aug 2025 15:53:20 GMT</lastBuildDate>
+    <pubDate>Mon, 25 Aug 2025 15:53:20 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,71 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/KxAcscK</ns3:txt>
+    <item>
+      <title>FAKE NEWS - Lundi 25 août 2025</title>
+      <guid isPermaLink="false">b2fdfab6-4864-4733-af1f-d16a6cfd90c3</guid>
+      <description>Et vous, saurez-vous démêler le vrai du faux ?
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Et vous, saurez-vous démêler le vrai du faux ?
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Mon, 25 Aug 2025 15:55:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/b2fdfab6-4864-4733-af1f-d16a6cfd90c3.mp3?_=1756129983" length="8558259" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Et vous, saurez-vous démêler le vrai du faux ?
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Et vous, saurez-vous démêler le vrai du faux ?
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Et vous, saurez-vous démêler le vrai du faux ?
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.f...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>08:54</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/b4993938-3c62-431b-8898-89c0d6301555.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/b4993938-3c62-431b-8898-89c0d6301555.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/SkoMvpR</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
+    <item>
+      <title>PÉPITE - Qui sont les Grosses Têtes du 25 août 2025 ?</title>
+      <guid isPermaLink="false">5c092646-6f08-43cf-9ba3-4c5570caee10</guid>
+      <description>Chaque personnalité présente autour de la table prend l'identité de quelqu'un qui marque l'actualité. L'auditeur ou l'auditrice au téléphone doit alors deviner un minimum de 4 identités pour remporter le voyage mis en jeu...
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Chaque personnalité présente autour de la table prend l'identité de quelqu'un qui marque l'actualité. L'auditeur ou l'auditrice au téléphone doit alors deviner un minimum de 4 identités pour remporter le voyage mis en jeu...
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Mon, 25 Aug 2025 15:56:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/5c092646-6f08-43cf-9ba3-4c5570caee10.mp3?_=1756129984" length="12253838" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Chaque personnalité présente autour de la table prend l'identité de quelqu'un qui marque l'actualité. L'auditeur ou l'auditrice au téléphone doit alors deviner un minimum de 4 identités pour remporter le voyage mis en jeu...
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Chaque personnalité présente autour de la table prend l'identité de quelqu'un qui marque l'actualité. L'auditeur ou l'auditrice au téléphone doit alors deviner un minimum de 4 identités pour remporter le voyage mis en jeu...
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Chaque personnalité présente autour de la table prend l'identité de quelqu'un qui marque l'actualité. L'auditeur ou l'auditrice au téléphone doit alors deviner un minimum de 4 identités pour remporter le voyage mis en jeu...
+Retrouvez tous les jours le meilleur de...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>12:45</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/2f120c88-ef57-4949-af05-70a161f913be.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/2f120c88-ef57-4949-af05-70a161f913be.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/YyxFmgE</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>BLAGUE - Les 3 histoires drôles du lundi 25 août 2025</title>
       <guid isPermaLink="false">2bdec3da-7c25-44c9-bb31-f9124c11a446</guid>
