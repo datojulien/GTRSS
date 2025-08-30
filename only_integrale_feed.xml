@@ -7,8 +7,8 @@
     <description>Tous les épisodes de L'Intégrale de 'Les Grosses Têtes', regroupant la diffusion complète sans coupures ni extras.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Fri, 29 Aug 2025 16:30:42 GMT</lastBuildDate>
-    <pubDate>Fri, 29 Aug 2025 16:30:42 GMT</pubDate>
+    <lastBuildDate>Sat, 30 Aug 2025 15:53:27 GMT</lastBuildDate>
+    <pubDate>Sat, 30 Aug 2025 15:53:27 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,39 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/KxAcscK</ns3:txt>
+    <item>
+      <title>L'INTÉGRALE - Le Best of de l'été du 30 août 2025</title>
+      <guid isPermaLink="false">54f03cb4-3d89-4fcc-a559-ed22ef5c0d0c</guid>
+      <description>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du samedi 30 août 2025.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du samedi 30 août 2025.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Sat, 30 Aug 2025 16:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/54f03cb4-3d89-4fcc-a559-ed22ef5c0d0c.mp3?_=1756555092" length="106876206" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du samedi 30 août 2025.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du samedi 30 août 2025.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du samedi 30 août 2025.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez </itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>01:51:19</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/9738ba14-7a5c-4dd7-b41e-4c58e5c9c54a.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/9738ba14-7a5c-4dd7-b41e-4c58e5c9c54a.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/eLkGxTi</ns3:txt>
+      <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>L'INTÉGRALE - Émission du vendredi 29 aout 2025</title>
       <guid isPermaLink="false">83b4a4fe-f160-4920-9ca5-5168b6b2324d</guid>
@@ -83,11 +116,13 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <pubDate>Fri, 29 Aug 2025 16:02:00 GMT</pubDate>
       <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/da1be6f8-4eea-4e76-afa7-0d6b836cf58a.mp3?_=1756468982" length="6510779" type="audio/mpeg" />
       <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>À la fin de chaque émission, retrouvez en exclusivité sur les plateformes de podcast le débrief des 2h30 d'antenne qui viennent de s'écouler, en compagnie d'une des Grosses Têtes du jour... Ce 29 août 2025, François Morel, invité du jour, s'est confié au micro de Rachel Azria.
+      <itunes:summary>À la fin de chaque émission, retrouvez en exclusivité sur les plateformes de podcast le débrief des 2h30 d'antenne qui viennent de s'écouler, en compagnie d'une des Grosses Têtes du jour... Ce 29 août 2025, François Morel, invité du jour, s'est confié au micro de Rachel Azria.
+
 Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL
  Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
  </itunes:summary>
-      <ns2:description>À la fin de chaque émission, retrouvez en exclusivité sur les plateformes de podcast le débrief des 2h30 d'antenne qui viennent de s'écouler, en compagnie d'une des Grosses Têtes du jour... Ce 29 août 2025, François Morel, invité du jour, s'est confié au micro de Rachel Azria.
+      <ns2:description>À la fin de chaque émission, retrouvez en exclusivité sur les plateformes de podcast le débrief des 2h30 d'antenne qui viennent de s'écouler, en compagnie d'une des Grosses Têtes du jour... Ce 29 août 2025, François Morel, invité du jour, s'est confié au micro de Rachel Azria.
+
 Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL
  Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
  </ns2:description>
