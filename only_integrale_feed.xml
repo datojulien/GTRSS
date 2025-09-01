@@ -7,8 +7,8 @@
     <description>Tous les épisodes de L'Intégrale de 'Les Grosses Têtes', regroupant la diffusion complète sans coupures ni extras.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Sun, 31 Aug 2025 16:27:47 GMT</lastBuildDate>
-    <pubDate>Sun, 31 Aug 2025 16:27:47 GMT</pubDate>
+    <lastBuildDate>Mon, 01 Sep 2025 16:53:48 GMT</lastBuildDate>
+    <pubDate>Mon, 01 Sep 2025 16:53:48 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,48 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/KxAcscK</ns3:txt>
+    <item>
+      <title>L'INTÉGRALE - Émission du lundi 1er septembre 2025</title>
+      <guid isPermaLink="false">ddd6fa69-6c32-40aa-b15f-ff4f41590322</guid>
+      <description>Avec Fabien Olicard, Isabelle Mergault, Adil Rami, Paul El Kharrat, Bernard Mabille, Franck Ferrand et Joyce Jonathan.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Avec Fabien Olicard, Isabelle Mergault, Adil Rami, Paul El Kharrat, Bernard Mabille, Franck Ferrand et Joyce Jonathan.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Mon, 01 Sep 2025 16:03:55 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/ddd6fa69-6c32-40aa-b15f-ff4f41590322.mp3?_=1756745003" length="102077175" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Avec Fabien Olicard, Isabelle Mergault, Adil Rami, Paul El Kharrat, Bernard Mabille, Franck Ferrand et Joyce Jonathan.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Avec Fabien Olicard, Isabelle Mergault, Adil Rami, Paul El Kharrat, Bernard Mabille, Franck Ferrand et Joyce Jonathan.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Avec Fabien Olicard, Isabelle Mergault, Adil Rami, Paul El Kharrat, Bernard Mabille, Franck Ferrand et Joyce Jonathan.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+
+ Hébergé par Audiomeans. Visitez </itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>01:46:19</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/97958550-ec74-49b7-a70f-2133b5021d55.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/97958550-ec74-49b7-a70f-2133b5021d55.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <itunes:keywords>replay intégral,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>L'INTÉGRALE - Le Best of du dimanche 31 août 2025</title>
       <guid isPermaLink="false">f6e07100-f0fa-418b-bb8a-909843f6cd46</guid>
