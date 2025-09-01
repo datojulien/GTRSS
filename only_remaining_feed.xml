@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Mon, 01 Sep 2025 10:53:15 GMT</lastBuildDate>
-    <pubDate>Mon, 01 Sep 2025 10:53:15 GMT</pubDate>
+    <lastBuildDate>Mon, 01 Sep 2025 15:53:29 GMT</lastBuildDate>
+    <pubDate>Mon, 01 Sep 2025 15:53:29 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,127 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/KxAcscK</ns3:txt>
+    <item>
+      <title>FAKE NEWS - Lundi 1er septembre 2025</title>
+      <guid isPermaLink="false">66524b8f-a7eb-494e-94b0-8c4b859681f1</guid>
+      <description>Et vous, saurez-vous démêler le vrai du faux ?
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Et vous, saurez-vous démêler le vrai du faux ?
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Mon, 01 Sep 2025 15:55:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/66524b8f-a7eb-494e-94b0-8c4b859681f1.mp3?_=1756730583" length="3629239" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Et vous, saurez-vous démêler le vrai du faux ?
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Et vous, saurez-vous démêler le vrai du faux ?
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Et vous, saurez-vous démêler le vrai du faux ?
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.f...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>03:46</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/2d228103-f658-4d46-b394-9511ad137811.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/2d228103-f658-4d46-b394-9511ad137811.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/EVSKvTf</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
+    <item>
+      <title>PÉPITE - Les Grosses Têtes répondent aux auditeurs</title>
+      <guid isPermaLink="false">c1874a20-c940-43f0-8375-9805b2e5207e</guid>
+      <description>Plaintes, compliments, interrogations... Cette saison encore, les Grosses Têtes répondent aux différentes questions et messages des auditeurs à l'antenne.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Plaintes, compliments, interrogations... Cette saison encore, les Grosses Têtes répondent aux différentes questions et messages des auditeurs à l'antenne.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Mon, 01 Sep 2025 15:57:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/c1874a20-c940-43f0-8375-9805b2e5207e.mp3?_=1756730582" length="4590410" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Plaintes, compliments, interrogations... Cette saison encore, les Grosses Têtes répondent aux différentes questions et messages des auditeurs à l'antenne.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Plaintes, compliments, interrogations... Cette saison encore, les Grosses Têtes répondent aux différentes questions et messages des auditeurs à l'antenne.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Plaintes, compliments, interrogations... Cette saison encore, les Grosses Têtes répondent aux différentes questions et messages des auditeurs à l'antenne.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ H...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>04:46</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/46cfeac5-e019-454f-9ab1-5622188a75ab.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/46cfeac5-e019-454f-9ab1-5622188a75ab.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/VwAFJpV</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
+    <item>
+      <title>PÉPITE - Qui est la meilleure grosse tête du 1er septembre 2025 ?</title>
+      <guid isPermaLink="false">5be48174-79e4-469d-807f-0f33ae6d7a5f</guid>
+      <description>C'est une nouvelle séquence dans l'émission ! Chaque jour, un auditeur est invité à désigner la "meilleure grosse tête du jour". Pour cela, les personnalités présentes autour de la table répondent à des questions d'actualité. La dernière grosse tête qui continue de répondre à toutes les questions est élue "meilleure grosse tête du jour".&amp;nbsp;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>C'est une nouvelle séquence dans l'émission ! Chaque jour, un auditeur est invité à désigner la "meilleure grosse tête du jour". Pour cela, les personnalités présentes autour de la table répondent à des questions d'actualité. La dernière grosse tête qui continue de répondre à toutes les questions est élue "meilleure grosse tête du jour".&amp;nbsp;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Mon, 01 Sep 2025 15:57:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/5be48174-79e4-469d-807f-0f33ae6d7a5f.mp3?_=1756738081" length="10421153" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>C'est une nouvelle séquence dans l'émission ! Chaque jour, un auditeur est invité à désigner la "meilleure grosse tête du jour". Pour cela, les personnalités présentes autour de la table répondent à des questions d'actualité. La dernière grosse tête qui continue de répondre à toutes les questions est élue "meilleure grosse tête du jour". 
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>C'est une nouvelle séquence dans l'émission ! Chaque jour, un auditeur est invité à désigner la "meilleure grosse tête du jour". Pour cela, les personnalités présentes autour de la table répondent à des questions d'actualité. La dernière grosse tête qui continue de répondre à toutes les questions est élue "meilleure grosse tête du jour". 
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>C'est une nouvelle séquence dans l'émission ! Chaque jour, un auditeur est invité à désigner la "meilleure grosse tête du jour". Pour cela, les personnalités présentes autour de la table répondent à des questions d'actualité. La dernière grosse tête qui continue de...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>10:51</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/887c2b58-9f30-491d-84f0-06a2d2a27325.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/887c2b58-9f30-491d-84f0-06a2d2a27325.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/DJmEYBs</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
+    <item>
+      <title>PÉPITE - Le meilleur de l'émission du 1er septembre 2025</title>
+      <guid isPermaLink="false">4d485675-b27d-4a7e-9e36-0b118652b51b</guid>
+      <description>Les meilleures réponses d'Adil Rami, la mauvaise foi de Paul El Kharrat ou encore la dédicace de Joyce Jonathan à la fille d'un auditeur... Retrouvez dans ce podcast le meilleur de l'émission du 29 août 2025.&amp;nbsp;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Les meilleures réponses d'Adil Rami, la mauvaise foi de Paul El Kharrat ou encore la dédicace de Joyce Jonathan à la fille d'un auditeur... Retrouvez dans ce podcast le meilleur de l'émission du 29 août 2025.&amp;nbsp;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Mon, 01 Sep 2025 15:58:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/4d485675-b27d-4a7e-9e36-0b118652b51b.mp3?_=1756737482" length="11000164" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Les meilleures réponses d'Adil Rami, la mauvaise foi de Paul El Kharrat ou encore la dédicace de Joyce Jonathan à la fille d'un auditeur... Retrouvez dans ce podcast le meilleur de l'émission du 29 août 2025. 
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Les meilleures réponses d'Adil Rami, la mauvaise foi de Paul El Kharrat ou encore la dédicace de Joyce Jonathan à la fille d'un auditeur... Retrouvez dans ce podcast le meilleur de l'émission du 29 août 2025. 
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Les meilleures réponses d'Adil Rami, la mauvaise foi de Paul El Kharrat ou encore la dédicace de Joyce Jonathan à la fille d'un auditeur... Retrouvez dans ce podcast le meilleur de l'émission du 29 août 2025. 
+ Hébergé par Audiomeans. Visitez </itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>11:27</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/89d37d9f-471c-414d-a078-53301a38da96.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/89d37d9f-471c-414d-a078-53301a38da96.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/TyrPfMb</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>BLAGUE - Les 3 histoires drôles du lundi 1 septembre 2025</title>
       <guid isPermaLink="false">ed57429c-b575-4425-8cb2-1bf2665a06c0</guid>
