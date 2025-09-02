@@ -7,8 +7,8 @@
     <description>Tous les épisodes de L'Intégrale de 'Les Grosses Têtes', regroupant la diffusion complète sans coupures ni extras.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Tue, 02 Sep 2025 15:53:27 GMT</lastBuildDate>
-    <pubDate>Tue, 02 Sep 2025 15:53:27 GMT</pubDate>
+    <lastBuildDate>Tue, 02 Sep 2025 16:30:50 GMT</lastBuildDate>
+    <pubDate>Tue, 02 Sep 2025 16:30:50 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -39,6 +39,44 @@
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/KxAcscK</ns3:txt>
     <item>
+      <title>L'INTÉGRALE - Émission du mardi 2 septembre 2025</title>
+      <guid isPermaLink="false">456c2618-860b-44ac-b4e5-f795607c9bd6</guid>
+      <description>Avec Sylvie Tellier, Florian Gazan, Fabrizio Bucella, Jeanfi Janssens, Caroline Diament et Arielle Dombasle.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Avec Sylvie Tellier, Florian Gazan, Fabrizio Bucella, Jeanfi Janssens, Caroline Diament et Arielle Dombasle.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Tue, 02 Sep 2025 16:02:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/456c2618-860b-44ac-b4e5-f795607c9bd6.mp3?_=1756825693" length="98924538" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Avec Sylvie Tellier, Florian Gazan, Fabrizio Bucella, Jeanfi Janssens, Caroline Diament et Arielle Dombasle.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Avec Sylvie Tellier, Florian Gazan, Fabrizio Bucella, Jeanfi Janssens, Caroline Diament et Arielle Dombasle.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Avec Sylvie Tellier, Florian Gazan, Fabrizio Bucella, Jeanfi Janssens, Caroline Diament et Arielle Dombasle.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez </itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>01:43:02</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/c3ee3d00-0b86-4cde-985b-63ddcc888ab3.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/c3ee3d00-0b86-4cde-985b-63ddcc888ab3.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/EvAHyiz</ns3:txt>
+      <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
+    <item>
       <title>DÉBRIEF - Jeanfi Janssens bientôt star internationale</title>
       <guid isPermaLink="false">8aebd3f9-8957-42ec-90c7-2d5e1ae967b3</guid>
       <description>À la fin de chaque émission, retrouvez en exclusivité sur les plateformes de podcast le débrief des 2h30 d'antenne qui viennent de s'écouler, en compagnie d'une des Grosses Têtes du jour... Ce 2 septembre 2025, Jeanfi Janssens s'est confié au micro de Rachel Azria.
@@ -50,11 +88,13 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <pubDate>Tue, 02 Sep 2025 16:00:00 GMT</pubDate>
       <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/8aebd3f9-8957-42ec-90c7-2d5e1ae967b3.mp3?_=1756824183" length="6477281" type="audio/mpeg" />
       <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>À la fin de chaque émission, retrouvez en exclusivité sur les plateformes de podcast le débrief des 2h30 d'antenne qui viennent de s'écouler, en compagnie d'une des Grosses Têtes du jour... Ce 2 septembre 2025, Jeanfi Janssens s'est confié au micro de Rachel Azria.
+      <itunes:summary>À la fin de chaque émission, retrouvez en exclusivité sur les plateformes de podcast le débrief des 2h30 d'antenne qui viennent de s'écouler, en compagnie d'une des Grosses Têtes du jour... Ce 2 septembre 2025, Jeanfi Janssens s'est confié au micro de Rachel Azria.
+
 Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
  Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
  </itunes:summary>
-      <ns2:description>À la fin de chaque émission, retrouvez en exclusivité sur les plateformes de podcast le débrief des 2h30 d'antenne qui viennent de s'écouler, en compagnie d'une des Grosses Têtes du jour... Ce 2 septembre 2025, Jeanfi Janssens s'est confié au micro de Rachel Azria.
+      <ns2:description>À la fin de chaque émission, retrouvez en exclusivité sur les plateformes de podcast le débrief des 2h30 d'antenne qui viennent de s'écouler, en compagnie d'une des Grosses Têtes du jour... Ce 2 septembre 2025, Jeanfi Janssens s'est confié au micro de Rachel Azria.
+
 Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
  Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
  </ns2:description>
