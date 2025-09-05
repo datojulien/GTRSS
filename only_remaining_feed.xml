@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Fri, 05 Sep 2025 01:53:22 GMT</lastBuildDate>
-    <pubDate>Fri, 05 Sep 2025 01:53:22 GMT</pubDate>
+    <lastBuildDate>Fri, 05 Sep 2025 08:54:09 GMT</lastBuildDate>
+    <pubDate>Fri, 05 Sep 2025 08:54:09 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,61 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/KxAcscK</ns3:txt>
+    <item>
+      <title>BLAGUE - Les histoires drôles du vendredi 5 septembre 2025</title>
+      <guid isPermaLink="false">4a73f11a-02ef-438b-bea7-a1bd196e4123</guid>
+      <description>Une femme surprise par un inconnu, deux mamies belges à l'arrêt de bus ou encore l'homme de l'Elysée... Découvrez les 3 histoires drôles du jour !&amp;nbsp;
+
+
+
+&lt;i&gt;Tous les jours, en podcast, retrouvez une compilation des 3 meilleures blagues de vos Grosses Têtes préférées.
+&lt;/i&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Une femme surprise par un inconnu, deux mamies belges à l'arrêt de bus ou encore l'homme de l'Elysée... Découvrez les 3 histoires drôles du jour !&amp;nbsp;
+
+
+
+&lt;i&gt;Tous les jours, en podcast, retrouvez une compilation des 3 meilleures blagues de vos Grosses Têtes préférées.
+&lt;/i&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Fri, 05 Sep 2025 09:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/4a73f11a-02ef-438b-bea7-a1bd196e4123.mp3?_=1756998790" length="2010802" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Une femme surprise par un inconnu, deux mamies belges à l'arrêt de bus ou encore l'homme de l'Elysée... Découvrez les 3 histoires drôles du jour ! 
+
+
+
+Tous les jours, en podcast, retrouvez une compilation des 3 meilleures blagues de vos Grosses Têtes préférées.
+
+
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Une femme surprise par un inconnu, deux mamies belges à l'arrêt de bus ou encore l'homme de l'Elysée... Découvrez les 3 histoires drôles du jour ! 
+
+
+
+Tous les jours, en podcast, retrouvez une compilation des 3 meilleures blagues de vos Grosses Têtes préférées.
+
+
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Une femme surprise par un inconnu, deux mamies belges à l'arrêt de bus ou encore l'homme de l'Elysée... Découvrez les 3 histoires drôles du jour ! 
+
+
+
+Tous les jours, en podcast, retrouvez une compilation des 3 meilleures blagues de vos Grosses Têtes préfér...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>02:05</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/4bca311c-7a84-4043-b631-b981db74db4e.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/4bca311c-7a84-4043-b631-b981db74db4e.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/LqxqXun</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>ARCHIVE - La blague de Vincent Perrot</title>
       <guid isPermaLink="false">60de1c88-def5-435e-9611-7803d06b1a07</guid>
