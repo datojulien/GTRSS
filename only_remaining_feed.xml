@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Sun, 07 Sep 2025 04:53:11 GMT</lastBuildDate>
-    <pubDate>Sun, 07 Sep 2025 04:53:11 GMT</pubDate>
+    <lastBuildDate>Sun, 07 Sep 2025 16:53:05 GMT</lastBuildDate>
+    <pubDate>Sun, 07 Sep 2025 16:53:05 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,35 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/KxAcscK</ns3:txt>
+    <item>
+      <title>Les Grosses Têtes du 07 septembre 2025</title>
+      <guid isPermaLink="false">c2c0a62e-a995-4b39-a301-ed178b8baa98</guid>
+      <description>Ecoutez Les Grosses Têtes avec Laurent Ruquier du 07 septembre 2025.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Ecoutez Les Grosses Têtes avec Laurent Ruquier du 07 septembre 2025.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Sun, 07 Sep 2025 16:42:48 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/c2c0a62e-a995-4b39-a301-ed178b8baa98.mp3?_=1757263390" length="88811260" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Ecoutez Les Grosses Têtes avec Laurent Ruquier du 07 septembre 2025.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Ecoutez Les Grosses Têtes avec Laurent Ruquier du 07 septembre 2025.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Ecoutez Les Grosses Têtes avec Laurent Ruquier du 07 septembre 2025.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>01:32:30</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/d412f9cf-ca55-4a3b-8a03-b8dd85caa47b.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/d412f9cf-ca55-4a3b-8a03-b8dd85caa47b.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/aIgQEZc</ns3:txt>
+      <itunes:keywords>divertissement,humour,Laurent Ruquier,culture,replay intégral</itunes:keywords>
+    </item>
     <item>
       <title>QUE DU BLUFF - Christophe Beaugrand affronte Michèle Bernier et Sébastien Thoen</title>
       <guid isPermaLink="false">9196a6c3-3ebb-4f9a-81be-a10fef79c83d</guid>
