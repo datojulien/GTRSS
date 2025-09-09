@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Tue, 09 Sep 2025 16:31:00 GMT</lastBuildDate>
-    <pubDate>Tue, 09 Sep 2025 16:31:00 GMT</pubDate>
+    <lastBuildDate>Tue, 09 Sep 2025 16:55:30 GMT</lastBuildDate>
+    <pubDate>Tue, 09 Sep 2025 16:55:30 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,47 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/KxAcscK</ns3:txt>
+    <item>
+      <title>PÉPITE - Le meilleur de l'émission du 9 septembre 2025</title>
+      <guid isPermaLink="false">8057bf57-56a0-4051-8f50-e3655adab683</guid>
+      <description>Christophe Barbier écœure Alexis Tramoni, la blague de Michèle Bernier, Marc-Antoine Le Bret qui fait les cartons de François Bayrou... Retrouvez dans ce podcast le meilleur de l'émission du mercredi 9 septembre 2025.
+
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Christophe Barbier écœure Alexis Tramoni, la blague de Michèle Bernier, Marc-Antoine Le Bret qui fait les cartons de François Bayrou... Retrouvez dans ce podcast le meilleur de l'émission du mercredi 9 septembre 2025.
+
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Tue, 09 Sep 2025 15:59:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/8057bf57-56a0-4051-8f50-e3655adab683.mp3?_=1757434392" length="11757714" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Christophe Barbier écœure Alexis Tramoni, la blague de Michèle Bernier, Marc-Antoine Le Bret qui fait les cartons de François Bayrou... Retrouvez dans ce podcast le meilleur de l'émission du mercredi 9 septembre 2025.
+
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Christophe Barbier écœure Alexis Tramoni, la blague de Michèle Bernier, Marc-Antoine Le Bret qui fait les cartons de François Bayrou... Retrouvez dans ce podcast le meilleur de l'émission du mercredi 9 septembre 2025.
+
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Christophe Barbier écœure Alexis Tramoni, la blague de Michèle Bernier, Marc-Antoine Le Bret qui fait les cartons de François Bayrou... Retrouvez dans ce podcast le meilleur de l'émission du mercredi 9 septembre 2025.
+
+
+Retrouvez tous les jours le meilleur des Gr...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>12:14</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/b5e862ea-cd1e-4904-879f-4db9ab85cf86.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/b5e862ea-cd1e-4904-879f-4db9ab85cf86.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>IMITATIONS - Bayrou, Macron, Bern... L'actualité vue par Marc-Antoine Le Bret</title>
       <guid isPermaLink="false">06a993b3-c2a1-43cd-aca9-0d3c425f0fe1</guid>
