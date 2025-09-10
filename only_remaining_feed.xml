@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Tue, 09 Sep 2025 23:53:24 GMT</lastBuildDate>
-    <pubDate>Tue, 09 Sep 2025 23:53:24 GMT</pubDate>
+    <lastBuildDate>Wed, 10 Sep 2025 09:25:19 GMT</lastBuildDate>
+    <pubDate>Wed, 10 Sep 2025 09:25:19 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,49 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/KxAcscK</ns3:txt>
+    <item>
+      <title>BLAGUE - Les histoires drôles du mercredi 10 septembre 2025</title>
+      <guid isPermaLink="false">6d0cc0bd-b35d-4fcd-9caf-d370a29b9f7d</guid>
+      <description>Sherlock Holmes et Watson campent dans la forêt, un homme supplie Saint-Pierre de le réincarner en poule, et un unibrassiste teste une prothèse à reconnaissance vocale... Découvrez les 3 histoires drôles du jour !
+
+&lt;i&gt;Tous les jours, en podcast, retrouvez une compilation des 3 meilleures blagues de vos Grosses Têtes préférées.
+&lt;/i&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Sherlock Holmes et Watson campent dans la forêt, un homme supplie Saint-Pierre de le réincarner en poule, et un unibrassiste teste une prothèse à reconnaissance vocale... Découvrez les 3 histoires drôles du jour !
+
+&lt;i&gt;Tous les jours, en podcast, retrouvez une compilation des 3 meilleures blagues de vos Grosses Têtes préférées.
+&lt;/i&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Wed, 10 Sep 2025 09:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/6d0cc0bd-b35d-4fcd-9caf-d370a29b9f7d.mp3?_=1757432881" length="3357173" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Sherlock Holmes et Watson campent dans la forêt, un homme supplie Saint-Pierre de le réincarner en poule, et un unibrassiste teste une prothèse à reconnaissance vocale... Découvrez les 3 histoires drôles du jour !
+
+Tous les jours, en podcast, retrouvez une compilation des 3 meilleures blagues de vos Grosses Têtes préférées.
+
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Sherlock Holmes et Watson campent dans la forêt, un homme supplie Saint-Pierre de le réincarner en poule, et un unibrassiste teste une prothèse à reconnaissance vocale... Découvrez les 3 histoires drôles du jour !
+
+Tous les jours, en podcast, retrouvez une compilation des 3 meilleures blagues de vos Grosses Têtes préférées.
+
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Sherlock Holmes et Watson campent dans la forêt, un homme supplie Saint-Pierre de le réincarner en poule, et un unibrassiste teste une prothèse à reconnaissance vocale... Découvrez les 3 histoires drôles du jour !
+
+Tous les jours, en podcast, retrouvez une compi...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>03:29</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/b92ee75f-d206-455c-a7c1-f0133e488275.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/b92ee75f-d206-455c-a7c1-f0133e488275.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/cUpXooI</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>ARCHIVE - La blague de Pierre Bellemare</title>
       <guid isPermaLink="false">b7bf9516-915c-4f37-b9c1-43403c6ad43c</guid>
