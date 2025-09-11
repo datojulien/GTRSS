@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Thu, 11 Sep 2025 09:25:22 GMT</lastBuildDate>
-    <pubDate>Thu, 11 Sep 2025 09:25:22 GMT</pubDate>
+    <lastBuildDate>Thu, 11 Sep 2025 13:53:04 GMT</lastBuildDate>
+    <pubDate>Thu, 11 Sep 2025 13:53:04 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,37 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/KxAcscK</ns3:txt>
+    <item>
+      <title>INÉDIT - Côté coulisses : Coeur de pirate se confie avant l'émission</title>
+      <guid isPermaLink="false">77c050f9-046a-4678-b44e-dcea79c420ec</guid>
+      <description>Du lundi au vendredi, dans un podcast inédit, l'invité(e) du jour se confie au micro de RTL avant même son passage dans l'émission ! L'occasion d'en apprendre un peu plus sur elle, sur ses projets et sur ses souvenirs de l'émission "Les Grosses Têtes".
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Du lundi au vendredi, dans un podcast inédit, l'invité(e) du jour se confie au micro de RTL avant même son passage dans l'émission ! L'occasion d'en apprendre un peu plus sur elle, sur ses projets et sur ses souvenirs de l'émission "Les Grosses Têtes".
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Thu, 11 Sep 2025 12:30:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/77c050f9-046a-4678-b44e-dcea79c420ec.mp3?_=1757598181" length="4729378" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Du lundi au vendredi, dans un podcast inédit, l'invité(e) du jour se confie au micro de RTL avant même son passage dans l'émission ! L'occasion d'en apprendre un peu plus sur elle, sur ses projets et sur ses souvenirs de l'émission "Les Grosses Têtes".
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Du lundi au vendredi, dans un podcast inédit, l'invité(e) du jour se confie au micro de RTL avant même son passage dans l'émission ! L'occasion d'en apprendre un peu plus sur elle, sur ses projets et sur ses souvenirs de l'émission "Les Grosses Têtes".
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Julien Bonneau</itunes:author>
+      <author>Julien Bonneau</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Du lundi au vendredi, dans un podcast inédit, l'invité(e) du jour se confie au micro de RTL avant même son passage dans l'émission ! L'occasion d'en apprendre un peu plus sur elle, sur ses projets et sur ses souvenirs de l'émission "Les Grosses Têtes".
+Retrouvez t...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>04:55</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/2dd5c77d-3d4f-4601-a8e3-1f39d20f02b0.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/2dd5c77d-3d4f-4601-a8e3-1f39d20f02b0.jpg" />
+      <ns3:person role="host">Julien Bonneau</ns3:person>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>BLAGUE - Les histoires drôles du jeudi 11 septembre 2025</title>
       <guid isPermaLink="false">c3f5c838-539e-4c1d-a73f-ee3d09cec5d2</guid>
