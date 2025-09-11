@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Thu, 11 Sep 2025 01:54:28 GMT</lastBuildDate>
-    <pubDate>Thu, 11 Sep 2025 01:54:28 GMT</pubDate>
+    <lastBuildDate>Thu, 11 Sep 2025 09:25:22 GMT</lastBuildDate>
+    <pubDate>Thu, 11 Sep 2025 09:25:22 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,44 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/KxAcscK</ns3:txt>
+    <item>
+      <title>BLAGUE - Les histoires drôles du jeudi 11 septembre 2025</title>
+      <guid isPermaLink="false">c3f5c838-539e-4c1d-a73f-ee3d09cec5d2</guid>
+      <description>Un militaire perd toute sa famille dans un accident, un perroquet avec l'accent marseillais, et un homme souvent soûl a une technique infaillible pour masquer la mauvaise haleine... Découvrez les 3 histoires drôles du jour !
+&lt;i&gt;Tous les jours, en podcast, retrouvez une compilation des 3 meilleures blagues de vos Grosses Têtes préférées.
+&lt;/i&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Un militaire perd toute sa famille dans un accident, un perroquet avec l'accent marseillais, et un homme souvent soûl a une technique infaillible pour masquer la mauvaise haleine... Découvrez les 3 histoires drôles du jour !
+&lt;i&gt;Tous les jours, en podcast, retrouvez une compilation des 3 meilleures blagues de vos Grosses Têtes préférées.
+&lt;/i&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Thu, 11 Sep 2025 09:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/c3f5c838-539e-4c1d-a73f-ee3d09cec5d2.mp3?_=1757433180" length="3192511" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Un militaire perd toute sa famille dans un accident, un perroquet avec l'accent marseillais, et un homme souvent soûl a une technique infaillible pour masquer la mauvaise haleine... Découvrez les 3 histoires drôles du jour !
+Tous les jours, en podcast, retrouvez une compilation des 3 meilleures blagues de vos Grosses Têtes préférées.
+
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Un militaire perd toute sa famille dans un accident, un perroquet avec l'accent marseillais, et un homme souvent soûl a une technique infaillible pour masquer la mauvaise haleine... Découvrez les 3 histoires drôles du jour !
+Tous les jours, en podcast, retrouvez une compilation des 3 meilleures blagues de vos Grosses Têtes préférées.
+
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Un militaire perd toute sa famille dans un accident, un perroquet avec l'accent marseillais, et un homme souvent soûl a une technique infaillible pour masquer la mauvaise haleine... Découvrez les 3 histoires drôles du jour !
+Tous les jours, en podcast, retrouvez...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>03:19</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/e3a1a4fc-71ba-4bce-9050-be7d46b3edae.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/e3a1a4fc-71ba-4bce-9050-be7d46b3edae.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/tOjTTYu</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>ARCHIVE - La blague de Jean-Jacques Peroni</title>
       <guid isPermaLink="false">4c2bf39a-1ee4-4439-a822-f68e185da7cd</guid>
