@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Thu, 11 Sep 2025 15:53:42 GMT</lastBuildDate>
-    <pubDate>Thu, 11 Sep 2025 15:53:42 GMT</pubDate>
+    <lastBuildDate>Fri, 12 Sep 2025 01:49:57 GMT</lastBuildDate>
+    <pubDate>Fri, 12 Sep 2025 01:49:57 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,33 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/KxAcscK</ns3:txt>
+    <item>
+      <title>ARCHIVE - La blague de Carlos</title>
+      <guid isPermaLink="false">6fc66f54-6b82-4fb6-9cf6-bebea0950f94</guid>
+      <description>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast ! &lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast ! &lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Fri, 12 Sep 2025 00:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/6fc66f54-6b82-4fb6-9cf6-bebea0950f94.mp3?_=1754489582" length="1106524" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast ! 
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast ! 
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>RTL</itunes:author>
+      <author>RTL</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast ! 
+ Hébergé par Audiomeans. Visitez </itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>01:09</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/bc9b2002-f773-4f2f-a135-e711889cf25c.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/bc9b2002-f773-4f2f-a135-e711889cf25c.jpg" />
+      <ns3:txt purpose="smartlink">https://audmns.com/BnmUkHT</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>IMITATIONS - Foucault, Horn, Bigard... L'actualité vue par Marc-Antoine Le Bret</title>
       <guid isPermaLink="false">2c0f526c-bf6a-40a0-8290-ca826dea8713</guid>
@@ -196,11 +223,13 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <pubDate>Thu, 11 Sep 2025 15:59:00 GMT</pubDate>
       <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/e53a8f93-405e-49b6-904a-3175218ec499.mp3?_=1757593093" length="17345303" type="audio/mpeg" />
       <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Gaël Tchakaloff et le couple Macron, l'épilation, une auditrice contre Yoann Riou... Retrouvez dans ce podcast le meilleur de l'émission du jeudi 10 septembre 2025.
+      <itunes:summary>Gaël Tchakaloff et le couple Macron, l'épilation, une auditrice contre Yoann Riou... Retrouvez dans ce podcast le meilleur de l'émission du jeudi 10 septembre 2025.
+
 Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
  Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
  </itunes:summary>
-      <ns2:description>Gaël Tchakaloff et le couple Macron, l'épilation, une auditrice contre Yoann Riou... Retrouvez dans ce podcast le meilleur de l'émission du jeudi 10 septembre 2025.
+      <ns2:description>Gaël Tchakaloff et le couple Macron, l'épilation, une auditrice contre Yoann Riou... Retrouvez dans ce podcast le meilleur de l'émission du jeudi 10 septembre 2025.
+
 Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
  Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
  </ns2:description>
