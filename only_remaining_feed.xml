@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Fri, 12 Sep 2025 01:49:57 GMT</lastBuildDate>
-    <pubDate>Fri, 12 Sep 2025 01:49:57 GMT</pubDate>
+    <lastBuildDate>Fri, 12 Sep 2025 09:24:57 GMT</lastBuildDate>
+    <pubDate>Fri, 12 Sep 2025 09:24:57 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,58 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/KxAcscK</ns3:txt>
+    <item>
+      <title>BLAGUE - Les histoires drôles du 12 septembre 2025</title>
+      <guid isPermaLink="false">1c2cb8cb-fbf0-4d0f-ba90-effbe05f2e4c</guid>
+      <description>Un diable sur le clocher de l'église, un cortège funéraire bien particulier et le cochon qui sait compter... Découvrez les 3 histoires drôles du jour !
+
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Un diable sur le clocher de l'église, un cortège funéraire bien particulier et le cochon qui sait compter... Découvrez les 3 histoires drôles du jour !
+
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Fri, 12 Sep 2025 09:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/1c2cb8cb-fbf0-4d0f-ba90-effbe05f2e4c.mp3?_=1757605081" length="3384200" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Un diable sur le clocher de l'église, un cortège funéraire bien particulier et le cochon qui sait compter... Découvrez les 3 histoires drôles du jour !
+
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+
+
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Un diable sur le clocher de l'église, un cortège funéraire bien particulier et le cochon qui sait compter... Découvrez les 3 histoires drôles du jour !
+
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+
+
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Un diable sur le clocher de l'église, un cortège funéraire bien particulier et le cochon qui sait compter... Découvrez les 3 histoires drôles du jour !
+
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+
+</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>03:31</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/0fbaa79b-8fce-4123-8c38-3ee839be2383.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/0fbaa79b-8fce-4123-8c38-3ee839be2383.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/osJNvHo</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>ARCHIVE - La blague de Carlos</title>
       <guid isPermaLink="false">6fc66f54-6b82-4fb6-9cf6-bebea0950f94</guid>
