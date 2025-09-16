@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Tue, 16 Sep 2025 09:27:52 GMT</lastBuildDate>
-    <pubDate>Tue, 16 Sep 2025 09:27:52 GMT</pubDate>
+    <lastBuildDate>Tue, 16 Sep 2025 12:51:34 GMT</lastBuildDate>
+    <pubDate>Tue, 16 Sep 2025 12:51:34 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,38 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/KxAcscK</ns3:txt>
+    <item>
+      <title>INÉDIT - Côté coulisses : avec "Soleil bleu", Luiza est le carton de l'été</title>
+      <guid isPermaLink="false">d06a9fa8-7816-40b1-9846-1b4f16666aef</guid>
+      <description>Invitée des Grosses Têtes du jour, Luiza est venue interpréter en live sur RTL son tube de l'été "Soleil bleu". Après son passage enregistré, elle s'est confiée à Julien Bonneau.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Invitée des Grosses Têtes du jour, Luiza est venue interpréter en live sur RTL son tube de l'été "Soleil bleu". Après son passage enregistré, elle s'est confiée à Julien Bonneau.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Tue, 16 Sep 2025 12:30:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/d06a9fa8-7816-40b1-9846-1b4f16666aef.mp3?_=1758023580" length="2555449" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Invitée des Grosses Têtes du jour, Luiza est venue interpréter en live sur RTL son tube de l'été "Soleil bleu". Après son passage enregistré, elle s'est confiée à Julien Bonneau.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Invitée des Grosses Têtes du jour, Luiza est venue interpréter en live sur RTL son tube de l'été "Soleil bleu". Après son passage enregistré, elle s'est confiée à Julien Bonneau.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Julien Bonneau</itunes:author>
+      <author>Julien Bonneau</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Invitée des Grosses Têtes du jour, Luiza est venue interpréter en live sur RTL son tube de l'été "Soleil bleu". Après son passage enregistré, elle s'est confiée à Julien Bonneau.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'appl...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>02:39</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/9e33104e-148d-4984-96b4-47068c8738eb.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/9e33104e-148d-4984-96b4-47068c8738eb.jpg" />
+      <ns3:person role="host">Julien Bonneau</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/BqDgJOZ</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>BLAGUE - Les histoires drôles du lundi 16 septembre 2025</title>
       <guid isPermaLink="false">6f9723ce-ef84-4553-9f6a-e1bcfdc0dd05</guid>
