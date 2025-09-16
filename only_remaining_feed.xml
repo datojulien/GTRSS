@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Mon, 15 Sep 2025 23:53:16 GMT</lastBuildDate>
-    <pubDate>Mon, 15 Sep 2025 23:53:16 GMT</pubDate>
+    <lastBuildDate>Tue, 16 Sep 2025 09:27:52 GMT</lastBuildDate>
+    <pubDate>Tue, 16 Sep 2025 09:27:52 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,49 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/KxAcscK</ns3:txt>
+    <item>
+      <title>BLAGUE - Les histoires drôles du lundi 16 septembre 2025</title>
+      <guid isPermaLink="false">6f9723ce-ef84-4553-9f6a-e1bcfdc0dd05</guid>
+      <description>Trois garçons comparent leur papa, un vieille homme demande à une jeune femme s'il peut lui toucher les seins, et un gendarme arrête un conducteur ivre et un peu trop honnête... Découvrez les 3 histoires drôles du jour !
+
+&lt;i&gt;Tous les jours, en podcast, retrouvez une compilation des 3 meilleures blagues de vos Grosses Têtes préférées.
+&lt;/i&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Trois garçons comparent leur papa, un vieille homme demande à une jeune femme s'il peut lui toucher les seins, et un gendarme arrête un conducteur ivre et un peu trop honnête... Découvrez les 3 histoires drôles du jour !
+
+&lt;i&gt;Tous les jours, en podcast, retrouvez une compilation des 3 meilleures blagues de vos Grosses Têtes préférées.
+&lt;/i&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Tue, 16 Sep 2025 09:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/6f9723ce-ef84-4553-9f6a-e1bcfdc0dd05.mp3?_=1757950980" length="1931940" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Trois garçons comparent leur papa, un vieille homme demande à une jeune femme s'il peut lui toucher les seins, et un gendarme arrête un conducteur ivre et un peu trop honnête... Découvrez les 3 histoires drôles du jour !
+
+Tous les jours, en podcast, retrouvez une compilation des 3 meilleures blagues de vos Grosses Têtes préférées.
+
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Trois garçons comparent leur papa, un vieille homme demande à une jeune femme s'il peut lui toucher les seins, et un gendarme arrête un conducteur ivre et un peu trop honnête... Découvrez les 3 histoires drôles du jour !
+
+Tous les jours, en podcast, retrouvez une compilation des 3 meilleures blagues de vos Grosses Têtes préférées.
+
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Trois garçons comparent leur papa, un vieille homme demande à une jeune femme s'il peut lui toucher les seins, et un gendarme arrête un conducteur ivre et un peu trop honnête... Découvrez les 3 histoires drôles du jour !
+
+Tous les jours, en podcast, retrouvez un...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>02:00</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/0147d768-b7ce-4b0a-bd9a-fbc87eb9b26b.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/0147d768-b7ce-4b0a-bd9a-fbc87eb9b26b.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/dMOhIRr</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>ARCHIVE - La blague de Jacques Mailhot</title>
       <guid isPermaLink="false">3264ca34-c762-488f-8d81-578fccd6a7cb</guid>
