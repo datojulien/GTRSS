@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Thu, 18 Sep 2025 09:25:50 GMT</lastBuildDate>
-    <pubDate>Thu, 18 Sep 2025 09:25:50 GMT</pubDate>
+    <lastBuildDate>Thu, 18 Sep 2025 15:53:46 GMT</lastBuildDate>
+    <pubDate>Thu, 18 Sep 2025 15:53:46 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,135 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/KxAcscK</ns3:txt>
+    <item>
+      <title>IMITATIONS - Bachelot, Macron, Cassel,... L'actualité vue par Marc-Antoine Le Bret</title>
+      <guid isPermaLink="false">f6b496e9-8067-425c-b3dc-10acb30cc4f8</guid>
+      <description>Dans l'émission du 18 septembre 2025, Marc-Antoine Le Bret a notamment imité Emmanuel Macron, Roselyne Bachelot et Vincent Cassel !
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Dans l'émission du 18 septembre 2025, Marc-Antoine Le Bret a notamment imité Emmanuel Macron, Roselyne Bachelot et Vincent Cassel !
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Thu, 18 Sep 2025 15:52:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/f6b496e9-8067-425c-b3dc-10acb30cc4f8.mp3?_=1758209883" length="6563614" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Dans l'émission du 18 septembre 2025, Marc-Antoine Le Bret a notamment imité Emmanuel Macron, Roselyne Bachelot et Vincent Cassel !
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Dans l'émission du 18 septembre 2025, Marc-Antoine Le Bret a notamment imité Emmanuel Macron, Roselyne Bachelot et Vincent Cassel !
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Dans l'émission du 18 septembre 2025, Marc-Antoine Le Bret a notamment imité Emmanuel Macron, Roselyne Bachelot et Vincent Cassel !
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. ...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>06:50</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/0f40019f-3069-4821-9ce6-509ac568ea1d.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/0f40019f-3069-4821-9ce6-509ac568ea1d.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
+    <item>
+      <title>FAKE NEWS - Jeudi 18 septembre 2025</title>
+      <guid isPermaLink="false">52de84b5-e541-4337-b7db-9391fa83214c</guid>
+      <description>Et vous, saurez-vous démêler le vrai du faux ?
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Et vous, saurez-vous démêler le vrai du faux ?
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Thu, 18 Sep 2025 15:55:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/52de84b5-e541-4337-b7db-9391fa83214c.mp3?_=1758201781" length="4800781" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Et vous, saurez-vous démêler le vrai du faux ?
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Et vous, saurez-vous démêler le vrai du faux ?
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Et vous, saurez-vous démêler le vrai du faux ?
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.f...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>04:59</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/91dab0c6-c7a3-494f-8ff8-ab6b251beb05.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/91dab0c6-c7a3-494f-8ff8-ab6b251beb05.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/lpEHoOd</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
+    <item>
+      <title>PÉPITE - Qui est la meilleure Grosses Têtes du jour ?</title>
+      <guid isPermaLink="false">f7cb1e4f-0680-4e5d-ba4b-b60645ac6853</guid>
+      <description>C'est une nouvelle séquence dans l'émission ! Chaque jour, un auditeur/une auditrice est invité(e) à miser sur la "meilleure Grosse Tête du jour". Les personnalités présentes autour de la table répondent à des questions d'actualité. La dernière Grosse Tête qui continue de répondre à toutes les questions est élue "meilleure Grosse Tête du jour".
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>C'est une nouvelle séquence dans l'émission ! Chaque jour, un auditeur/une auditrice est invité(e) à miser sur la "meilleure Grosse Tête du jour". Les personnalités présentes autour de la table répondent à des questions d'actualité. La dernière Grosse Tête qui continue de répondre à toutes les questions est élue "meilleure Grosse Tête du jour".
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Thu, 18 Sep 2025 15:56:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/f7cb1e4f-0680-4e5d-ba4b-b60645ac6853.mp3?_=1758202682" length="10180169" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>C'est une nouvelle séquence dans l'émission ! Chaque jour, un auditeur/une auditrice est invité(e) à miser sur la "meilleure Grosse Tête du jour". Les personnalités présentes autour de la table répondent à des questions d'actualité. La dernière Grosse Tête qui continue de répondre à toutes les questions est élue "meilleure Grosse Tête du jour".
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>C'est une nouvelle séquence dans l'émission ! Chaque jour, un auditeur/une auditrice est invité(e) à miser sur la "meilleure Grosse Tête du jour". Les personnalités présentes autour de la table répondent à des questions d'actualité. La dernière Grosse Tête qui continue de répondre à toutes les questions est élue "meilleure Grosse Tête du jour".
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>C'est une nouvelle séquence dans l'émission ! Chaque jour, un auditeur/une auditrice est invité(e) à miser sur la "meilleure Grosse Tête du jour". Les personnalités présentes autour de la table répondent à des questions d'actualité. La dernière Grosse Tête qui cont...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>10:36</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/d77b2ddc-a244-4932-b3d0-4cb101d443ad.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/d77b2ddc-a244-4932-b3d0-4cb101d443ad.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/tGIjOqi</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
+    <item>
+      <title>PÉPITE - Les Grosses Têtes répondent aux auditeurs</title>
+      <guid isPermaLink="false">2ca98e3b-02f8-43bc-b19b-1e95b8eb474b</guid>
+      <description>Et vous, saurez-vous démêler le vrai du faux ?
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Et vous, saurez-vous démêler le vrai du faux ?
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Thu, 18 Sep 2025 15:57:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/2ca98e3b-02f8-43bc-b19b-1e95b8eb474b.mp3?_=1758202081" length="7097114" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Et vous, saurez-vous démêler le vrai du faux ?
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Et vous, saurez-vous démêler le vrai du faux ?
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Et vous, saurez-vous démêler le vrai du faux ?
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.f...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>07:23</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/f9978fd9-1caf-4330-849e-e11aa29dc099.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/f9978fd9-1caf-4330-849e-e11aa29dc099.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/EdLfOIs</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>BLAGUE - Les histoires drôles du jeudi 18 septembre 2025</title>
       <guid isPermaLink="false">84d9a2a5-e828-4552-b8e4-7c0d827ab16e</guid>
