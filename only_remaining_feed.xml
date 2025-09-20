@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Sat, 20 Sep 2025 16:53:17 GMT</lastBuildDate>
-    <pubDate>Sat, 20 Sep 2025 16:53:17 GMT</pubDate>
+    <lastBuildDate>Sat, 20 Sep 2025 19:53:19 GMT</lastBuildDate>
+    <pubDate>Sat, 20 Sep 2025 19:53:19 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,43 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/KxAcscK</ns3:txt>
+    <item>
+      <title>QUE DU BLUFF - Sébastien Thoen affronte Christophe Beaugrand et Michèle Bernier</title>
+      <guid isPermaLink="false">407a33dc-f3a0-4ec6-b945-ab84562d9ae5</guid>
+      <description>INÉDIT - Découvrez "Que du Bluff", le grand concours d'anecdotes des Grosses Têtes ! Chaque dimanche, un nouvel épisode voit s'affronter 3 sociétaires de l'émission. Dans ce troisième numéro, Sébastien Thoen fait face à Michèle Bernier et Christophe Beaugrand. Il dévoile 3 histoires marquantes de sa vie, mais une seule est vraie. Laquelle ?
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>INÉDIT - Découvrez "Que du Bluff", le grand concours d'anecdotes des Grosses Têtes ! Chaque dimanche, un nouvel épisode voit s'affronter 3 sociétaires de l'émission. Dans ce troisième numéro, Sébastien Thoen fait face à Michèle Bernier et Christophe Beaugrand. Il dévoile 3 histoires marquantes de sa vie, mais une seule est vraie. Laquelle ?
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Sat, 20 Sep 2025 19:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/407a33dc-f3a0-4ec6-b945-ab84562d9ae5.mp3?_=1758099482" length="13877428" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>INÉDIT - Découvrez "Que du Bluff", le grand concours d'anecdotes des Grosses Têtes ! Chaque dimanche, un nouvel épisode voit s'affronter 3 sociétaires de l'émission. Dans ce troisième numéro, Sébastien Thoen fait face à Michèle Bernier et Christophe Beaugrand. Il dévoile 3 histoires marquantes de sa vie, mais une seule est vraie. Laquelle ?
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>INÉDIT - Découvrez "Que du Bluff", le grand concours d'anecdotes des Grosses Têtes ! Chaque dimanche, un nouvel épisode voit s'affronter 3 sociétaires de l'émission. Dans ce troisième numéro, Sébastien Thoen fait face à Michèle Bernier et Christophe Beaugrand. Il dévoile 3 histoires marquantes de sa vie, mais une seule est vraie. Laquelle ?
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>INÉDIT - Découvrez "Que du Bluff", le grand concours d'anecdotes des Grosses Têtes ! Chaque dimanche, un nouvel épisode voit s'affronter 3 sociétaires de l'émission. Dans ce troisième numéro, Sébastien Thoen fait face à Michèle Bernier et Christophe Beaugrand. Il d...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>14:27</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/56da3f8b-7253-406c-816c-a8f6d1d6219c.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/56da3f8b-7253-406c-816c-a8f6d1d6219c.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/BhayuIG</ns3:txt>
+      <itunes:keywords>concours,grosses têtes,Michèle BERNIER,Christophe Beaugrand,Sébastien Thoen</itunes:keywords>
+    </item>
     <item>
       <title>Les Grosses Têtes du 20 septembre 2025</title>
       <guid isPermaLink="false">c8711a61-6985-49b8-b74f-e7ac212ab918</guid>
