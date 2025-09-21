@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Sun, 21 Sep 2025 02:02:14 GMT</lastBuildDate>
-    <pubDate>Sun, 21 Sep 2025 02:02:14 GMT</pubDate>
+    <lastBuildDate>Sun, 21 Sep 2025 17:19:02 GMT</lastBuildDate>
+    <pubDate>Sun, 21 Sep 2025 17:19:02 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,33 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/KxAcscK</ns3:txt>
+    <item>
+      <title>JOURNAL INNATENDU - Laurent Ruquier invité de Stéphane Boudsocq</title>
+      <guid isPermaLink="false">87c6dc95-2dbf-4452-905b-3a367ffc5918</guid>
+      <description>L'animateur des "Grosses Têtes" était l'invité de Stéphane Boudsocq ce 20 septembre. "L'expérience théâtrale", la nouvelle comédie signée Laurent Ruquier, débarque au théâtre de la Michodière à partir du mercredi 24 septembre. À l'affiche : François Berléand et Max Boublil.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>L'animateur des "Grosses Têtes" était l'invité de Stéphane Boudsocq ce 20 septembre. "L'expérience théâtrale", la nouvelle comédie signée Laurent Ruquier, débarque au théâtre de la Michodière à partir du mercredi 24 septembre. À l'affiche : François Berléand et Max Boublil.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Sat, 20 Sep 2025 23:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/87c6dc95-2dbf-4452-905b-3a367ffc5918.mp3?_=1758472985" length="45446367" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>L'animateur des "Grosses Têtes" était l'invité de Stéphane Boudsocq ce 20 septembre. "L'expérience théâtrale", la nouvelle comédie signée Laurent Ruquier, débarque au théâtre de la Michodière à partir du mercredi 24 septembre. À l'affiche : François Berléand et Max Boublil.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>L'animateur des "Grosses Têtes" était l'invité de Stéphane Boudsocq ce 20 septembre. "L'expérience théâtrale", la nouvelle comédie signée Laurent Ruquier, débarque au théâtre de la Michodière à partir du mercredi 24 septembre. À l'affiche : François Berléand et Max Boublil.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Stéphane Boudsocq</itunes:author>
+      <author>Stéphane Boudsocq</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>L'animateur des "Grosses Têtes" était l'invité de Stéphane Boudsocq ce 20 septembre. "L'expérience théâtrale", la nouvelle comédie signée Laurent Ruquier, débarque au théâtre de la Michodière à partir du mercredi 24 septembre. À l'affiche : François Berléand et Max...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>47:20</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/18b7ff0c-12d3-419a-99a4-82c25bb0a691.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/18b7ff0c-12d3-419a-99a4-82c25bb0a691.jpg" />
+      <ns3:person role="host">Stéphane Boudsocq</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/IshqumG</ns3:txt>
+      <itunes:keywords>info,interview,replay intégral</itunes:keywords>
+    </item>
     <item>
       <title>ARCHIVE - La blague de Carlos</title>
       <guid isPermaLink="false">03e3a261-9260-4aa3-abd4-f52db7c4c337</guid>
