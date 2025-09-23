@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Mon, 22 Sep 2025 16:31:34 GMT</lastBuildDate>
-    <pubDate>Mon, 22 Sep 2025 16:31:34 GMT</pubDate>
+    <lastBuildDate>Tue, 23 Sep 2025 01:52:03 GMT</lastBuildDate>
+    <pubDate>Tue, 23 Sep 2025 01:52:03 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,33 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/KxAcscK</ns3:txt>
+    <item>
+      <title>ARCHIVE : La blague d'Amanda Lear</title>
+      <guid isPermaLink="false">4e3fd501-8254-4a10-a8c8-b4bec2701e55</guid>
+      <description>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast ! &lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast ! &lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Tue, 23 Sep 2025 00:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/4e3fd501-8254-4a10-a8c8-b4bec2701e55.mp3?_=1754986686" length="1119484" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast ! 
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast ! 
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>RTL</itunes:author>
+      <author>RTL</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast ! 
+ Hébergé par Audiomeans. Visitez </itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>01:09</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/9714ed9c-b873-4723-a625-5aeeeeb7c448.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/9714ed9c-b873-4723-a625-5aeeeeb7c448.jpg" />
+      <ns3:txt purpose="smartlink">https://audmns.com/LOTbubX</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>PÉPITE - Qui est la meilleure Grosse Tête du jour ?</title>
       <guid isPermaLink="false">7d913836-b321-4513-a045-96ea44de3814</guid>
