@@ -7,8 +7,8 @@
     <description>Tous les épisodes de L'Intégrale de 'Les Grosses Têtes', regroupant la diffusion complète sans coupures ni extras.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Tue, 23 Sep 2025 16:31:12 GMT</lastBuildDate>
-    <pubDate>Tue, 23 Sep 2025 16:31:12 GMT</pubDate>
+    <lastBuildDate>Wed, 24 Sep 2025 16:31:59 GMT</lastBuildDate>
+    <pubDate>Wed, 24 Sep 2025 16:31:59 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,75 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/KxAcscK</ns3:txt>
+    <item>
+      <title>DÉBRIEF - Sébastien Thoen veut retourner à Metz !</title>
+      <guid isPermaLink="false">95ab96fb-4f70-47b5-acea-fa8228fcd1bc</guid>
+      <description>À la fin de chaque émission, retrouvez en exclusivité sur les plateformes de podcast le débrief des 2h30 d'antenne qui viennent de s'écouler, en compagnie d'une des Grosses Têtes du jour... Ce 24 septembre 2025, Sébastien Thoen s'est confié au micro de Rachel Azria.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>À la fin de chaque émission, retrouvez en exclusivité sur les plateformes de podcast le débrief des 2h30 d'antenne qui viennent de s'écouler, en compagnie d'une des Grosses Têtes du jour... Ce 24 septembre 2025, Sébastien Thoen s'est confié au micro de Rachel Azria.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Wed, 24 Sep 2025 16:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/95ab96fb-4f70-47b5-acea-fa8228fcd1bc.mp3?_=1758719884" length="9474456" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>À la fin de chaque émission, retrouvez en exclusivité sur les plateformes de podcast le débrief des 2h30 d'antenne qui viennent de s'écouler, en compagnie d'une des Grosses Têtes du jour... Ce 24 septembre 2025, Sébastien Thoen s'est confié au micro de Rachel Azria.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>À la fin de chaque émission, retrouvez en exclusivité sur les plateformes de podcast le débrief des 2h30 d'antenne qui viennent de s'écouler, en compagnie d'une des Grosses Têtes du jour... Ce 24 septembre 2025, Sébastien Thoen s'est confié au micro de Rachel Azria.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Rachel Azria</itunes:author>
+      <author>Rachel Azria</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>À la fin de chaque émission, retrouvez en exclusivité sur les plateformes de podcast le débrief des 2h30 d'antenne qui viennent de s'écouler, en compagnie d'une des Grosses Têtes du jour... Ce 24 septembre 2025, Sébastien Thoen s'est confié au micro de Rachel Azria...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>09:52</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/d8423afb-bf12-4f11-acda-5fd807fff6b6.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/d8423afb-bf12-4f11-acda-5fd807fff6b6.jpg" />
+      <ns3:person role="host">Rachel Azria</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/hlkWIxH</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
+    <item>
+      <title>L'INTÉGRALE - Émission du mercredi 24 septembre 2025</title>
+      <guid isPermaLink="false">9b32b72b-35ef-4825-9390-620806e495d2</guid>
+      <description>Avec Roselyne Bachelot, Isabelle Mergault, François Alu, Christophe Beaugrand, Alex Vizorek et Sébastien Thoen.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Avec Roselyne Bachelot, Isabelle Mergault, François Alu, Christophe Beaugrand, Alex Vizorek et Sébastien Thoen.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Wed, 24 Sep 2025 16:02:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/9b32b72b-35ef-4825-9390-620806e495d2.mp3?_=1758722592" length="99757127" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Avec Roselyne Bachelot, Isabelle Mergault, François Alu, Christophe Beaugrand, Alex Vizorek et Sébastien Thoen.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Avec Roselyne Bachelot, Isabelle Mergault, François Alu, Christophe Beaugrand, Alex Vizorek et Sébastien Thoen.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Avec Roselyne Bachelot, Isabelle Mergault, François Alu, Christophe Beaugrand, Alex Vizorek et Sébastien Thoen.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez </itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>01:43:54</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/6c12d82a-00ce-4a07-a4b0-b8761848c70f.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/6c12d82a-00ce-4a07-a4b0-b8761848c70f.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/gkUtNfD</ns3:txt>
+      <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>L'INTÉGRALE - Émission du mardi 23 septembre 2025</title>
       <guid isPermaLink="false">eba0ab6d-c5cc-4774-9d7f-753c2d9445cb</guid>

@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Wed, 24 Sep 2025 15:52:59 GMT</lastBuildDate>
-    <pubDate>Wed, 24 Sep 2025 15:52:59 GMT</pubDate>
+    <lastBuildDate>Wed, 24 Sep 2025 16:31:59 GMT</lastBuildDate>
+    <pubDate>Wed, 24 Sep 2025 16:31:59 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,38 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/KxAcscK</ns3:txt>
+    <item>
+      <title>PÉPITE - Le meilleur de l'émission du 24 septembre 2025</title>
+      <guid isPermaLink="false">a94baba7-8b12-44cf-889c-a280a765e145</guid>
+      <description>François Alu qui imite Brutus, les petits mots de Roselyne Bachelot, Donald Trump qui ressemble à Chuck Norris... Retrouvez dans ce podcast le meilleur de l'émission du mercredi 24 septembre 2025.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>François Alu qui imite Brutus, les petits mots de Roselyne Bachelot, Donald Trump qui ressemble à Chuck Norris... Retrouvez dans ce podcast le meilleur de l'émission du mercredi 24 septembre 2025.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Wed, 24 Sep 2025 15:59:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/a94baba7-8b12-44cf-889c-a280a765e145.mp3?_=1758722883" length="12599856" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>François Alu qui imite Brutus, les petits mots de Roselyne Bachelot, Donald Trump qui ressemble à Chuck Norris... Retrouvez dans ce podcast le meilleur de l'émission du mercredi 24 septembre 2025.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>François Alu qui imite Brutus, les petits mots de Roselyne Bachelot, Donald Trump qui ressemble à Chuck Norris... Retrouvez dans ce podcast le meilleur de l'émission du mercredi 24 septembre 2025.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>François Alu qui imite Brutus, les petits mots de Roselyne Bachelot, Donald Trump qui ressemble à Chuck Norris... Retrouvez dans ce podcast le meilleur de l'émission du mercredi 24 septembre 2025.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast s...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>13:07</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/13246816-3ea2-4514-a390-b42470bd8913.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/13246816-3ea2-4514-a390-b42470bd8913.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/GpDoAVD</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>IMITATIONS - Bayrou, Damiens, Jean-Alphonse Richard... L'actualité vue par Marc-Antoine Le Bret</title>
       <guid isPermaLink="false">ba0d2740-cbb6-4620-bd5d-0d510d8627d9</guid>
