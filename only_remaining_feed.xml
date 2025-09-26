@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Fri, 26 Sep 2025 01:53:28 GMT</lastBuildDate>
-    <pubDate>Fri, 26 Sep 2025 01:53:28 GMT</pubDate>
+    <lastBuildDate>Fri, 26 Sep 2025 08:55:39 GMT</lastBuildDate>
+    <pubDate>Fri, 26 Sep 2025 08:55:39 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,41 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/KxAcscK</ns3:txt>
+    <item>
+      <title>BLAGUE - Les histoires drôles du 26 septembre 2025</title>
+      <guid isPermaLink="false">a870af06-8252-4bf4-b124-a593588525e3</guid>
+      <description>Un handicapé demande un café crème à l'aéroport, une femme ouvre la lettre de son amant et se jette par la fenêtre, et pendant la guerre de 14-18 un soldat français a trouvé une technique infaillible pour vaincre les Allemands... Découvrez les 3 histoires drôles du jour !
+
+&lt;i&gt;Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Un handicapé demande un café crème à l'aéroport, une femme ouvre la lettre de son amant et se jette par la fenêtre, et pendant la guerre de 14-18 un soldat français a trouvé une technique infaillible pour vaincre les Allemands... Découvrez les 3 histoires drôles du jour !
+
+&lt;i&gt;Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Fri, 26 Sep 2025 09:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/a870af06-8252-4bf4-b124-a593588525e3.mp3?_=1758813780" length="1887726" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Un handicapé demande un café crème à l'aéroport, une femme ouvre la lettre de son amant et se jette par la fenêtre, et pendant la guerre de 14-18 un soldat français a trouvé une technique infaillible pour vaincre les Allemands... Découvrez les 3 histoires drôles du jour !
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Un handicapé demande un café crème à l'aéroport, une femme ouvre la lettre de son amant et se jette par la fenêtre, et pendant la guerre de 14-18 un soldat français a trouvé une technique infaillible pour vaincre les Allemands... Découvrez les 3 histoires drôles du jour !
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Un handicapé demande un café crème à l'aéroport, une femme ouvre la lettre de son amant et se jette par la fenêtre, et pendant la guerre de 14-18 un soldat français a trouvé une technique infaillible pour vaincre les Allemands... Découvrez les 3 histoires drôles du...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>01:57</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/0c63bde0-f529-4a20-a031-afa719e5e50d.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/0c63bde0-f529-4a20-a031-afa719e5e50d.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/CtyweGF</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>ARCHIVE - La blague de Carlos</title>
       <guid isPermaLink="false">27e97573-c17d-4ef9-8723-d747fb71779a</guid>
