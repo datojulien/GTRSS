@@ -7,8 +7,8 @@
     <description>Tous les épisodes de L'Intégrale de 'Les Grosses Têtes', regroupant la diffusion complète sans coupures ni extras.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Thu, 25 Sep 2025 16:30:58 GMT</lastBuildDate>
-    <pubDate>Thu, 25 Sep 2025 16:30:58 GMT</pubDate>
+    <lastBuildDate>Fri, 26 Sep 2025 15:52:59 GMT</lastBuildDate>
+    <pubDate>Fri, 26 Sep 2025 15:52:59 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,59 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/KxAcscK</ns3:txt>
+    <item>
+      <title>L'INTÉGRALE - Émission du vendredi 26 septembre 2025</title>
+      <guid isPermaLink="false">3e9338ce-57b7-4e03-b555-349b7207d13c</guid>
+      <description>Avec&amp;nbsp; Gaël Tchakaloff, Stomy Bugsy, Valérie Mairesse, Roman Doduik, Jérémy Ferrari et AZ.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+
+
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Avec&amp;nbsp; Gaël Tchakaloff, Stomy Bugsy, Valérie Mairesse, Roman Doduik, Jérémy Ferrari et AZ.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+
+
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Fri, 26 Sep 2025 16:02:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/3e9338ce-57b7-4e03-b555-349b7207d13c.mp3?_=1758897497" length="101469889" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Avec Gaël Tchakaloff, Stomy Bugsy, Valérie Mairesse, Roman Doduik, Jérémy Ferrari et AZ.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+
+
+
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Avec Gaël Tchakaloff, Stomy Bugsy, Valérie Mairesse, Roman Doduik, Jérémy Ferrari et AZ.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+
+
+
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Avec Gaël Tchakaloff, Stomy Bugsy, Valérie Mairesse, Roman Doduik, Jérémy Ferrari et AZ.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+
+
+
+ Hébergé par Audiomeans. Visitez </itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>01:45:41</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/e87e8aa3-1150-40d0-ab36-43db7a339278.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/e87e8aa3-1150-40d0-ab36-43db7a339278.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/XCzBJjn</ns3:txt>
+      <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>DÉBRIEF - Christophe Beaugrand : "on veut me faire taire"</title>
       <guid isPermaLink="false">7fe3cf9e-a07b-4921-99c8-939519de4d6d</guid>
