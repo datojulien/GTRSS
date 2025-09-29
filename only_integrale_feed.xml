@@ -7,8 +7,8 @@
     <description>Tous les épisodes de L'Intégrale de 'Les Grosses Têtes', regroupant la diffusion complète sans coupures ni extras.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Mon, 29 Sep 2025 12:53:56 GMT</lastBuildDate>
-    <pubDate>Mon, 29 Sep 2025 12:53:56 GMT</pubDate>
+    <lastBuildDate>Mon, 29 Sep 2025 16:25:15 GMT</lastBuildDate>
+    <pubDate>Mon, 29 Sep 2025 16:25:15 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,37 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/KxAcscK</ns3:txt>
+    <item>
+      <title>DÉBRIEF - Nicolas Lacroix revient sur l'émission du jour</title>
+      <guid isPermaLink="false">6e21eb3b-44b0-4382-b054-e02bb362cd94</guid>
+      <description>À la fin de chaque émission, retrouvez en exclusivité sur les plateformes de podcast le débrief des 2h30 d'antenne qui viennent de s'écouler, en compagnie d'une des Grosses Têtes du jour... Ce 29 septembre 2025, Nicolas Lacroix s'est confié au micro de Rachel Azria.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>À la fin de chaque émission, retrouvez en exclusivité sur les plateformes de podcast le débrief des 2h30 d'antenne qui viennent de s'écouler, en compagnie d'une des Grosses Têtes du jour... Ce 29 septembre 2025, Nicolas Lacroix s'est confié au micro de Rachel Azria.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Mon, 29 Sep 2025 16:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/6e21eb3b-44b0-4382-b054-e02bb362cd94.mp3?_=1759150383" length="7480805" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>À la fin de chaque émission, retrouvez en exclusivité sur les plateformes de podcast le débrief des 2h30 d'antenne qui viennent de s'écouler, en compagnie d'une des Grosses Têtes du jour... Ce 29 septembre 2025, Nicolas Lacroix s'est confié au micro de Rachel Azria.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>À la fin de chaque émission, retrouvez en exclusivité sur les plateformes de podcast le débrief des 2h30 d'antenne qui viennent de s'écouler, en compagnie d'une des Grosses Têtes du jour... Ce 29 septembre 2025, Nicolas Lacroix s'est confié au micro de Rachel Azria.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Rachel Azria</itunes:author>
+      <author>Rachel Azria</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>À la fin de chaque émission, retrouvez en exclusivité sur les plateformes de podcast le débrief des 2h30 d'antenne qui viennent de s'écouler, en compagnie d'une des Grosses Têtes du jour... Ce 29 septembre 2025, Nicolas Lacroix s'est confié au micro de Rachel Azria...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>07:47</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/f7cfa84e-5739-4ef0-96ac-76b95a6f58df.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/f7cfa84e-5739-4ef0-96ac-76b95a6f58df.jpg" />
+      <ns3:person role="host">Rachel Azria</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/iIkXqqz</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>DÉBRIEF - Gaël Tchakaloff revient sur l'émission du jour</title>
       <guid isPermaLink="false">6ed14b54-4294-4dc4-8799-a0ba252150d6</guid>
