@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Tue, 30 Sep 2025 23:53:06 GMT</lastBuildDate>
-    <pubDate>Tue, 30 Sep 2025 23:53:06 GMT</pubDate>
+    <lastBuildDate>Wed, 01 Oct 2025 04:31:29 GMT</lastBuildDate>
+    <pubDate>Wed, 01 Oct 2025 04:31:29 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,48 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/KxAcscK</ns3:txt>
+    <item>
+      <title>INÉDIT - Qui se cache derrière l'anecdote ? L'enquête de C. Beaugrand et J. Janssens</title>
+      <guid isPermaLink="false">dffbae1c-3025-4ef0-a7b6-8fa4882f2618</guid>
+      <description>Dans ce nouveau podcast, les Grosses Têtes doivent deviner à qui appartient les anecdotes qu'elles entendent avec des voix trafiquées ! Jeanfi Janssens et Christophe Beaugrand sont les premiers à jouer !&amp;nbsp;
+
+
+&lt;i&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Dans ce nouveau podcast, les Grosses Têtes doivent deviner à qui appartient les anecdotes qu'elles entendent avec des voix trafiquées ! Jeanfi Janssens et Christophe Beaugrand sont les premiers à jouer !&amp;nbsp;
+
+
+&lt;i&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Wed, 01 Oct 2025 04:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/dffbae1c-3025-4ef0-a7b6-8fa4882f2618.mp3?_=1759245772" length="3627600" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Dans ce nouveau podcast, les Grosses Têtes doivent deviner à qui appartient les anecdotes qu'elles entendent avec des voix trafiquées ! Jeanfi Janssens et Christophe Beaugrand sont les premiers à jouer ! 
+
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Dans ce nouveau podcast, les Grosses Têtes doivent deviner à qui appartient les anecdotes qu'elles entendent avec des voix trafiquées ! Jeanfi Janssens et Christophe Beaugrand sont les premiers à jouer ! 
+
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Sara Kemacha</itunes:author>
+      <author>Sara Kemacha</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Dans ce nouveau podcast, les Grosses Têtes doivent deviner à qui appartient les anecdotes qu'elles entendent avec des voix trafiquées ! Jeanfi Janssens et Christophe Beaugrand sont les premiers à jouer ! 
+
+
+Retrouvez tous les jours le meilleur des Grosses T...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>03:46</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/f86f7e08-817e-4372-93aa-d4fc4b291ea0.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/f86f7e08-817e-4372-93aa-d4fc4b291ea0.jpg" />
+      <ns3:person role="host">Sara Kemacha</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/GLwHurK</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>ARCHIVE - La blague de Jacques Balutin</title>
       <guid isPermaLink="false">082345ae-8e60-40ca-9e7b-c5cc3acd3a46</guid>
