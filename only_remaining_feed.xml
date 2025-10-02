@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Thu, 02 Oct 2025 01:51:59 GMT</lastBuildDate>
-    <pubDate>Thu, 02 Oct 2025 01:51:59 GMT</pubDate>
+    <lastBuildDate>Thu, 02 Oct 2025 08:53:58 GMT</lastBuildDate>
+    <pubDate>Thu, 02 Oct 2025 08:53:58 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,38 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/KxAcscK</ns3:txt>
+    <item>
+      <title>BLAGUE - Les histoires drôles du 2 octobre 2025</title>
+      <guid isPermaLink="false">b1cf815c-5cf7-49ef-8221-5a0a1aec3364</guid>
+      <description>Deux femmes font leurs besoins dans un cimetière, la différence entre Carine et une boule de bowling, et une fille commande un cadeau d'anniversaire pour sa sœur... Découvrez les 3 histoires drôles du jour !
+&lt;i&gt;Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Deux femmes font leurs besoins dans un cimetière, la différence entre Carine et une boule de bowling, et une fille commande un cadeau d'anniversaire pour sa sœur... Découvrez les 3 histoires drôles du jour !
+&lt;i&gt;Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Thu, 02 Oct 2025 09:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/b1cf815c-5cf7-49ef-8221-5a0a1aec3364.mp3?_=1759332482" length="2063965" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Deux femmes font leurs besoins dans un cimetière, la différence entre Carine et une boule de bowling, et une fille commande un cadeau d'anniversaire pour sa sœur... Découvrez les 3 histoires drôles du jour !
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Deux femmes font leurs besoins dans un cimetière, la différence entre Carine et une boule de bowling, et une fille commande un cadeau d'anniversaire pour sa sœur... Découvrez les 3 histoires drôles du jour !
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Deux femmes font leurs besoins dans un cimetière, la différence entre Carine et une boule de bowling, et une fille commande un cadeau d'anniversaire pour sa sœur... Découvrez les 3 histoires drôles du jour !
+Tous les jours, en podcast, retrouvez une compilation ...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>02:08</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/9c47e7b7-1e2e-4d8b-94cb-4bfa943a4ba3.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/9c47e7b7-1e2e-4d8b-94cb-4bfa943a4ba3.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/GjXvmIW</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>ARCHIVE - La blague de Pierre Bellemare</title>
       <guid isPermaLink="false">ec139b78-0ddb-460b-8ce0-624eaa7a9bca</guid>
