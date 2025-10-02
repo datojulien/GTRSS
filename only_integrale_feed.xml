@@ -7,8 +7,8 @@
     <description>Tous les épisodes de L'Intégrale de 'Les Grosses Têtes', regroupant la diffusion complète sans coupures ni extras.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Wed, 01 Oct 2025 16:31:13 GMT</lastBuildDate>
-    <pubDate>Wed, 01 Oct 2025 16:31:13 GMT</pubDate>
+    <lastBuildDate>Thu, 02 Oct 2025 16:30:06 GMT</lastBuildDate>
+    <pubDate>Thu, 02 Oct 2025 16:30:06 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,44 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/KxAcscK</ns3:txt>
+    <item>
+      <title>L'INTÉGRALE - Émission du jeudi 2 octobre 2025</title>
+      <guid isPermaLink="false">490d5721-4863-4e86-ab58-7e5c1559b2d9</guid>
+      <description>Avec Alexis Tramoni, Yoann Riou, Christine Ockrent, Christophe Beaugrand, Florian Gazan et Caroline Diament.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Avec Alexis Tramoni, Yoann Riou, Christine Ockrent, Christophe Beaugrand, Florian Gazan et Caroline Diament.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Thu, 02 Oct 2025 16:02:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/490d5721-4863-4e86-ab58-7e5c1559b2d9.mp3?_=1759411090" length="102197154" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Avec Alexis Tramoni, Yoann Riou, Christine Ockrent, Christophe Beaugrand, Florian Gazan et Caroline Diament.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Avec Alexis Tramoni, Yoann Riou, Christine Ockrent, Christophe Beaugrand, Florian Gazan et Caroline Diament.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Avec Alexis Tramoni, Yoann Riou, Christine Ockrent, Christophe Beaugrand, Florian Gazan et Caroline Diament.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez </itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>01:46:27</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/bdc7140c-ccc9-4583-bd49-cdbb633bbe18.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/bdc7140c-ccc9-4583-bd49-cdbb633bbe18.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/GrTWPKX</ns3:txt>
+      <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>DÉBRIEF - Raphael Mezrahi revient sur l'émission du jour</title>
       <guid isPermaLink="false">4be8a986-bbe8-4ffb-82d4-9a86f864bc20</guid>
