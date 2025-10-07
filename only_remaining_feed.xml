@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Mon, 06 Oct 2025 23:53:25 GMT</lastBuildDate>
-    <pubDate>Mon, 06 Oct 2025 23:53:25 GMT</pubDate>
+    <lastBuildDate>Tue, 07 Oct 2025 09:26:39 GMT</lastBuildDate>
+    <pubDate>Tue, 07 Oct 2025 09:26:39 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,38 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/KxAcscK</ns3:txt>
+    <item>
+      <title>BLAGUE - Les histoires drôles du 7 octobre 2025</title>
+      <guid isPermaLink="false">831c652a-0ce3-4b12-8fb8-ecaf74e528bf</guid>
+      <description>Un homme a un petit pénis mais une testicule énorme, une petite fille va donner son sang, et un pilote tente un looping lors de son dernier vol...&amp;nbsp; Découvrez les 3 histoires drôles du jour !
+&lt;i&gt;&lt;/i&gt;&lt;i&gt;Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Un homme a un petit pénis mais une testicule énorme, une petite fille va donner son sang, et un pilote tente un looping lors de son dernier vol...&amp;nbsp; Découvrez les 3 histoires drôles du jour !
+&lt;i&gt;&lt;/i&gt;&lt;i&gt;Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Tue, 07 Oct 2025 09:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/831c652a-0ce3-4b12-8fb8-ecaf74e528bf.mp3?_=1759762980" length="2394965" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Un homme a un petit pénis mais une testicule énorme, une petite fille va donner son sang, et un pilote tente un looping lors de son dernier vol... Découvrez les 3 histoires drôles du jour !
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Un homme a un petit pénis mais une testicule énorme, une petite fille va donner son sang, et un pilote tente un looping lors de son dernier vol... Découvrez les 3 histoires drôles du jour !
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Un homme a un petit pénis mais une testicule énorme, une petite fille va donner son sang, et un pilote tente un looping lors de son dernier vol... Découvrez les 3 histoires drôles du jour !
+Tous les jours, en podcast, retrouvez une compilation des m...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>02:29</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/137f8969-0ef7-4b79-83ce-9b7bbacfb173.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/137f8969-0ef7-4b79-83ce-9b7bbacfb173.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/MteEsfD</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>ARCHIVE - La blague de Jean-Jacques Peroni</title>
       <guid isPermaLink="false">151f7f2a-e132-4db1-9059-9d942d3285ce</guid>
