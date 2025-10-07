@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Tue, 07 Oct 2025 15:53:22 GMT</lastBuildDate>
-    <pubDate>Tue, 07 Oct 2025 15:53:22 GMT</pubDate>
+    <lastBuildDate>Tue, 07 Oct 2025 16:30:43 GMT</lastBuildDate>
+    <pubDate>Tue, 07 Oct 2025 16:30:43 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,76 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/KxAcscK</ns3:txt>
+    <item>
+      <title>PÉPITE - Les drôles de théorèmes de Fabrizio Bucella</title>
+      <guid isPermaLink="false">c8048069-e727-4e9b-919e-a6b2fc051b1c</guid>
+      <description>Fabrizio Bucella a toujours en réserve des théorèmes incompréhensibles...
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Fabrizio Bucella a toujours en réserve des théorèmes incompréhensibles...
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Tue, 07 Oct 2025 15:58:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/c8048069-e727-4e9b-919e-a6b2fc051b1c.mp3?_=1759849682" length="5887180" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Fabrizio Bucella a toujours en réserve des théorèmes incompréhensibles...
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Fabrizio Bucella a toujours en réserve des théorèmes incompréhensibles...
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Fabrizio Bucella a toujours en réserve des théorèmes incompréhensibles...
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez </itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>06:07</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/49c16457-44fe-4895-8cdd-2d1451a6ec42.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/49c16457-44fe-4895-8cdd-2d1451a6ec42.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/rLlZnSW</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
+    <item>
+      <title>PÉPITE - Le meilleur de l'émission des "Grosses Têtes" à Bruxelles</title>
+      <guid isPermaLink="false">983d2f3c-8626-4b61-ad80-4635f187cf5d</guid>
+      <description>Les théorèmes fous du professeur Bucella, Kody Kim invité spécial, les imitations de Liane Foly... Retrouvez dans ce podcast le meilleur de l'émission du mardi 7 octobre 2025, depuis le Cirque Royal de Bruxelles.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Les théorèmes fous du professeur Bucella, Kody Kim invité spécial, les imitations de Liane Foly... Retrouvez dans ce podcast le meilleur de l'émission du mardi 7 octobre 2025, depuis le Cirque Royal de Bruxelles.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Tue, 07 Oct 2025 15:59:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/983d2f3c-8626-4b61-ad80-4635f187cf5d.mp3?_=1759849685" length="22567401" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Les théorèmes fous du professeur Bucella, Kody Kim invité spécial, les imitations de Liane Foly... Retrouvez dans ce podcast le meilleur de l'émission du mardi 7 octobre 2025, depuis le Cirque Royal de Bruxelles.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Les théorèmes fous du professeur Bucella, Kody Kim invité spécial, les imitations de Liane Foly... Retrouvez dans ce podcast le meilleur de l'émission du mardi 7 octobre 2025, depuis le Cirque Royal de Bruxelles.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Les théorèmes fous du professeur Bucella, Kody Kim invité spécial, les imitations de Liane Foly... Retrouvez dans ce podcast le meilleur de l'émission du mardi 7 octobre 2025, depuis le Cirque Royal de Bruxelles.
+Retrouvez tous les jours le meilleur des Grosses Tê...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>23:30</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/f38b34ca-859d-4adc-aaf8-6d8ab1a3a2b0.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/f38b34ca-859d-4adc-aaf8-6d8ab1a3a2b0.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/thaxnAW</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>IMITATIONS - Bucella, de Groodt, JCVD... Marc-Antoine Le Bret à Bruxelles</title>
       <guid isPermaLink="false">acef00ab-9dc7-4e2d-abc3-7204972c0fba</guid>

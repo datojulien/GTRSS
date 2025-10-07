@@ -7,8 +7,8 @@
     <description>Tous les épisodes de L'Intégrale de 'Les Grosses Têtes', regroupant la diffusion complète sans coupures ni extras.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Mon, 06 Oct 2025 16:30:24 GMT</lastBuildDate>
-    <pubDate>Mon, 06 Oct 2025 16:30:24 GMT</pubDate>
+    <lastBuildDate>Tue, 07 Oct 2025 16:30:43 GMT</lastBuildDate>
+    <pubDate>Tue, 07 Oct 2025 16:30:43 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,43 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/KxAcscK</ns3:txt>
+    <item>
+      <title>L'INTÉGRALE - Depuis Bruxelles, émission du mardi 7 octobre 2025</title>
+      <guid isPermaLink="false">2cc642ac-facc-4a3c-9e67-165de252b071</guid>
+      <description>Depuis le Cirque Royal de Bruxelles, Laurent Ruquier était accompagné de Philippe Boxho, Christine Ockrent, Liane Foly, Alex Vizorek, Philippe Geluck, Fabrizio Bucella et Kody Kim.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Depuis le Cirque Royal de Bruxelles, Laurent Ruquier était accompagné de Philippe Boxho, Christine Ockrent, Liane Foly, Alex Vizorek, Philippe Geluck, Fabrizio Bucella et Kody Kim.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Tue, 07 Oct 2025 16:02:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/2cc642ac-facc-4a3c-9e67-165de252b071.mp3?_=1759839792" length="102702229" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Depuis le Cirque Royal de Bruxelles, Laurent Ruquier était accompagné de Philippe Boxho, Christine Ockrent, Liane Foly, Alex Vizorek, Philippe Geluck, Fabrizio Bucella et Kody Kim.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Depuis le Cirque Royal de Bruxelles, Laurent Ruquier était accompagné de Philippe Boxho, Christine Ockrent, Liane Foly, Alex Vizorek, Philippe Geluck, Fabrizio Bucella et Kody Kim.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Depuis le Cirque Royal de Bruxelles, Laurent Ruquier était accompagné de Philippe Boxho, Christine Ockrent, Liane Foly, Alex Vizorek, Philippe Geluck, Fabrizio Bucella et Kody Kim.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'a...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>01:46:58</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/b445df23-520d-4665-9ba0-653af0188d25.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/b445df23-520d-4665-9ba0-653af0188d25.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/fqHlMWE</ns3:txt>
+      <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>L'INTÉGRALE - Émission du lundi 6 octobre 2025</title>
       <guid isPermaLink="false">84a0cdb3-6e69-46a8-b231-27ba5bf66376</guid>
