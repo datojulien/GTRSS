@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Wed, 08 Oct 2025 04:28:46 GMT</lastBuildDate>
-    <pubDate>Wed, 08 Oct 2025 04:28:46 GMT</pubDate>
+    <lastBuildDate>Wed, 08 Oct 2025 09:28:20 GMT</lastBuildDate>
+    <pubDate>Wed, 08 Oct 2025 09:28:20 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,43 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/KxAcscK</ns3:txt>
+    <item>
+      <title>BLAGUE - Les histoires drôles du 8 octobre 2025</title>
+      <guid isPermaLink="false">0352aaea-6bb4-493c-8979-42f7435bbc40</guid>
+      <description>Deux belges feuillètent le catalogue de La Redoute, un Américain en taxi dans Paris découvre les monuments français, et un homme annonce à son ami qu'il va divorcer après seulement 3 mois de mariage...  Découvrez les 3 histoires drôles du jour !
+
+&lt;i&gt;Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Deux belges feuillètent le catalogue de La Redoute, un Américain en taxi dans Paris découvre les monuments français, et un homme annonce à son ami qu'il va divorcer après seulement 3 mois de mariage...  Découvrez les 3 histoires drôles du jour !
+
+&lt;i&gt;Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Wed, 08 Oct 2025 09:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/0352aaea-6bb4-493c-8979-42f7435bbc40.mp3?_=1759852381" length="2043981" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Deux belges feuillètent le catalogue de La Redoute, un Américain en taxi dans Paris découvre les monuments français, et un homme annonce à son ami qu'il va divorcer après seulement 3 mois de mariage...  Découvrez les 3 histoires drôles du jour !
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Deux belges feuillètent le catalogue de La Redoute, un Américain en taxi dans Paris découvre les monuments français, et un homme annonce à son ami qu'il va divorcer après seulement 3 mois de mariage...  Découvrez les 3 histoires drôles du jour !
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Deux belges feuillètent le catalogue de La Redoute, un Américain en taxi dans Paris découvre les monuments français, et un homme annonce à son ami qu'il va divorcer après seulement 3 mois de mariage...  Découvrez les 3 histoires drôles du jour !
+
+Tous les jours,...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>02:07</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/11b953ec-c707-4cd1-ba20-d76ef2fa4f09.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/11b953ec-c707-4cd1-ba20-d76ef2fa4f09.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/kothWSy</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>INÉDIT - Qui se cache derrière l'anecdote ? L'enquête de C. Bravo et C. Barbier</title>
       <guid isPermaLink="false">7701ea92-1ad9-4a80-b43d-efc5cc2e8128</guid>
