@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Thu, 09 Oct 2025 08:56:14 GMT</lastBuildDate>
-    <pubDate>Thu, 09 Oct 2025 08:56:14 GMT</pubDate>
+    <lastBuildDate>Thu, 09 Oct 2025 14:25:43 GMT</lastBuildDate>
+    <pubDate>Thu, 09 Oct 2025 14:25:43 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,39 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/KxAcscK</ns3:txt>
+    <item>
+      <title>PÉPITE - Jeanfi Janssens de retour après une tournée triomphale aux Etats-Unis</title>
+      <guid isPermaLink="false">0a4cf082-9c69-495b-aaaa-a3714435af69</guid>
+      <description>Après ses dates américaines, Jeanfi Janssens est de retour aux "Grosses Têtes". Et le succès était au rendez-vous !
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Après ses dates américaines, Jeanfi Janssens est de retour aux "Grosses Têtes". Et le succès était au rendez-vous !
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Thu, 09 Oct 2025 14:11:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/0a4cf082-9c69-495b-aaaa-a3714435af69.mp3?_=1760017384" length="4518079" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Après ses dates américaines, Jeanfi Janssens est de retour aux "Grosses Têtes". Et le succès était au rendez-vous !
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Après ses dates américaines, Jeanfi Janssens est de retour aux "Grosses Têtes". Et le succès était au rendez-vous !
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Après ses dates américaines, Jeanfi Janssens est de retour aux "Grosses Têtes". Et le succès était au rendez-vous !
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez </itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>04:42</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/66372d2e-5838-44c2-b145-110031d30b61.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/66372d2e-5838-44c2-b145-110031d30b61.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/WEZpVxB</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>BLAGUE - Les histoires drôles du 9 octobre 2025</title>
       <guid isPermaLink="false">cfd2dd2e-2cef-4a2c-9afc-880c257f58f1</guid>
