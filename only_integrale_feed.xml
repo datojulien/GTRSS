@@ -7,8 +7,8 @@
     <description>Tous les épisodes de L'Intégrale de 'Les Grosses Têtes', regroupant la diffusion complète sans coupures ni extras.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Wed, 08 Oct 2025 16:31:00 GMT</lastBuildDate>
-    <pubDate>Wed, 08 Oct 2025 16:31:00 GMT</pubDate>
+    <lastBuildDate>Thu, 09 Oct 2025 16:36:12 GMT</lastBuildDate>
+    <pubDate>Thu, 09 Oct 2025 16:36:12 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,44 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/KxAcscK</ns3:txt>
+    <item>
+      <title>L'INTÉGRALE - Émission du jeudi 9 octobre 2025</title>
+      <guid isPermaLink="false">864b3d50-95c7-4969-92d5-77e6f8b8df0b</guid>
+      <description>Avec Sébastien Thoen, Arielle Dombasle, Caroline Diament, Paul El Kharrat, Jeanfi Janssens et Franck Ferrand.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Avec Sébastien Thoen, Arielle Dombasle, Caroline Diament, Paul El Kharrat, Jeanfi Janssens et Franck Ferrand.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Thu, 09 Oct 2025 16:02:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/864b3d50-95c7-4969-92d5-77e6f8b8df0b.mp3?_=1760013791" length="102257343" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Avec Sébastien Thoen, Arielle Dombasle, Caroline Diament, Paul El Kharrat, Jeanfi Janssens et Franck Ferrand.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Avec Sébastien Thoen, Arielle Dombasle, Caroline Diament, Paul El Kharrat, Jeanfi Janssens et Franck Ferrand.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Avec Sébastien Thoen, Arielle Dombasle, Caroline Diament, Paul El Kharrat, Jeanfi Janssens et Franck Ferrand.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez </itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>01:46:31</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/0fd18cbf-0314-4d82-8722-6b9c7e1e5c45.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/0fd18cbf-0314-4d82-8722-6b9c7e1e5c45.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/MvIduez</ns3:txt>
+      <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>DÉBRIEF - Elsa Zylberstein revient sur l'émission du jour</title>
       <guid isPermaLink="false">ea7ec90a-07d9-4fdb-9da2-4b1c371d6ba2</guid>
