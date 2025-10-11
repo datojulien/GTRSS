@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Sat, 11 Oct 2025 04:27:22 GMT</lastBuildDate>
-    <pubDate>Sat, 11 Oct 2025 04:27:22 GMT</pubDate>
+    <lastBuildDate>Sat, 11 Oct 2025 09:21:45 GMT</lastBuildDate>
+    <pubDate>Sat, 11 Oct 2025 09:21:45 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,41 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/KxAcscK</ns3:txt>
+    <item>
+      <title>BLAGUE - Les histoires drôles du 11 octobre 2025</title>
+      <guid isPermaLink="false">88919a06-9cc9-4bb7-bf59-5990b0d776af</guid>
+      <description>Un ex-braqueur sort de prison et achète un masque de Salvador Dalí, alors que le Titanic coule une femme à la poitrine généreuse demande de l'aide, et des résistantes se cachent dans un puit alors que les Allemands arrivent... Découvrez les 3 histoires drôles du jour !
+&amp;nbsp;
+&lt;i&gt;Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Un ex-braqueur sort de prison et achète un masque de Salvador Dalí, alors que le Titanic coule une femme à la poitrine généreuse demande de l'aide, et des résistantes se cachent dans un puit alors que les Allemands arrivent... Découvrez les 3 histoires drôles du jour !
+&amp;nbsp;
+&lt;i&gt;Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Sat, 11 Oct 2025 09:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/88919a06-9cc9-4bb7-bf59-5990b0d776af.mp3?_=1760089980" length="2386772" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Un ex-braqueur sort de prison et achète un masque de Salvador Dalí, alors que le Titanic coule une femme à la poitrine généreuse demande de l'aide, et des résistantes se cachent dans un puit alors que les Allemands arrivent... Découvrez les 3 histoires drôles du jour !
+ 
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Un ex-braqueur sort de prison et achète un masque de Salvador Dalí, alors que le Titanic coule une femme à la poitrine généreuse demande de l'aide, et des résistantes se cachent dans un puit alors que les Allemands arrivent... Découvrez les 3 histoires drôles du jour !
+ 
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Un ex-braqueur sort de prison et achète un masque de Salvador Dalí, alors que le Titanic coule une femme à la poitrine généreuse demande de l'aide, et des résistantes se cachent dans un puit alors que les Allemands arrivent... Découvrez les 3 histoires drôles du jo...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>02:29</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/ee648356-e0c5-411c-a927-4ae5232a7cb6.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/ee648356-e0c5-411c-a927-4ae5232a7cb6.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/SVxuIYi</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>ARCHIVE - Jean Yanne, "100 ans de connerie" : les lois les plus insolites du monde</title>
       <guid isPermaLink="false">b418b397-d6bb-409f-a083-cada68494e9b</guid>
