@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Sun, 12 Oct 2025 01:57:39 GMT</lastBuildDate>
-    <pubDate>Sun, 12 Oct 2025 01:57:39 GMT</pubDate>
+    <lastBuildDate>Sun, 12 Oct 2025 04:27:35 GMT</lastBuildDate>
+    <pubDate>Sun, 12 Oct 2025 04:27:35 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,41 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/KxAcscK</ns3:txt>
+    <item>
+      <title>ARCHIVE - Jean Yanne, "100 ans de connerie" : les crottes de chiens à Paris</title>
+      <guid isPermaLink="false">c841e7c9-4695-47e2-a3e3-e3a1e9ba1aa5</guid>
+      <description>Capitale de la France, du bon gout, de la mode, de l'élégance... Paris a pourtant un vrai problème : les crottes de chien !
+Chaque weekend en podcast, retrouvez "100 ans de conneries", par Jean Yanne. Pendant 4 mois, de septembre à décembre 1999, le sociétaire des "Grosses Têtes", tenait sur RTL une chronique quotidienne dans laquelle il faisait le bilan du siècle qui allait bientôt se terminer. Avec son humour féroce habituel, il s'est attaché à dénoncé la "connerie" humaine, vraie constante et révélatrice du XXème siècle.
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Capitale de la France, du bon gout, de la mode, de l'élégance... Paris a pourtant un vrai problème : les crottes de chien !
+Chaque weekend en podcast, retrouvez "100 ans de conneries", par Jean Yanne. Pendant 4 mois, de septembre à décembre 1999, le sociétaire des "Grosses Têtes", tenait sur RTL une chronique quotidienne dans laquelle il faisait le bilan du siècle qui allait bientôt se terminer. Avec son humour féroce habituel, il s'est attaché à dénoncé la "connerie" humaine, vraie constante et révélatrice du XXème siècle.
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Sun, 12 Oct 2025 04:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/c841e7c9-4695-47e2-a3e3-e3a1e9ba1aa5.mp3?_=1760100781" length="2356183" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Capitale de la France, du bon gout, de la mode, de l'élégance... Paris a pourtant un vrai problème : les crottes de chien !
+Chaque weekend en podcast, retrouvez "100 ans de conneries", par Jean Yanne. Pendant 4 mois, de septembre à décembre 1999, le sociétaire des "Grosses Têtes", tenait sur RTL une chronique quotidienne dans laquelle il faisait le bilan du siècle qui allait bientôt se terminer. Avec son humour féroce habituel, il s'est attaché à dénoncé la "connerie" humaine, vraie constante et révélatrice du XXème siècle.
+
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Capitale de la France, du bon gout, de la mode, de l'élégance... Paris a pourtant un vrai problème : les crottes de chien !
+Chaque weekend en podcast, retrouvez "100 ans de conneries", par Jean Yanne. Pendant 4 mois, de septembre à décembre 1999, le sociétaire des "Grosses Têtes", tenait sur RTL une chronique quotidienne dans laquelle il faisait le bilan du siècle qui allait bientôt se terminer. Avec son humour féroce habituel, il s'est attaché à dénoncé la "connerie" humaine, vraie constante et révélatrice du XXème siècle.
+
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>RTL</itunes:author>
+      <author>RTL</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Capitale de la France, du bon gout, de la mode, de l'élégance... Paris a pourtant un vrai problème : les crottes de chien !
+Chaque weekend en podcast, retrouvez "100 ans de conneries", par Jean Yanne. Pendant 4 mois, de septembre à décembre 1999, le sociétaire des ...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>02:27</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/2c40bce6-672b-458c-a383-f643d5a793db.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/2c40bce6-672b-458c-a383-f643d5a793db.jpg" />
+      <ns3:txt purpose="smartlink">https://audmns.com/rVfUIzt</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>ARCHIVE - La blague de Chantal Ladesou</title>
       <guid isPermaLink="false">e5012d7c-0b58-4f57-876b-9fdef999f5ee</guid>
