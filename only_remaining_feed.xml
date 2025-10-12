@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Sun, 12 Oct 2025 04:27:35 GMT</lastBuildDate>
-    <pubDate>Sun, 12 Oct 2025 04:27:35 GMT</pubDate>
+    <lastBuildDate>Sun, 12 Oct 2025 05:22:29 GMT</lastBuildDate>
+    <pubDate>Sun, 12 Oct 2025 05:22:29 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,36 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/KxAcscK</ns3:txt>
+    <item>
+      <title>QUE DU BLUFF - Jeanfi Janssens affronte Florian Gazan et Liane Foly</title>
+      <guid isPermaLink="false">7baa0204-cbc6-4c23-9e72-a7270e5e29ae</guid>
+      <description>INÉDIT - Découvrez "Que du Bluff", le grand concours d'anecdotes des Grosses Têtes ! Chaque dimanche, un nouvel épisode voit s'affronter 3 sociétaires de l'émission. Dans ce sixième numéro, Jeanfi Janssens fait face à Florian Gazan et Liane Foly. Il dévoile 3 histoires marquantes de sa vie, mais une seule est vraie. Laquelle ?
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>INÉDIT - Découvrez "Que du Bluff", le grand concours d'anecdotes des Grosses Têtes ! Chaque dimanche, un nouvel épisode voit s'affronter 3 sociétaires de l'émission. Dans ce sixième numéro, Jeanfi Janssens fait face à Florian Gazan et Liane Foly. Il dévoile 3 histoires marquantes de sa vie, mais une seule est vraie. Laquelle ?
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Sun, 12 Oct 2025 05:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/7baa0204-cbc6-4c23-9e72-a7270e5e29ae.mp3?_=1760021282" length="15674111" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>INÉDIT - Découvrez "Que du Bluff", le grand concours d'anecdotes des Grosses Têtes ! Chaque dimanche, un nouvel épisode voit s'affronter 3 sociétaires de l'émission. Dans ce sixième numéro, Jeanfi Janssens fait face à Florian Gazan et Liane Foly. Il dévoile 3 histoires marquantes de sa vie, mais une seule est vraie. Laquelle ?
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>INÉDIT - Découvrez "Que du Bluff", le grand concours d'anecdotes des Grosses Têtes ! Chaque dimanche, un nouvel épisode voit s'affronter 3 sociétaires de l'émission. Dans ce sixième numéro, Jeanfi Janssens fait face à Florian Gazan et Liane Foly. Il dévoile 3 histoires marquantes de sa vie, mais une seule est vraie. Laquelle ?
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>INÉDIT - Découvrez "Que du Bluff", le grand concours d'anecdotes des Grosses Têtes ! Chaque dimanche, un nouvel épisode voit s'affronter 3 sociétaires de l'émission. Dans ce sixième numéro, Jeanfi Janssens fait face à Florian Gazan et Liane Foly. Il dévoile 3 histo...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>16:19</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/c63d9b84-19be-47ff-aee8-cd32e6268c29.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/c63d9b84-19be-47ff-aee8-cd32e6268c29.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/uFXWjNP</ns3:txt>
+    </item>
     <item>
       <title>ARCHIVE - Jean Yanne, "100 ans de connerie" : les crottes de chiens à Paris</title>
       <guid isPermaLink="false">c841e7c9-4695-47e2-a3e3-e3a1e9ba1aa5</guid>
