@@ -7,8 +7,8 @@
     <description>Tous les épisodes de L'Intégrale de 'Les Grosses Têtes', regroupant la diffusion complète sans coupures ni extras.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Mon, 13 Oct 2025 16:31:30 GMT</lastBuildDate>
-    <pubDate>Mon, 13 Oct 2025 16:31:30 GMT</pubDate>
+    <lastBuildDate>Tue, 14 Oct 2025 16:31:25 GMT</lastBuildDate>
+    <pubDate>Tue, 14 Oct 2025 16:31:25 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,75 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/KxAcscK</ns3:txt>
+    <item>
+      <title>DÉBRIEF - Marc-Antoine Le Bret revient sur son début de saison</title>
+      <guid isPermaLink="false">7c64129d-d665-4aa3-8523-27ffbdffe0a1</guid>
+      <description>À la fin de chaque émission, retrouvez en exclusivité sur les plateformes de podcast le débrief des 2h30 d'antenne qui viennent de s'écouler, en compagnie d'une des Grosses Têtes du jour... Ce 14 octobre 2025, Marc-Antoine Le Bret s'est confié au micro de Rachel Azria.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>À la fin de chaque émission, retrouvez en exclusivité sur les plateformes de podcast le débrief des 2h30 d'antenne qui viennent de s'écouler, en compagnie d'une des Grosses Têtes du jour... Ce 14 octobre 2025, Marc-Antoine Le Bret s'est confié au micro de Rachel Azria.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Tue, 14 Oct 2025 16:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/7c64129d-d665-4aa3-8523-27ffbdffe0a1.mp3?_=1760449687" length="11347781" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>À la fin de chaque émission, retrouvez en exclusivité sur les plateformes de podcast le débrief des 2h30 d'antenne qui viennent de s'écouler, en compagnie d'une des Grosses Têtes du jour... Ce 14 octobre 2025, Marc-Antoine Le Bret s'est confié au micro de Rachel Azria.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>À la fin de chaque émission, retrouvez en exclusivité sur les plateformes de podcast le débrief des 2h30 d'antenne qui viennent de s'écouler, en compagnie d'une des Grosses Têtes du jour... Ce 14 octobre 2025, Marc-Antoine Le Bret s'est confié au micro de Rachel Azria.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Rachel Azria</itunes:author>
+      <author>Rachel Azria</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>À la fin de chaque émission, retrouvez en exclusivité sur les plateformes de podcast le débrief des 2h30 d'antenne qui viennent de s'écouler, en compagnie d'une des Grosses Têtes du jour... Ce 14 octobre 2025, Marc-Antoine Le Bret s'est confié au micro de Rachel Az...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>11:49</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/f5201553-5e0c-409a-9fa5-fb22337d18b4.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/f5201553-5e0c-409a-9fa5-fb22337d18b4.jpg" />
+      <ns3:person role="host">Rachel Azria</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/xmjFXcU</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
+    <item>
+      <title>L'INTÉGRALE - Émission du mardi 14 octobre 2025</title>
+      <guid isPermaLink="false">7ebd0faa-d8ab-43ae-95c6-66acb12637d8</guid>
+      <description>Avec Christine Bravo, Olivier Bellamy, Christophe Barbier, Zize Dupanier, Valérie Mairesse et Alexis Tramoni.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Avec Christine Bravo, Olivier Bellamy, Christophe Barbier, Zize Dupanier, Valérie Mairesse et Alexis Tramoni.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Tue, 14 Oct 2025 16:02:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/7ebd0faa-d8ab-43ae-95c6-66acb12637d8.mp3?_=1760454191" length="102175843" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Avec Christine Bravo, Olivier Bellamy, Christophe Barbier, Zize Dupanier, Valérie Mairesse et Alexis Tramoni.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Avec Christine Bravo, Olivier Bellamy, Christophe Barbier, Zize Dupanier, Valérie Mairesse et Alexis Tramoni.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Avec Christine Bravo, Olivier Bellamy, Christophe Barbier, Zize Dupanier, Valérie Mairesse et Alexis Tramoni.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez </itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>01:46:25</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/884f5799-9364-411d-92d1-e92a9ceeeac1.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/884f5799-9364-411d-92d1-e92a9ceeeac1.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/glBVGzr</ns3:txt>
+      <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>DÉBRIEF - Philippe Boxho : l'histoire de l'homme qui s'est tiré dessus 14 fois</title>
       <guid isPermaLink="false">793e31c8-e639-4953-afa8-ba87007d5cce</guid>
