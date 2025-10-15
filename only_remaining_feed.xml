@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Wed, 15 Oct 2025 04:29:58 GMT</lastBuildDate>
-    <pubDate>Wed, 15 Oct 2025 04:29:58 GMT</pubDate>
+    <lastBuildDate>Wed, 15 Oct 2025 09:29:38 GMT</lastBuildDate>
+    <pubDate>Wed, 15 Oct 2025 09:29:38 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,43 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/KxAcscK</ns3:txt>
+    <item>
+      <title>BLAGUE - Les histoires drôles du 15 octobre 2025</title>
+      <guid isPermaLink="false">7d9b8f86-7ae7-40e0-bbef-14edb6e09c7d</guid>
+      <description>Le Grand Méchant Loup rode près de la résidence secondaire de Chantal Ladesou, le petit chaperon rouge aperçoit le loup dans la forêt, et "Savez-vous ce qu'est une partouze pour un zoophile ?".&amp;nbsp;
+
+&lt;i&gt;Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Le Grand Méchant Loup rode près de la résidence secondaire de Chantal Ladesou, le petit chaperon rouge aperçoit le loup dans la forêt, et "Savez-vous ce qu'est une partouze pour un zoophile ?".&amp;nbsp;
+
+&lt;i&gt;Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Wed, 15 Oct 2025 09:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/7d9b8f86-7ae7-40e0-bbef-14edb6e09c7d.mp3?_=1760457481" length="1707852" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Le Grand Méchant Loup rode près de la résidence secondaire de Chantal Ladesou, le petit chaperon rouge aperçoit le loup dans la forêt, et "Savez-vous ce qu'est une partouze pour un zoophile ?". 
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Le Grand Méchant Loup rode près de la résidence secondaire de Chantal Ladesou, le petit chaperon rouge aperçoit le loup dans la forêt, et "Savez-vous ce qu'est une partouze pour un zoophile ?". 
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Le Grand Méchant Loup rode près de la résidence secondaire de Chantal Ladesou, le petit chaperon rouge aperçoit le loup dans la forêt, et "Savez-vous ce qu'est une partouze pour un zoophile ?". 
+
+Tous les jours, en podcast, retrouvez une compilation des mei...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>01:46</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/4b9548cf-d531-4a0d-bf68-8072805c56e7.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/4b9548cf-d531-4a0d-bf68-8072805c56e7.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/rEPwhIt</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>INÉDIT - Qui se cache derrière l'anecdote ? L'enquête de Philippe Boxho et Adil Rami</title>
       <guid isPermaLink="false">eb678b96-25e9-4b16-b0a2-8e0c9023aa7c</guid>
