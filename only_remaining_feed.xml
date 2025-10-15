@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Wed, 15 Oct 2025 01:57:23 GMT</lastBuildDate>
-    <pubDate>Wed, 15 Oct 2025 01:57:23 GMT</pubDate>
+    <lastBuildDate>Wed, 15 Oct 2025 04:29:58 GMT</lastBuildDate>
+    <pubDate>Wed, 15 Oct 2025 04:29:58 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,43 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/KxAcscK</ns3:txt>
+    <item>
+      <title>INÉDIT - Qui se cache derrière l'anecdote ? L'enquête de Philippe Boxho et Adil Rami</title>
+      <guid isPermaLink="false">eb678b96-25e9-4b16-b0a2-8e0c9023aa7c</guid>
+      <description>Dans ce nouveau podcast, les Grosses Têtes doivent deviner à qui appartiennent les anecdotes qu'elles entendent avec des voix trafiquées ! Pour cet épisode, c'est Philippe Boxho et Adil Rami qui mènent l'enquête !
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Dans ce nouveau podcast, les Grosses Têtes doivent deviner à qui appartiennent les anecdotes qu'elles entendent avec des voix trafiquées ! Pour cet épisode, c'est Philippe Boxho et Adil Rami qui mènent l'enquête !
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Wed, 15 Oct 2025 04:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/eb678b96-25e9-4b16-b0a2-8e0c9023aa7c.mp3?_=1759322885" length="4646152" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Dans ce nouveau podcast, les Grosses Têtes doivent deviner à qui appartiennent les anecdotes qu'elles entendent avec des voix trafiquées ! Pour cet épisode, c'est Philippe Boxho et Adil Rami qui mènent l'enquête !
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Dans ce nouveau podcast, les Grosses Têtes doivent deviner à qui appartiennent les anecdotes qu'elles entendent avec des voix trafiquées ! Pour cet épisode, c'est Philippe Boxho et Adil Rami qui mènent l'enquête !
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Sara Kemacha</itunes:author>
+      <author>Sara Kemacha</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Dans ce nouveau podcast, les Grosses Têtes doivent deviner à qui appartiennent les anecdotes qu'elles entendent avec des voix trafiquées ! Pour cet épisode, c'est Philippe Boxho et Adil Rami qui mènent l'enquête !
+
+Retrouvez tous les jours le meilleur des Grosses T...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>04:50</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/91847721-623b-4f98-9e7a-2ab3911773d2.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/91847721-623b-4f98-9e7a-2ab3911773d2.jpg" />
+      <ns3:person role="host">Sara Kemacha</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/MRvZXUw</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>ARCHIVE - La blague de Jean-Jacques Peroni</title>
       <guid isPermaLink="false">1e69bf19-d95c-4c1c-ab54-6f36055a5dd7</guid>
