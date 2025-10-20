@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Mon, 20 Oct 2025 04:03:36 GMT</lastBuildDate>
-    <pubDate>Mon, 20 Oct 2025 04:03:36 GMT</pubDate>
+    <lastBuildDate>Mon, 20 Oct 2025 13:34:41 GMT</lastBuildDate>
+    <pubDate>Mon, 20 Oct 2025 13:34:41 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,43 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/KxAcscK</ns3:txt>
+    <item>
+      <title>BLAGUE - Les histoires drôles du 20 octobre 2025</title>
+      <guid isPermaLink="false">e850f15c-8196-4e47-8503-f14aa3ef2538</guid>
+      <description>Sur la plage un papy fixe une jeune femme, une mère a préparé un lapin pour le dîner et en Belgique un restaurant poste une annonce pour recruter un serveur... Découvrez les 3 histoires drôles du jour !
+
+&lt;i&gt;Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Sur la plage un papy fixe une jeune femme, une mère a préparé un lapin pour le dîner et en Belgique un restaurant poste une annonce pour recruter un serveur... Découvrez les 3 histoires drôles du jour !
+
+&lt;i&gt;Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Mon, 20 Oct 2025 09:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/e850f15c-8196-4e47-8503-f14aa3ef2538.mp3?_=1760965384" length="2073572" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Sur la plage un papy fixe une jeune femme, une mère a préparé un lapin pour le dîner et en Belgique un restaurant poste une annonce pour recruter un serveur... Découvrez les 3 histoires drôles du jour !
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Sur la plage un papy fixe une jeune femme, une mère a préparé un lapin pour le dîner et en Belgique un restaurant poste une annonce pour recruter un serveur... Découvrez les 3 histoires drôles du jour !
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Sur la plage un papy fixe une jeune femme, une mère a préparé un lapin pour le dîner et en Belgique un restaurant poste une annonce pour recruter un serveur... Découvrez les 3 histoires drôles du jour !
+
+Tous les jours, en podcast, retrouvez une compilation des ...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>02:09</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/e2b533ec-7d8e-433a-a96e-547e48c1dc20.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/e2b533ec-7d8e-433a-a96e-547e48c1dc20.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/hELjaXj</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>INÉDIT - Qui se cache derrière l'anecdote ? L'enquête de Jérémy Ferrari et Stomy Bugsy</title>
       <guid isPermaLink="false">fb528d1e-eea4-44be-adf8-dbbc19ad83ea</guid>
