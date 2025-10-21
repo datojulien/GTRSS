@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Tue, 21 Oct 2025 12:55:25 GMT</lastBuildDate>
-    <pubDate>Tue, 21 Oct 2025 12:55:25 GMT</pubDate>
+    <lastBuildDate>Tue, 21 Oct 2025 15:25:25 GMT</lastBuildDate>
+    <pubDate>Tue, 21 Oct 2025 15:25:25 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,40 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/KxAcscK</ns3:txt>
+    <item>
+      <title>QUE DU BLUFF - François Renucci affronte Laurent Baffie et Isabelle Mergault</title>
+      <guid isPermaLink="false">956a150e-432c-4f34-bfb2-e4dea537d0f4</guid>
+      <description>INÉDIT - Découvrez "Que du Bluff", le grand concours d'anecdotes des Grosses Têtes ! Chaque dimanche, un nouvel épisode voit s'affronter 3 sociétaires de l'émission. Dans ce septième numéro, François Renucci fait face à Isabelle Mergault et Laurent Baffie. Il dévoile 3 histoires marquantes de sa vie, mais une seule est vraie. Laquelle ?
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>INÉDIT - Découvrez "Que du Bluff", le grand concours d'anecdotes des Grosses Têtes ! Chaque dimanche, un nouvel épisode voit s'affronter 3 sociétaires de l'émission. Dans ce septième numéro, François Renucci fait face à Isabelle Mergault et Laurent Baffie. Il dévoile 3 histoires marquantes de sa vie, mais une seule est vraie. Laquelle ?
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Sun, 19 Oct 2025 05:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/956a150e-432c-4f34-bfb2-e4dea537d0f4.mp3?_=1761058985" length="8885722" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>INÉDIT - Découvrez "Que du Bluff", le grand concours d'anecdotes des Grosses Têtes ! Chaque dimanche, un nouvel épisode voit s'affronter 3 sociétaires de l'émission. Dans ce septième numéro, François Renucci fait face à Isabelle Mergault et Laurent Baffie. Il dévoile 3 histoires marquantes de sa vie, mais une seule est vraie. Laquelle ?
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>INÉDIT - Découvrez "Que du Bluff", le grand concours d'anecdotes des Grosses Têtes ! Chaque dimanche, un nouvel épisode voit s'affronter 3 sociétaires de l'émission. Dans ce septième numéro, François Renucci fait face à Isabelle Mergault et Laurent Baffie. Il dévoile 3 histoires marquantes de sa vie, mais une seule est vraie. Laquelle ?
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>INÉDIT - Découvrez "Que du Bluff", le grand concours d'anecdotes des Grosses Têtes ! Chaque dimanche, un nouvel épisode voit s'affronter 3 sociétaires de l'émission. Dans ce septième numéro, François Renucci fait face à Isabelle Mergault et Laurent Baffie. Il dévoi...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>09:15</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/58ce1d78-bb75-49c6-8d36-56de7cb0f903.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/58ce1d78-bb75-49c6-8d36-56de7cb0f903.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <itunes:keywords>grosses têtes,Isabelle Mergault,Laurent Baffie</itunes:keywords>
+    </item>
     <item>
       <title>INÉDIT - Côté coulisses : Rose se confie avant l'émission</title>
       <guid isPermaLink="false">eda3240f-e834-4701-a237-90d0b8d9cd38</guid>
