@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Thu, 23 Oct 2025 01:56:56 GMT</lastBuildDate>
-    <pubDate>Thu, 23 Oct 2025 01:56:56 GMT</pubDate>
+    <lastBuildDate>Thu, 23 Oct 2025 09:29:55 GMT</lastBuildDate>
+    <pubDate>Thu, 23 Oct 2025 09:29:55 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,48 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/KxAcscK</ns3:txt>
+    <item>
+      <title>BLAGUE - Les histoires drôles du 23 octobre 2025</title>
+      <guid isPermaLink="false">4405846f-da51-4f55-ad41-2ba9ac8ea099</guid>
+      <description>Un scatophile, un sadique... sont réunis dans une soirée, un homme s'est acheté un perroquet qui a grandi dans un bordel et un couple d'homosexuels font l'amour dans l'avion... Découvrez les 3 histoires drôles du jour !
+
+
+&lt;i&gt;Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Un scatophile, un sadique... sont réunis dans une soirée, un homme s'est acheté un perroquet qui a grandi dans un bordel et un couple d'homosexuels font l'amour dans l'avion... Découvrez les 3 histoires drôles du jour !
+
+
+&lt;i&gt;Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Thu, 23 Oct 2025 09:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/4405846f-da51-4f55-ad41-2ba9ac8ea099.mp3?_=1761147793" length="2586026" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Un scatophile, un sadique... sont réunis dans une soirée, un homme s'est acheté un perroquet qui a grandi dans un bordel et un couple d'homosexuels font l'amour dans l'avion... Découvrez les 3 histoires drôles du jour !
+
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Un scatophile, un sadique... sont réunis dans une soirée, un homme s'est acheté un perroquet qui a grandi dans un bordel et un couple d'homosexuels font l'amour dans l'avion... Découvrez les 3 histoires drôles du jour !
+
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Un scatophile, un sadique... sont réunis dans une soirée, un homme s'est acheté un perroquet qui a grandi dans un bordel et un couple d'homosexuels font l'amour dans l'avion... Découvrez les 3 histoires drôles du jour !
+
+
+Tous les jours, en podcast, retrouvez un...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>02:41</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/1739c4cc-8f2a-4bf9-909e-8f46cd6289a7.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/1739c4cc-8f2a-4bf9-909e-8f46cd6289a7.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/kPJnPrC</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>ARCHIVE - La blague de Chantal Ladesou</title>
       <guid isPermaLink="false">56610651-2f88-49d9-9ecc-764c494d72eb</guid>
