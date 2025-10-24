@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Fri, 24 Oct 2025 09:28:50 GMT</lastBuildDate>
-    <pubDate>Fri, 24 Oct 2025 09:28:50 GMT</pubDate>
+    <lastBuildDate>Fri, 24 Oct 2025 12:54:24 GMT</lastBuildDate>
+    <pubDate>Fri, 24 Oct 2025 12:54:24 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,37 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/KxAcscK</ns3:txt>
+    <item>
+      <title>INÉDIT - Le "before" des Grosses Têtes à Charleville-Mézières</title>
+      <guid isPermaLink="false">f78542a4-8603-4458-876a-82e1e7cc9ce6</guid>
+      <description>Aujourd'hui, vos Grosses Têtes débarquent à Charleville-Mézières ! AZ, Jérémy Ferrari et Paul El Kharrat donnent leur ressenti juste avant l'émission au micro de Rachel Azria !
+&lt;i&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Aujourd'hui, vos Grosses Têtes débarquent à Charleville-Mézières ! AZ, Jérémy Ferrari et Paul El Kharrat donnent leur ressenti juste avant l'émission au micro de Rachel Azria !
+&lt;i&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Fri, 24 Oct 2025 12:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/f78542a4-8603-4458-876a-82e1e7cc9ce6.mp3?_=1761307246" length="3183597" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Aujourd'hui, vos Grosses Têtes débarquent à Charleville-Mézières ! AZ, Jérémy Ferrari et Paul El Kharrat donnent leur ressenti juste avant l'émission au micro de Rachel Azria !
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Aujourd'hui, vos Grosses Têtes débarquent à Charleville-Mézières ! AZ, Jérémy Ferrari et Paul El Kharrat donnent leur ressenti juste avant l'émission au micro de Rachel Azria !
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>RTL</itunes:author>
+      <author>RTL</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Aujourd'hui, vos Grosses Têtes débarquent à Charleville-Mézières ! AZ, Jérémy Ferrari et Paul El Kharrat donnent leur ressenti juste avant l'émission au micro de Rachel Azria !
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'ap...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>03:18</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/c217e49a-c2f6-4255-9bbf-b850eab87820.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/c217e49a-c2f6-4255-9bbf-b850eab87820.jpg" />
+      <ns3:txt purpose="smartlink">https://audmns.com/BnrJtKU</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>BLAGUE - Les histoires drôles du 24 octobre 2025</title>
       <guid isPermaLink="false">c7981c20-ea13-4f99-9ce1-e12ee22baa09</guid>
