@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Fri, 24 Oct 2025 04:29:14 GMT</lastBuildDate>
-    <pubDate>Fri, 24 Oct 2025 04:29:14 GMT</pubDate>
+    <lastBuildDate>Fri, 24 Oct 2025 09:28:50 GMT</lastBuildDate>
+    <pubDate>Fri, 24 Oct 2025 09:28:50 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,43 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/KxAcscK</ns3:txt>
+    <item>
+      <title>BLAGUE - Les histoires drôles du 24 octobre 2025</title>
+      <guid isPermaLink="false">c7981c20-ea13-4f99-9ce1-e12ee22baa09</guid>
+      <description>Des belges veulent retapisser leur salle à manger, un médecin fait accoucher une femme à la campagne et un homme revient à Paris 40 ans après son départ... Découvrez les 3 histoires drôles du jour !
+
+&lt;i&gt;Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Des belges veulent retapisser leur salle à manger, un médecin fait accoucher une femme à la campagne et un homme revient à Paris 40 ans après son départ... Découvrez les 3 histoires drôles du jour !
+
+&lt;i&gt;Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Fri, 24 Oct 2025 09:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/c7981c20-ea13-4f99-9ce1-e12ee22baa09.mp3?_=1761236881" length="3542273" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Des belges veulent retapisser leur salle à manger, un médecin fait accoucher une femme à la campagne et un homme revient à Paris 40 ans après son départ... Découvrez les 3 histoires drôles du jour !
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Des belges veulent retapisser leur salle à manger, un médecin fait accoucher une femme à la campagne et un homme revient à Paris 40 ans après son départ... Découvrez les 3 histoires drôles du jour !
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Des belges veulent retapisser leur salle à manger, un médecin fait accoucher une femme à la campagne et un homme revient à Paris 40 ans après son départ... Découvrez les 3 histoires drôles du jour !
+
+Tous les jours, en podcast, retrouvez une compilation des meil...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>03:41</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/ba2705c3-0ee3-478c-982e-6ab28bbb9433.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/ba2705c3-0ee3-478c-982e-6ab28bbb9433.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/CqwcYUv</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>INÉDIT - Qui se cache derrière l'anecdote ? L'enquête de J. Ferrari et S. Thoen</title>
       <guid isPermaLink="false">49116f61-36eb-438a-a292-2f735d74499d</guid>
