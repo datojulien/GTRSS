@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Fri, 24 Oct 2025 15:53:45 GMT</lastBuildDate>
-    <pubDate>Fri, 24 Oct 2025 15:53:45 GMT</pubDate>
+    <lastBuildDate>Fri, 24 Oct 2025 16:31:50 GMT</lastBuildDate>
+    <pubDate>Fri, 24 Oct 2025 16:31:50 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,104 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/KxAcscK</ns3:txt>
+    <item>
+      <title>PEPITE - Les Grosses Têtes répondent aux auditeurs</title>
+      <guid isPermaLink="false">b4c9d071-fbff-429c-9604-767fc0f58643</guid>
+      <description>Plaintes, compliments, interrogations... Cette saison encore, les Grosses Têtes répondent aux différentes questions et messages des auditeurs à l'antenne.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Plaintes, compliments, interrogations... Cette saison encore, les Grosses Têtes répondent aux différentes questions et messages des auditeurs à l'antenne.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Fri, 24 Oct 2025 15:57:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/b4c9d071-fbff-429c-9604-767fc0f58643.mp3?_=1761297781" length="6988242" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Plaintes, compliments, interrogations... Cette saison encore, les Grosses Têtes répondent aux différentes questions et messages des auditeurs à l'antenne.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Plaintes, compliments, interrogations... Cette saison encore, les Grosses Têtes répondent aux différentes questions et messages des auditeurs à l'antenne.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Plaintes, compliments, interrogations... Cette saison encore, les Grosses Têtes répondent aux différentes questions et messages des auditeurs à l'antenne.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ H...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>07:16</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/16141683-7bdd-4ee4-99c7-019a4ab0fdda.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/16141683-7bdd-4ee4-99c7-019a4ab0fdda.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/QBNEhmM</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
+    <item>
+      <title>PEPITE - Le poème de Az pour Charleville-Mézières</title>
+      <guid isPermaLink="false">690601aa-db17-45f2-bd3f-d1bcc974a87f</guid>
+      <description>A l'instar d'Arthur Rimbaud, né à Charleville-Mézières, Az, lui aussi, a décidé d'écrire un poème...&amp;nbsp;
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>A l'instar d'Arthur Rimbaud, né à Charleville-Mézières, Az, lui aussi, a décidé d'écrire un poème...&amp;nbsp;
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Fri, 24 Oct 2025 15:58:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/690601aa-db17-45f2-bd3f-d1bcc974a87f.mp3?_=1761315781" length="3052221" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>A l'instar d'Arthur Rimbaud, né à Charleville-Mézières, Az, lui aussi, a décidé d'écrire un poème... 
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>A l'instar d'Arthur Rimbaud, né à Charleville-Mézières, Az, lui aussi, a décidé d'écrire un poème... 
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>A l'instar d'Arthur Rimbaud, né à Charleville-Mézières, Az, lui aussi, a décidé d'écrire un poème... 
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez </itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>03:10</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/983b6f4b-d08c-4570-afee-19e0c08e7030.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/983b6f4b-d08c-4570-afee-19e0c08e7030.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/EyMMpAI</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
+    <item>
+      <title>PÉPITE - Le meilleur de l'émission du 24 octobre 2025</title>
+      <guid isPermaLink="false">84138393-f20d-49ad-b4ac-2b06c1cfbbf2</guid>
+      <description>Jérémy Ferrari de retour à Charleville-Mézières, Paul El Kharrat sans réponse, un nouveau coup de fil à Nicolas Sarkozy... Retrouvez dans ce podcast le meilleur de l'émission du vendredi 24 octobre 2025.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Jérémy Ferrari de retour à Charleville-Mézières, Paul El Kharrat sans réponse, un nouveau coup de fil à Nicolas Sarkozy... Retrouvez dans ce podcast le meilleur de l'émission du vendredi 24 octobre 2025.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Fri, 24 Oct 2025 15:59:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/84138393-f20d-49ad-b4ac-2b06c1cfbbf2.mp3?_=1761313382" length="14461038" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Jérémy Ferrari de retour à Charleville-Mézières, Paul El Kharrat sans réponse, un nouveau coup de fil à Nicolas Sarkozy... Retrouvez dans ce podcast le meilleur de l'émission du vendredi 24 octobre 2025.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Jérémy Ferrari de retour à Charleville-Mézières, Paul El Kharrat sans réponse, un nouveau coup de fil à Nicolas Sarkozy... Retrouvez dans ce podcast le meilleur de l'émission du vendredi 24 octobre 2025.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Jérémy Ferrari de retour à Charleville-Mézières, Paul El Kharrat sans réponse, un nouveau coup de fil à Nicolas Sarkozy... Retrouvez dans ce podcast le meilleur de l'émission du vendredi 24 octobre 2025.
+Retrouvez tous les jours le meilleur des Grosses Têtes en po...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>15:03</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/5d7d1a5e-edfc-4ba3-b31d-d8364440b88a.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/5d7d1a5e-edfc-4ba3-b31d-d8364440b88a.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/KmiGVaL</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>IMITATIONS - Dubosc, Sarkozy, Jean-Alphone Richard... Marc-Antoine Le Bret à Charlevilles-Mézières</title>
       <guid isPermaLink="false">ba72f484-ef15-4448-a433-4affcb7e8db1</guid>
