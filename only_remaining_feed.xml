@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Sun, 26 Oct 2025 02:03:49 GMT</lastBuildDate>
-    <pubDate>Sun, 26 Oct 2025 02:03:49 GMT</pubDate>
+    <lastBuildDate>Sun, 26 Oct 2025 05:53:34 GMT</lastBuildDate>
+    <pubDate>Sun, 26 Oct 2025 05:53:34 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,49 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/KxAcscK</ns3:txt>
+    <item>
+      <title>ARCHIVE - Jean Yanne, "100 ans de conneries" : le langage de l'An 2000</title>
+      <guid isPermaLink="false">6b7f1bfc-ac57-438e-8bb7-b2efa764abce</guid>
+      <description>
+A l'aube de du changement de siècle, il fallait absolument revoir sa façon de parler des années qui allaient désormais s'écouler...
+
+Chaque weekend en podcast, retrouvez "100 ans de conneries", par Jean Yanne. Pendant 4 mois, de septembre à décembre 1999, le sociétaire des "Grosses Têtes", tenait sur RTL une chronique quotidienne dans laquelle il faisait le bilan du siècle qui allait bientôt se terminer. Avec son humour féroce habituel, il s'est attaché à dénoncé la "connerie" humaine, vraie constante et révélatrice du XXème siècle.
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>
+A l'aube de du changement de siècle, il fallait absolument revoir sa façon de parler des années qui allaient désormais s'écouler...
+
+Chaque weekend en podcast, retrouvez "100 ans de conneries", par Jean Yanne. Pendant 4 mois, de septembre à décembre 1999, le sociétaire des "Grosses Têtes", tenait sur RTL une chronique quotidienne dans laquelle il faisait le bilan du siècle qui allait bientôt se terminer. Avec son humour féroce habituel, il s'est attaché à dénoncé la "connerie" humaine, vraie constante et révélatrice du XXème siècle.
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Sun, 26 Oct 2025 05:30:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/6b7f1bfc-ac57-438e-8bb7-b2efa764abce.mp3?_=1761119281" length="2296767" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>A l'aube de du changement de siècle, il fallait absolument revoir sa façon de parler des années qui allaient désormais s'écouler...
+
+Chaque weekend en podcast, retrouvez "100 ans de conneries", par Jean Yanne. Pendant 4 mois, de septembre à décembre 1999, le sociétaire des "Grosses Têtes", tenait sur RTL une chronique quotidienne dans laquelle il faisait le bilan du siècle qui allait bientôt se terminer. Avec son humour féroce habituel, il s'est attaché à dénoncé la "connerie" humaine, vraie constante et révélatrice du XXème siècle.
+
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>A l'aube de du changement de siècle, il fallait absolument revoir sa façon de parler des années qui allaient désormais s'écouler...
+
+Chaque weekend en podcast, retrouvez "100 ans de conneries", par Jean Yanne. Pendant 4 mois, de septembre à décembre 1999, le sociétaire des "Grosses Têtes", tenait sur RTL une chronique quotidienne dans laquelle il faisait le bilan du siècle qui allait bientôt se terminer. Avec son humour féroce habituel, il s'est attaché à dénoncé la "connerie" humaine, vraie constante et révélatrice du XXème siècle.
+
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>RTL</itunes:author>
+      <author>RTL</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>
+A l'aube de du changement de siècle, il fallait absolument revoir sa façon de parler des années qui allaient désormais s'écouler...
+
+Chaque weekend en podcast, retrouvez "100 ans de conneries", par Jean Yanne. Pendant 4 mois, de septembre à décembre 1999, le socié...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>02:23</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/d4b362bd-b93d-4fb2-a134-ca9f196aa6cf.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/d4b362bd-b93d-4fb2-a134-ca9f196aa6cf.jpg" />
+      <ns3:txt purpose="smartlink">https://audmns.com/qMDdxqw</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Humour,Culture,Jean Yanne</itunes:keywords>
+    </item>
     <item>
       <title>ARCHIVE - La blague de Pierre Bellemare</title>
       <guid isPermaLink="false">955447bf-6bc5-428d-a31f-dd5ffc2ffc46</guid>
