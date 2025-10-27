@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Mon, 27 Oct 2025 16:57:21 GMT</lastBuildDate>
-    <pubDate>Mon, 27 Oct 2025 16:57:21 GMT</pubDate>
+    <lastBuildDate>Mon, 27 Oct 2025 17:25:04 GMT</lastBuildDate>
+    <pubDate>Mon, 27 Oct 2025 17:25:04 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,141 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/KxAcscK</ns3:txt>
+    <item>
+      <title>IMITATIONS - Sarkozy, Etchebest... L'actualité vue par Marc-Antoine Le Bret</title>
+      <guid isPermaLink="false">20843717-2d8b-423f-8599-5d5a596833e6</guid>
+      <description>Dans l'émission du 27 octobre 2025, Marc-Antoine Le Bret a imité Nicolas Sarkozy Roselyne Bachelot et Philippe Etchebest.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Dans l'émission du 27 octobre 2025, Marc-Antoine Le Bret a imité Nicolas Sarkozy Roselyne Bachelot et Philippe Etchebest.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Mon, 27 Oct 2025 16:52:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/20843717-2d8b-423f-8599-5d5a596833e6.mp3?_=1761583990" length="3934196" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Dans l'émission du 27 octobre 2025, Marc-Antoine Le Bret a imité Nicolas Sarkozy Roselyne Bachelot et Philippe Etchebest.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Dans l'émission du 27 octobre 2025, Marc-Antoine Le Bret a imité Nicolas Sarkozy Roselyne Bachelot et Philippe Etchebest.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Dans l'émission du 27 octobre 2025, Marc-Antoine Le Bret a imité Nicolas Sarkozy Roselyne Bachelot et Philippe Etchebest.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez </itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>04:05</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/4287dab8-8a65-44a5-85f5-998aef74717e.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/4287dab8-8a65-44a5-85f5-998aef74717e.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/vrQLIYD</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
+    <item>
+      <title>PÉPITE - Les Grosses Têtes répondent aux auditeurs</title>
+      <guid isPermaLink="false">02df8d5c-0082-4963-b97c-0d8395ffd47d</guid>
+      <description>Plaintes, compliments, interrogations... Cette saison encore, les Grosses Têtes répondent aux différentes questions et messages des auditeurs à l'antenne.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Plaintes, compliments, interrogations... Cette saison encore, les Grosses Têtes répondent aux différentes questions et messages des auditeurs à l'antenne.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Mon, 27 Oct 2025 16:57:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/02df8d5c-0082-4963-b97c-0d8395ffd47d.mp3?_=1761575882" length="5770309" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Plaintes, compliments, interrogations... Cette saison encore, les Grosses Têtes répondent aux différentes questions et messages des auditeurs à l'antenne.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Plaintes, compliments, interrogations... Cette saison encore, les Grosses Têtes répondent aux différentes questions et messages des auditeurs à l'antenne.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Plaintes, compliments, interrogations... Cette saison encore, les Grosses Têtes répondent aux différentes questions et messages des auditeurs à l'antenne.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ H...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>06:00</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/2e69e4cc-3532-4303-8833-11a844c7ced2.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/2e69e4cc-3532-4303-8833-11a844c7ced2.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/WnXryfF</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
+    <item>
+      <title>PÉPITE - Opérée du cerveau, elle joue de la clarinette</title>
+      <guid isPermaLink="false">3e24e529-12b0-47c4-a911-bb7f6326e6ed</guid>
+      <description>Une retraitée anglaise, atteinte de Parkinson, a joué de la clarinette pendant qu'elle se faisait opérer du cerveau...
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Une retraitée anglaise, atteinte de Parkinson, a joué de la clarinette pendant qu'elle se faisait opérer du cerveau...
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Mon, 27 Oct 2025 16:58:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/3e24e529-12b0-47c4-a911-bb7f6326e6ed.mp3?_=1761584881" length="3020074" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Une retraitée anglaise, atteinte de Parkinson, a joué de la clarinette pendant qu'elle se faisait opérer du cerveau...
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Une retraitée anglaise, atteinte de Parkinson, a joué de la clarinette pendant qu'elle se faisait opérer du cerveau...
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Une retraitée anglaise, atteinte de Parkinson, a joué de la clarinette pendant qu'elle se faisait opérer du cerveau...
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez </itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>03:08</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/01af3c2e-9232-4452-844f-64026e0c7201.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/01af3c2e-9232-4452-844f-64026e0c7201.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
+    <item>
+      <title>PÉPITE - Le meilleur de l'émission du 27 octobre 2025</title>
+      <guid isPermaLink="false">e85c8044-ff15-42b9-b1d9-69c493e36013</guid>
+      <description>Sébastien Thoen, en grande forme, les chansons de Pierre-Jean Chalençon, des nouvelles de Nicolas Sarkozy... Retrouvez dans ce podcast le meilleur de l'émission du lundi 27 octobre 2025.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Sébastien Thoen, en grande forme, les chansons de Pierre-Jean Chalençon, des nouvelles de Nicolas Sarkozy... Retrouvez dans ce podcast le meilleur de l'émission du lundi 27 octobre 2025.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Mon, 27 Oct 2025 16:59:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/e85c8044-ff15-42b9-b1d9-69c493e36013.mp3?_=1761584283" length="15983212" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Sébastien Thoen, en grande forme, les chansons de Pierre-Jean Chalençon, des nouvelles de Nicolas Sarkozy... Retrouvez dans ce podcast le meilleur de l'émission du lundi 27 octobre 2025.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Sébastien Thoen, en grande forme, les chansons de Pierre-Jean Chalençon, des nouvelles de Nicolas Sarkozy... Retrouvez dans ce podcast le meilleur de l'émission du lundi 27 octobre 2025.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Sébastien Thoen, en grande forme, les chansons de Pierre-Jean Chalençon, des nouvelles de Nicolas Sarkozy... Retrouvez dans ce podcast le meilleur de l'émission du lundi 27 octobre 2025.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr ...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>16:38</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/4f76ecb5-f90d-4f24-a864-6bbc3470707b.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/4f76ecb5-f90d-4f24-a864-6bbc3470707b.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/NOKUSJI</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>FAKE NEWS - Lundi 27 octobre 2025</title>
       <guid isPermaLink="false">d861ba62-4af5-47d3-be85-a53e784eb356</guid>
