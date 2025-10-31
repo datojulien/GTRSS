@@ -14,22 +14,29 @@ output_integrale    = "only_integrale_feed.xml"
 output_best         = "only_best_feed.xml"
 output_remaining    = "only_remaining_feed.xml"
 
-# NOTE: 'integrale_pref' can be a tuple for .startswith()
+# Titles (prefix checks use .startswith on tuples)
 integrale_pref      = ("L'INTÉGRALE", "DÉBRIEF")
+best_prefs          = (
+    "MEILLEUR DE LA SAISON",
+    "BEST OF",
+    "MOMENT CULTE",
+    "L'INTÉGRALE - Le Best of",   # important: treat as Best-of, not Intégrale
+)
 
-# Crucial: include the special prefix so they go to Best-of
-best_prefs          = ("MEILLEUR DE LA SAISON", "BEST OF", "MOMENT CULTE", "L'INTÉGRALE - Le Best of")
+# Best-of minimum duration (minutes)
+MIN_BEST_DURATION_MIN = 20
+MIN_BEST_DURATION_SEC = MIN_BEST_DURATION_MIN * 60
 
 repo_path           = "."
 
-# Cover art URLs (raw GitHub links)
+# Cover art
 integrale_image_url = "https://raw.githubusercontent.com/datojulien/GTRSS/main/Integrales.jpg"
 best_image_url      = "https://raw.githubusercontent.com/datojulien/GTRSS/main/Extras.jpg"
 autres_image_url    = "https://raw.githubusercontent.com/datojulien/GTRSS/main/Autres.jpg"
 
-# Custom channel summaries
+# Channel summaries
 integrale_summary   = "Tous les épisodes de L'Intégrale de 'Les Grosses Têtes', regroupant la diffusion complète sans coupures ni extras."
-best_summary        = "Le Best Of : une sélection des moments les plus drôles et emblématiques de la saison, incluant bonus et moments cultes."
+best_summary        = "Le Best Of : une sélection des moments les plus drôles et emblématiques de la saison, incluant bonus et moments cultes (≥ 20 min)."
 remaining_summary   = "Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer."
 # ───────────────────────────────────────────────────────────────
 
@@ -63,10 +70,39 @@ existing_root_i, existing_channel_i, existing_guids_i = load_existing(output_int
 existing_root_b, existing_channel_b, existing_guids_b = load_existing(output_best)
 existing_root_r, existing_channel_r, existing_guids_r = load_existing(output_remaining)
 
-# 3) CLASSIFICATION HELPERS (Best-of has precedence over Intégrale)
-def safe_text(elem, tag):
+# 3) HELPERS
+def safe_text(elem, tag, ns=None):
+    if ns:
+        tag = f"{{{ns}}}{tag}"
     node = elem.find(tag)
     return (node.text or "").strip() if node is not None and node.text else ""
+
+def parse_itunes_duration_to_seconds(text: str) -> int:
+    """
+    Parse itunes:duration value to seconds.
+    Accepts "SS", "MM:SS", "HH:MM:SS". Returns -1 if invalid/missing.
+    """
+    if not text:
+        return -1
+    s = text.strip()
+    try:
+        # pure seconds
+        if s.isdigit():
+            return int(s)
+        parts = s.split(":")
+        if len(parts) == 2:  # MM:SS
+            mm, ss = parts
+            return int(mm) * 60 + int(ss)
+        if len(parts) == 3:  # HH:MM:SS
+            hh, mm, ss = parts
+            return int(hh) * 3600 + int(mm) * 60 + int(ss)
+    except Exception:
+        pass
+    return -1
+
+def get_item_duration_seconds(item) -> int:
+    dur_text = safe_text(item, 'duration', ITUNES_NS)
+    return parse_itunes_duration_to_seconds(dur_text)
 
 def is_best_title(title: str) -> bool:
     return any(title.startswith(pref) for pref in best_prefs)
@@ -75,22 +111,39 @@ def is_integrale_title(title: str) -> bool:
     # Intégrale only if it starts with integrale_pref AND is NOT best-of
     return title.startswith(integrale_pref) and not is_best_title(title)
 
-# 4) COLLECT new items (incremental)
+def is_best_episode(item) -> bool:
+    """
+    Best-of classification that ALSO enforces the duration threshold.
+    Missing/invalid duration -> exclude from Best-of.
+    """
+    title = safe_text(item, 'title')
+    if not is_best_title(title):
+        return False
+    dur = get_item_duration_seconds(item)
+    return dur >= MIN_BEST_DURATION_SEC
+
+def is_remaining_title(t: str) -> bool:
+    return (not is_integrale_title(t)) and (not is_best_title(t))
+
+# 4) COLLECT new items (incremental pass)
 new_i, new_b, new_r = [], [], []
 
 for item in src_channel.findall('item'):
     title = safe_text(item, 'title')
     guid  = safe_text(item, 'guid')
 
-    best_flag      = is_best_title(title)
-    integrale_flag = is_integrale_title(title)
+    if not guid:
+        continue
 
-    if integrale_flag and guid and guid not in existing_guids_i:
-        new_i.append(item)
-    elif best_flag and guid and guid not in existing_guids_b:
-        new_b.append(item)
-    elif not integrale_flag and not best_flag and guid and guid not in existing_guids_r:
-        new_r.append(item)
+    if is_integrale_title(title):
+        if guid not in existing_guids_i:
+            new_i.append(item)
+    elif is_best_episode(item):
+        if guid not in existing_guids_b:
+            new_b.append(item)
+    else:
+        if guid not in existing_guids_r:
+            new_r.append(item)
 
 # 5) COVER handling
 def apply_cover(channel, image_url):
@@ -136,16 +189,15 @@ def finalize_channel(channel, cover_url, title_suffix, summary_text):
         else:
             n.text = now
 
-# 7) Utilities for “first-time build” filtering (from full source)
-def clone_and_filter(predicate):
+# 7) Utilities
+def clone_and_filter(predicate_item):
     """
-    Clone the original feed root and keep only items for which predicate(title) is True.
+    Clone the original feed root and keep only items for which predicate_item(item) is True.
     """
     root = ET.fromstring(raw)
     ch   = root.find('channel')
     for it in list(ch.findall('item')):
-        t = safe_text(it, 'title')
-        if not predicate(t):
+        if not predicate_item(it):
             ch.remove(it)
     return root, ch
 
@@ -162,11 +214,24 @@ def insert_new_items_at_top(channel, new_items):
         else:
             channel.append(it)
 
+def prune_best_short_items(channel_b):
+    """
+    Remove any items in existing Best-of channel whose duration is below threshold,
+    or which no longer match Best-of title (safety net).
+    """
+    changed = False
+    for it in list(channel_b.findall('item')):
+        title = safe_text(it, 'title')
+        if (not is_best_title(title)) or (get_item_duration_seconds(it) < MIN_BEST_DURATION_SEC):
+            channel_b.remove(it)
+            changed = True
+    return changed
+
 # --- Generate Intégrale Feed ---
 if new_i or existing_channel_i is None:
     if existing_channel_i is None:
         # Keep items that are integrale (but not best-of)
-        root_i, channel_i = clone_and_filter(is_integrale_title)
+        root_i, channel_i = clone_and_filter(lambda it: is_integrale_title(safe_text(it, 'title')))
     else:
         root_i, channel_i = existing_root_i, existing_channel_i
         insert_new_items_at_top(channel_i, new_i)
@@ -188,14 +253,18 @@ if new_i or existing_channel_i is None:
         finally:
             pass
 
-# --- Generate Best-of (Extras) Feed ---
+# --- Generate Best-of (Extras) Feed (≥ 20 min) ---
 if new_b or existing_channel_b is None:
     if existing_channel_b is None:
-        # Keep items that are best-of (this now includes "L'INTÉGRALE - Le Best of")
-        root_b, channel_b = clone_and_filter(is_best_title)
+        # Keep items that are best-of AND satisfy duration threshold
+        root_b, channel_b = clone_and_filter(is_best_episode)
     else:
         root_b, channel_b = existing_root_b, existing_channel_b
+        # Insert new qualifying items
         insert_new_items_at_top(channel_b, new_b)
+        # Prune any too-short or no longer best-of items already present
+        if prune_best_short_items(channel_b):
+            print("⛏️  pruned short/non-best items from existing Best-of feed")
 
     finalize_channel(channel_b, best_image_url, "Extras", best_summary)
     try:
@@ -203,13 +272,13 @@ if new_b or existing_channel_b is None:
     except AttributeError:
         pass
     ET.ElementTree(root_b).write(output_best, encoding='utf-8', xml_declaration=True)
-    print(f"✔️ wrote {len(new_b)} best-of items to {output_best}")
+    print(f"✔️ wrote {len(new_b)} best-of items (≥ {MIN_BEST_DURATION_MIN} min) to {output_best}")
 
     if new_b:
         try:
             os.chdir(repo_path)
             subprocess.run(["git", "add", output_best], check=False)
-            subprocess.run(["git", "commit", "-m", f"Add {len(new_b)} new best-of item(s) at {now}"], check=False)
+            subprocess.run(["git", "commit", "-m", f"Add {len(new_b)} new best-of item(s) ≥ {MIN_BEST_DURATION_MIN} min at {now}"], check=False)
             subprocess.run(["git", "push", "origin", "main"], check=False)
         finally:
             pass
@@ -217,10 +286,10 @@ if new_b or existing_channel_b is None:
 # --- Generate Remaining Feed ---
 if new_r or existing_channel_r is None:
     if existing_channel_r is None:
-        # Keep items that are neither integrale nor best-of
-        def is_remaining_title(t):
-            return (not is_integrale_title(t)) and (not is_best_title(t))
-        root_r, channel_r = clone_and_filter(is_remaining_title)
+        # Keep items that are neither integrale nor best-of (no duration rule here)
+        root_r, channel_r = clone_and_filter(
+            lambda it: (not is_integrale_title(safe_text(it, 'title'))) and (not is_best_episode(it))
+        )
     else:
         root_r, channel_r = existing_root_r, existing_channel_r
         insert_new_items_at_top(channel_r, new_r)
