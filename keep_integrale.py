@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
 import xml.etree.ElementTree as ET
 import requests
 from email.utils import formatdate
@@ -7,35 +9,44 @@ import os
 
 # ─── CONFIG ───────────────────────────────────────────────────
 feed_url            = "https://feeds.audiomeans.fr/feed/d7c6111b-04c1-46bc-b74c-d941a90d37fb.xml"
+
 output_integrale    = "only_integrale_feed.xml"
 output_best         = "only_best_feed.xml"
 output_remaining    = "only_remaining_feed.xml"
+
+# NOTE: 'integrale_pref' can be a tuple for .startswith()
 integrale_pref      = ("L'INTÉGRALE", "DÉBRIEF")
-best_prefs          = ("MEILLEUR DE LA SAISON", "BEST OF", "MOMENT CULTE")
+
+# Crucial: include the special prefix so they go to Best-of
+best_prefs          = ("MEILLEUR DE LA SAISON", "BEST OF", "MOMENT CULTE", "L'INTÉGRALE - Le Best of")
+
 repo_path           = "."
+
 # Cover art URLs (raw GitHub links)
 integrale_image_url = "https://raw.githubusercontent.com/datojulien/GTRSS/main/Integrales.jpg"
 best_image_url      = "https://raw.githubusercontent.com/datojulien/GTRSS/main/Extras.jpg"
-autres_image_url          = "https://raw.githubusercontent.com/datojulien/GTRSS/main/Autres.jpg"
+autres_image_url    = "https://raw.githubusercontent.com/datojulien/GTRSS/main/Autres.jpg"
+
 # Custom channel summaries
 integrale_summary   = "Tous les épisodes de L'Intégrale de 'Les Grosses Têtes', regroupant la diffusion complète sans coupures ni extras."
 best_summary        = "Le Best Of : une sélection des moments les plus drôles et emblématiques de la saison, incluant bonus et moments cultes."
 remaining_summary   = "Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer."
 # ───────────────────────────────────────────────────────────────
 
-# Register namespaces
-ITUNES_NS = 'http://www.itunes.com/dtds/podcast-1.0.dtd'
+# Namespaces
+ITUNES_NS = "http://www.itunes.com/dtds/podcast-1.0.dtd"
+GPOD_NS   = "http://www.google.com/schemas/play-podcasts/1.0"
 ET.register_namespace('itunes', ITUNES_NS)
 
 # 1) FETCH source feed
-resp = requests.get(feed_url)
+resp = requests.get(feed_url, timeout=60)
 resp.raise_for_status()
 raw = resp.content
 src_root = ET.fromstring(raw)
 src_channel = src_root.find('channel')
 
 # 2) LOAD existing feeds and collect GUIDs
-def load(path):
+def load_existing(path):
     guids = set()
     root = channel = None
     if os.path.exists(path):
@@ -43,131 +54,190 @@ def load(path):
         root = tree.getroot()
         channel = root.find('channel')
         for item in channel.findall('item'):
-            guids.add(item.find('guid').text.strip())
+            g = item.find('guid')
+            if g is not None and g.text:
+                guids.add(g.text.strip())
     return root, channel, guids
 
-existing_root_i, existing_channel_i, existing_guids_i = load(output_integrale)
-existing_root_b, existing_channel_b, existing_guids_b = load(output_best)
-existing_root_r, existing_channel_r, existing_guids_r = load(output_remaining)
+existing_root_i, existing_channel_i, existing_guids_i = load_existing(output_integrale)
+existing_root_b, existing_channel_b, existing_guids_b = load_existing(output_best)
+existing_root_r, existing_channel_r, existing_guids_r = load_existing(output_remaining)
 
-# 3) PICK UP new items
+# 3) CLASSIFICATION HELPERS (Best-of has precedence over Intégrale)
+def safe_text(elem, tag):
+    node = elem.find(tag)
+    return (node.text or "").strip() if node is not None and node.text else ""
+
+def is_best_title(title: str) -> bool:
+    return any(title.startswith(pref) for pref in best_prefs)
+
+def is_integrale_title(title: str) -> bool:
+    # Intégrale only if it starts with integrale_pref AND is NOT best-of
+    return title.startswith(integrale_pref) and not is_best_title(title)
+
+# 4) COLLECT new items (incremental)
 new_i, new_b, new_r = [], [], []
+
 for item in src_channel.findall('item'):
-    title = item.find('title').text.strip()
-    guid = item.find('guid').text.strip()
-    is_integrale = title.startswith(integrale_pref)
-    is_best = any(title.startswith(pref) for pref in best_prefs)
-    if is_integrale and guid not in existing_guids_i:
+    title = safe_text(item, 'title')
+    guid  = safe_text(item, 'guid')
+
+    best_flag      = is_best_title(title)
+    integrale_flag = is_integrale_title(title)
+
+    if integrale_flag and guid and guid not in existing_guids_i:
         new_i.append(item)
-    if is_best and guid not in existing_guids_b:
+    elif best_flag and guid and guid not in existing_guids_b:
         new_b.append(item)
-    if not is_integrale and not is_best and guid not in existing_guids_r:
+    elif not integrale_flag and not best_flag and guid and guid not in existing_guids_r:
         new_r.append(item)
 
-# 4) Helper to apply cover art and strip old images
-NS2 = 'http://www.google.com/schemas/play-podcasts/1.0'
+# 5) COVER handling
 def apply_cover(channel, image_url):
-    for old in channel.findall('image') + channel.findall(f"{{{NS2}}}image") + channel.findall(f"{{{ITUNES_NS}}}image"):
+    # Remove any existing <image>, <itunes:image>, <gpod:image>
+    for old in channel.findall('image') + channel.findall(f"{{{GPOD_NS}}}image") + channel.findall(f"{{{ITUNES_NS}}}image"):
         channel.remove(old)
     img = ET.Element(f"{{{ITUNES_NS}}}image")
     img.set('href', image_url)
     title_elem = channel.find('title')
     idx = list(channel).index(title_elem) if title_elem is not None else 0
-    channel.insert(idx+1, img)
+    channel.insert(idx + 1, img)
 
 # Timestamp
 now = formatdate(usegmt=True)
 
-# Function to update common channel tags
+# 6) Channel finalization
 def finalize_channel(channel, cover_url, title_suffix, summary_text):
     apply_cover(channel, cover_url)
-    src_title = src_channel.find('title').text or ''
-    channel.find('title').text = f"{src_title} ({title_suffix})"
-    # update description tag
+    src_title = safe_text(src_channel, 'title')
+    title_node = channel.find('title')
+    if title_node is None:
+        title_node = ET.SubElement(channel, 'title')
+    title_node.text = f"{src_title} ({title_suffix})"
+
+    # <description>
     desc = channel.find('description')
     if desc is None:
         desc = ET.SubElement(channel, 'description')
     desc.text = summary_text
-    # update itunes:summary
+
+    # <itunes:summary>
     sum_tag = f"{{{ITUNES_NS}}}summary"
     node = channel.find(sum_tag)
     if node is None:
         node = ET.SubElement(channel, sum_tag)
     node.text = summary_text
+
     # timestamps
-    for tag in ('pubDate','lastBuildDate'):
+    for tag in ('pubDate', 'lastBuildDate'):
         n = channel.find(tag)
         if n is None:
             ET.SubElement(channel, tag).text = now
         else:
             n.text = now
 
-# --- Generate Integrale Feed ---
+# 7) Utilities for “first-time build” filtering (from full source)
+def clone_and_filter(predicate):
+    """
+    Clone the original feed root and keep only items for which predicate(title) is True.
+    """
+    root = ET.fromstring(raw)
+    ch   = root.find('channel')
+    for it in list(ch.findall('item')):
+        t = safe_text(it, 'title')
+        if not predicate(t):
+            ch.remove(it)
+    return root, ch
+
+def insert_new_items_at_top(channel, new_items):
+    """
+    Insert in reverse to keep original order at top.
+    """
+    if not new_items:
+        return
+    first = channel.find('item')
+    for it in reversed(new_items):
+        if first is not None:
+            channel.insert(list(channel).index(first), it)
+        else:
+            channel.append(it)
+
+# --- Generate Intégrale Feed ---
 if new_i or existing_channel_i is None:
     if existing_channel_i is None:
-        root_i = ET.fromstring(raw)
-        channel_i = root_i.find('channel')
-        for it in list(channel_i.findall('item')):
-            if not it.find('title').text.strip().startswith(integrale_pref):
-                channel_i.remove(it)
+        # Keep items that are integrale (but not best-of)
+        root_i, channel_i = clone_and_filter(is_integrale_title)
     else:
         root_i, channel_i = existing_root_i, existing_channel_i
-        first = channel_i.find('item')
-        for it in reversed(new_i):
-            channel_i.insert(list(channel_i).index(first), it)
+        insert_new_items_at_top(channel_i, new_i)
+
     finalize_channel(channel_i, integrale_image_url, "L’intégrale", integrale_summary)
-    ET.indent(root_i, space='  ')
+    try:
+        ET.indent(root_i, space='  ')
+    except AttributeError:
+        pass
     ET.ElementTree(root_i).write(output_integrale, encoding='utf-8', xml_declaration=True)
     print(f"✔️ wrote {len(new_i)} integrale items to {output_integrale}")
+
     if new_i:
-        os.chdir(repo_path)
-        subprocess.run(["git","add", output_integrale])
-        subprocess.run(["git","commit","-m", f"Add {len(new_i)} new integrale item(s) at {now}"], check=False)
-        subprocess.run(["git","push","origin","main"], check=False)
+        try:
+            os.chdir(repo_path)
+            subprocess.run(["git", "add", output_integrale], check=False)
+            subprocess.run(["git", "commit", "-m", f"Add {len(new_i)} new integrale item(s) at {now}"], check=False)
+            subprocess.run(["git", "push", "origin", "main"], check=False)
+        finally:
+            pass
 
 # --- Generate Best-of (Extras) Feed ---
 if new_b or existing_channel_b is None:
     if existing_channel_b is None:
-        root_b = ET.fromstring(raw)
-        channel_b = root_b.find('channel')
-        for it in list(channel_b.findall('item')):
-            if not any(it.find('title').text.strip().startswith(pref) for pref in best_prefs):
-                channel_b.remove(it)
+        # Keep items that are best-of (this now includes "L'INTÉGRALE - Le Best of")
+        root_b, channel_b = clone_and_filter(is_best_title)
     else:
         root_b, channel_b = existing_root_b, existing_channel_b
-        first = channel_b.find('item')
-        for it in reversed(new_b):
-            channel_b.insert(list(channel_b).index(first), it)
+        insert_new_items_at_top(channel_b, new_b)
+
     finalize_channel(channel_b, best_image_url, "Extras", best_summary)
-    ET.indent(root_b, space='  ')
+    try:
+        ET.indent(root_b, space='  ')
+    except AttributeError:
+        pass
     ET.ElementTree(root_b).write(output_best, encoding='utf-8', xml_declaration=True)
     print(f"✔️ wrote {len(new_b)} best-of items to {output_best}")
+
     if new_b:
-        os.chdir(repo_path)
-        subprocess.run(["git","add", output_best])
-        subprocess.run(["git","commit","-m", f"Add {len(new_b)} new best-of item(s) at {now}"], check=False)
-        subprocess.run(["git","push","origin","main"], check=False)
+        try:
+            os.chdir(repo_path)
+            subprocess.run(["git", "add", output_best], check=False)
+            subprocess.run(["git", "commit", "-m", f"Add {len(new_b)} new best-of item(s) at {now}"], check=False)
+            subprocess.run(["git", "push", "origin", "main"], check=False)
+        finally:
+            pass
 
 # --- Generate Remaining Feed ---
 if new_r or existing_channel_r is None:
     if existing_channel_r is None:
-        root_r = ET.fromstring(raw)
-        channel_r = root_r.find('channel')
-        for it in list(channel_r.findall('item')):
-            t = it.find('title').text.strip()
-            if t.startswith(integrale_pref) or any(t.startswith(pref) for pref in best_prefs):
-                channel_r.remove(it)
+        # Keep items that are neither integrale nor best-of
+        def is_remaining_title(t):
+            return (not is_integrale_title(t)) and (not is_best_title(t))
+        root_r, channel_r = clone_and_filter(is_remaining_title)
     else:
         root_r, channel_r = existing_root_r, existing_channel_r
-        first = channel_r.find('item')
-        for it in reversed(new_r):
-            channel_r.insert(list(channel_r).index(first), it)
+        insert_new_items_at_top(channel_r, new_r)
+
     finalize_channel(channel_r, autres_image_url, "Other Episodes", remaining_summary)
-    ET.indent(root_r, space='  ')
+    try:
+        ET.indent(root_r, space='  ')
+    except AttributeError:
+        pass
     ET.ElementTree(root_r).write(output_remaining, encoding='utf-8', xml_declaration=True)
     print(f"✔️ wrote {len(new_r)} remaining items to {output_remaining}")
+
     if new_r:
-        os.chdir(repo_path)
-        subprocess.run(["git","add", output_remaining])
-        subprocess.run(["git","commit","-m", f"Add {len(new_r)} new remaining item(s) at {now}"], check=False)
-        subprocess.run(["git","push","origin","main"], check=False)
+        try:
+            os.chdir(repo_path)
+            subprocess.run(["git", "add", output_remaining], check=False)
+            subprocess.run(["git", "commit", "-m", f"Add {len(new_r)} new remaining item(s) at {now}"], check=False)
+            subprocess.run(["git", "push", "origin", "main"], check=False)
+        finally:
+            pass
