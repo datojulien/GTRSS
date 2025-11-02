@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Sun, 02 Nov 2025 05:24:43 GMT</lastBuildDate>
-    <pubDate>Sun, 02 Nov 2025 05:24:43 GMT</pubDate>
+    <lastBuildDate>Sun, 02 Nov 2025 05:53:18 GMT</lastBuildDate>
+    <pubDate>Sun, 02 Nov 2025 05:53:18 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,73 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/jkndKZx</ns3:txt>
+    <item>
+      <title>QUE DU BLUFF - Laurent Baffie affronte Isabelle Mergault et François Renucci</title>
+      <guid isPermaLink="false">246b75e8-731f-4f6a-885d-83942920950f</guid>
+      <description>INÉDIT - Découvrez "Que du Bluff", le grand concours d'anecdotes des Grosses Têtes ! Chaque dimanche, un nouvel épisode voit s'affronter 3 sociétaires de l'émission. Dans ce neuvième numéro, Laurent Baffie fait face à Isabelle Mergault et François Renucci. Il dévoile 3 histoires marquantes de sa vie, mais une seule est vraie. Laquelle ?
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>INÉDIT - Découvrez "Que du Bluff", le grand concours d'anecdotes des Grosses Têtes ! Chaque dimanche, un nouvel épisode voit s'affronter 3 sociétaires de l'émission. Dans ce neuvième numéro, Laurent Baffie fait face à Isabelle Mergault et François Renucci. Il dévoile 3 histoires marquantes de sa vie, mais une seule est vraie. Laquelle ?
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Sun, 02 Nov 2025 06:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/246b75e8-731f-4f6a-885d-83942920950f.mp3?_=1761059282" length="9814013" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>INÉDIT - Découvrez "Que du Bluff", le grand concours d'anecdotes des Grosses Têtes ! Chaque dimanche, un nouvel épisode voit s'affronter 3 sociétaires de l'émission. Dans ce neuvième numéro, Laurent Baffie fait face à Isabelle Mergault et François Renucci. Il dévoile 3 histoires marquantes de sa vie, mais une seule est vraie. Laquelle ?
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>INÉDIT - Découvrez "Que du Bluff", le grand concours d'anecdotes des Grosses Têtes ! Chaque dimanche, un nouvel épisode voit s'affronter 3 sociétaires de l'émission. Dans ce neuvième numéro, Laurent Baffie fait face à Isabelle Mergault et François Renucci. Il dévoile 3 histoires marquantes de sa vie, mais une seule est vraie. Laquelle ?
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>INÉDIT - Découvrez "Que du Bluff", le grand concours d'anecdotes des Grosses Têtes ! Chaque dimanche, un nouvel épisode voit s'affronter 3 sociétaires de l'émission. Dans ce neuvième numéro, Laurent Baffie fait face à Isabelle Mergault et François Renucci. Il dévoi...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>10:13</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/3ffd59dd-b56d-4c12-8320-547630aa8552.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/3ffd59dd-b56d-4c12-8320-547630aa8552.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/vgahWjB</ns3:txt>
+    </item>
+    <item>
+      <title>ARCHIVE - Jean Yanne, "100 ans de conneries" : qui a volé les urinoirs ?</title>
+      <guid isPermaLink="false">a78c7e5c-0c32-4ebd-87ec-59e05f0de3b7</guid>
+      <description>Quand deux urinoirs disparaissent des toilettes publiques de la commune de La Frette, en Isère, les enquêteurs sont bien décidés à retrouver les voleurs...&amp;nbsp;
+
+Chaque weekend en podcast, retrouvez "100 ans de conneries", par Jean Yanne. Pendant 4 mois, de septembre à décembre 1999, le sociétaire des "Grosses Têtes", tenait sur RTL une chronique quotidienne dans laquelle il faisait le bilan du siècle qui allait bientôt se terminer. Avec son humour féroce habituel, il s'est attaché à dénoncé la "connerie" humaine, vraie constante et révélatrice du XXème siècle.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Quand deux urinoirs disparaissent des toilettes publiques de la commune de La Frette, en Isère, les enquêteurs sont bien décidés à retrouver les voleurs...&amp;nbsp;
+
+Chaque weekend en podcast, retrouvez "100 ans de conneries", par Jean Yanne. Pendant 4 mois, de septembre à décembre 1999, le sociétaire des "Grosses Têtes", tenait sur RTL une chronique quotidienne dans laquelle il faisait le bilan du siècle qui allait bientôt se terminer. Avec son humour féroce habituel, il s'est attaché à dénoncé la "connerie" humaine, vraie constante et révélatrice du XXème siècle.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Sun, 02 Nov 2025 05:30:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/a78c7e5c-0c32-4ebd-87ec-59e05f0de3b7.mp3?_=1761901080" length="2283530" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Quand deux urinoirs disparaissent des toilettes publiques de la commune de La Frette, en Isère, les enquêteurs sont bien décidés à retrouver les voleurs... 
+
+Chaque weekend en podcast, retrouvez "100 ans de conneries", par Jean Yanne. Pendant 4 mois, de septembre à décembre 1999, le sociétaire des "Grosses Têtes", tenait sur RTL une chronique quotidienne dans laquelle il faisait le bilan du siècle qui allait bientôt se terminer. Avec son humour féroce habituel, il s'est attaché à dénoncé la "connerie" humaine, vraie constante et révélatrice du XXème siècle.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Quand deux urinoirs disparaissent des toilettes publiques de la commune de La Frette, en Isère, les enquêteurs sont bien décidés à retrouver les voleurs... 
+
+Chaque weekend en podcast, retrouvez "100 ans de conneries", par Jean Yanne. Pendant 4 mois, de septembre à décembre 1999, le sociétaire des "Grosses Têtes", tenait sur RTL une chronique quotidienne dans laquelle il faisait le bilan du siècle qui allait bientôt se terminer. Avec son humour féroce habituel, il s'est attaché à dénoncé la "connerie" humaine, vraie constante et révélatrice du XXème siècle.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Quand deux urinoirs disparaissent des toilettes publiques de la commune de La Frette, en Isère, les enquêteurs sont bien décidés à retrouver les voleurs... 
+
+Chaque weekend en podcast, retrouvez "100 ans de conneries", par Jean Yanne. Pendant 4 mois, de septem...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>02:22</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/5132f56c-760e-4d36-99ae-f2791d18ea37.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/5132f56c-760e-4d36-99ae-f2791d18ea37.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/jzNfjGJ</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>ARCHIVE - La blague de Jean-Jacques Peroni</title>
       <guid isPermaLink="false">bc9e0827-82ad-454f-923d-11c423dd001f</guid>
@@ -2745,76 +2812,6 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <ns2:image href="https://static.audiomeans.fr/img/episode/a24cf6ad-04f7-4ac0-a5e9-0856ab129b9d.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/TbHEXAU</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>FAKE NEWS - Mardi 21 octobre 2025</title>
-      <guid isPermaLink="false">87fa5b94-2b77-44d6-998e-7e553430b8ab</guid>
-      <description>Et vous, saurez-vous démêler le vrai du faux ?
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Et vous, saurez-vous démêler le vrai du faux ?
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Tue, 21 Oct 2025 15:55:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/87fa5b94-2b77-44d6-998e-7e553430b8ab.mp3?_=1761050281" length="4868067" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Et vous, saurez-vous démêler le vrai du faux ?
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Et vous, saurez-vous démêler le vrai du faux ?
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Et vous, saurez-vous démêler le vrai du faux ?
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.f...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>05:04</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/750cf8bb-214b-4acf-852d-ecfd8efa4126.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/750cf8bb-214b-4acf-852d-ecfd8efa4126.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/QkvYTSE</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>IMITATIONS - Nicolas Sarkozy en prison... L'actualité vue par Marc-Antoine Le Bret</title>
-      <guid isPermaLink="false">4393a56f-10ed-4259-9560-d2e1ee1a3777</guid>
-      <description>Dans l'émission du 21 octobre 2025, Marc-Antoine Le Bret a imité Nicolas Sarkozy, Gérald Darmin, Stéphane Bern, Patrick Sébastien, Jean Dujardin et Jean-Claude Van Damme... 
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Dans l'émission du 21 octobre 2025, Marc-Antoine Le Bret a imité Nicolas Sarkozy, Gérald Darmin, Stéphane Bern, Patrick Sébastien, Jean Dujardin et Jean-Claude Van Damme... 
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Tue, 21 Oct 2025 15:52:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/4393a56f-10ed-4259-9560-d2e1ee1a3777.mp3?_=1761055381" length="5219503" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Dans l'émission du 21 octobre 2025, Marc-Antoine Le Bret a imité Nicolas Sarkozy, Gérald Darmin, Stéphane Bern, Patrick Sébastien, Jean Dujardin et Jean-Claude Van Damme... 
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Dans l'émission du 21 octobre 2025, Marc-Antoine Le Bret a imité Nicolas Sarkozy, Gérald Darmin, Stéphane Bern, Patrick Sébastien, Jean Dujardin et Jean-Claude Van Damme... 
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Dans l'émission du 21 octobre 2025, Marc-Antoine Le Bret a imité Nicolas Sarkozy, Gérald Darmin, Stéphane Bern, Patrick Sébastien, Jean Dujardin et Jean-Claude Van Damme... 
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'applicat...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>05:26</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/a26bd547-3474-4f8f-a0a9-a24610115df5.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/a26bd547-3474-4f8f-a0a9-a24610115df5.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/ksEESbB</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
