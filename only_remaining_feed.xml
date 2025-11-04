@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Tue, 04 Nov 2025 16:57:20 GMT</lastBuildDate>
-    <pubDate>Tue, 04 Nov 2025 16:57:20 GMT</pubDate>
+    <lastBuildDate>Tue, 04 Nov 2025 17:23:49 GMT</lastBuildDate>
+    <pubDate>Tue, 04 Nov 2025 17:23:49 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,38 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/jkndKZx</ns3:txt>
+    <item>
+      <title>PÉPITE - Le meilleur de l'émission du 4 novembre 2025</title>
+      <guid isPermaLink="false">b5d51366-e79f-48c8-a72c-d74704a7dde5</guid>
+      <description>Yoann Riou qui note les Grosses Têtes, l'anniversaire du chat d'Arielle Dombasle, la notoriété des Grosses Têtes... Retrouvez dans ce podcast le meilleur de l'émission du mardi 4 novembre 2025.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Yoann Riou qui note les Grosses Têtes, l'anniversaire du chat d'Arielle Dombasle, la notoriété des Grosses Têtes... Retrouvez dans ce podcast le meilleur de l'émission du mardi 4 novembre 2025.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Tue, 04 Nov 2025 16:59:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/b5d51366-e79f-48c8-a72c-d74704a7dde5.mp3?_=1762272782" length="17919211" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Yoann Riou qui note les Grosses Têtes, l'anniversaire du chat d'Arielle Dombasle, la notoriété des Grosses Têtes... Retrouvez dans ce podcast le meilleur de l'émission du mardi 4 novembre 2025.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Yoann Riou qui note les Grosses Têtes, l'anniversaire du chat d'Arielle Dombasle, la notoriété des Grosses Têtes... Retrouvez dans ce podcast le meilleur de l'émission du mardi 4 novembre 2025.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Yoann Riou qui note les Grosses Têtes, l'anniversaire du chat d'Arielle Dombasle, la notoriété des Grosses Têtes... Retrouvez dans ce podcast le meilleur de l'émission du mardi 4 novembre 2025.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur R...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>18:39</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/3372a947-1218-4478-9207-031a68084fe3.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/3372a947-1218-4478-9207-031a68084fe3.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/yGHJrSq</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>PÉPITE - Amir chante en live aux "Grosses Têtes"</title>
       <guid isPermaLink="false">361031fe-b2eb-4092-b8db-5b7ef1e5a7fa</guid>
@@ -73,6 +105,7 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <itunes:image href="https://static.audiomeans.fr/img/episode/9a9790ff-9e46-44f7-9e45-af7a1bfe8e6c.jpg" />
       <ns2:image href="https://static.audiomeans.fr/img/episode/9a9790ff-9e46-44f7-9e45-af7a1bfe8e6c.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/ySTUzuQ</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
@@ -2814,82 +2847,6 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <ns2:image href="https://static.audiomeans.fr/img/episode/d13ab887-2831-483c-97ad-90a034286b62.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/skuaXpy</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>PÉPITE - Valérie Mairesse sous le charme de Guillaume Farde</title>
-      <guid isPermaLink="false">870864fe-4221-4d1e-a7f6-33e9b46b4c75</guid>
-      <description>Valérie Mairesse semblait toute chamboulée au début de l'émission du jour...
-
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Valérie Mairesse semblait toute chamboulée au début de l'émission du jour...
-
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Thu, 23 Oct 2025 15:58:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/870864fe-4221-4d1e-a7f6-33e9b46b4c75.mp3?_=1761230884" length="2097984" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Valérie Mairesse semblait toute chamboulée au début de l'émission du jour...
-
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Valérie Mairesse semblait toute chamboulée au début de l'émission du jour...
-
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Valérie Mairesse semblait toute chamboulée au début de l'émission du jour...
-
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez </itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>02:11</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/a2358b39-3050-47f4-ace0-016a53f12361.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/a2358b39-3050-47f4-ace0-016a53f12361.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/GtrIkeX</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>PÉPITE - Les Grosses Têtes répondent aux auditeurs</title>
-      <guid isPermaLink="false">de3a793a-4767-4ac4-998c-4a51fa11d437</guid>
-      <description>Plaintes, compliments, interrogations... Cette saison encore, les Grosses Têtes répondent aux différentes questions et messages des auditeurs à l'antenne.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Plaintes, compliments, interrogations... Cette saison encore, les Grosses Têtes répondent aux différentes questions et messages des auditeurs à l'antenne.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Thu, 23 Oct 2025 15:57:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/de3a793a-4767-4ac4-998c-4a51fa11d437.mp3?_=1761222781" length="6017741" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Plaintes, compliments, interrogations... Cette saison encore, les Grosses Têtes répondent aux différentes questions et messages des auditeurs à l'antenne.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Plaintes, compliments, interrogations... Cette saison encore, les Grosses Têtes répondent aux différentes questions et messages des auditeurs à l'antenne.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Plaintes, compliments, interrogations... Cette saison encore, les Grosses Têtes répondent aux différentes questions et messages des auditeurs à l'antenne.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- H...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>06:16</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/4dfe1865-af36-46cc-9de1-c6027708d87a.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/4dfe1865-af36-46cc-9de1-c6027708d87a.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/mJgHzZI</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
