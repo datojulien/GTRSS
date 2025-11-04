@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Mon, 03 Nov 2025 23:53:15 GMT</lastBuildDate>
-    <pubDate>Mon, 03 Nov 2025 23:53:15 GMT</pubDate>
+    <lastBuildDate>Tue, 04 Nov 2025 02:00:58 GMT</lastBuildDate>
+    <pubDate>Tue, 04 Nov 2025 02:00:58 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,34 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/jkndKZx</ns3:txt>
+    <item>
+      <title>ARCHIVE - La blague de Philippe Chevallier</title>
+      <guid isPermaLink="false">8ebd8b26-0c4e-42dd-bdef-f58f66f79d7a</guid>
+      <description>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Tue, 04 Nov 2025 01:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/8ebd8b26-0c4e-42dd-bdef-f58f66f79d7a.mp3?_=1761735481" length="2118861" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !
+ Hébergé par Audiomeans. Visitez </itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>02:12</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/c703eac3-9bbd-4a42-a8c8-a0a0c9251f0c.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/c703eac3-9bbd-4a42-a8c8-a0a0c9251f0c.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/tIPNYzc</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>PÉPITE - Le meilleur de l'émission du 3 novembre 2025</title>
       <guid isPermaLink="false">fb72654d-ef86-47a8-a56b-ef056f872a77</guid>
@@ -2787,38 +2815,6 @@ Tous les jours, en podcast, retrouvez un...</itunes:subtitle>
       <ns2:image href="https://static.audiomeans.fr/img/episode/9e349869-50cb-48d7-8c4d-0040e0c3f6aa.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/gLkfuMA</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>PÉPITE - Le meilleur de l'émission du 22 octobre 2025</title>
-      <guid isPermaLink="false">2efe594c-5d7f-42ae-9ff1-b36a9f9c568f</guid>
-      <description>Une folle histoire brésilienne, l'auditeur qui réprimande Laurent Ruquier, des nouvelles de Nicolas Sarkozy... Retrouvez dans ce podcast le meilleur de l'émission du mercredi 22 octobre 2025.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Une folle histoire brésilienne, l'auditeur qui réprimande Laurent Ruquier, des nouvelles de Nicolas Sarkozy... Retrouvez dans ce podcast le meilleur de l'émission du mercredi 22 octobre 2025.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Wed, 22 Oct 2025 15:59:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/2efe594c-5d7f-42ae-9ff1-b36a9f9c568f.mp3?_=1761143894" length="17813465" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Une folle histoire brésilienne, l'auditeur qui réprimande Laurent Ruquier, des nouvelles de Nicolas Sarkozy... Retrouvez dans ce podcast le meilleur de l'émission du mercredi 22 octobre 2025.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Une folle histoire brésilienne, l'auditeur qui réprimande Laurent Ruquier, des nouvelles de Nicolas Sarkozy... Retrouvez dans ce podcast le meilleur de l'émission du mercredi 22 octobre 2025.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Une folle histoire brésilienne, l'auditeur qui réprimande Laurent Ruquier, des nouvelles de Nicolas Sarkozy... Retrouvez dans ce podcast le meilleur de l'émission du mercredi 22 octobre 2025.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RT...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>18:33</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/dee1a3bc-1379-4990-9164-5ca3e29ac147.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/dee1a3bc-1379-4990-9164-5ca3e29ac147.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/wyZhOHV</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
