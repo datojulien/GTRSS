@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Wed, 05 Nov 2025 04:54:23 GMT</lastBuildDate>
-    <pubDate>Wed, 05 Nov 2025 04:54:23 GMT</pubDate>
+    <lastBuildDate>Wed, 05 Nov 2025 05:26:40 GMT</lastBuildDate>
+    <pubDate>Wed, 05 Nov 2025 05:26:40 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,40 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/jkndKZx</ns3:txt>
+    <item>
+      <title>INÉDIT - Qui se cache derrière l'anecdote ? L'enquête de C. Beaugrand et C. Barbier</title>
+      <guid isPermaLink="false">6d59d0f2-0e88-411f-81f6-83ebcd27b551</guid>
+      <description>Dans ce nouveau podcast, les Grosses Têtes doivent deviner à qui appartiennent les anecdotes qu'elles entendent avec des voix trafiquées ! Christophe Barbier et Christophe Beaugrand mènent l'enquête.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Dans ce nouveau podcast, les Grosses Têtes doivent deviner à qui appartiennent les anecdotes qu'elles entendent avec des voix trafiquées ! Christophe Barbier et Christophe Beaugrand mènent l'enquête.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Wed, 05 Nov 2025 05:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/6d59d0f2-0e88-411f-81f6-83ebcd27b551.mp3?_=1762252680" length="3264357" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Dans ce nouveau podcast, les Grosses Têtes doivent deviner à qui appartiennent les anecdotes qu'elles entendent avec des voix trafiquées ! Christophe Barbier et Christophe Beaugrand mènent l'enquête.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Dans ce nouveau podcast, les Grosses Têtes doivent deviner à qui appartiennent les anecdotes qu'elles entendent avec des voix trafiquées ! Christophe Barbier et Christophe Beaugrand mènent l'enquête.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>RTL</itunes:author>
+      <author>RTL</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Dans ce nouveau podcast, les Grosses Têtes doivent deviner à qui appartiennent les anecdotes qu'elles entendent avec des voix trafiquées ! Christophe Barbier et Christophe Beaugrand mènent l'enquête.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podca...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>03:23</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/bd734eb6-dd27-4cff-a70d-813205022468.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/bd734eb6-dd27-4cff-a70d-813205022468.jpg" />
+      <ns3:txt purpose="smartlink">https://audmns.com/UFOmICi</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>ARCHIVE - La blague de Macha Méril</title>
       <guid isPermaLink="false">edbeb0f7-8e22-464c-abfe-6620b4aa00af</guid>
