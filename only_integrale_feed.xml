@@ -7,8 +7,8 @@
     <description>Tous les épisodes de L'Intégrale de 'Les Grosses Têtes', regroupant la diffusion complète sans coupures ni extras.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Thu, 06 Nov 2025 13:36:12 GMT</lastBuildDate>
-    <pubDate>Thu, 06 Nov 2025 13:36:12 GMT</pubDate>
+    <lastBuildDate>Thu, 06 Nov 2025 13:55:47 GMT</lastBuildDate>
+    <pubDate>Thu, 06 Nov 2025 13:55:47 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -518,44 +518,6 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <ns2:image href="https://static.audiomeans.fr/img/episode/b71d7fbe-9106-4db9-99e9-1323f724b541.jpg" />
       <ns3:txt purpose="smartlink">https://audmns.com/ZHAnOwH</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>L'INTÉGRALE - Depuis Charleville-Mézières : émission du vendredi 24 octobre 2025</title>
-      <guid isPermaLink="false">333af51c-8953-4394-8b45-19a246243457</guid>
-      <description>Depuis Charleville-Mézières, réécoutez l'émission avec Paul El Kharrat, Caroline Diament, AZ, Christophe Beaugrand, Valérie Mairesse et Jérémy Ferrari.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Depuis Charleville-Mézières, réécoutez l'émission avec Paul El Kharrat, Caroline Diament, AZ, Christophe Beaugrand, Valérie Mairesse et Jérémy Ferrari.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Fri, 24 Oct 2025 16:02:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/333af51c-8953-4394-8b45-19a246243457.mp3?_=1761309197" length="106531903" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Depuis Charleville-Mézières, réécoutez l'émission avec Paul El Kharrat, Caroline Diament, AZ, Christophe Beaugrand, Valérie Mairesse et Jérémy Ferrari.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Depuis Charleville-Mézières, réécoutez l'émission avec Paul El Kharrat, Caroline Diament, AZ, Christophe Beaugrand, Valérie Mairesse et Jérémy Ferrari.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Depuis Charleville-Mézières, réécoutez l'émission avec Paul El Kharrat, Caroline Diament, AZ, Christophe Beaugrand, Valérie Mairesse et Jérémy Ferrari.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébe...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>01:50:58</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/6672e738-b71e-4741-b231-9e8cb77e7ff0.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/6672e738-b71e-4741-b231-9e8cb77e7ff0.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/eEyFgdE</ns3:txt>
-      <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
   </channel>
 </rss>
