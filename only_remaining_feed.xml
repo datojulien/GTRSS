@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Fri, 07 Nov 2025 09:52:58 GMT</lastBuildDate>
-    <pubDate>Fri, 07 Nov 2025 09:52:58 GMT</pubDate>
+    <lastBuildDate>Fri, 07 Nov 2025 10:28:23 GMT</lastBuildDate>
+    <pubDate>Fri, 07 Nov 2025 10:28:23 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,43 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/jkndKZx</ns3:txt>
+    <item>
+      <title>BLAGUE - Les histoires drôles du 7 novembre 2025</title>
+      <guid isPermaLink="false">7a2a1655-7d58-4881-9643-caa5b7b67257</guid>
+      <description>Un sculpteur propose à son modèle de faire une pause, un homme rentre dans une pharmacie et demande un préservatif et les 3 ex Premiers ministres : M. Barnier, F. Bayrou et G. Attal prennent un café ensemble... Découvrez les 3 histoires drôles du jour !
+
+&lt;i&gt;Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Un sculpteur propose à son modèle de faire une pause, un homme rentre dans une pharmacie et demande un préservatif et les 3 ex Premiers ministres : M. Barnier, F. Bayrou et G. Attal prennent un café ensemble... Découvrez les 3 histoires drôles du jour !
+
+&lt;i&gt;Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Fri, 07 Nov 2025 10:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/7a2a1655-7d58-4881-9643-caa5b7b67257.mp3?_=1762447380" length="1369413" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Un sculpteur propose à son modèle de faire une pause, un homme rentre dans une pharmacie et demande un préservatif et les 3 ex Premiers ministres : M. Barnier, F. Bayrou et G. Attal prennent un café ensemble... Découvrez les 3 histoires drôles du jour !
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Un sculpteur propose à son modèle de faire une pause, un homme rentre dans une pharmacie et demande un préservatif et les 3 ex Premiers ministres : M. Barnier, F. Bayrou et G. Attal prennent un café ensemble... Découvrez les 3 histoires drôles du jour !
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Un sculpteur propose à son modèle de faire une pause, un homme rentre dans une pharmacie et demande un préservatif et les 3 ex Premiers ministres : M. Barnier, F. Bayrou et G. Attal prennent un café ensemble... Découvrez les 3 histoires drôles du jour !
+
+Tous le...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>01:25</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/05b309be-837e-4ef6-b117-8ef22611efc2.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/05b309be-837e-4ef6-b117-8ef22611efc2.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/rokqhlb</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>INÉDIT - Qui se cache derrière l'anecdote ? L'enquête de F. Berléand et P. Claudel</title>
       <guid isPermaLink="false">f76e3818-fe80-4e33-8dde-56cb295cf758</guid>
