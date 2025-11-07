@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Fri, 07 Nov 2025 13:53:16 GMT</lastBuildDate>
-    <pubDate>Fri, 07 Nov 2025 13:53:16 GMT</pubDate>
+    <lastBuildDate>Fri, 07 Nov 2025 14:25:41 GMT</lastBuildDate>
+    <pubDate>Fri, 07 Nov 2025 14:25:41 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -1661,8 +1661,8 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <itunes:block>no</itunes:block>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>08:04</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/421349a5-f45e-4665-a629-9b7127672f41.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/421349a5-f45e-4665-a629-9b7127672f41.jpg" />
+      <itunes:image href="https://static.audiomeans.fr/img/episode/19540188-8e50-48c8-a592-39fd283311f6.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/19540188-8e50-48c8-a592-39fd283311f6.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/DuGoTlK</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
