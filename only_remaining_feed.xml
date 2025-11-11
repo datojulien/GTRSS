@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Tue, 11 Nov 2025 09:53:23 GMT</lastBuildDate>
-    <pubDate>Tue, 11 Nov 2025 09:53:23 GMT</pubDate>
+    <lastBuildDate>Tue, 11 Nov 2025 10:29:46 GMT</lastBuildDate>
+    <pubDate>Tue, 11 Nov 2025 10:29:46 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,48 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/jkndKZx</ns3:txt>
+    <item>
+      <title>BLAGUE - Les histoires drôles du 11 novembre 2025</title>
+      <guid isPermaLink="false">88052742-13f9-4166-a6c0-a0baa784e8ca</guid>
+      <description>Un homme fait l'amour à une citrouille, un autre croise son ami en Ferrari, et une femme rondouillette annonce à sa copine qu'elle a perdu 3 kg... Découvrez les 3 histoires drôles du jour !&amp;nbsp;
+
+
+&lt;i&gt;Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Un homme fait l'amour à une citrouille, un autre croise son ami en Ferrari, et une femme rondouillette annonce à sa copine qu'elle a perdu 3 kg... Découvrez les 3 histoires drôles du jour !&amp;nbsp;
+
+
+&lt;i&gt;Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Tue, 11 Nov 2025 10:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/88052742-13f9-4166-a6c0-a0baa784e8ca.mp3?_=1762791781" length="2327681" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Un homme fait l'amour à une citrouille, un autre croise son ami en Ferrari, et une femme rondouillette annonce à sa copine qu'elle a perdu 3 kg... Découvrez les 3 histoires drôles du jour ! 
+
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Un homme fait l'amour à une citrouille, un autre croise son ami en Ferrari, et une femme rondouillette annonce à sa copine qu'elle a perdu 3 kg... Découvrez les 3 histoires drôles du jour ! 
+
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Un homme fait l'amour à une citrouille, un autre croise son ami en Ferrari, et une femme rondouillette annonce à sa copine qu'elle a perdu 3 kg... Découvrez les 3 histoires drôles du jour ! 
+
+
+Tous les jours, en podcast, retrouvez une compilation des meille...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>02:25</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/d2874d71-8457-464c-bb7b-177d8b479ff7.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/d2874d71-8457-464c-bb7b-177d8b479ff7.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/vCizhni</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>ARCHIVE - La blague de Jacques Balutin</title>
       <guid isPermaLink="false">b5541e4a-a59d-4ff8-b7a9-0aa665cea74a</guid>
@@ -2884,39 +2926,6 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <ns2:image href="https://static.audiomeans.fr/img/episode/3f5294c0-a608-495e-a78c-ae505ad7d19d.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/WXdXSGa</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>IMITATIONS - Guillaume Pley, Edouard Baer, Bern... Marc-Antoine Le Bret face à Stéphane De Groodt</title>
-      <guid isPermaLink="false">c4309ec6-bde9-4ebb-bca9-f8bda310c78a</guid>
-      <description>Dans l'émission du 29 octobre 2025, Marc-Antoine Le Bret a imité Stéphane De Groodt, Guillaume Pley, Edouard Baer et Stéphane Bern.&amp;nbsp;
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Dans l'émission du 29 octobre 2025, Marc-Antoine Le Bret a imité Stéphane De Groodt, Guillaume Pley, Edouard Baer et Stéphane Bern.&amp;nbsp;
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Wed, 29 Oct 2025 16:52:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/c4309ec6-bde9-4ebb-bca9-f8bda310c78a.mp3?_=1761750481" length="5009263" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Dans l'émission du 29 octobre 2025, Marc-Antoine Le Bret a imité Stéphane De Groodt, Guillaume Pley, Edouard Baer et Stéphane Bern. 
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Dans l'émission du 29 octobre 2025, Marc-Antoine Le Bret a imité Stéphane De Groodt, Guillaume Pley, Edouard Baer et Stéphane Bern. 
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Dans l'émission du 29 octobre 2025, Marc-Antoine Le Bret a imité Stéphane De Groodt, Guillaume Pley, Edouard Baer et Stéphane Bern. 
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiome...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>05:12</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/fda9fc09-59b4-434e-8210-6c8322b1c4f0.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/fda9fc09-59b4-434e-8210-6c8322b1c4f0.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/lTPPdkc</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
