@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Wed, 12 Nov 2025 09:31:58 GMT</lastBuildDate>
-    <pubDate>Wed, 12 Nov 2025 09:31:58 GMT</pubDate>
+    <lastBuildDate>Wed, 12 Nov 2025 09:53:25 GMT</lastBuildDate>
+    <pubDate>Wed, 12 Nov 2025 09:53:25 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -37,7 +37,7 @@
     <ns2:category text="News" />
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
-    <ns3:txt purpose="smartlink">https://audmns.com/jkndKZx</ns3:txt>
+    <ns3:txt purpose="smartlink">https://audmns.com/vdAhbmg</ns3:txt>
     <item>
       <title>INÉDIT - Qui se cache derrière l'anecdote ? L'enquête de F. Ferrand et K. Marimon</title>
       <guid isPermaLink="false">ad01fc4e-4c65-4cd6-859b-07a60a737a1b</guid>
