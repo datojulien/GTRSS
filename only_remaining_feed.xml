@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Fri, 14 Nov 2025 15:24:03 GMT</lastBuildDate>
-    <pubDate>Fri, 14 Nov 2025 15:24:03 GMT</pubDate>
+    <lastBuildDate>Fri, 14 Nov 2025 15:53:36 GMT</lastBuildDate>
+    <pubDate>Fri, 14 Nov 2025 15:53:36 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -41,21 +41,25 @@
     <item>
       <title>BLAGUE - Les histoires drôles du 14 novembre 2025</title>
       <guid isPermaLink="false">ad61713f-a242-4133-bc8c-82ff67d2ef3a</guid>
-      <description>Deux vétérinaires sont réunis autour d'une guenon, c'est la fin de journée en enfer, et un homme roule de nuit et aperçoit une femme unijambiste suspendue à une branche.&amp;nbsp;
+      <description>Deux vétérinaires sont réunis autour d'une guenon, c'est la fin de journée en enfer, et un homme roule de nuit et aperçoit une femme unijambiste suspendue à une branche... Découvrez les 3 histoires drôles du jour !
+
 
 &lt;i&gt;Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Deux vétérinaires sont réunis autour d'une guenon, c'est la fin de journée en enfer, et un homme roule de nuit et aperçoit une femme unijambiste suspendue à une branche.&amp;nbsp;
+      <ns4:encoded>Deux vétérinaires sont réunis autour d'une guenon, c'est la fin de journée en enfer, et un homme roule de nuit et aperçoit une femme unijambiste suspendue à une branche... Découvrez les 3 histoires drôles du jour !
+
 
 &lt;i&gt;Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
       <pubDate>Fri, 14 Nov 2025 10:00:00 GMT</pubDate>
       <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/ad61713f-a242-4133-bc8c-82ff67d2ef3a.mp3?_=1763051591" length="5352410" type="audio/mpeg" />
       <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Deux vétérinaires sont réunis autour d'une guenon, c'est la fin de journée en enfer, et un homme roule de nuit et aperçoit une femme unijambiste suspendue à une branche. 
+      <itunes:summary>Deux vétérinaires sont réunis autour d'une guenon, c'est la fin de journée en enfer, et un homme roule de nuit et aperçoit une femme unijambiste suspendue à une branche... Découvrez les 3 histoires drôles du jour !
+
 
 Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
  Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
  </itunes:summary>
-      <ns2:description>Deux vétérinaires sont réunis autour d'une guenon, c'est la fin de journée en enfer, et un homme roule de nuit et aperçoit une femme unijambiste suspendue à une branche. 
+      <ns2:description>Deux vétérinaires sont réunis autour d'une guenon, c'est la fin de journée en enfer, et un homme roule de nuit et aperçoit une femme unijambiste suspendue à une branche... Découvrez les 3 histoires drôles du jour !
+
 
 Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
  Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
@@ -63,14 +67,15 @@ Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de 
       <itunes:author>Laurent Ruquier</itunes:author>
       <author>Laurent Ruquier</author>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Deux vétérinaires sont réunis autour d'une guenon, c'est la fin de journée en enfer, et un homme roule de nuit et aperçoit une femme unijambiste suspendue à une branche. 
+      <itunes:subtitle>Deux vétérinaires sont réunis autour d'une guenon, c'est la fin de journée en enfer, et un homme roule de nuit et aperçoit une femme unijambiste suspendue à une branche... Découvrez les 3 histoires drôles du jour !
 
-Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos G...</itunes:subtitle>
+
+Tous les jours, en podcast, retrouvez une co...</itunes:subtitle>
       <itunes:block>no</itunes:block>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>05:34</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/d84137ee-88bd-4778-9aca-ac212cea24ef.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/d84137ee-88bd-4778-9aca-ac212cea24ef.jpg" />
+      <itunes:image href="https://static.audiomeans.fr/img/episode/5b176c0c-5200-4648-82cd-29e9ef35865d.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/5b176c0c-5200-4648-82cd-29e9ef35865d.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/TeLWrjB</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
@@ -331,21 +336,21 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
     <item>
       <title>BLAGUE - Les histoires drôles du 13 novembre 2025</title>
       <guid isPermaLink="false">8c388edd-96d8-4a1a-afd9-3875413672e8</guid>
-      <description>Un Belge fait visiter la Belgique à son ami Français, une femme se vante d'avoir rendu son mari millionnaire et un homme réclame un ticket de loto à 5 euros.&amp;nbsp;
+      <description>Un Belge fait visiter la Belgique à son ami Français, une femme se vante d'avoir rendu son mari millionnaire et un homme réclame un ticket de loto à 5 euros... Découvrez les 3 histoires drôles du jour !
 
 &lt;i&gt;Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Un Belge fait visiter la Belgique à son ami Français, une femme se vante d'avoir rendu son mari millionnaire et un homme réclame un ticket de loto à 5 euros.&amp;nbsp;
+      <ns4:encoded>Un Belge fait visiter la Belgique à son ami Français, une femme se vante d'avoir rendu son mari millionnaire et un homme réclame un ticket de loto à 5 euros... Découvrez les 3 histoires drôles du jour !
 
 &lt;i&gt;Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
       <pubDate>Thu, 13 Nov 2025 10:00:00 GMT</pubDate>
       <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/8c388edd-96d8-4a1a-afd9-3875413672e8.mp3?_=1762966980" length="3311491" type="audio/mpeg" />
       <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Un Belge fait visiter la Belgique à son ami Français, une femme se vante d'avoir rendu son mari millionnaire et un homme réclame un ticket de loto à 5 euros. 
+      <itunes:summary>Un Belge fait visiter la Belgique à son ami Français, une femme se vante d'avoir rendu son mari millionnaire et un homme réclame un ticket de loto à 5 euros... Découvrez les 3 histoires drôles du jour !
 
 Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
  Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
  </itunes:summary>
-      <ns2:description>Un Belge fait visiter la Belgique à son ami Français, une femme se vante d'avoir rendu son mari millionnaire et un homme réclame un ticket de loto à 5 euros. 
+      <ns2:description>Un Belge fait visiter la Belgique à son ami Français, une femme se vante d'avoir rendu son mari millionnaire et un homme réclame un ticket de loto à 5 euros... Découvrez les 3 histoires drôles du jour !
 
 Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
  Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
@@ -353,14 +358,14 @@ Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de 
       <itunes:author>Laurent Ruquier</itunes:author>
       <author>Laurent Ruquier</author>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Un Belge fait visiter la Belgique à son ami Français, une femme se vante d'avoir rendu son mari millionnaire et un homme réclame un ticket de loto à 5 euros. 
+      <itunes:subtitle>Un Belge fait visiter la Belgique à son ami Français, une femme se vante d'avoir rendu son mari millionnaire et un homme réclame un ticket de loto à 5 euros... Découvrez les 3 histoires drôles du jour !
 
-Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes...</itunes:subtitle>
+Tous les jours, en podcast, retrouvez une compilation des ...</itunes:subtitle>
       <itunes:block>no</itunes:block>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>03:26</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/838dbc8d-51bc-47d3-8a17-da747b92dbcb.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/838dbc8d-51bc-47d3-8a17-da747b92dbcb.jpg" />
+      <itunes:image href="https://static.audiomeans.fr/img/episode/75b573e3-1441-42bd-919a-8e6cab4a64d0.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/75b573e3-1441-42bd-919a-8e6cab4a64d0.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/TroapZE</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
