@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Fri, 14 Nov 2025 09:53:36 GMT</lastBuildDate>
-    <pubDate>Fri, 14 Nov 2025 09:53:36 GMT</pubDate>
+    <lastBuildDate>Fri, 14 Nov 2025 10:29:03 GMT</lastBuildDate>
+    <pubDate>Fri, 14 Nov 2025 10:29:03 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,43 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/vdAhbmg</ns3:txt>
+    <item>
+      <title>BLAGUE - Les histoires drôles du 14 novembre 2025</title>
+      <guid isPermaLink="false">ad61713f-a242-4133-bc8c-82ff67d2ef3a</guid>
+      <description>Deux vétérinaires sont réunis autour d'une guenon, c'est la fin de journée en enfer, et un homme roule de nuit et aperçoit une femme unijambiste suspendue à une branche.&amp;nbsp;
+
+&lt;i&gt;Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Deux vétérinaires sont réunis autour d'une guenon, c'est la fin de journée en enfer, et un homme roule de nuit et aperçoit une femme unijambiste suspendue à une branche.&amp;nbsp;
+
+&lt;i&gt;Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Fri, 14 Nov 2025 10:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/ad61713f-a242-4133-bc8c-82ff67d2ef3a.mp3?_=1763051591" length="5352410" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Deux vétérinaires sont réunis autour d'une guenon, c'est la fin de journée en enfer, et un homme roule de nuit et aperçoit une femme unijambiste suspendue à une branche. 
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Deux vétérinaires sont réunis autour d'une guenon, c'est la fin de journée en enfer, et un homme roule de nuit et aperçoit une femme unijambiste suspendue à une branche. 
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Deux vétérinaires sont réunis autour d'une guenon, c'est la fin de journée en enfer, et un homme roule de nuit et aperçoit une femme unijambiste suspendue à une branche. 
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos G...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>05:34</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/d84137ee-88bd-4778-9aca-ac212cea24ef.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/d84137ee-88bd-4778-9aca-ac212cea24ef.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/TeLWrjB</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>INÉDIT - Qui se cache derrière l'anecdote ? L'enquête de Titoff et Zize Dupanier</title>
       <guid isPermaLink="false">3ae40687-8ccf-4ab6-adcf-8332b8a94741</guid>
@@ -2869,38 +2906,6 @@ Chaque weekend en podcast, retrouvez "100 ans de conneries", par Jean Yanne. Pen
       <ns2:image href="https://static.audiomeans.fr/img/episode/8b035a1a-f04a-4125-960a-27a0b8731b14.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/BLWTiNX</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>PÉPITE - Le meilleur de l'émission du 31 octobre 2025</title>
-      <guid isPermaLink="false">4a3f0f10-a4ca-4197-b399-0763a7754969</guid>
-      <description>Les révisions de Yoann Riou, Az et les nouvelles technologies, Sylvie Tellier future James Bond girl... Retrouvez dans ce podcast le meilleur de l'émission du vendredi 31 octobre 2025.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Les révisions de Yoann Riou, Az et les nouvelles technologies, Sylvie Tellier future James Bond girl... Retrouvez dans ce podcast le meilleur de l'émission du vendredi 31 octobre 2025.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Fri, 31 Oct 2025 16:59:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/4a3f0f10-a4ca-4197-b399-0763a7754969.mp3?_=1761908282" length="16483505" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Les révisions de Yoann Riou, Az et les nouvelles technologies, Sylvie Tellier future James Bond girl... Retrouvez dans ce podcast le meilleur de l'émission du vendredi 31 octobre 2025.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Les révisions de Yoann Riou, Az et les nouvelles technologies, Sylvie Tellier future James Bond girl... Retrouvez dans ce podcast le meilleur de l'émission du vendredi 31 octobre 2025.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Les révisions de Yoann Riou, Az et les nouvelles technologies, Sylvie Tellier future James Bond girl... Retrouvez dans ce podcast le meilleur de l'émission du vendredi 31 octobre 2025.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>17:10</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/6d501d45-85df-4cd4-974a-69c0dedbf1f0.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/6d501d45-85df-4cd4-974a-69c0dedbf1f0.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/erpWaTl</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
