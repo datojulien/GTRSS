@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Sat, 15 Nov 2025 13:53:17 GMT</lastBuildDate>
-    <pubDate>Sat, 15 Nov 2025 13:53:17 GMT</pubDate>
+    <lastBuildDate>Sat, 15 Nov 2025 14:21:47 GMT</lastBuildDate>
+    <pubDate>Sat, 15 Nov 2025 14:21:47 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,39 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/vdAhbmg</ns3:txt>
+    <item>
+      <title>BEST OF - Le meilleur de la semaine du 10 au 14 novembre 2025</title>
+      <guid isPermaLink="false">4aa1f246-4330-4f2f-aab4-d1bc5b813335</guid>
+      <description>Dans ce podcast, retrouvez les meilleurs moments qui ont marqué la semaine des Grosses Têtes, du 10 au 14 novembre 2025.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Dans ce podcast, retrouvez les meilleurs moments qui ont marqué la semaine des Grosses Têtes, du 10 au 14 novembre 2025.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Sat, 15 Nov 2025 14:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/4aa1f246-4330-4f2f-aab4-d1bc5b813335.mp3?_=1763135581" length="5682426" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Dans ce podcast, retrouvez les meilleurs moments qui ont marqué la semaine des Grosses Têtes, du 10 au 14 novembre 2025.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Dans ce podcast, retrouvez les meilleurs moments qui ont marqué la semaine des Grosses Têtes, du 10 au 14 novembre 2025.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Dans ce podcast, retrouvez les meilleurs moments qui ont marqué la semaine des Grosses Têtes, du 10 au 14 novembre 2025.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL
+ Hébergé par Audiomeans. Visitez </itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>05:55</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/4b107b86-a5ad-4f89-8e97-f0b14e073497.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/4b107b86-a5ad-4f89-8e97-f0b14e073497.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/aPRjDTo</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>BLAGUE - Les histoires drôles du 15 novembre 2025</title>
       <guid isPermaLink="false">18a0054b-1517-4b09-95f4-8ef7d6a3a1af</guid>
@@ -2902,34 +2935,6 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en...</itunes:subtitle>
       <ns2:image href="https://static.audiomeans.fr/img/episode/cf91fb24-f7a2-44c1-b2b4-3c62d0afdaf9.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/TfaJSvz</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>BEST OF - Les 10 meilleures blagues du dimanche 2 novembre 2025</title>
-      <guid isPermaLink="false">563129f2-3d32-46d0-90b7-4c14e77cfebb</guid>
-      <description>Chaque dimanche, retrouvez les meilleures blagues de vos Grosses Têtes préférées. Gérard Jugnot, Titoff, Paul El Kharrat... Découvrez dans ce podcast 10 des meilleures blagues passées à l'antenne et racontées par les Grosses Têtes.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Chaque dimanche, retrouvez les meilleures blagues de vos Grosses Têtes préférées. Gérard Jugnot, Titoff, Paul El Kharrat... Découvrez dans ce podcast 10 des meilleures blagues passées à l'antenne et racontées par les Grosses Têtes.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Sun, 02 Nov 2025 14:00:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/563129f2-3d32-46d0-90b7-4c14e77cfebb.mp3?_=1761822481" length="6496636" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Chaque dimanche, retrouvez les meilleures blagues de vos Grosses Têtes préférées. Gérard Jugnot, Titoff, Paul El Kharrat... Découvrez dans ce podcast 10 des meilleures blagues passées à l'antenne et racontées par les Grosses Têtes.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Chaque dimanche, retrouvez les meilleures blagues de vos Grosses Têtes préférées. Gérard Jugnot, Titoff, Paul El Kharrat... Découvrez dans ce podcast 10 des meilleures blagues passées à l'antenne et racontées par les Grosses Têtes.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Chaque dimanche, retrouvez les meilleures blagues de vos Grosses Têtes préférées. Gérard Jugnot, Titoff, Paul El Kharrat... Découvrez dans ce podcast 10 des meilleures blagues passées à l'antenne et racontées par les Grosses Têtes.
- Hébergé par Audiomeans. ...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>06:45</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/6cf5202a-7cf0-4a5e-a6bf-ccc7a6b8becc.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/6cf5202a-7cf0-4a5e-a6bf-ccc7a6b8becc.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/amKWHIw</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
