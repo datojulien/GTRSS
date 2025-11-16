@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Sun, 16 Nov 2025 17:53:14 GMT</lastBuildDate>
-    <pubDate>Sun, 16 Nov 2025 17:53:14 GMT</pubDate>
+    <lastBuildDate>Sun, 16 Nov 2025 18:33:50 GMT</lastBuildDate>
+    <pubDate>Sun, 16 Nov 2025 18:33:50 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -64,6 +64,7 @@
       <itunes:image href="https://static.audiomeans.fr/img/episode/97ed8df5-4a3f-49b1-974c-968dec5c54ce.jpg" />
       <ns2:image href="https://static.audiomeans.fr/img/episode/97ed8df5-4a3f-49b1-974c-968dec5c54ce.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/BJOjLqP</ns3:txt>
       <itunes:keywords>divertissement,humour,Laurent Ruquier,culture,intégral,replay intégral</itunes:keywords>
     </item>
     <item>
