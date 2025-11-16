@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Sun, 16 Nov 2025 13:28:31 GMT</lastBuildDate>
-    <pubDate>Sun, 16 Nov 2025 13:28:31 GMT</pubDate>
+    <lastBuildDate>Sun, 16 Nov 2025 13:53:22 GMT</lastBuildDate>
+    <pubDate>Sun, 16 Nov 2025 13:53:22 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,34 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/vdAhbmg</ns3:txt>
+    <item>
+      <title>BEST OF - Les 10 meilleures blagues du dimanche 16 novembre 2025</title>
+      <guid isPermaLink="false">71a143db-7d51-4004-bfd8-b63932ba8199</guid>
+      <description>Chaque dimanche, retrouvez les meilleures blagues de vos Grosses Têtes préférées. Jean-Marie Bigard, Max Boublil, Bernard Mabille... Découvrez dans ce podcast 10 des meilleures blagues passées à l'antenne et racontées par les Grosses Têtes.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Chaque dimanche, retrouvez les meilleures blagues de vos Grosses Têtes préférées. Jean-Marie Bigard, Max Boublil, Bernard Mabille... Découvrez dans ce podcast 10 des meilleures blagues passées à l'antenne et racontées par les Grosses Têtes.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Sun, 16 Nov 2025 14:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/71a143db-7d51-4004-bfd8-b63932ba8199.mp3?_=1763134982" length="8544655" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Chaque dimanche, retrouvez les meilleures blagues de vos Grosses Têtes préférées. Jean-Marie Bigard, Max Boublil, Bernard Mabille... Découvrez dans ce podcast 10 des meilleures blagues passées à l'antenne et racontées par les Grosses Têtes.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Chaque dimanche, retrouvez les meilleures blagues de vos Grosses Têtes préférées. Jean-Marie Bigard, Max Boublil, Bernard Mabille... Découvrez dans ce podcast 10 des meilleures blagues passées à l'antenne et racontées par les Grosses Têtes.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Chaque dimanche, retrouvez les meilleures blagues de vos Grosses Têtes préférées. Jean-Marie Bigard, Max Boublil, Bernard Mabille... Découvrez dans ce podcast 10 des meilleures blagues passées à l'antenne et racontées par les Grosses Têtes.
+ Hébergé par Aud...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>08:53</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/11265977-3a8b-43f1-9ac7-8aabd454df71.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/11265977-3a8b-43f1-9ac7-8aabd454df71.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/EGefUcS</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>ARCHIVE - Jean Yanne, "100 ans de conneries" :  la fin du monde vue par Paco Rabanne</title>
       <guid isPermaLink="false">8921b3ad-363c-4453-bae3-24b8ff09d831</guid>
@@ -2924,45 +2952,6 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en pod...</itunes:subtit
       <ns2:image href="https://static.audiomeans.fr/img/episode/0c3d85e7-5101-4bbc-97fa-20df0ba12668.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/xkkhJyL</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>BLAGUE - Les histoires drôles du 3 novembre 2025</title>
-      <guid isPermaLink="false">7db62880-b70e-445c-be3c-9300554e84b2</guid>
-      <description>Un homme voit son ami passer dans une camionnette avec deux malles, après le match Chelsea-PSG un supporter alcoolisé rentre dans un bar et deux femmes discutent dans le métro... Découvrez les 3 histoires drôles du jour !
-
-&lt;i&gt;Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;/i&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Un homme voit son ami passer dans une camionnette avec deux malles, après le match Chelsea-PSG un supporter alcoolisé rentre dans un bar et deux femmes discutent dans le métro... Découvrez les 3 histoires drôles du jour !
-
-&lt;i&gt;Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;/i&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Mon, 03 Nov 2025 10:00:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/7db62880-b70e-445c-be3c-9300554e84b2.mp3?_=1761839281" length="2263782" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Un homme voit son ami passer dans une camionnette avec deux malles, après le match Chelsea-PSG un supporter alcoolisé rentre dans un bar et deux femmes discutent dans le métro... Découvrez les 3 histoires drôles du jour !
-
-Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Un homme voit son ami passer dans une camionnette avec deux malles, après le match Chelsea-PSG un supporter alcoolisé rentre dans un bar et deux femmes discutent dans le métro... Découvrez les 3 histoires drôles du jour !
-
-Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Un homme voit son ami passer dans une camionnette avec deux malles, après le match Chelsea-PSG un supporter alcoolisé rentre dans un bar et deux femmes discutent dans le métro... Découvrez les 3 histoires drôles du jour !
-
-Tous les jours, en podcast, retrouvez u...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>02:21</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/ad93c8a5-1568-4e23-817e-cb6cf53e57d4.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/ad93c8a5-1568-4e23-817e-cb6cf53e57d4.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/whKGhGR</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
