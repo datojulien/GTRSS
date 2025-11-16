@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Sun, 16 Nov 2025 17:20:37 GMT</lastBuildDate>
-    <pubDate>Sun, 16 Nov 2025 17:20:37 GMT</pubDate>
+    <lastBuildDate>Sun, 16 Nov 2025 17:53:14 GMT</lastBuildDate>
+    <pubDate>Sun, 16 Nov 2025 17:53:14 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,34 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/vdAhbmg</ns3:txt>
+    <item>
+      <title>Les Grosses Têtes du 16 novembre 2025</title>
+      <guid isPermaLink="false">415aaa11-6d26-4151-992c-565b4e7a0d95</guid>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Sun, 16 Nov 2025 17:34:37 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/415aaa11-6d26-4151-992c-565b4e7a0d95.mp3?_=1763314688" length="98325094" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>01:42:25</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/97ed8df5-4a3f-49b1-974c-968dec5c54ce.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/97ed8df5-4a3f-49b1-974c-968dec5c54ce.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <itunes:keywords>divertissement,humour,Laurent Ruquier,culture,intégral,replay intégral</itunes:keywords>
+    </item>
     <item>
       <title>BEST OF - Les 10 meilleures blagues du dimanche 16 novembre 2025</title>
       <guid isPermaLink="false">71a143db-7d51-4004-bfd8-b63932ba8199</guid>
@@ -2920,38 +2948,6 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <ns2:image href="https://static.audiomeans.fr/img/episode/1dfae8ba-0540-4ce4-b5d3-bf0401396785.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/tIalLrs</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>IMITATIONS - Les Deschiens, Trapenard, Ruquier... L'actualité vue par Marc-Antoine Le Bret</title>
-      <guid isPermaLink="false">ac4fc16d-106e-4279-839f-b5eb27106355</guid>
-      <description>Dans l'émission du 3 novembre, Marc-Antoine Le Bret a imité Emmanuel Macron, les Deschiens, Augustin Trapenard, Laurent Ruquier, Roselyne Bachelot, Arielle Dombasle, le professeur Bucella et Yoann Riou.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Dans l'émission du 3 novembre, Marc-Antoine Le Bret a imité Emmanuel Macron, les Deschiens, Augustin Trapenard, Laurent Ruquier, Roselyne Bachelot, Arielle Dombasle, le professeur Bucella et Yoann Riou.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Mon, 03 Nov 2025 16:52:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/ac4fc16d-106e-4279-839f-b5eb27106355.mp3?_=1762167181" length="5783860" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Dans l'émission du 3 novembre, Marc-Antoine Le Bret a imité Emmanuel Macron, les Deschiens, Augustin Trapenard, Laurent Ruquier, Roselyne Bachelot, Arielle Dombasle, le professeur Bucella et Yoann Riou.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Dans l'émission du 3 novembre, Marc-Antoine Le Bret a imité Emmanuel Macron, les Deschiens, Augustin Trapenard, Laurent Ruquier, Roselyne Bachelot, Arielle Dombasle, le professeur Bucella et Yoann Riou.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Dans l'émission du 3 novembre, Marc-Antoine Le Bret a imité Emmanuel Macron, les Deschiens, Augustin Trapenard, Laurent Ruquier, Roselyne Bachelot, Arielle Dombasle, le professeur Bucella et Yoann Riou.
-Retrouvez tous les jours le meilleur des Grosses Têtes en pod...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>06:01</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/0c3d85e7-5101-4bbc-97fa-20df0ba12668.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/0c3d85e7-5101-4bbc-97fa-20df0ba12668.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/xkkhJyL</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
