@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Tue, 18 Nov 2025 16:59:21 GMT</lastBuildDate>
-    <pubDate>Tue, 18 Nov 2025 16:59:21 GMT</pubDate>
+    <lastBuildDate>Tue, 18 Nov 2025 17:29:20 GMT</lastBuildDate>
+    <pubDate>Tue, 18 Nov 2025 17:29:20 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,38 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/vdAhbmg</ns3:txt>
+    <item>
+      <title>PÉPITE - Le meilleur de l'émission du 18 novembre 2025</title>
+      <guid isPermaLink="false">cafc9ca5-bad4-4b35-93c5-1ee7d5ca25da</guid>
+      <description>les 100 ans de la Michodière, une pièce de théâtre improvisée, la chanson de Max Boublil pour Nicolas Sarkozy et Carla Bruni... Retrouvez dans ce podcast le meilleur de l'émission du 18 novembre 2025.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>les 100 ans de la Michodière, une pièce de théâtre improvisée, la chanson de Max Boublil pour Nicolas Sarkozy et Carla Bruni... Retrouvez dans ce podcast le meilleur de l'émission du 18 novembre 2025.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Tue, 18 Nov 2025 16:59:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/cafc9ca5-bad4-4b35-93c5-1ee7d5ca25da.mp3?_=1763475182" length="14328123" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>les 100 ans de la Michodière, une pièce de théâtre improvisée, la chanson de Max Boublil pour Nicolas Sarkozy et Carla Bruni... Retrouvez dans ce podcast le meilleur de l'émission du 18 novembre 2025.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>les 100 ans de la Michodière, une pièce de théâtre improvisée, la chanson de Max Boublil pour Nicolas Sarkozy et Carla Bruni... Retrouvez dans ce podcast le meilleur de l'émission du 18 novembre 2025.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>les 100 ans de la Michodière, une pièce de théâtre improvisée, la chanson de Max Boublil pour Nicolas Sarkozy et Carla Bruni... Retrouvez dans ce podcast le meilleur de l'émission du 18 novembre 2025.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podca...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>14:55</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/124377d3-d454-4126-aa46-0c89eef6d4fd.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/124377d3-d454-4126-aa46-0c89eef6d4fd.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/oYYwOqN</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>PÉPITE - Les retrouvailles en chanson du couple Bruni/Sarkozy</title>
       <guid isPermaLink="false">b5454af5-de98-4dd6-8a1c-14a44dbfba22</guid>
@@ -2868,82 +2900,6 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <ns2:image href="https://static.audiomeans.fr/img/episode/cce5c62f-8c87-41db-8b23-f1f811a616e4.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/rsVfimQ</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>FAKE NEWS - Mercredi 5 novembre 2025</title>
-      <guid isPermaLink="false">bd98525d-d747-4662-945d-fb85936d2a01</guid>
-      <description>Et vous, saurez-vous démêler le vrai du faux ?
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Et vous, saurez-vous démêler le vrai du faux ?
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Wed, 05 Nov 2025 16:55:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/bd98525d-d747-4662-945d-fb85936d2a01.mp3?_=1762352281" length="8278617" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Et vous, saurez-vous démêler le vrai du faux ?
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Et vous, saurez-vous démêler le vrai du faux ?
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Et vous, saurez-vous démêler le vrai du faux ?
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.f...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>08:37</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/89680a41-6eca-4f87-800b-c04fd91854d6.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/89680a41-6eca-4f87-800b-c04fd91854d6.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/Buqgnve</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>IMITATIONS - De Villiers, Cymes, Macron... L'actualité vue par Marc-Antoine Le Bret</title>
-      <guid isPermaLink="false">f918d042-cce9-4f52-8de3-ce58529aeef1</guid>
-      <description>Dans l'émission du 5 novembre, Marc-Antoine Le Bret a imité Philippe de Villiers, Emmanuel Macron, Jean Lassalle et Edouard Baer.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Dans l'émission du 5 novembre, Marc-Antoine Le Bret a imité Philippe de Villiers, Emmanuel Macron, Jean Lassalle et Edouard Baer.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Wed, 05 Nov 2025 16:52:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/f918d042-cce9-4f52-8de3-ce58529aeef1.mp3?_=1762347180" length="4769313" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Dans l'émission du 5 novembre, Marc-Antoine Le Bret a imité Philippe de Villiers, Emmanuel Macron, Jean Lassalle et Edouard Baer.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Dans l'émission du 5 novembre, Marc-Antoine Le Bret a imité Philippe de Villiers, Emmanuel Macron, Jean Lassalle et Edouard Baer.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Dans l'émission du 5 novembre, Marc-Antoine Le Bret a imité Philippe de Villiers, Emmanuel Macron, Jean Lassalle et Edouard Baer.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Vi...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>04:58</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/85b3809b-dc98-473a-8ae9-791752083e1e.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/85b3809b-dc98-473a-8ae9-791752083e1e.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/JZIRtlm</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
