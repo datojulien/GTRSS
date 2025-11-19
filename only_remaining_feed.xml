@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Wed, 19 Nov 2025 14:55:14 GMT</lastBuildDate>
-    <pubDate>Wed, 19 Nov 2025 14:55:14 GMT</pubDate>
+    <lastBuildDate>Wed, 19 Nov 2025 15:27:53 GMT</lastBuildDate>
+    <pubDate>Wed, 19 Nov 2025 15:27:53 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -69,9 +69,10 @@ Retrouvez tous les jours le meilleur des Grosses...</itunes:subtitle>
       <itunes:block>no</itunes:block>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>07:10</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/a522eb53-250e-4e5d-af9c-b8d84ecfe129.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/a522eb53-250e-4e5d-af9c-b8d84ecfe129.jpg" />
+      <itunes:image href="https://static.audiomeans.fr/img/episode/57bc06ff-dec7-4deb-a540-997ede10e928.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/57bc06ff-dec7-4deb-a540-997ede10e928.jpg" />
       <ns3:person role="host">Julien Bonneau</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/iDFPbxm</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
@@ -174,31 +175,36 @@ Retrouvez tous les jours le meilleur des G...</itunes:subtitle>
     <item>
       <title>PÉPITE - Le meilleur de l'émission du 18 novembre 2025</title>
       <guid isPermaLink="false">cafc9ca5-bad4-4b35-93c5-1ee7d5ca25da</guid>
-      <description>les 100 ans de la Michodière, une pièce de théâtre improvisée, la chanson de Max Boublil pour Nicolas Sarkozy et Carla Bruni... Retrouvez dans ce podcast le meilleur de l'émission du 18 novembre 2025.
+      <description>Les 100 ans de la Michodière, une pièce de théâtre improvisée, la chanson de Max Boublil pour Nicolas Sarkozy et Carla Bruni... Retrouvez dans ce podcast le meilleur de l'émission du 18 novembre 2025.
+
 Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>les 100 ans de la Michodière, une pièce de théâtre improvisée, la chanson de Max Boublil pour Nicolas Sarkozy et Carla Bruni... Retrouvez dans ce podcast le meilleur de l'émission du 18 novembre 2025.
+      <ns4:encoded>Les 100 ans de la Michodière, une pièce de théâtre improvisée, la chanson de Max Boublil pour Nicolas Sarkozy et Carla Bruni... Retrouvez dans ce podcast le meilleur de l'émission du 18 novembre 2025.
+
 Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
       <pubDate>Tue, 18 Nov 2025 16:59:00 GMT</pubDate>
       <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/cafc9ca5-bad4-4b35-93c5-1ee7d5ca25da.mp3?_=1763475182" length="14328123" type="audio/mpeg" />
       <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>les 100 ans de la Michodière, une pièce de théâtre improvisée, la chanson de Max Boublil pour Nicolas Sarkozy et Carla Bruni... Retrouvez dans ce podcast le meilleur de l'émission du 18 novembre 2025.
+      <itunes:summary>Les 100 ans de la Michodière, une pièce de théâtre improvisée, la chanson de Max Boublil pour Nicolas Sarkozy et Carla Bruni... Retrouvez dans ce podcast le meilleur de l'émission du 18 novembre 2025.
+
 Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
  Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
  </itunes:summary>
-      <ns2:description>les 100 ans de la Michodière, une pièce de théâtre improvisée, la chanson de Max Boublil pour Nicolas Sarkozy et Carla Bruni... Retrouvez dans ce podcast le meilleur de l'émission du 18 novembre 2025.
+      <ns2:description>Les 100 ans de la Michodière, une pièce de théâtre improvisée, la chanson de Max Boublil pour Nicolas Sarkozy et Carla Bruni... Retrouvez dans ce podcast le meilleur de l'émission du 18 novembre 2025.
+
 Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
  Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
  </ns2:description>
       <itunes:author>Laurent Ruquier</itunes:author>
       <author>Laurent Ruquier</author>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>les 100 ans de la Michodière, une pièce de théâtre improvisée, la chanson de Max Boublil pour Nicolas Sarkozy et Carla Bruni... Retrouvez dans ce podcast le meilleur de l'émission du 18 novembre 2025.
+      <itunes:subtitle>Les 100 ans de la Michodière, une pièce de théâtre improvisée, la chanson de Max Boublil pour Nicolas Sarkozy et Carla Bruni... Retrouvez dans ce podcast le meilleur de l'émission du 18 novembre 2025.
+
 Retrouvez tous les jours le meilleur des Grosses Têtes en podca...</itunes:subtitle>
       <itunes:block>no</itunes:block>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>14:55</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/124377d3-d454-4126-aa46-0c89eef6d4fd.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/124377d3-d454-4126-aa46-0c89eef6d4fd.jpg" />
+      <itunes:image href="https://static.audiomeans.fr/img/episode/7596ec2e-9b6c-4cb9-a6e3-56f4c736ebbb.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/7596ec2e-9b6c-4cb9-a6e3-56f4c736ebbb.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/oYYwOqN</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
