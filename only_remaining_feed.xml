@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Wed, 19 Nov 2025 09:53:29 GMT</lastBuildDate>
-    <pubDate>Wed, 19 Nov 2025 09:53:29 GMT</pubDate>
+    <lastBuildDate>Wed, 19 Nov 2025 10:30:00 GMT</lastBuildDate>
+    <pubDate>Wed, 19 Nov 2025 10:30:00 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,43 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/vdAhbmg</ns3:txt>
+    <item>
+      <title>BLAGUE - Les histoires drôles du 19 novembre 2025</title>
+      <guid isPermaLink="false">5098096f-a1f8-46fb-ae57-0a732625ee29</guid>
+      <description>Un couple tombe sur un âne en érection, dans un fast-food un Belge lit le badge d'une serveuse et un homme discute avec sa voisine de vol... Découvrez les 3 histoires drôles du jour !
+
+&lt;i&gt;Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Un couple tombe sur un âne en érection, dans un fast-food un Belge lit le badge d'une serveuse et un homme discute avec sa voisine de vol... Découvrez les 3 histoires drôles du jour !
+
+&lt;i&gt;Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Wed, 19 Nov 2025 10:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/5098096f-a1f8-46fb-ae57-0a732625ee29.mp3?_=1763487781" length="1605840" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Un couple tombe sur un âne en érection, dans un fast-food un Belge lit le badge d'une serveuse et un homme discute avec sa voisine de vol... Découvrez les 3 histoires drôles du jour !
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Un couple tombe sur un âne en érection, dans un fast-food un Belge lit le badge d'une serveuse et un homme discute avec sa voisine de vol... Découvrez les 3 histoires drôles du jour !
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Un couple tombe sur un âne en érection, dans un fast-food un Belge lit le badge d'une serveuse et un homme discute avec sa voisine de vol... Découvrez les 3 histoires drôles du jour !
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues ...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>01:40</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/1180f3ef-a2ee-4db5-a5e9-0b3839b8ebb5.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/1180f3ef-a2ee-4db5-a5e9-0b3839b8ebb5.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/wAbKNqP</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>INÉDIT - Qui se cache derrière l'anecdote ? L'enquête de C. Beaugrand et C. Barbier</title>
       <guid isPermaLink="false">23fd283f-1c37-44c0-b758-622817b3812a</guid>
@@ -2847,43 +2884,6 @@ Tous les...</itunes:subtitle>
       <ns2:image href="https://static.audiomeans.fr/img/episode/4e214b89-8520-4c96-ab0b-9126aa7dadae.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/OrPJSGc</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>PÉPITE - Le meilleur de l'émission du 5 novembre 2025</title>
-      <guid isPermaLink="false">a2cae6a3-8105-494e-a5b1-cdec5b0e4baa</guid>
-      <description>Michel Cymes invité du jour, Az qui n'aime pas les médecins, l'appel de Philippe Claudel pour retrouver sa valise, Philippe de Villiers scandalisé... Retrouvez dans ce podcast le meilleur de l'émission du mercredi 5 novembre 2025.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Michel Cymes invité du jour, Az qui n'aime pas les médecins, l'appel de Philippe Claudel pour retrouver sa valise, Philippe de Villiers scandalisé... Retrouvez dans ce podcast le meilleur de l'émission du mercredi 5 novembre 2025.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Wed, 05 Nov 2025 16:59:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/a2cae6a3-8105-494e-a5b1-cdec5b0e4baa.mp3?_=1762357382" length="16659558" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Michel Cymes invité du jour, Az qui n'aime pas les médecins, l'appel de Philippe Claudel pour retrouver sa valise, Philippe de Villiers scandalisé... Retrouvez dans ce podcast le meilleur de l'émission du mercredi 5 novembre 2025.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Michel Cymes invité du jour, Az qui n'aime pas les médecins, l'appel de Philippe Claudel pour retrouver sa valise, Philippe de Villiers scandalisé... Retrouvez dans ce podcast le meilleur de l'émission du mercredi 5 novembre 2025.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Michel Cymes invité du jour, Az qui n'aime pas les médecins, l'appel de Philippe Claudel pour retrouver sa valise, Philippe de Villiers scandalisé... Retrouvez dans ce podcast le meilleur de l'émission du mercredi 5 novembre 2025.
-
-Retrouvez tous les jours le meill...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>17:21</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/f493bc75-1cbf-45da-be96-adb548db26a4.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/f493bc75-1cbf-45da-be96-adb548db26a4.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/ZvYCmXB</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
