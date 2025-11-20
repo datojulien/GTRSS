@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Thu, 20 Nov 2025 09:53:24 GMT</lastBuildDate>
-    <pubDate>Thu, 20 Nov 2025 09:53:24 GMT</pubDate>
+    <lastBuildDate>Thu, 20 Nov 2025 10:28:52 GMT</lastBuildDate>
+    <pubDate>Thu, 20 Nov 2025 10:28:52 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,43 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/vdAhbmg</ns3:txt>
+    <item>
+      <title>BLAGUE - Les histoires drôles du 20 novembre 2025</title>
+      <guid isPermaLink="false">441fbf19-3181-429a-bc7e-2faf7f37050c</guid>
+      <description>Un homme est à la recherche d'une place pour se garer et s'en remet à Dieu, un autre est en détresse affective, et une femme demande à son mari s'il préfère une fille jolie ou une fille intelligente... Découvrez les 3 histoires drôles du jour !
+
+&lt;i&gt;Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Un homme est à la recherche d'une place pour se garer et s'en remet à Dieu, un autre est en détresse affective, et une femme demande à son mari s'il préfère une fille jolie ou une fille intelligente... Découvrez les 3 histoires drôles du jour !
+
+&lt;i&gt;Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Thu, 20 Nov 2025 10:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/441fbf19-3181-429a-bc7e-2faf7f37050c.mp3?_=1763571782" length="2855660" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Un homme est à la recherche d'une place pour se garer et s'en remet à Dieu, un autre est en détresse affective, et une femme demande à son mari s'il préfère une fille jolie ou une fille intelligente... Découvrez les 3 histoires drôles du jour !
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Un homme est à la recherche d'une place pour se garer et s'en remet à Dieu, un autre est en détresse affective, et une femme demande à son mari s'il préfère une fille jolie ou une fille intelligente... Découvrez les 3 histoires drôles du jour !
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Un homme est à la recherche d'une place pour se garer et s'en remet à Dieu, un autre est en détresse affective, et une femme demande à son mari s'il préfère une fille jolie ou une fille intelligente... Découvrez les 3 histoires drôles du jour !
+
+Tous les jours, ...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>02:58</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/5713913d-e563-4fe6-8152-9279ba402f67.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/5713913d-e563-4fe6-8152-9279ba402f67.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/aZNLEdU</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>ARCHIVE - La blague de Pierre Bellemare</title>
       <guid isPermaLink="false">c9e406c3-6b20-4f1e-a166-cedbd59343a3</guid>
@@ -2846,41 +2883,6 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast...</itunes:su
       <ns2:image href="https://static.audiomeans.fr/img/episode/42acc20d-dff8-4c23-bb5a-7b3e87db7761.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/bxpVmBu</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>PÉPITE - Le meilleur de l'émission du 6 novembre 2025</title>
-      <guid isPermaLink="false">c755bdd8-f553-4e72-97f8-937f690ce931</guid>
-      <description>Valérie Mairesse et les bananes, Gaël Tchakaloff au centre des moqueries, l'édito de Pascal Praud... Retrouvez dans ce podcast le meilleur de l'émission du jeudi 6 novembre 2025.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Valérie Mairesse et les bananes, Gaël Tchakaloff au centre des moqueries, l'édito de Pascal Praud... Retrouvez dans ce podcast le meilleur de l'émission du jeudi 6 novembre 2025.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Thu, 06 Nov 2025 16:59:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/c755bdd8-f553-4e72-97f8-937f690ce931.mp3?_=1762444887" length="13714933" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Valérie Mairesse et les bananes, Gaël Tchakaloff au centre des moqueries, l'édito de Pascal Praud... Retrouvez dans ce podcast le meilleur de l'émission du jeudi 6 novembre 2025.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Valérie Mairesse et les bananes, Gaël Tchakaloff au centre des moqueries, l'édito de Pascal Praud... Retrouvez dans ce podcast le meilleur de l'émission du jeudi 6 novembre 2025.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Valérie Mairesse et les bananes, Gaël Tchakaloff au centre des moqueries, l'édito de Pascal Praud... Retrouvez dans ce podcast le meilleur de l'émission du jeudi 6 novembre 2025.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'ap...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>14:17</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/0fe237ce-b1f7-435e-987b-72826509aa95.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/0fe237ce-b1f7-435e-987b-72826509aa95.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/NJDuBbU</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
