@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Thu, 20 Nov 2025 16:59:34 GMT</lastBuildDate>
-    <pubDate>Thu, 20 Nov 2025 16:59:34 GMT</pubDate>
+    <lastBuildDate>Thu, 20 Nov 2025 17:25:37 GMT</lastBuildDate>
+    <pubDate>Thu, 20 Nov 2025 17:25:37 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -110,6 +110,7 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <itunes:image href="https://static.audiomeans.fr/img/episode/64e2ca44-a14d-4926-aed3-30bae5fd333f.jpg" />
       <ns2:image href="https://static.audiomeans.fr/img/episode/64e2ca44-a14d-4926-aed3-30bae5fd333f.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/ZtCJbsj</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
@@ -2926,44 +2927,6 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <ns2:image href="https://static.audiomeans.fr/img/episode/5d90f500-d8a0-43a6-af6f-c8ff69b9392d.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/upmhBnD</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>IMITATIONS - Macron, Montagné, Jean-Alphonse Richard... L'actualité de Marc-Antoine Le Bret</title>
-      <guid isPermaLink="false">91f8d7cf-972a-44f8-a98c-9dc5eaad4625</guid>
-      <description>Dans l'émission du 7 novembre, Marc-Antoine Le Bret a imité Emmanuel Macron, Renaud, Gilbert Montagné et Jean-Alphonse Richard.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Dans l'émission du 7 novembre, Marc-Antoine Le Bret a imité Emmanuel Macron, Renaud, Gilbert Montagné et Jean-Alphonse Richard.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Fri, 07 Nov 2025 16:52:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/91f8d7cf-972a-44f8-a98c-9dc5eaad4625.mp3?_=1762512484" length="3878236" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Dans l'émission du 7 novembre, Marc-Antoine Le Bret a imité Emmanuel Macron, Renaud, Gilbert Montagné et Jean-Alphonse Richard.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Dans l'émission du 7 novembre, Marc-Antoine Le Bret a imité Emmanuel Macron, Renaud, Gilbert Montagné et Jean-Alphonse Richard.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Dans l'émission du 7 novembre, Marc-Antoine Le Bret a imité Emmanuel Macron, Renaud, Gilbert Montagné et Jean-Alphonse Richard.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visi...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>04:02</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/b535b88f-9303-4146-b264-7c8702de8e4c.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/b535b88f-9303-4146-b264-7c8702de8e4c.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/JjIgRls</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>

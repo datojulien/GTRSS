@@ -7,8 +7,8 @@
     <description>Tous les épisodes de L'Intégrale de 'Les Grosses Têtes', regroupant la diffusion complète sans coupures ni extras.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Thu, 20 Nov 2025 16:59:34 GMT</lastBuildDate>
-    <pubDate>Thu, 20 Nov 2025 16:59:34 GMT</pubDate>
+    <lastBuildDate>Thu, 20 Nov 2025 17:25:37 GMT</lastBuildDate>
+    <pubDate>Thu, 20 Nov 2025 17:25:37 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,44 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/vdAhbmg</ns3:txt>
+    <item>
+      <title>L'INTÉGRALE - Émission du jeudi 20 novembre 2025</title>
+      <guid isPermaLink="false">e56fa379-45fb-46c5-82b9-6b7a5fbc3dea</guid>
+      <description>Avec Arielle Dombasle, François Berléand, Christophe Beaugrand, Gaël Tchakaloff, AZ et Florian Gazan.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Avec Arielle Dombasle, François Berléand, Christophe Beaugrand, Gaël Tchakaloff, AZ et Florian Gazan.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Thu, 20 Nov 2025 17:02:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/e56fa379-45fb-46c5-82b9-6b7a5fbc3dea.mp3?_=1763658791" length="101273455" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Avec Arielle Dombasle, François Berléand, Christophe Beaugrand, Gaël Tchakaloff, AZ et Florian Gazan.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Avec Arielle Dombasle, François Berléand, Christophe Beaugrand, Gaël Tchakaloff, AZ et Florian Gazan.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Avec Arielle Dombasle, François Berléand, Christophe Beaugrand, Gaël Tchakaloff, AZ et Florian Gazan.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez </itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>01:45:29</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/14e3c2c2-ee1c-462e-9989-326db21af95d.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/14e3c2c2-ee1c-462e-9989-326db21af95d.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/kEtMcQn</ns3:txt>
+      <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes,intégral</itunes:keywords>
+    </item>
     <item>
       <title>L'INTÉGRALE - Émission du mercredi 19 novembre 2025</title>
       <guid isPermaLink="false">a8ceafee-fd13-4a7f-94b5-8c992065fab1</guid>
