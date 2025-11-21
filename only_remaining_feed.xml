@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Fri, 21 Nov 2025 10:53:50 GMT</lastBuildDate>
-    <pubDate>Fri, 21 Nov 2025 10:53:50 GMT</pubDate>
+    <lastBuildDate>Fri, 21 Nov 2025 11:21:50 GMT</lastBuildDate>
+    <pubDate>Fri, 21 Nov 2025 11:21:50 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -74,8 +74,8 @@ Tous les jours, en podcast, retrouvez une compilation des meilleures blagues d..
       <itunes:block>no</itunes:block>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>01:44</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/00928303-848d-4391-b0e5-223e878cb093.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/00928303-848d-4391-b0e5-223e878cb093.jpg" />
+      <itunes:image href="https://static.audiomeans.fr/img/episode/586c61a4-3136-47f1-86ed-014f1e4afaf2.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/586c61a4-3136-47f1-86ed-014f1e4afaf2.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/zNjMgji</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
@@ -106,8 +106,8 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
 Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
  Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
  </ns2:description>
-      <itunes:author>RTL</itunes:author>
-      <author>RTL</author>
+      <itunes:author>Sara Kemacha</itunes:author>
+      <author>Sara Kemacha</author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:subtitle>Dans ce nouveau podcast, les Grosses Têtes doivent deviner à qui appartiennent les anecdotes qu'elles entendent avec des voix trafiquées ! Philippe Claudel et François Berléand mènent l'enquête une nouvelle fois !
 
@@ -116,8 +116,9 @@ Retrouvez tous les jours le meilleur des Gross...</itunes:subtitle>
       <itunes:block>no</itunes:block>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>03:57</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/1345d8ef-251c-4792-b635-0bf61a19aeac.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/1345d8ef-251c-4792-b635-0bf61a19aeac.jpg" />
+      <itunes:image href="https://static.audiomeans.fr/img/episode/22ada7d0-337d-4715-8b0e-be0c42ce7545.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/22ada7d0-337d-4715-8b0e-be0c42ce7545.jpg" />
+      <ns3:person role="host">Sara Kemacha</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/FCAoGwJ</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
