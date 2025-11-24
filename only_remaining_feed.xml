@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Mon, 24 Nov 2025 09:35:25 GMT</lastBuildDate>
-    <pubDate>Mon, 24 Nov 2025 09:35:25 GMT</pubDate>
+    <lastBuildDate>Mon, 24 Nov 2025 09:54:47 GMT</lastBuildDate>
+    <pubDate>Mon, 24 Nov 2025 09:54:47 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,43 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/vdAhbmg</ns3:txt>
+    <item>
+      <title>BLAGUE -  Les histoires drôles du 24 novembre 2025</title>
+      <guid isPermaLink="false">6dd9aa91-8591-497b-8936-f17e28f9382a</guid>
+      <description>Une blague sur le Titanic, pourquoi dans les derniers concerts de Céline Dion n'y a-t-il pas ses derniers tubes ? et une petite fille cherche sur internet "comment on fait les enfants"... Découvrez les 3 histoires drôles du jour !
+
+&lt;i&gt;Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Une blague sur le Titanic, pourquoi dans les derniers concerts de Céline Dion n'y a-t-il pas ses derniers tubes ? et une petite fille cherche sur internet "comment on fait les enfants"... Découvrez les 3 histoires drôles du jour !
+
+&lt;i&gt;Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Mon, 24 Nov 2025 10:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/6dd9aa91-8591-497b-8936-f17e28f9382a.mp3?_=1763742481" length="1492251" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Une blague sur le Titanic, pourquoi dans les derniers concerts de Céline Dion n'y a-t-il pas ses derniers tubes ? et une petite fille cherche sur internet "comment on fait les enfants"... Découvrez les 3 histoires drôles du jour !
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Une blague sur le Titanic, pourquoi dans les derniers concerts de Céline Dion n'y a-t-il pas ses derniers tubes ? et une petite fille cherche sur internet "comment on fait les enfants"... Découvrez les 3 histoires drôles du jour !
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Une blague sur le Titanic, pourquoi dans les derniers concerts de Céline Dion n'y a-t-il pas ses derniers tubes ? et une petite fille cherche sur internet "comment on fait les enfants"... Découvrez les 3 histoires drôles du jour !
+
+Tous les jours, en podcast, re...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>01:33</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/baee5c63-ffe4-45de-af4d-c5ad7670280f.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/baee5c63-ffe4-45de-af4d-c5ad7670280f.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/cFOWtvO</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>INÉDIT - Qui se cache derrière l'anecdote ? L'enquête de S. Bugsy et J. Ferrari</title>
       <guid isPermaLink="false">f5230b00-acf2-477c-94d8-3967750022bb</guid>
