@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Mon, 24 Nov 2025 07:28:10 GMT</lastBuildDate>
-    <pubDate>Mon, 24 Nov 2025 07:28:10 GMT</pubDate>
+    <lastBuildDate>Mon, 24 Nov 2025 07:53:21 GMT</lastBuildDate>
+    <pubDate>Mon, 24 Nov 2025 07:53:21 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -2913,42 +2913,6 @@ Retrouvez tous les jours le meilleur des Gros...</itunes:subtitle>
       <ns2:image href="https://static.audiomeans.fr/img/episode/11e82b56-6cb3-404d-a63f-7ef61648c223.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/dHVXKlk</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>BEST OF - Le meilleur des auditeurs depuis le début de la saison</title>
-      <guid isPermaLink="false">78b9874d-c35f-4f5d-a3c1-abb9eda64c3f</guid>
-      <description>Requêtes, compliments, coups de gueule... Depuis le début de la saison, les auditeurs se succèdent pour laisser un message aux Grosses Têtes !
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Requêtes, compliments, coups de gueule... Depuis le début de la saison, les auditeurs se succèdent pour laisser un message aux Grosses Têtes !
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Tue, 11 Nov 2025 14:00:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/78b9874d-c35f-4f5d-a3c1-abb9eda64c3f.mp3?_=1762785782" length="4529812" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Requêtes, compliments, coups de gueule... Depuis le début de la saison, les auditeurs se succèdent pour laisser un message aux Grosses Têtes !
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Requêtes, compliments, coups de gueule... Depuis le début de la saison, les auditeurs se succèdent pour laisser un message aux Grosses Têtes !
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Requêtes, compliments, coups de gueule... Depuis le début de la saison, les auditeurs se succèdent pour laisser un message aux Grosses Têtes !
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par ...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>04:43</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/85abe08d-cc90-4d15-b9ba-2c29467840cb.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/85abe08d-cc90-4d15-b9ba-2c29467840cb.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/GjaLwpk</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
