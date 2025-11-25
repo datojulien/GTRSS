@@ -7,8 +7,8 @@
     <description>Tous les épisodes de L'Intégrale de 'Les Grosses Têtes', regroupant la diffusion complète sans coupures ni extras.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Tue, 25 Nov 2025 17:00:04 GMT</lastBuildDate>
-    <pubDate>Tue, 25 Nov 2025 17:00:04 GMT</pubDate>
+    <lastBuildDate>Tue, 25 Nov 2025 17:31:05 GMT</lastBuildDate>
+    <pubDate>Tue, 25 Nov 2025 17:31:05 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,46 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/vdAhbmg</ns3:txt>
+    <item>
+      <title>L'INTÉGRALE - Émission du mardi 25 novembre 2025</title>
+      <guid isPermaLink="false">8d8b2b29-71e3-4e71-917c-cb9930db88b3</guid>
+      <description>Avec Ary Abittan, Titoff, Caroline Diament, Jérémy Lorca, Fabrizio Bucella et Karina Marimon.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Avec Ary Abittan, Titoff, Caroline Diament, Jérémy Lorca, Fabrizio Bucella et Karina Marimon.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Tue, 25 Nov 2025 17:02:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/8d8b2b29-71e3-4e71-917c-cb9930db88b3.mp3?_=1764087791" length="102293259" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Avec Ary Abittan, Titoff, Caroline Diament, Jérémy Lorca, Fabrizio Bucella et Karina Marimon.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Avec Ary Abittan, Titoff, Caroline Diament, Jérémy Lorca, Fabrizio Bucella et Karina Marimon.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Avec Ary Abittan, Titoff, Caroline Diament, Jérémy Lorca, Fabrizio Bucella et Karina Marimon.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez </itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>01:46:33</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/a596331c-7aa5-4816-9e15-cf92299dfe4e.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/a596331c-7aa5-4816-9e15-cf92299dfe4e.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/sNEoFkg</ns3:txt>
+      <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes,intégral</itunes:keywords>
+    </item>
     <item>
       <title>L'INTÉGRALE - Émission du lundi 24 novembre 2025</title>
       <guid isPermaLink="false">4ee92b12-ab0d-4d11-af3b-7405437eb08f</guid>
