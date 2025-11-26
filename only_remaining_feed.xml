@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Wed, 26 Nov 2025 04:55:25 GMT</lastBuildDate>
-    <pubDate>Wed, 26 Nov 2025 04:55:25 GMT</pubDate>
+    <lastBuildDate>Wed, 26 Nov 2025 05:27:28 GMT</lastBuildDate>
+    <pubDate>Wed, 26 Nov 2025 05:27:28 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,38 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/vdAhbmg</ns3:txt>
+    <item>
+      <title>INÉDIT - Qui se cache derrière l'anecdote ? L'enquête de F. Berléand et F. Gazan</title>
+      <guid isPermaLink="false">85ea4ef6-bd96-43ce-922a-f15cf07cb5ec</guid>
+      <description>Dans ce nouveau podcast, les Grosses Têtes doivent deviner à qui appartiennent les anecdotes qu'elles entendent avec des voix trafiquées ! François Berléand et Florian Gazan mènent l'enquête !
+&lt;i&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Dans ce nouveau podcast, les Grosses Têtes doivent deviner à qui appartiennent les anecdotes qu'elles entendent avec des voix trafiquées ! François Berléand et Florian Gazan mènent l'enquête !
+&lt;i&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Wed, 26 Nov 2025 05:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/85ea4ef6-bd96-43ce-922a-f15cf07cb5ec.mp3?_=1763990281" length="3847806" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Dans ce nouveau podcast, les Grosses Têtes doivent deviner à qui appartiennent les anecdotes qu'elles entendent avec des voix trafiquées ! François Berléand et Florian Gazan mènent l'enquête !
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Dans ce nouveau podcast, les Grosses Têtes doivent deviner à qui appartiennent les anecdotes qu'elles entendent avec des voix trafiquées ! François Berléand et Florian Gazan mènent l'enquête !
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Sara Kemacha</itunes:author>
+      <author>Sara Kemacha</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Dans ce nouveau podcast, les Grosses Têtes doivent deviner à qui appartiennent les anecdotes qu'elles entendent avec des voix trafiquées ! François Berléand et Florian Gazan mènent l'enquête !
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast su...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>04:00</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/5ed82cfd-7cb7-44e3-9f1d-e05b53c7703c.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/5ed82cfd-7cb7-44e3-9f1d-e05b53c7703c.jpg" />
+      <ns3:person role="host">Sara Kemacha</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/zcMSwxY</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>ARCHIVE - La blague de Chantal Ladesou</title>
       <guid isPermaLink="false">02086bac-59fc-4c34-b148-e018d98b6158</guid>
@@ -2877,43 +2909,6 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en p...</itunes:subtitle
       <ns2:image href="https://static.audiomeans.fr/img/episode/839f13f3-f060-443f-8445-f219c2255788.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/BqBezxK</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>PÉPITE - Quand Arielle Dombasle tente de s'interesser aux fast-foods</title>
-      <guid isPermaLink="false">7bf20c95-813b-4844-8506-00d01318295f</guid>
-      <description>Malgré sa volonté farouche de s'interesser à la nourriture de flunch, Five Guys ou même Burger King, Arielle Dombasle ne vit vraiment pas dans le même monde...
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Malgré sa volonté farouche de s'interesser à la nourriture de flunch, Five Guys ou même Burger King, Arielle Dombasle ne vit vraiment pas dans le même monde...
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Thu, 13 Nov 2025 16:58:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/7bf20c95-813b-4844-8506-00d01318295f.mp3?_=1763052480" length="3542633" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Malgré sa volonté farouche de s'interesser à la nourriture de flunch, Five Guys ou même Burger King, Arielle Dombasle ne vit vraiment pas dans le même monde...
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Malgré sa volonté farouche de s'interesser à la nourriture de flunch, Five Guys ou même Burger King, Arielle Dombasle ne vit vraiment pas dans le même monde...
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Malgré sa volonté farouche de s'interesser à la nourriture de flunch, Five Guys ou même Burger King, Arielle Dombasle ne vit vraiment pas dans le même monde...
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>03:41</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/1ebd09c5-9570-4afd-91ac-2ddbc59c3809.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/1ebd09c5-9570-4afd-91ac-2ddbc59c3809.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/WMllOBd</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
