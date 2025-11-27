@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Thu, 27 Nov 2025 17:24:50 GMT</lastBuildDate>
-    <pubDate>Thu, 27 Nov 2025 17:24:50 GMT</pubDate>
+    <lastBuildDate>Thu, 27 Nov 2025 17:53:10 GMT</lastBuildDate>
+    <pubDate>Thu, 27 Nov 2025 17:53:10 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,38 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/vdAhbmg</ns3:txt>
+    <item>
+      <title>PÉPITE - Le meilleur de l'émission du 27 novembre 2025</title>
+      <guid isPermaLink="false">6eaa851d-7211-4835-94bd-e43a57a2c9d8</guid>
+      <description>Jeff Panacloc et Jean-Marc invités spéciaux de l'émission, des nouvelles de Nicolas Sarkozy, la promotion de Philippe Geluck... Retrouvez dans ce podcast le meilleur de l'émission du 27 novembre 2025.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Jeff Panacloc et Jean-Marc invités spéciaux de l'émission, des nouvelles de Nicolas Sarkozy, la promotion de Philippe Geluck... Retrouvez dans ce podcast le meilleur de l'émission du 27 novembre 2025.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Thu, 27 Nov 2025 16:59:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/6eaa851d-7211-4835-94bd-e43a57a2c9d8.mp3?_=1764263881" length="13001939" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Jeff Panacloc et Jean-Marc invités spéciaux de l'émission, des nouvelles de Nicolas Sarkozy, la promotion de Philippe Geluck... Retrouvez dans ce podcast le meilleur de l'émission du 27 novembre 2025.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Jeff Panacloc et Jean-Marc invités spéciaux de l'émission, des nouvelles de Nicolas Sarkozy, la promotion de Philippe Geluck... Retrouvez dans ce podcast le meilleur de l'émission du 27 novembre 2025.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Jeff Panacloc et Jean-Marc invités spéciaux de l'émission, des nouvelles de Nicolas Sarkozy, la promotion de Philippe Geluck... Retrouvez dans ce podcast le meilleur de l'émission du 27 novembre 2025.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podca...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>13:32</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/aef9e201-93c7-489b-ab0a-a822794dde5e.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/aef9e201-93c7-489b-ab0a-a822794dde5e.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/AJcwwwH</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>PÉPITE - Quand Jeff Panacloc s'est fait voler Jean-Marc</title>
       <guid isPermaLink="false">8988b7eb-be65-4200-a737-3f314e010ca5</guid>
@@ -73,6 +105,7 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <itunes:image href="https://static.audiomeans.fr/img/episode/639de2f2-2c6b-45bf-83cb-c954b968b2fd.jpg" />
       <ns2:image href="https://static.audiomeans.fr/img/episode/639de2f2-2c6b-45bf-83cb-c954b968b2fd.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/RvBAcft</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
@@ -176,6 +209,7 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <itunes:image href="https://static.audiomeans.fr/img/episode/f766e638-e126-4427-8820-3c664e8f3d0a.jpg" />
       <ns2:image href="https://static.audiomeans.fr/img/episode/f766e638-e126-4427-8820-3c664e8f3d0a.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/QogdAlM</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
@@ -2930,34 +2964,6 @@ Chaque weekend en...</itunes:subtitle>
       <itunes:image href="https://static.audiomeans.fr/img/episode/596b3fd0-2592-4989-b843-0f7a3be21f3d.jpg" />
       <ns2:image href="https://static.audiomeans.fr/img/episode/596b3fd0-2592-4989-b843-0f7a3be21f3d.jpg" />
       <ns3:txt purpose="smartlink">https://audmns.com/qFaQSED</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>ARCHIVE - La blague de Vincent Perrot</title>
-      <guid isPermaLink="false">9020f91b-ec24-4cec-b6e8-01374332c647</guid>
-      <description>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Sun, 16 Nov 2025 01:00:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/9020f91b-ec24-4cec-b6e8-01374332c647.mp3?_=1762443256" length="1076048" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !
- Hébergé par Audiomeans. Visitez </itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>01:07</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/079e6f3e-0495-4511-bf6d-db8d676c5386.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/079e6f3e-0495-4511-bf6d-db8d676c5386.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/XhUDTof</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
