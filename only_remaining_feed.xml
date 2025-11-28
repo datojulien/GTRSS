@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Fri, 28 Nov 2025 04:54:41 GMT</lastBuildDate>
-    <pubDate>Fri, 28 Nov 2025 04:54:41 GMT</pubDate>
+    <lastBuildDate>Fri, 28 Nov 2025 05:27:35 GMT</lastBuildDate>
+    <pubDate>Fri, 28 Nov 2025 05:27:35 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,43 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/vdAhbmg</ns3:txt>
+    <item>
+      <title>INÉDIT - Qui se cache derrière l'anecdote ? L'enquête de P. Geluck et A. Tramoni</title>
+      <guid isPermaLink="false">69dedabf-de66-4df4-b22b-c104db8cd2f0</guid>
+      <description>Dans ce nouveau podcast, les Grosses Têtes doivent deviner à qui appartiennent les anecdotes qu'elles entendent avec des voix trafiquées ! Philippe Geluck et Alexis Tramoni mènent l'enquête une nouvelle fois !
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Dans ce nouveau podcast, les Grosses Têtes doivent deviner à qui appartiennent les anecdotes qu'elles entendent avec des voix trafiquées ! Philippe Geluck et Alexis Tramoni mènent l'enquête une nouvelle fois !
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Fri, 28 Nov 2025 05:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/69dedabf-de66-4df4-b22b-c104db8cd2f0.mp3?_=1759323485" length="4402048" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Dans ce nouveau podcast, les Grosses Têtes doivent deviner à qui appartiennent les anecdotes qu'elles entendent avec des voix trafiquées ! Philippe Geluck et Alexis Tramoni mènent l'enquête une nouvelle fois !
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Dans ce nouveau podcast, les Grosses Têtes doivent deviner à qui appartiennent les anecdotes qu'elles entendent avec des voix trafiquées ! Philippe Geluck et Alexis Tramoni mènent l'enquête une nouvelle fois !
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Sara Kemacha</itunes:author>
+      <author>Sara Kemacha</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Dans ce nouveau podcast, les Grosses Têtes doivent deviner à qui appartiennent les anecdotes qu'elles entendent avec des voix trafiquées ! Philippe Geluck et Alexis Tramoni mènent l'enquête une nouvelle fois !
+
+Retrouvez tous les jours le meilleur des Grosses Têtes...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>04:35</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/88bba77c-3fb1-4004-85a0-996931a7e12c.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/88bba77c-3fb1-4004-85a0-996931a7e12c.jpg" />
+      <ns3:person role="host">Sara Kemacha</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/krsyfwb</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>ARCHIVE - La blague de Jacques Mailhot</title>
       <guid isPermaLink="false">cb394acf-6ccc-4738-8445-bb390427ef23</guid>
@@ -2928,34 +2965,6 @@ Retrouvez tous les jours le meilleur des Gro...</itunes:subtitle>
       <ns2:image href="https://static.audiomeans.fr/img/episode/0f8f4ec9-38b3-4f0d-bd0c-ac8c2d8f75b2.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/SitEzZO</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>BEST OF - Les 10 meilleures blagues du dimanche 16 novembre 2025</title>
-      <guid isPermaLink="false">71a143db-7d51-4004-bfd8-b63932ba8199</guid>
-      <description>Chaque dimanche, retrouvez les meilleures blagues de vos Grosses Têtes préférées. Jean-Marie Bigard, Max Boublil, Bernard Mabille... Découvrez dans ce podcast 10 des meilleures blagues passées à l'antenne et racontées par les Grosses Têtes.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Chaque dimanche, retrouvez les meilleures blagues de vos Grosses Têtes préférées. Jean-Marie Bigard, Max Boublil, Bernard Mabille... Découvrez dans ce podcast 10 des meilleures blagues passées à l'antenne et racontées par les Grosses Têtes.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Sun, 16 Nov 2025 14:00:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/71a143db-7d51-4004-bfd8-b63932ba8199.mp3?_=1763134982" length="8544655" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Chaque dimanche, retrouvez les meilleures blagues de vos Grosses Têtes préférées. Jean-Marie Bigard, Max Boublil, Bernard Mabille... Découvrez dans ce podcast 10 des meilleures blagues passées à l'antenne et racontées par les Grosses Têtes.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Chaque dimanche, retrouvez les meilleures blagues de vos Grosses Têtes préférées. Jean-Marie Bigard, Max Boublil, Bernard Mabille... Découvrez dans ce podcast 10 des meilleures blagues passées à l'antenne et racontées par les Grosses Têtes.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Chaque dimanche, retrouvez les meilleures blagues de vos Grosses Têtes préférées. Jean-Marie Bigard, Max Boublil, Bernard Mabille... Découvrez dans ce podcast 10 des meilleures blagues passées à l'antenne et racontées par les Grosses Têtes.
- Hébergé par Aud...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>08:53</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/11265977-3a8b-43f1-9ac7-8aabd454df71.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/11265977-3a8b-43f1-9ac7-8aabd454df71.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/EGefUcS</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
