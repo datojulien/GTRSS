@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Sat, 29 Nov 2025 04:54:04 GMT</lastBuildDate>
-    <pubDate>Sat, 29 Nov 2025 04:54:04 GMT</pubDate>
+    <lastBuildDate>Sat, 29 Nov 2025 05:26:06 GMT</lastBuildDate>
+    <pubDate>Sat, 29 Nov 2025 05:26:06 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,37 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/vdAhbmg</ns3:txt>
+    <item>
+      <title>ARCHIVE - Jean Yanne, "100 ans de conneries" : le Comte de Paris écoute la Valise RTL</title>
+      <guid isPermaLink="false">94103292-77f2-4abb-bf17-039e5a49244d</guid>
+      <description>La Valise RTL, c'est une légende ! Et tout le monde l'écoute...
+Chaque weekend en podcast, retrouvez "100 ans de conneries", par Jean Yanne. Pendant 4 mois, de septembre à décembre 1999, le sociétaire des "Grosses Têtes", tenait sur RTL une chronique quotidienne dans laquelle il faisait le bilan du siècle qui allait bientôt se terminer. Avec son humour féroce habituel, il s'est attaché à dénoncé la "connerie" humaine, vraie constante et révélatrice du XXème siècle.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>La Valise RTL, c'est une légende ! Et tout le monde l'écoute...
+Chaque weekend en podcast, retrouvez "100 ans de conneries", par Jean Yanne. Pendant 4 mois, de septembre à décembre 1999, le sociétaire des "Grosses Têtes", tenait sur RTL une chronique quotidienne dans laquelle il faisait le bilan du siècle qui allait bientôt se terminer. Avec son humour féroce habituel, il s'est attaché à dénoncé la "connerie" humaine, vraie constante et révélatrice du XXème siècle.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Sat, 29 Nov 2025 05:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/94103292-77f2-4abb-bf17-039e5a49244d.mp3?_=1764344582" length="1867070" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>La Valise RTL, c'est une légende ! Et tout le monde l'écoute...
+Chaque weekend en podcast, retrouvez "100 ans de conneries", par Jean Yanne. Pendant 4 mois, de septembre à décembre 1999, le sociétaire des "Grosses Têtes", tenait sur RTL une chronique quotidienne dans laquelle il faisait le bilan du siècle qui allait bientôt se terminer. Avec son humour féroce habituel, il s'est attaché à dénoncé la "connerie" humaine, vraie constante et révélatrice du XXème siècle.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>La Valise RTL, c'est une légende ! Et tout le monde l'écoute...
+Chaque weekend en podcast, retrouvez "100 ans de conneries", par Jean Yanne. Pendant 4 mois, de septembre à décembre 1999, le sociétaire des "Grosses Têtes", tenait sur RTL une chronique quotidienne dans laquelle il faisait le bilan du siècle qui allait bientôt se terminer. Avec son humour féroce habituel, il s'est attaché à dénoncé la "connerie" humaine, vraie constante et révélatrice du XXème siècle.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>RTL</itunes:author>
+      <author>RTL</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>La Valise RTL, c'est une légende ! Et tout le monde l'écoute...
+Chaque weekend en podcast, retrouvez "100 ans de conneries", par Jean Yanne. Pendant 4 mois, de septembre à décembre 1999, le sociétaire des "Grosses Têtes", tenait sur RTL une chronique quotidienne da...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>01:56</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/325cd818-fcbb-4fc1-a196-995c2660611c.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/325cd818-fcbb-4fc1-a196-995c2660611c.jpg" />
+      <ns3:txt purpose="smartlink">https://audmns.com/dROYwAL</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>ARCHIVE - La blague de Pierre Bellemare</title>
       <guid isPermaLink="false">926a4704-91eb-41d5-9bb6-f0fc47820a33</guid>
