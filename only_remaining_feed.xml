@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Fri, 28 Nov 2025 23:53:10 GMT</lastBuildDate>
-    <pubDate>Fri, 28 Nov 2025 23:53:10 GMT</pubDate>
+    <lastBuildDate>Sat, 29 Nov 2025 02:00:39 GMT</lastBuildDate>
+    <pubDate>Sat, 29 Nov 2025 02:00:39 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,34 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/vdAhbmg</ns3:txt>
+    <item>
+      <title>ARCHIVE - La blague de Pierre Bellemare</title>
+      <guid isPermaLink="false">926a4704-91eb-41d5-9bb6-f0fc47820a33</guid>
+      <description>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Sat, 29 Nov 2025 01:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/926a4704-91eb-41d5-9bb6-f0fc47820a33.mp3?_=1763742783" length="1559210" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !
+ Hébergé par Audiomeans. Visitez </itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>01:37</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/dec7f7a8-4d4f-48fc-b36e-dc15b9a10323.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/dec7f7a8-4d4f-48fc-b36e-dc15b9a10323.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/TpVmAfl</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>PÉPITE - Le meilleur de l'émission du 28 novembre 2025</title>
       <guid isPermaLink="false">bbef8861-2fd6-4287-afbb-5db8bb4786bb</guid>
@@ -2948,38 +2976,6 @@ Tous les jours, en podcast, retrouvez une co...</itunes:subtitle>
       <ns2:image href="https://static.audiomeans.fr/img/episode/a0c7e265-6cae-473d-9b1d-61ebd75e4b01.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/WqKsWbG</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>PÉPITE - Le meilleur de l'émission du 17 novembre 2025</title>
-      <guid isPermaLink="false">a57125ff-6e6d-4828-9487-1f67a62827bd</guid>
-      <description>Galia Salimo invitée d'honneur, les dons de voyance de Liane Foly, Stéphane Bern révolté... Retrouvez dans ce podcast le meilleur de l'émission du 17 novembre 2025.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Galia Salimo invitée d'honneur, les dons de voyance de Liane Foly, Stéphane Bern révolté... Retrouvez dans ce podcast le meilleur de l'émission du 17 novembre 2025.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Mon, 17 Nov 2025 16:59:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/a57125ff-6e6d-4828-9487-1f67a62827bd.mp3?_=1763394482" length="17402557" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Galia Salimo invitée d'honneur, les dons de voyance de Liane Foly, Stéphane Bern révolté... Retrouvez dans ce podcast le meilleur de l'émission du 17 novembre 2025.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Galia Salimo invitée d'honneur, les dons de voyance de Liane Foly, Stéphane Bern révolté... Retrouvez dans ce podcast le meilleur de l'émission du 17 novembre 2025.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Galia Salimo invitée d'honneur, les dons de voyance de Liane Foly, Stéphane Bern révolté... Retrouvez dans ce podcast le meilleur de l'émission du 17 novembre 2025.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>18:07</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/9ab50560-5924-4520-ba3c-e77edba062a1.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/9ab50560-5924-4520-ba3c-e77edba062a1.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/HwkGyif</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
