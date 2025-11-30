@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Sun, 30 Nov 2025 04:58:34 GMT</lastBuildDate>
-    <pubDate>Sun, 30 Nov 2025 04:58:34 GMT</pubDate>
+    <lastBuildDate>Sun, 30 Nov 2025 05:30:20 GMT</lastBuildDate>
+    <pubDate>Sun, 30 Nov 2025 05:30:20 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,42 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/vdAhbmg</ns3:txt>
+    <item>
+      <title>ARCHIVE - Jean Yanne, "100 ans de connerie" : la minute charme</title>
+      <guid isPermaLink="false">32c27afc-0486-4523-9f59-5da675900385</guid>
+      <description>Dans cette chronique des "100 ans de connerie", Jean Yanne vous emmène au cœur de sa minute charme...
+
+Chaque weekend en podcast, retrouvez "100 ans de conneries", par Jean Yanne. Pendant 4 mois, de septembre à décembre 1999, le sociétaire des "Grosses Têtes", tenait sur RTL une chronique quotidienne dans laquelle il faisait le bilan du siècle qui allait bientôt se terminer. Avec son humour féroce habituel, il s'est attaché à dénoncé la "connerie" humaine, vraie constante et révélatrice du XXème siècle.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Dans cette chronique des "100 ans de connerie", Jean Yanne vous emmène au cœur de sa minute charme...
+
+Chaque weekend en podcast, retrouvez "100 ans de conneries", par Jean Yanne. Pendant 4 mois, de septembre à décembre 1999, le sociétaire des "Grosses Têtes", tenait sur RTL une chronique quotidienne dans laquelle il faisait le bilan du siècle qui allait bientôt se terminer. Avec son humour féroce habituel, il s'est attaché à dénoncé la "connerie" humaine, vraie constante et révélatrice du XXème siècle.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Sun, 30 Nov 2025 05:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/32c27afc-0486-4523-9f59-5da675900385.mp3?_=1764349083" length="2176327" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Dans cette chronique des "100 ans de connerie", Jean Yanne vous emmène au cœur de sa minute charme...
+
+Chaque weekend en podcast, retrouvez "100 ans de conneries", par Jean Yanne. Pendant 4 mois, de septembre à décembre 1999, le sociétaire des "Grosses Têtes", tenait sur RTL une chronique quotidienne dans laquelle il faisait le bilan du siècle qui allait bientôt se terminer. Avec son humour féroce habituel, il s'est attaché à dénoncé la "connerie" humaine, vraie constante et révélatrice du XXème siècle.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Dans cette chronique des "100 ans de connerie", Jean Yanne vous emmène au cœur de sa minute charme...
+
+Chaque weekend en podcast, retrouvez "100 ans de conneries", par Jean Yanne. Pendant 4 mois, de septembre à décembre 1999, le sociétaire des "Grosses Têtes", tenait sur RTL une chronique quotidienne dans laquelle il faisait le bilan du siècle qui allait bientôt se terminer. Avec son humour féroce habituel, il s'est attaché à dénoncé la "connerie" humaine, vraie constante et révélatrice du XXème siècle.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>RTL</itunes:author>
+      <author>RTL</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Dans cette chronique des "100 ans de connerie", Jean Yanne vous emmène au cœur de sa minute charme...
+
+Chaque weekend en podcast, retrouvez "100 ans de conneries", par Jean Yanne. Pendant 4 mois, de septembre à décembre 1999, le sociétaire des "Grosses Têtes", tena...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>02:15</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/7f768dc9-1b76-42c8-a643-f3ba924e72b0.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/7f768dc9-1b76-42c8-a643-f3ba924e72b0.jpg" />
+      <ns3:txt purpose="smartlink">https://audmns.com/eXAtkGI</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>ARCHIVE - La blague de Jean-Jacques Peroni</title>
       <guid isPermaLink="false">45c0e6dc-d5b1-4b9a-a928-662314dfc928</guid>
@@ -2963,41 +2999,6 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <ns2:image href="https://static.audiomeans.fr/img/episode/dbb81076-683f-41fc-8cdf-fab8074525f0.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/IeVreAl</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>IMITATIONS - Macron, Deutsch, Bigard... Marc-Antoine Le Bret au théâtre de la Michodière</title>
-      <guid isPermaLink="false">df6e41f5-1212-4c1a-8e71-b835de5c1ce2</guid>
-      <description>Dans l'émission du 18 novembre, depuis le théâtre de la Michodière, Marc-Antoine Le Bret a imité Emmanuel Macron, Lorànt Deutsch, Jean-Marie Bigard, Patrick Sébastien, Cyril Hanouna et Jean-Claude Van Damme.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Dans l'émission du 18 novembre, depuis le théâtre de la Michodière, Marc-Antoine Le Bret a imité Emmanuel Macron, Lorànt Deutsch, Jean-Marie Bigard, Patrick Sébastien, Cyril Hanouna et Jean-Claude Van Damme.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Tue, 18 Nov 2025 16:52:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/df6e41f5-1212-4c1a-8e71-b835de5c1ce2.mp3?_=1763474892" length="4957563" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Dans l'émission du 18 novembre, depuis le théâtre de la Michodière, Marc-Antoine Le Bret a imité Emmanuel Macron, Lorànt Deutsch, Jean-Marie Bigard, Patrick Sébastien, Cyril Hanouna et Jean-Claude Van Damme.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Dans l'émission du 18 novembre, depuis le théâtre de la Michodière, Marc-Antoine Le Bret a imité Emmanuel Macron, Lorànt Deutsch, Jean-Marie Bigard, Patrick Sébastien, Cyril Hanouna et Jean-Claude Van Damme.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Dans l'émission du 18 novembre, depuis le théâtre de la Michodière, Marc-Antoine Le Bret a imité Emmanuel Macron, Lorànt Deutsch, Jean-Marie Bigard, Patrick Sébastien, Cyril Hanouna et Jean-Claude Van Damme.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes ...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>05:09</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/6e9817bf-010b-42e4-b7ce-02c668783b9c.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/6e9817bf-010b-42e4-b7ce-02c668783b9c.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/xxxucNK</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
