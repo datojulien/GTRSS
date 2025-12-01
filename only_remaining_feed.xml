@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Mon, 01 Dec 2025 09:55:59 GMT</lastBuildDate>
-    <pubDate>Mon, 01 Dec 2025 09:55:59 GMT</pubDate>
+    <lastBuildDate>Mon, 01 Dec 2025 10:34:01 GMT</lastBuildDate>
+    <pubDate>Mon, 01 Dec 2025 10:34:01 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,43 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/vdAhbmg</ns3:txt>
+    <item>
+      <title>BLAGUE - Les histoires drôles du 1er décembre 2025</title>
+      <guid isPermaLink="false">e71f7271-a306-4e6c-b6a5-5e0d903f388f</guid>
+      <description>Un perroquet intelligent est piégé dans les flammes, un homme qui part en vacances confie son perroquet à un ami, et un facteur découvre un panneau "attention perroquet méchant"... Découvrez les 3 histoires drôles du jour !
+
+&lt;i&gt;Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Un perroquet intelligent est piégé dans les flammes, un homme qui part en vacances confie son perroquet à un ami, et un facteur découvre un panneau "attention perroquet méchant"... Découvrez les 3 histoires drôles du jour !
+
+&lt;i&gt;Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Mon, 01 Dec 2025 10:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/e71f7271-a306-4e6c-b6a5-5e0d903f388f.mp3?_=1764344285" length="3875440" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Un perroquet intelligent est piégé dans les flammes, un homme qui part en vacances confie son perroquet à un ami, et un facteur découvre un panneau "attention perroquet méchant"... Découvrez les 3 histoires drôles du jour !
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Un perroquet intelligent est piégé dans les flammes, un homme qui part en vacances confie son perroquet à un ami, et un facteur découvre un panneau "attention perroquet méchant"... Découvrez les 3 histoires drôles du jour !
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Un perroquet intelligent est piégé dans les flammes, un homme qui part en vacances confie son perroquet à un ami, et un facteur découvre un panneau "attention perroquet méchant"... Découvrez les 3 histoires drôles du jour !
+
+Tous les jours, en podcast, retrouvez...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>04:02</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/f889ad30-6a4d-4210-b53b-5d6a872a9d21.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/f889ad30-6a4d-4210-b53b-5d6a872a9d21.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/LNzAXVm</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>INÉDIT - Qui se cache derrière l'anecdote ? L'enquête de F. Bucella et K. Marimon</title>
       <guid isPermaLink="false">a374a3b3-954d-4506-81c5-154de62c1625</guid>
