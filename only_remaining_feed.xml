@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Mon, 01 Dec 2025 04:04:52 GMT</lastBuildDate>
-    <pubDate>Mon, 01 Dec 2025 04:04:52 GMT</pubDate>
+    <lastBuildDate>Mon, 01 Dec 2025 05:17:24 GMT</lastBuildDate>
+    <pubDate>Mon, 01 Dec 2025 05:17:24 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,43 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/vdAhbmg</ns3:txt>
+    <item>
+      <title>INÉDIT - Qui se cache derrière l'anecdote ? L'enquête de F. Bucella et K. Marimon</title>
+      <guid isPermaLink="false">a374a3b3-954d-4506-81c5-154de62c1625</guid>
+      <description>Dans ce nouveau podcast, les Grosses Têtes doivent deviner à qui appartiennent les anecdotes qu'elles entendent avec des voix trafiquées ! Fabrizio Bucella et Karina Marimon mènent l'enquête !
+&lt;i&gt;&lt;/i&gt;
+&lt;i&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Dans ce nouveau podcast, les Grosses Têtes doivent deviner à qui appartiennent les anecdotes qu'elles entendent avec des voix trafiquées ! Fabrizio Bucella et Karina Marimon mènent l'enquête !
+&lt;i&gt;&lt;/i&gt;
+&lt;i&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Mon, 01 Dec 2025 05:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/a374a3b3-954d-4506-81c5-154de62c1625.mp3?_=1764262980" length="4157113" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Dans ce nouveau podcast, les Grosses Têtes doivent deviner à qui appartiennent les anecdotes qu'elles entendent avec des voix trafiquées ! Fabrizio Bucella et Karina Marimon mènent l'enquête !
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Dans ce nouveau podcast, les Grosses Têtes doivent deviner à qui appartiennent les anecdotes qu'elles entendent avec des voix trafiquées ! Fabrizio Bucella et Karina Marimon mènent l'enquête !
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Sara Kemacha</itunes:author>
+      <author>Sara Kemacha</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Dans ce nouveau podcast, les Grosses Têtes doivent deviner à qui appartiennent les anecdotes qu'elles entendent avec des voix trafiquées ! Fabrizio Bucella et Karina Marimon mènent l'enquête !
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en pod...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>04:19</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/2675c1fa-0000-4e75-aa92-7d0d093d6d07.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/2675c1fa-0000-4e75-aa92-7d0d093d6d07.jpg" />
+      <ns3:person role="host">Sara Kemacha</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/VYkJxOq</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>ARCHIVE - La blague de Philippe Chevallier</title>
       <guid isPermaLink="false">09eacc1e-64c7-4a36-ba4b-421755fb2faa</guid>
@@ -2905,43 +2942,6 @@ Retrouvez tous les jours le meilleur des G...</itunes:subtitle>
       <ns2:image href="https://static.audiomeans.fr/img/episode/6aa6a861-9974-4dad-a1f9-b4d9e8c0dbc8.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/QNRjTAq</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>PÉPITE - Le meilleur de l'émission du 18 novembre 2025</title>
-      <guid isPermaLink="false">cafc9ca5-bad4-4b35-93c5-1ee7d5ca25da</guid>
-      <description>Les 100 ans de la Michodière, une pièce de théâtre improvisée, la chanson de Max Boublil pour Nicolas Sarkozy et Carla Bruni... Retrouvez dans ce podcast le meilleur de l'émission du 18 novembre 2025.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Les 100 ans de la Michodière, une pièce de théâtre improvisée, la chanson de Max Boublil pour Nicolas Sarkozy et Carla Bruni... Retrouvez dans ce podcast le meilleur de l'émission du 18 novembre 2025.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Tue, 18 Nov 2025 16:59:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/cafc9ca5-bad4-4b35-93c5-1ee7d5ca25da.mp3?_=1763475182" length="14328123" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Les 100 ans de la Michodière, une pièce de théâtre improvisée, la chanson de Max Boublil pour Nicolas Sarkozy et Carla Bruni... Retrouvez dans ce podcast le meilleur de l'émission du 18 novembre 2025.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Les 100 ans de la Michodière, une pièce de théâtre improvisée, la chanson de Max Boublil pour Nicolas Sarkozy et Carla Bruni... Retrouvez dans ce podcast le meilleur de l'émission du 18 novembre 2025.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Les 100 ans de la Michodière, une pièce de théâtre improvisée, la chanson de Max Boublil pour Nicolas Sarkozy et Carla Bruni... Retrouvez dans ce podcast le meilleur de l'émission du 18 novembre 2025.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podca...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>14:55</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/7596ec2e-9b6c-4cb9-a6e3-56f4c736ebbb.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/7596ec2e-9b6c-4cb9-a6e3-56f4c736ebbb.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/oYYwOqN</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
