@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Tue, 02 Dec 2025 17:01:48 GMT</lastBuildDate>
-    <pubDate>Tue, 02 Dec 2025 17:01:48 GMT</pubDate>
+    <lastBuildDate>Tue, 02 Dec 2025 17:55:38 GMT</lastBuildDate>
+    <pubDate>Tue, 02 Dec 2025 17:55:38 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -2897,44 +2897,6 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <ns2:image href="https://static.audiomeans.fr/img/episode/c90ed8dd-723f-44af-b669-7906c852b38a.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/HXZuvsG</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>IMITATIONS - Les Simpsons, Attal, Mike Horn... L'actualité vue par Marc-Antoine Le Bret</title>
-      <guid isPermaLink="false">3f461af4-7a7f-4c9b-a3ab-dd7d6af6e2fa</guid>
-      <description>Dans l'émission du 20 novembre, Marc-Antoine Le Bret a imité les Simpsons, Jack Lang, Gabriel Attal, Mike Horne et Raphaël Quenard.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Dans l'émission du 20 novembre, Marc-Antoine Le Bret a imité les Simpsons, Jack Lang, Gabriel Attal, Mike Horne et Raphaël Quenard.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Thu, 20 Nov 2025 16:52:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/3f461af4-7a7f-4c9b-a3ab-dd7d6af6e2fa.mp3?_=1763653682" length="4248130" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Dans l'émission du 20 novembre, Marc-Antoine Le Bret a imité les Simpsons, Jack Lang, Gabriel Attal, Mike Horne et Raphaël Quenard.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Dans l'émission du 20 novembre, Marc-Antoine Le Bret a imité les Simpsons, Jack Lang, Gabriel Attal, Mike Horne et Raphaël Quenard.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Dans l'émission du 20 novembre, Marc-Antoine Le Bret a imité les Simpsons, Jack Lang, Gabriel Attal, Mike Horne et Raphaël Quenard.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. ...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>04:25</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/08bfd501-802e-4cc2-9832-2c6326fc123b.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/08bfd501-802e-4cc2-9832-2c6326fc123b.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/LsZAOMH</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
