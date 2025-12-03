@@ -7,8 +7,8 @@
     <description>Tous les épisodes de L'Intégrale de 'Les Grosses Têtes', regroupant la diffusion complète sans coupures ni extras.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Wed, 03 Dec 2025 08:38:21 GMT</lastBuildDate>
-    <pubDate>Wed, 03 Dec 2025 08:38:21 GMT</pubDate>
+    <lastBuildDate>Wed, 03 Dec 2025 09:01:00 GMT</lastBuildDate>
+    <pubDate>Wed, 03 Dec 2025 09:01:00 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -49,7 +49,7 @@
 
 &lt;i&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/i&gt;
 &lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Tue, 02 Dec 2025 17:00:00 GMT</pubDate>
+      <pubDate>Tue, 02 Dec 2025 17:02:00 GMT</pubDate>
       <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/1aa87d78-8fcf-44a2-a337-a32b769bbda1.mp3?_=1764695322" length="102824449" type="audio/mpeg" />
       <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
       <itunes:summary>Avec Olivier de Kersauson, Darie Boutboul, Gaël Tchakalofff, Valérie Mairesse, François Alu et Bernard Mabille.  
@@ -72,8 +72,8 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <itunes:block>no</itunes:block>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>01:47:06</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/d5c990b7-42b1-49db-9ea2-f282dfb9174d.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/d5c990b7-42b1-49db-9ea2-f282dfb9174d.jpg" />
+      <itunes:image href="https://static.audiomeans.fr/img/episode/80c87bbf-35e9-47e7-acb7-7bcf5be8ac1d.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/80c87bbf-35e9-47e7-acb7-7bcf5be8ac1d.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/mIiEbqW</ns3:txt>
       <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes,intégral</itunes:keywords>
