@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Thu, 04 Dec 2025 13:58:59 GMT</lastBuildDate>
-    <pubDate>Thu, 04 Dec 2025 13:58:59 GMT</pubDate>
+    <lastBuildDate>Thu, 04 Dec 2025 14:33:51 GMT</lastBuildDate>
+    <pubDate>Thu, 04 Dec 2025 14:33:51 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,43 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/vdAhbmg</ns3:txt>
+    <item>
+      <title>INÉDIT - "Je me suis bien marré" : Olivier de Kersauson se confie après son retour dans l'émission</title>
+      <guid isPermaLink="false">7a5aed20-0753-4846-98e4-b1197b41293b</guid>
+      <description>Présent dans l'émission cette semaine, Olivier de Kersauson s'est confié au micro de Rachel Azria. Projets, regrets, potentiel retour... L'Amiral se raconte, à sa façon !
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Présent dans l'émission cette semaine, Olivier de Kersauson s'est confié au micro de Rachel Azria. Projets, regrets, potentiel retour... L'Amiral se raconte, à sa façon !
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Thu, 04 Dec 2025 13:50:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/7a5aed20-0753-4846-98e4-b1197b41293b.mp3?_=1764781657" length="8610861" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Présent dans l'émission cette semaine, Olivier de Kersauson s'est confié au micro de Rachel Azria. Projets, regrets, potentiel retour... L'Amiral se raconte, à sa façon !
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Présent dans l'émission cette semaine, Olivier de Kersauson s'est confié au micro de Rachel Azria. Projets, regrets, potentiel retour... L'Amiral se raconte, à sa façon !
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Présent dans l'émission cette semaine, Olivier de Kersauson s'est confié au micro de Rachel Azria. Projets, regrets, potentiel retour... L'Amiral se raconte, à sa façon !
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>08:58</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/a7c2b1b1-8076-4788-9bff-fc49f0822bb7.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/a7c2b1b1-8076-4788-9bff-fc49f0822bb7.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/OKjAsLq</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>BLAGUE - Les histoires drôles du 4 décembre 2025</title>
       <guid isPermaLink="false">27ccc98e-4b66-4b95-9547-d5a33e5616eb</guid>
@@ -73,43 +110,6 @@ Tous les jours, en podcast, retrouvez une compilation des meilleures...</itunes:
       <ns2:image href="https://static.audiomeans.fr/img/episode/7457c4b7-abfd-45c8-8291-c25ed80c206c.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/VdCdEeK</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>INÉDIT - "Je me suis bien marré" : Olivier de Kersauson se confie après son retour dans l'émission</title>
-      <guid isPermaLink="false">7a5aed20-0753-4846-98e4-b1197b41293b</guid>
-      <description>Présent dans l'émission cette semaine, Olivier de Kersauson s'est confié au micro de Rachel Azria. Projets, regrets, potentiel retour... L'Amiral se raconte, à sa façon !
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Présent dans l'émission cette semaine, Olivier de Kersauson s'est confié au micro de Rachel Azria. Projets, regrets, potentiel retour... L'Amiral se raconte, à sa façon !
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Thu, 04 Dec 2025 04:00:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/7a5aed20-0753-4846-98e4-b1197b41293b.mp3?_=1764781657" length="8610861" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Présent dans l'émission cette semaine, Olivier de Kersauson s'est confié au micro de Rachel Azria. Projets, regrets, potentiel retour... L'Amiral se raconte, à sa façon !
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Présent dans l'émission cette semaine, Olivier de Kersauson s'est confié au micro de Rachel Azria. Projets, regrets, potentiel retour... L'Amiral se raconte, à sa façon !
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Présent dans l'émission cette semaine, Olivier de Kersauson s'est confié au micro de Rachel Azria. Projets, regrets, potentiel retour... L'Amiral se raconte, à sa façon !
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>08:58</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/04b3f54c-ff97-4c37-aadb-de3494c1228c.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/04b3f54c-ff97-4c37-aadb-de3494c1228c.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/OKjAsLq</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
@@ -246,8 +246,8 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <itunes:block>no</itunes:block>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>06:52</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/ebd26fa5-ecb5-4b59-aeef-8c5fba77db50.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/ebd26fa5-ecb5-4b59-aeef-8c5fba77db50.jpg" />
+      <itunes:image href="https://static.audiomeans.fr/img/episode/350b5e50-3672-4f4b-8d8e-0e6b3b303869.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/350b5e50-3672-4f4b-8d8e-0e6b3b303869.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/nivebzq</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
