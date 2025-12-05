@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Fri, 05 Dec 2025 17:53:20 GMT</lastBuildDate>
-    <pubDate>Fri, 05 Dec 2025 17:53:20 GMT</pubDate>
+    <lastBuildDate>Fri, 05 Dec 2025 18:35:43 GMT</lastBuildDate>
+    <pubDate>Fri, 05 Dec 2025 18:35:43 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -72,6 +72,7 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <itunes:image href="https://static.audiomeans.fr/img/episode/7dd5cdc0-5646-4bf7-be6d-c5ff9d00fdda.jpg" />
       <ns2:image href="https://static.audiomeans.fr/img/episode/7dd5cdc0-5646-4bf7-be6d-c5ff9d00fdda.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/sloCCKX</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
@@ -109,6 +110,7 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <itunes:image href="https://static.audiomeans.fr/img/episode/af687b9c-03cf-4ae4-a498-84ab73f8bc07.jpg" />
       <ns2:image href="https://static.audiomeans.fr/img/episode/af687b9c-03cf-4ae4-a498-84ab73f8bc07.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/todYpSs</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
@@ -146,6 +148,7 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <itunes:image href="https://static.audiomeans.fr/img/episode/014d1015-5fcf-4bc8-938e-ca5a14f87492.jpg" />
       <ns2:image href="https://static.audiomeans.fr/img/episode/014d1015-5fcf-4bc8-938e-ca5a14f87492.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/KfkqINK</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
