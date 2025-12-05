@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Fri, 05 Dec 2025 16:35:07 GMT</lastBuildDate>
-    <pubDate>Fri, 05 Dec 2025 16:35:07 GMT</pubDate>
+    <lastBuildDate>Fri, 05 Dec 2025 16:58:05 GMT</lastBuildDate>
+    <pubDate>Fri, 05 Dec 2025 16:58:05 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,111 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/vdAhbmg</ns3:txt>
+    <item>
+      <title>PÉPITE - Les Grosses Têtes répondent aux auditeurs</title>
+      <guid isPermaLink="false">954a1cb6-54b0-4651-8dda-3374c3524694</guid>
+      <description>Plaintes, compliments, interrogations... Cette saison encore, les Grosses Têtes répondent aux différentes questions et messages des auditeurs à l'antenne.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Plaintes, compliments, interrogations... Cette saison encore, les Grosses Têtes répondent aux différentes questions et messages des auditeurs à l'antenne.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Fri, 05 Dec 2025 16:57:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/954a1cb6-54b0-4651-8dda-3374c3524694.mp3?_=1764944582" length="6892948" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Plaintes, compliments, interrogations... Cette saison encore, les Grosses Têtes répondent aux différentes questions et messages des auditeurs à l'antenne.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Plaintes, compliments, interrogations... Cette saison encore, les Grosses Têtes répondent aux différentes questions et messages des auditeurs à l'antenne.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Plaintes, compliments, interrogations... Cette saison encore, les Grosses Têtes répondent aux différentes questions et messages des auditeurs à l'antenne.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ H...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>07:10</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/ec85ee0c-debd-4d61-84a3-2b57487de83f.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/ec85ee0c-debd-4d61-84a3-2b57487de83f.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/VfPHbZL</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
+    <item>
+      <title>FAKE NEWS - Vendredi 5 décembre 2025</title>
+      <guid isPermaLink="false">02fcb6bb-bec4-4feb-8fe9-82b5896987ad</guid>
+      <description>Et vous, saurez-vous démêler le vrai du faux ?
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Et vous, saurez-vous démêler le vrai du faux ?
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Fri, 05 Dec 2025 16:55:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/02fcb6bb-bec4-4feb-8fe9-82b5896987ad.mp3?_=1764944581" length="6006210" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Et vous, saurez-vous démêler le vrai du faux ?
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Et vous, saurez-vous démêler le vrai du faux ?
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Et vous, saurez-vous démêler le vrai du faux ?
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>06:15</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/00aa8246-5f70-4766-a961-b65c00582337.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/00aa8246-5f70-4766-a961-b65c00582337.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/cYbiMSH</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
+    <item>
+      <title>IMITATIONS - Macron, de La Villardière, Cluzet... L'actualité vue par Marc-Antoine Le Bret</title>
+      <guid isPermaLink="false">0794dfe8-ac85-4504-b9f8-e7cc37d7985d</guid>
+      <description>Dans l'émission du 5 décembre, Marc-Antoine Le Bret a imité Emmanuel Macron, Bernard de La Villardière, François Cluzet, François Bayrou et Philippe Montagné.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Dans l'émission du 5 décembre, Marc-Antoine Le Bret a imité Emmanuel Macron, Bernard de La Villardière, François Cluzet, François Bayrou et Philippe Montagné.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Fri, 05 Dec 2025 16:52:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/0794dfe8-ac85-4504-b9f8-e7cc37d7985d.mp3?_=1764952082" length="4699588" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Dans l'émission du 5 décembre, Marc-Antoine Le Bret a imité Emmanuel Macron, Bernard de La Villardière, François Cluzet, François Bayrou et Philippe Montagné.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Dans l'émission du 5 décembre, Marc-Antoine Le Bret a imité Emmanuel Macron, Bernard de La Villardière, François Cluzet, François Bayrou et Philippe Montagné.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Dans l'émission du 5 décembre, Marc-Antoine Le Bret a imité Emmanuel Macron, Bernard de La Villardière, François Cluzet, François Bayrou et Philippe Montagné.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>04:53</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/00871a80-2c9a-4894-af15-2b5a7d03fcaf.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/00871a80-2c9a-4894-af15-2b5a7d03fcaf.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>INÉDIT - Côté coulisses : Claudio Capeo se confie avant l'émission</title>
       <guid isPermaLink="false">cb00f455-5203-4d45-b290-23415914858d</guid>
@@ -2866,66 +2971,6 @@ Tous les jours, en podcast, re...</itunes:subtitle>
       <ns2:image href="https://static.audiomeans.fr/img/episode/baee5c63-ffe4-45de-af4d-c5ad7670280f.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/cFOWtvO</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>INÉDIT - Qui se cache derrière l'anecdote ? L'enquête de S. Bugsy et J. Ferrari</title>
-      <guid isPermaLink="false">f5230b00-acf2-477c-94d8-3967750022bb</guid>
-      <description>Dans ce nouveau podcast, les Grosses Têtes doivent deviner à qui appartiennent les anecdotes qu'elles entendent avec des voix trafiquées ! Pour cet épisode, c'est Stomy Bugsy et Jérémy Ferrari qui mènent l'enquête !
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Dans ce nouveau podcast, les Grosses Têtes doivent deviner à qui appartiennent les anecdotes qu'elles entendent avec des voix trafiquées ! Pour cet épisode, c'est Stomy Bugsy et Jérémy Ferrari qui mènent l'enquête !
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Mon, 24 Nov 2025 05:00:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/f5230b00-acf2-477c-94d8-3967750022bb.mp3?_=1760351884" length="3253944" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Dans ce nouveau podcast, les Grosses Têtes doivent deviner à qui appartiennent les anecdotes qu'elles entendent avec des voix trafiquées ! Pour cet épisode, c'est Stomy Bugsy et Jérémy Ferrari qui mènent l'enquête !
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Dans ce nouveau podcast, les Grosses Têtes doivent deviner à qui appartiennent les anecdotes qu'elles entendent avec des voix trafiquées ! Pour cet épisode, c'est Stomy Bugsy et Jérémy Ferrari qui mènent l'enquête !
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Sara Kemacha</itunes:author>
-      <author>Sara Kemacha</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Dans ce nouveau podcast, les Grosses Têtes doivent deviner à qui appartiennent les anecdotes qu'elles entendent avec des voix trafiquées ! Pour cet épisode, c'est Stomy Bugsy et Jérémy Ferrari qui mènent l'enquête !
-Retrouvez tous les jours le meilleur des Grosses...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>03:23</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/3d429728-c2e9-4f4c-b403-96005e426a1c.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/3d429728-c2e9-4f4c-b403-96005e426a1c.jpg" />
-      <ns3:person role="host">Sara Kemacha</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/BCboQrQ</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>ARCHIVE - La blague de Carlos</title>
-      <guid isPermaLink="false">ccfb9162-7ff4-457d-ba87-f4de4c178835</guid>
-      <description>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Mon, 24 Nov 2025 01:00:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/ccfb9162-7ff4-457d-ba87-f4de4c178835.mp3?_=1763742482" length="1975070" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !
- Hébergé par Audiomeans. Visitez </itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>02:03</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/0189e057-5c43-48d0-bf42-6c1730cb3477.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/0189e057-5c43-48d0-bf42-6c1730cb3477.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/zisASgD</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
