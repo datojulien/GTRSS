@@ -7,8 +7,8 @@
     <description>Tous les épisodes de L'Intégrale de 'Les Grosses Têtes', regroupant la diffusion complète sans coupures ni extras.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Fri, 05 Dec 2025 16:58:05 GMT</lastBuildDate>
-    <pubDate>Fri, 05 Dec 2025 16:58:05 GMT</pubDate>
+    <lastBuildDate>Fri, 05 Dec 2025 17:28:24 GMT</lastBuildDate>
+    <pubDate>Fri, 05 Dec 2025 17:28:24 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,44 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/vdAhbmg</ns3:txt>
+    <item>
+      <title>L'INTÉGRALE - Émission du vendredi 5 décembre 2025</title>
+      <guid isPermaLink="false">045264bf-160b-4c44-9fd8-9f67d27a48fb</guid>
+      <description>Avec Michèle Bernier, Liane Foly, Franck Ferrand, Alexis Tramoni, Max Boublil et Sébastien Thoen.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Avec Michèle Bernier, Liane Foly, Franck Ferrand, Alexis Tramoni, Max Boublil et Sébastien Thoen.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Fri, 05 Dec 2025 17:02:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/045264bf-160b-4c44-9fd8-9f67d27a48fb.mp3?_=1764949692" length="102300376" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Avec Michèle Bernier, Liane Foly, Franck Ferrand, Alexis Tramoni, Max Boublil et Sébastien Thoen.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Avec Michèle Bernier, Liane Foly, Franck Ferrand, Alexis Tramoni, Max Boublil et Sébastien Thoen.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Avec Michèle Bernier, Liane Foly, Franck Ferrand, Alexis Tramoni, Max Boublil et Sébastien Thoen.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez </itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>01:46:33</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/949d3703-2da4-475a-bc11-c1de9a53ca36.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/949d3703-2da4-475a-bc11-c1de9a53ca36.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/tVGitaX</ns3:txt>
+      <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes,intégral</itunes:keywords>
+    </item>
     <item>
       <title>L'INTÉGRALE - Émission du jeudi 4 décembre 2025</title>
       <guid isPermaLink="false">7bee902b-1a72-45b6-912a-9e57931f5bf6</guid>
