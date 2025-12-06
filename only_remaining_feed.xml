@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Sat, 06 Dec 2025 09:53:09 GMT</lastBuildDate>
-    <pubDate>Sat, 06 Dec 2025 09:53:09 GMT</pubDate>
+    <lastBuildDate>Sat, 06 Dec 2025 10:26:27 GMT</lastBuildDate>
+    <pubDate>Sat, 06 Dec 2025 10:26:27 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,43 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/vdAhbmg</ns3:txt>
+    <item>
+      <title>BLAGUE - Les histoires drôles du 5 décembre 2025</title>
+      <guid isPermaLink="false">d99f9ebf-0a54-413b-8857-af02974740a8</guid>
+      <description>En Belgique les secours cherchent des survivants après l'effondrement d'un immeuble, un jeune homme décide de se marier avec sa copine croyante, et un collégien rentre d'une visite de ferme... Découvrez les 3 histoires drôles du jour !
+
+&lt;i&gt;Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>En Belgique les secours cherchent des survivants après l'effondrement d'un immeuble, un jeune homme décide de se marier avec sa copine croyante, et un collégien rentre d'une visite de ferme... Découvrez les 3 histoires drôles du jour !
+
+&lt;i&gt;Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Sat, 06 Dec 2025 10:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/d99f9ebf-0a54-413b-8857-af02974740a8.mp3?_=1764950281" length="2416365" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>En Belgique les secours cherchent des survivants après l'effondrement d'un immeuble, un jeune homme décide de se marier avec sa copine croyante, et un collégien rentre d'une visite de ferme... Découvrez les 3 histoires drôles du jour !
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>En Belgique les secours cherchent des survivants après l'effondrement d'un immeuble, un jeune homme décide de se marier avec sa copine croyante, et un collégien rentre d'une visite de ferme... Découvrez les 3 histoires drôles du jour !
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>En Belgique les secours cherchent des survivants après l'effondrement d'un immeuble, un jeune homme décide de se marier avec sa copine croyante, et un collégien rentre d'une visite de ferme... Découvrez les 3 histoires drôles du jour !
+
+Tous les jours, en podcas...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>02:30</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/8db106b9-79b7-45a9-b79c-d90ba7adc6e5.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/8db106b9-79b7-45a9-b79c-d90ba7adc6e5.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/GNTnKxz</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>ARCHIVE - Jean Yanne, "100 ans de conneries" : le point sur le monde</title>
       <guid isPermaLink="false">bc0fbf50-2249-44d9-947d-d46b3998169f</guid>
