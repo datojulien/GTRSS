@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Tue, 09 Dec 2025 16:35:42 GMT</lastBuildDate>
-    <pubDate>Tue, 09 Dec 2025 16:35:42 GMT</pubDate>
+    <lastBuildDate>Tue, 09 Dec 2025 17:00:49 GMT</lastBuildDate>
+    <pubDate>Tue, 09 Dec 2025 17:00:49 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,72 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/vdAhbmg</ns3:txt>
+    <item>
+      <title>FAKE NEWS - Mardi 9 décembre 2025</title>
+      <guid isPermaLink="false">d80bf28e-2abd-41b2-b3f7-4c550d62049c</guid>
+      <description>Et vous, saurez-vous démêler le vrai du faux ?
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Et vous, saurez-vous démêler le vrai du faux ?
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Tue, 09 Dec 2025 16:55:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/d80bf28e-2abd-41b2-b3f7-4c550d62049c.mp3?_=1765286881" length="6679954" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Et vous, saurez-vous démêler le vrai du faux ?
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Et vous, saurez-vous démêler le vrai du faux ?
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Et vous, saurez-vous démêler le vrai du faux ?
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>06:57</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/d39d8eec-b613-41b5-8385-28ca57525f47.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/d39d8eec-b613-41b5-8385-28ca57525f47.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/pIPEIrY</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
+    <item>
+      <title>IMITATIONS - Macron, Bern, Damiens... L'actualité vue par Marc-Antoine Le Bret</title>
+      <guid isPermaLink="false">03cef331-f3ae-49dc-b992-1e0fcc369ab8</guid>
+      <description>Dans l'émission du 9 décembre, Marc-Antoine Le Bret a imité François Damiens, Stéphane Bern et Emmanuel Macron.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Dans l'émission du 9 décembre, Marc-Antoine Le Bret a imité François Damiens, Stéphane Bern et Emmanuel Macron.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Tue, 09 Dec 2025 16:52:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/03cef331-f3ae-49dc-b992-1e0fcc369ab8.mp3?_=1765293180" length="2981236" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Dans l'émission du 9 décembre, Marc-Antoine Le Bret a imité François Damiens, Stéphane Bern et Emmanuel Macron.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Dans l'émission du 9 décembre, Marc-Antoine Le Bret a imité François Damiens, Stéphane Bern et Emmanuel Macron.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Dans l'émission du 9 décembre, Marc-Antoine Le Bret a imité François Damiens, Stéphane Bern et Emmanuel Macron.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez </itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>03:06</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/c68278b0-f3a3-4e40-8510-0a5a33cdb038.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/c68278b0-f3a3-4e40-8510-0a5a33cdb038.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/kRcpolY</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>INÉDIT - Côté coulisses : Thomas Dutronc se confie avant l'émission</title>
       <guid isPermaLink="false">64c9916d-bf12-4f61-81f5-516666ebd135</guid>
@@ -2833,76 +2899,6 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <ns2:image href="https://static.audiomeans.fr/img/episode/a193c001-237f-419c-8fa4-e3f65b895a5b.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/UxypUwt</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>IMITATIONS - Sarkozy, Le Pen, Cymes... Marc-Antoine Le Bret face à Jeff Panacloc</title>
-      <guid isPermaLink="false">645e25bf-8834-4d45-a373-60007decdd4f</guid>
-      <description>Dans l'émission du 27 novembre, Marc-Antoine Le Bret a imité Nicolas Sarkozy, Jean-Marc, Michel Cymes, Marine Le Pen et François Lenglet.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Dans l'émission du 27 novembre, Marc-Antoine Le Bret a imité Nicolas Sarkozy, Jean-Marc, Michel Cymes, Marine Le Pen et François Lenglet.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Thu, 27 Nov 2025 16:52:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/645e25bf-8834-4d45-a373-60007decdd4f.mp3?_=1764263281" length="3334887" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Dans l'émission du 27 novembre, Marc-Antoine Le Bret a imité Nicolas Sarkozy, Jean-Marc, Michel Cymes, Marine Le Pen et François Lenglet.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Dans l'émission du 27 novembre, Marc-Antoine Le Bret a imité Nicolas Sarkozy, Jean-Marc, Michel Cymes, Marine Le Pen et François Lenglet.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Dans l'émission du 27 novembre, Marc-Antoine Le Bret a imité Nicolas Sarkozy, Jean-Marc, Michel Cymes, Marine Le Pen et François Lenglet.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiom...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>03:28</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/f766e638-e126-4427-8820-3c664e8f3d0a.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/f766e638-e126-4427-8820-3c664e8f3d0a.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/QogdAlM</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>BLAGUE - Les histoires drôles du 27 novembre 2025</title>
-      <guid isPermaLink="false">17d96f38-9389-4c5a-adfe-ae1a7026c6a0</guid>
-      <description>Un médecin annonce une mauvaise nouvelle à son patient qui est un vieux paysan, un éléphant demande à un chameau "pourquoi t'as des nichons dans le dos ?", et un homme achète un perroquet gay en couple avec un hibou... Découvrez les 3 histoires drôles du jour !
-
-&lt;i&gt;Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Un médecin annonce une mauvaise nouvelle à son patient qui est un vieux paysan, un éléphant demande à un chameau "pourquoi t'as des nichons dans le dos ?", et un homme achète un perroquet gay en couple avec un hibou... Découvrez les 3 histoires drôles du jour !
-
-&lt;i&gt;Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Thu, 27 Nov 2025 10:00:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/17d96f38-9389-4c5a-adfe-ae1a7026c6a0.mp3?_=1764175987" length="1837963" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Un médecin annonce une mauvaise nouvelle à son patient qui est un vieux paysan, un éléphant demande à un chameau "pourquoi t'as des nichons dans le dos ?", et un homme achète un perroquet gay en couple avec un hibou... Découvrez les 3 histoires drôles du jour !
-
-Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Un médecin annonce une mauvaise nouvelle à son patient qui est un vieux paysan, un éléphant demande à un chameau "pourquoi t'as des nichons dans le dos ?", et un homme achète un perroquet gay en couple avec un hibou... Découvrez les 3 histoires drôles du jour !
-
-Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Un médecin annonce une mauvaise nouvelle à son patient qui est un vieux paysan, un éléphant demande à un chameau "pourquoi t'as des nichons dans le dos ?", et un homme achète un perroquet gay en couple avec un hibou... Découvrez les 3 histoires drôles du jour !
-
-</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>01:54</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/20cb349b-ccc2-443b-826c-f7adfdf823be.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/20cb349b-ccc2-443b-826c-f7adfdf823be.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/lnTEWxW</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
