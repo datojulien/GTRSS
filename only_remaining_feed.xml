@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Thu, 11 Dec 2025 14:00:13 GMT</lastBuildDate>
-    <pubDate>Thu, 11 Dec 2025 14:00:13 GMT</pubDate>
+    <lastBuildDate>Thu, 11 Dec 2025 14:56:26 GMT</lastBuildDate>
+    <pubDate>Thu, 11 Dec 2025 14:56:26 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -58,8 +58,8 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
 Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
  Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
  </ns2:description>
-      <itunes:author>RTL</itunes:author>
-      <author>RTL</author>
+      <itunes:author>Julien Bonneau</itunes:author>
+      <author>Julien Bonneau</author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:subtitle>Dans ce podcast inédit, Daniel Lavoie se confie au micro de RTL avant son passage dans l'émission ! L'occasion d'en apprendre un peu plus sur lui, sur ses projets et sur ses souvenirs de l'émission "Les Grosses Têtes".
 
@@ -67,8 +67,10 @@ Retrouvez tous les jours le meilleur des ...</itunes:subtitle>
       <itunes:block>no</itunes:block>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>04:45</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/f3d4bfb4-b8aa-4f86-a8d3-459089f5b83b.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/f3d4bfb4-b8aa-4f86-a8d3-459089f5b83b.jpg" />
+      <itunes:image href="https://static.audiomeans.fr/img/episode/24e661ad-7171-4fdd-9617-6865fdef1de0.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/24e661ad-7171-4fdd-9617-6865fdef1de0.jpg" />
+      <ns3:person role="host">Julien Bonneau</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/FYbOHdA</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
