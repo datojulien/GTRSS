@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Fri, 12 Dec 2025 23:53:19 GMT</lastBuildDate>
-    <pubDate>Fri, 12 Dec 2025 23:53:19 GMT</pubDate>
+    <lastBuildDate>Sat, 13 Dec 2025 02:02:56 GMT</lastBuildDate>
+    <pubDate>Sat, 13 Dec 2025 02:02:56 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,34 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/vdAhbmg</ns3:txt>
+    <item>
+      <title>ARCHIVE - La blague de Jean-Jacques Peroni</title>
+      <guid isPermaLink="false">a6a5229b-7dd4-42ab-9ab6-906752e4423a</guid>
+      <description>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Sat, 13 Dec 2025 01:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/a6a5229b-7dd4-42ab-9ab6-906752e4423a.mp3?_=1764951188" length="943977" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !
+ Hébergé par Audiomeans. Visitez </itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:58</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/d6929074-04fc-4840-a258-0c9035a06d55.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/d6929074-04fc-4840-a258-0c9035a06d55.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/VxINyju</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>PÉPITE - Le meilleur de l'émission du 12 décembre 2025</title>
       <guid isPermaLink="false">1938f04d-f411-481f-9332-f5ce01118b7d</guid>
@@ -2817,38 +2845,6 @@ Tous les jours, en podcast, retrouvez une compilation des meilleures blagu...</i
       <ns2:image href="https://static.audiomeans.fr/img/episode/54ae267e-4a07-4b38-8c6a-7c4df30cdc52.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/QGiYsMl</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>PÉPITE - Le meilleur de l'émission du 1er décembre 2025</title>
-      <guid isPermaLink="false">4d03109d-3bf4-4b29-92a9-21162ee1ad4d</guid>
-      <description>Alexis Le Rossignol invité de l'émission, le grand retour d'Olivier de Kersauson, des nouvelles du couple Bucella/Diament... Retrouvez dans ce podcast le meilleur de l'émission du 1er décembre 2025.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Alexis Le Rossignol invité de l'émission, le grand retour d'Olivier de Kersauson, des nouvelles du couple Bucella/Diament... Retrouvez dans ce podcast le meilleur de l'émission du 1er décembre 2025.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Mon, 01 Dec 2025 16:59:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/4d03109d-3bf4-4b29-92a9-21162ee1ad4d.mp3?_=1764600782" length="18772281" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Alexis Le Rossignol invité de l'émission, le grand retour d'Olivier de Kersauson, des nouvelles du couple Bucella/Diament... Retrouvez dans ce podcast le meilleur de l'émission du 1er décembre 2025.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Alexis Le Rossignol invité de l'émission, le grand retour d'Olivier de Kersauson, des nouvelles du couple Bucella/Diament... Retrouvez dans ce podcast le meilleur de l'émission du 1er décembre 2025.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Alexis Le Rossignol invité de l'émission, le grand retour d'Olivier de Kersauson, des nouvelles du couple Bucella/Diament... Retrouvez dans ce podcast le meilleur de l'émission du 1er décembre 2025.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>19:33</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/45c999c2-8b1c-43ad-99db-c0e8d409d352.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/45c999c2-8b1c-43ad-99db-c0e8d409d352.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/GznOgoA</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
