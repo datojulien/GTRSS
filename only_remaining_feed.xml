@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Sat, 13 Dec 2025 09:53:22 GMT</lastBuildDate>
-    <pubDate>Sat, 13 Dec 2025 09:53:22 GMT</pubDate>
+    <lastBuildDate>Sat, 13 Dec 2025 10:26:36 GMT</lastBuildDate>
+    <pubDate>Sat, 13 Dec 2025 10:26:36 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,45 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/vdAhbmg</ns3:txt>
+    <item>
+      <title>BLAGUE - Les histoires drôles du 13 décembre 2025</title>
+      <guid isPermaLink="false">75ea5ae7-41b3-4ef4-924d-7a326b68e5db</guid>
+      <description>10 Belges sautent sur un mur, après 4 années de solitude un naufragé parvient à rejoindre une autre île et un jeune avocat vient d'ouvrir son cabinet... Découvrez les 3 histoires drôles du jour !
+
+&lt;i&gt;Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;/i&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>10 Belges sautent sur un mur, après 4 années de solitude un naufragé parvient à rejoindre une autre île et un jeune avocat vient d'ouvrir son cabinet... Découvrez les 3 histoires drôles du jour !
+
+&lt;i&gt;Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;/i&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Sat, 13 Dec 2025 10:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/75ea5ae7-41b3-4ef4-924d-7a326b68e5db.mp3?_=1765555980" length="1985789" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>10 Belges sautent sur un mur, après 4 années de solitude un naufragé parvient à rejoindre une autre île et un jeune avocat vient d'ouvrir son cabinet... Découvrez les 3 histoires drôles du jour !
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>10 Belges sautent sur un mur, après 4 années de solitude un naufragé parvient à rejoindre une autre île et un jeune avocat vient d'ouvrir son cabinet... Découvrez les 3 histoires drôles du jour !
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>10 Belges sautent sur un mur, après 4 années de solitude un naufragé parvient à rejoindre une autre île et un jeune avocat vient d'ouvrir son cabinet... Découvrez les 3 histoires drôles du jour !
+
+Tous les jours, en podcast, retrouvez une compilation des meilleu...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>02:04</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/7f2c2adc-d163-4947-8a42-be048c4146d4.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/7f2c2adc-d163-4947-8a42-be048c4146d4.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/iLPhHKl</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>ARCHIVE - Jean Yanne, "100 ans de conneries" : les drôles d'histoires des animaux</title>
       <guid isPermaLink="false">9cfdd052-3125-438a-ac13-4087edfa6f8e</guid>
