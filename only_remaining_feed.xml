@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Mon, 15 Dec 2025 17:13:56 GMT</lastBuildDate>
-    <pubDate>Mon, 15 Dec 2025 17:13:56 GMT</pubDate>
+    <lastBuildDate>Mon, 15 Dec 2025 17:56:23 GMT</lastBuildDate>
+    <pubDate>Mon, 15 Dec 2025 17:56:23 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -72,6 +72,7 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <itunes:image href="https://static.audiomeans.fr/img/episode/13c6b35d-a845-4946-b1d1-c9c4df40974b.jpg" />
       <ns2:image href="https://static.audiomeans.fr/img/episode/13c6b35d-a845-4946-b1d1-c9c4df40974b.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/QKAGxiO</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
@@ -114,6 +115,7 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <itunes:image href="https://static.audiomeans.fr/img/episode/dc9232e4-f826-4516-b4ff-78dfaf813237.jpg" />
       <ns2:image href="https://static.audiomeans.fr/img/episode/dc9232e4-f826-4516-b4ff-78dfaf813237.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/TdMNFAb</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
