@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Tue, 16 Dec 2025 13:46:50 GMT</lastBuildDate>
-    <pubDate>Tue, 16 Dec 2025 13:46:50 GMT</pubDate>
+    <lastBuildDate>Tue, 16 Dec 2025 14:32:31 GMT</lastBuildDate>
+    <pubDate>Tue, 16 Dec 2025 14:32:31 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -39,7 +39,7 @@
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/vdAhbmg</ns3:txt>
     <item>
-      <title>INÉDIT - Côté coulisses : Hélène in Paris se confie avant l"émission</title>
+      <title>INÉDIT - Côté coulisses : Hélène in Paris se confie avant l'émission</title>
       <guid isPermaLink="false">6caf3e47-676a-44db-8767-beff0ccae5cb</guid>
       <description>Dans ce podcast inédit, Hélène in Paris se confie au micro de RTL avant son passage dans l'émission ! L'occasion d'en apprendre un peu plus sur elle, sur ses projets et sur ses souvenirs de l'émission "Les Grosses Têtes".
 &lt;i&gt;&lt;/i&gt;
@@ -60,8 +60,8 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
 Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
  Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
  </ns2:description>
-      <itunes:author>RTL</itunes:author>
-      <author>RTL</author>
+      <itunes:author>Julien Bonneau</itunes:author>
+      <author>Julien Bonneau</author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:subtitle>Dans ce podcast inédit, Hélène in Paris se confie au micro de RTL avant son passage dans l'émission ! L'occasion d'en apprendre un peu plus sur elle, sur ses projets et sur ses souvenirs de l'émission "Les Grosses Têtes".
 
@@ -69,8 +69,9 @@ Retrouvez tous les jours le meil...</itunes:subtitle>
       <itunes:block>no</itunes:block>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>03:34</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/8f0c1dd7-9eeb-45f4-8607-bd5c2d44377e.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/8f0c1dd7-9eeb-45f4-8607-bd5c2d44377e.jpg" />
+      <itunes:image href="https://static.audiomeans.fr/img/episode/d4e2198b-decf-4293-9e3a-ce6e50c3e5b2.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/d4e2198b-decf-4293-9e3a-ce6e50c3e5b2.jpg" />
+      <ns3:person role="host">Julien Bonneau</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/BbAkwtj</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
@@ -1295,8 +1296,8 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <itunes:block>no</itunes:block>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>06:43</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/35b3b766-d6c0-4f00-8313-66f2f017b72b.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/35b3b766-d6c0-4f00-8313-66f2f017b72b.jpg" />
+      <itunes:image href="https://static.audiomeans.fr/img/episode/c52a4959-4e6b-4181-a567-fd770e6e889a.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/c52a4959-4e6b-4181-a567-fd770e6e889a.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/sGWpYPp</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
