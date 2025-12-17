@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Tue, 16 Dec 2025 23:52:55 GMT</lastBuildDate>
-    <pubDate>Tue, 16 Dec 2025 23:52:55 GMT</pubDate>
+    <lastBuildDate>Wed, 17 Dec 2025 02:05:34 GMT</lastBuildDate>
+    <pubDate>Wed, 17 Dec 2025 02:05:34 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,34 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/vdAhbmg</ns3:txt>
+    <item>
+      <title>ARCHIVE - La blague de Carlos</title>
+      <guid isPermaLink="false">ab6c2721-cb2d-4cdb-bc73-0b212ce8bcf8</guid>
+      <description>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Wed, 17 Dec 2025 01:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/ab6c2721-cb2d-4cdb-bc73-0b212ce8bcf8.mp3?_=1765556281" length="1037169" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !
+ Hébergé par Audiomeans. Visitez </itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>01:04</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/b9577c44-ee5f-4e6d-9211-0e5e898150d4.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/b9577c44-ee5f-4e6d-9211-0e5e898150d4.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/lkkDaAC</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>PÉPITE - Le meilleur de l'émission du mardi 16 décembre 2025</title>
       <guid isPermaLink="false">7de97b51-cd0d-47b0-a554-77299f36c38e</guid>
@@ -2807,43 +2835,6 @@ Retrouvez tous les jours le meilleur des Grosses T...</itunes:subtitle>
       <ns2:image href="https://static.audiomeans.fr/img/episode/771ea7d1-af55-44e7-891f-f4fe6ad6415d.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/FhKviIN</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>PÉPITE - Le meilleur de l'émission du 4 décembre 2025</title>
-      <guid isPermaLink="false">ddc4cc67-4a0b-4abb-acf9-8099830a307a</guid>
-      <description>Ines de La Fressange invitée exceptionnelle, son nouveau coup de cœur Yoann Riou, le discours de Az pour excuser son retard... Retrouvez dans ce podcast le meilleur de l'émission du 4 décembre 2025.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Ines de La Fressange invitée exceptionnelle, son nouveau coup de cœur Yoann Riou, le discours de Az pour excuser son retard... Retrouvez dans ce podcast le meilleur de l'émission du 4 décembre 2025.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Thu, 04 Dec 2025 16:59:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/ddc4cc67-4a0b-4abb-acf9-8099830a307a.mp3?_=1764862982" length="12397146" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Ines de La Fressange invitée exceptionnelle, son nouveau coup de cœur Yoann Riou, le discours de Az pour excuser son retard... Retrouvez dans ce podcast le meilleur de l'émission du 4 décembre 2025.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Ines de La Fressange invitée exceptionnelle, son nouveau coup de cœur Yoann Riou, le discours de Az pour excuser son retard... Retrouvez dans ce podcast le meilleur de l'émission du 4 décembre 2025.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Ines de La Fressange invitée exceptionnelle, son nouveau coup de cœur Yoann Riou, le discours de Az pour excuser son retard... Retrouvez dans ce podcast le meilleur de l'émission du 4 décembre 2025.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>12:54</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/f6c12732-a669-4f17-b78b-7fdb84f8ad72.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/f6c12732-a669-4f17-b78b-7fdb84f8ad72.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/JsCfLLu</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
