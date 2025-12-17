@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Wed, 17 Dec 2025 09:01:58 GMT</lastBuildDate>
-    <pubDate>Wed, 17 Dec 2025 09:01:58 GMT</pubDate>
+    <lastBuildDate>Wed, 17 Dec 2025 09:56:30 GMT</lastBuildDate>
+    <pubDate>Wed, 17 Dec 2025 09:56:30 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,43 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/vdAhbmg</ns3:txt>
+    <item>
+      <title>BLAGUE - Les histoires drôles du 17 décembre 2025</title>
+      <guid isPermaLink="false">24b1cfaa-8010-437b-abd9-65120e38d192</guid>
+      <description>Dans une ferme 50 poules décèdent sans raison, un psychiatre fait passer un test à 3 fous, et deux hommes tombent en panne au Maroc... Découvrez les 3 histoires drôles du jour !&amp;nbsp;
+
+&lt;i&gt;Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Dans une ferme 50 poules décèdent sans raison, un psychiatre fait passer un test à 3 fous, et deux hommes tombent en panne au Maroc... Découvrez les 3 histoires drôles du jour !&amp;nbsp;
+
+&lt;i&gt;Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Wed, 17 Dec 2025 10:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/24b1cfaa-8010-437b-abd9-65120e38d192.mp3?_=1765902181" length="2657843" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Dans une ferme 50 poules décèdent sans raison, un psychiatre fait passer un test à 3 fous, et deux hommes tombent en panne au Maroc... Découvrez les 3 histoires drôles du jour ! 
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Dans une ferme 50 poules décèdent sans raison, un psychiatre fait passer un test à 3 fous, et deux hommes tombent en panne au Maroc... Découvrez les 3 histoires drôles du jour ! 
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Dans une ferme 50 poules décèdent sans raison, un psychiatre fait passer un test à 3 fous, et deux hommes tombent en panne au Maroc... Découvrez les 3 histoires drôles du jour ! 
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues ...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>02:46</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/2b58f4c4-722e-491e-937d-ead95367a608.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/2b58f4c4-722e-491e-937d-ead95367a608.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/sntGRJo</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>ARCHIVE - La blague de Carlos</title>
       <guid isPermaLink="false">ab6c2721-cb2d-4cdb-bc73-0b212ce8bcf8</guid>
