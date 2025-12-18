@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Thu, 18 Dec 2025 17:02:20 GMT</lastBuildDate>
-    <pubDate>Thu, 18 Dec 2025 17:02:20 GMT</pubDate>
+    <lastBuildDate>Thu, 18 Dec 2025 17:56:10 GMT</lastBuildDate>
+    <pubDate>Thu, 18 Dec 2025 17:56:10 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,38 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/vdAhbmg</ns3:txt>
+    <item>
+      <title>PÉPITE - Le meilleur de l'émission du 18 décembre 2025</title>
+      <guid isPermaLink="false">f924d45e-8c53-4e44-bbc2-f362f6e50eeb</guid>
+      <description>Le retour d'Hector Obalk, Laurent Ruquier qui s'en va en pleine émission, Nicolas Sarkozy bientôt de retour en prison... Retrouvez dans ce podcast le meilleur de l'émission du jeudi 18 décembre 2025.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Le retour d'Hector Obalk, Laurent Ruquier qui s'en va en pleine émission, Nicolas Sarkozy bientôt de retour en prison... Retrouvez dans ce podcast le meilleur de l'émission du jeudi 18 décembre 2025.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Thu, 18 Dec 2025 16:59:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/f924d45e-8c53-4e44-bbc2-f362f6e50eeb.mp3?_=1766064783" length="16201414" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Le retour d'Hector Obalk, Laurent Ruquier qui s'en va en pleine émission, Nicolas Sarkozy bientôt de retour en prison... Retrouvez dans ce podcast le meilleur de l'émission du jeudi 18 décembre 2025.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Le retour d'Hector Obalk, Laurent Ruquier qui s'en va en pleine émission, Nicolas Sarkozy bientôt de retour en prison... Retrouvez dans ce podcast le meilleur de l'émission du jeudi 18 décembre 2025.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Le retour d'Hector Obalk, Laurent Ruquier qui s'en va en pleine émission, Nicolas Sarkozy bientôt de retour en prison... Retrouvez dans ce podcast le meilleur de l'émission du jeudi 18 décembre 2025.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcas...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>16:52</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/1210bbc3-76b5-4db6-95b3-c3566757574e.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/1210bbc3-76b5-4db6-95b3-c3566757574e.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/WLSEbAZ</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>PÉPITE - "Je m'en vais" : Laurent Ruquier quitte l'émission énervé par une réponse</title>
       <guid isPermaLink="false">8e056ec2-c3ea-4ec3-b1c0-0b639aa8d84d</guid>
@@ -2812,80 +2844,6 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <ns2:image href="https://static.audiomeans.fr/img/episode/e9b53415-b1d7-4415-a36c-4f91a5084098.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/SFVxnXx</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>BLAGUE - Les histoires drôles du 5 décembre 2025</title>
-      <guid isPermaLink="false">d99f9ebf-0a54-413b-8857-af02974740a8</guid>
-      <description>En Belgique les secours cherchent des survivants après l'effondrement d'un immeuble, un jeune homme décide de se marier avec sa copine croyante, et un collégien rentre d'une visite de ferme... Découvrez les 3 histoires drôles du jour !
-
-&lt;i&gt;Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>En Belgique les secours cherchent des survivants après l'effondrement d'un immeuble, un jeune homme décide de se marier avec sa copine croyante, et un collégien rentre d'une visite de ferme... Découvrez les 3 histoires drôles du jour !
-
-&lt;i&gt;Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Sat, 06 Dec 2025 10:00:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/d99f9ebf-0a54-413b-8857-af02974740a8.mp3?_=1764950281" length="2416365" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>En Belgique les secours cherchent des survivants après l'effondrement d'un immeuble, un jeune homme décide de se marier avec sa copine croyante, et un collégien rentre d'une visite de ferme... Découvrez les 3 histoires drôles du jour !
-
-Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>En Belgique les secours cherchent des survivants après l'effondrement d'un immeuble, un jeune homme décide de se marier avec sa copine croyante, et un collégien rentre d'une visite de ferme... Découvrez les 3 histoires drôles du jour !
-
-Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>En Belgique les secours cherchent des survivants après l'effondrement d'un immeuble, un jeune homme décide de se marier avec sa copine croyante, et un collégien rentre d'une visite de ferme... Découvrez les 3 histoires drôles du jour !
-
-Tous les jours, en podcas...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>02:30</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/8db106b9-79b7-45a9-b79c-d90ba7adc6e5.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/8db106b9-79b7-45a9-b79c-d90ba7adc6e5.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/GNTnKxz</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>ARCHIVE - Jean Yanne, "100 ans de conneries" : le point sur le monde</title>
-      <guid isPermaLink="false">bc0fbf50-2249-44d9-947d-d46b3998169f</guid>
-      <description>Jean Yanne avait une activité étonnante chez lui, il adorait 'faire le point' sur lui, sur le monde. Dans cette chronique, il raconte sa toute dernière introspection avant l'an 2000...&amp;nbsp;
-
-Chaque weekend en podcast, retrouvez "100 ans de conneries", par Jean Yanne. Pendant 4 mois, de septembre à décembre 1999, le sociétaire des "Grosses Têtes", tenait sur RTL une chronique quotidienne dans laquelle il faisait le bilan du siècle qui allait bientôt se terminer. Avec son humour féroce habituel, il s'est attaché à dénoncé la "connerie" humaine, vraie constante et révélatrice du XXème siècle.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Jean Yanne avait une activité étonnante chez lui, il adorait 'faire le point' sur lui, sur le monde. Dans cette chronique, il raconte sa toute dernière introspection avant l'an 2000...&amp;nbsp;
-
-Chaque weekend en podcast, retrouvez "100 ans de conneries", par Jean Yanne. Pendant 4 mois, de septembre à décembre 1999, le sociétaire des "Grosses Têtes", tenait sur RTL une chronique quotidienne dans laquelle il faisait le bilan du siècle qui allait bientôt se terminer. Avec son humour féroce habituel, il s'est attaché à dénoncé la "connerie" humaine, vraie constante et révélatrice du XXème siècle.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Sat, 06 Dec 2025 05:00:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/bc0fbf50-2249-44d9-947d-d46b3998169f.mp3?_=1764836880" length="2637520" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Jean Yanne avait une activité étonnante chez lui, il adorait 'faire le point' sur lui, sur le monde. Dans cette chronique, il raconte sa toute dernière introspection avant l'an 2000... 
-
-Chaque weekend en podcast, retrouvez "100 ans de conneries", par Jean Yanne. Pendant 4 mois, de septembre à décembre 1999, le sociétaire des "Grosses Têtes", tenait sur RTL une chronique quotidienne dans laquelle il faisait le bilan du siècle qui allait bientôt se terminer. Avec son humour féroce habituel, il s'est attaché à dénoncé la "connerie" humaine, vraie constante et révélatrice du XXème siècle.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Jean Yanne avait une activité étonnante chez lui, il adorait 'faire le point' sur lui, sur le monde. Dans cette chronique, il raconte sa toute dernière introspection avant l'an 2000... 
-
-Chaque weekend en podcast, retrouvez "100 ans de conneries", par Jean Yanne. Pendant 4 mois, de septembre à décembre 1999, le sociétaire des "Grosses Têtes", tenait sur RTL une chronique quotidienne dans laquelle il faisait le bilan du siècle qui allait bientôt se terminer. Avec son humour féroce habituel, il s'est attaché à dénoncé la "connerie" humaine, vraie constante et révélatrice du XXème siècle.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Jean Yanne avait une activité étonnante chez lui, il adorait 'faire le point' sur lui, sur le monde. Dans cette chronique, il raconte sa toute dernière introspection avant l'an 2000... 
-
-Chaque weekend en podcast, retrouvez "100 ans de conneries", par Jean Yan...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>02:44</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/e1b8d688-27f6-4985-b3cf-84d98b2949aa.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/e1b8d688-27f6-4985-b3cf-84d98b2949aa.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/iGwmXJN</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
