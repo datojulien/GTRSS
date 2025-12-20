@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Sat, 20 Dec 2025 17:22:06 GMT</lastBuildDate>
-    <pubDate>Sat, 20 Dec 2025 17:22:06 GMT</pubDate>
+    <lastBuildDate>Sat, 20 Dec 2025 17:53:18 GMT</lastBuildDate>
+    <pubDate>Sat, 20 Dec 2025 17:53:18 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,34 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/vdAhbmg</ns3:txt>
+    <item>
+      <title>Les Grosses Têtes du 20 décembre 2025</title>
+      <guid isPermaLink="false">b9ee444d-1132-4b17-ba48-c1e0e3cc54f5</guid>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Sat, 20 Dec 2025 17:36:16 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/b9ee444d-1132-4b17-ba48-c1e0e3cc54f5.mp3?_=1766252289" length="104386756" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>01:48:44</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/35ef6190-3dfd-4c2f-9ac6-2e39bc3c160e.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/35ef6190-3dfd-4c2f-9ac6-2e39bc3c160e.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <itunes:keywords>divertissement,humour,Laurent Ruquier,culture,intégral,replay intégral</itunes:keywords>
+    </item>
     <item>
       <title>BEST OF - Le meilleur de la semaine du 15 au 19 décembre 2025 (1/2)</title>
       <guid isPermaLink="false">cbc03598-08b8-4810-8227-0ddd82a1083a</guid>
@@ -2823,49 +2851,6 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <ns2:image href="https://static.audiomeans.fr/img/episode/151a978c-e153-472b-9938-064c12a5f544.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/oceNuRp</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>PÉPITE - Miss France 2026 : Sylvie Tellier réagit à la polémique des insultes</title>
-      <guid isPermaLink="false">7b1c0142-fd24-420f-bbc6-435a36fe139f</guid>
-      <description>Après la vidéo polémique diffusée par deux Miss lors du concours samedi dernier, Sylvie Tellier a réagit aux "Grosses Têtes"...
-
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Après la vidéo polémique diffusée par deux Miss lors du concours samedi dernier, Sylvie Tellier a réagit aux "Grosses Têtes"...
-
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Mon, 08 Dec 2025 16:58:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/7b1c0142-fd24-420f-bbc6-435a36fe139f.mp3?_=1765214580" length="4370148" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Après la vidéo polémique diffusée par deux Miss lors du concours samedi dernier, Sylvie Tellier a réagit aux "Grosses Têtes"...
-
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Après la vidéo polémique diffusée par deux Miss lors du concours samedi dernier, Sylvie Tellier a réagit aux "Grosses Têtes"...
-
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Après la vidéo polémique diffusée par deux Miss lors du concours samedi dernier, Sylvie Tellier a réagit aux "Grosses Têtes"...
-
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Vis...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>04:33</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/5ffdfb2e-1cbb-4d61-8b66-2cb97071c0ff.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/5ffdfb2e-1cbb-4d61-8b66-2cb97071c0ff.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/NNPbZMV</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
