@@ -7,8 +7,8 @@
     <description>Le Best Of : une sélection des moments les plus drôles et emblématiques de la saison, incluant bonus et moments cultes (≥ 20 min).</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Sun, 21 Dec 2025 16:31:22 GMT</lastBuildDate>
-    <pubDate>Sun, 21 Dec 2025 16:31:22 GMT</pubDate>
+    <lastBuildDate>Sun, 21 Dec 2025 16:54:49 GMT</lastBuildDate>
+    <pubDate>Sun, 21 Dec 2025 16:54:49 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,35 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/vdAhbmg</ns3:txt>
+    <item>
+      <title>L'INTÉGRALE - Le Best of du dimanche 21 décembre 2025</title>
+      <guid isPermaLink="false">80f2375b-09a2-4cdd-93b8-dc6172080344</guid>
+      <description>Ecoutez Les Grosses Têtes avec Laurent Ruquier du 21 décembre 2025.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Ecoutez Les Grosses Têtes avec Laurent Ruquier du 21 décembre 2025.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Sun, 21 Dec 2025 17:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/80f2375b-09a2-4cdd-93b8-dc6172080344.mp3?_=1766161989" length="95813814" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Ecoutez Les Grosses Têtes avec Laurent Ruquier du 21 décembre 2025.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Ecoutez Les Grosses Têtes avec Laurent Ruquier du 21 décembre 2025.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Ecoutez Les Grosses Têtes avec Laurent Ruquier du 21 décembre 2025.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>01:39:48</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/15b55912-942c-429a-86e7-eb8722c6ea7c.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/15b55912-942c-429a-86e7-eb8722c6ea7c.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/bMoJISV</ns3:txt>
+      <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes,intégral</itunes:keywords>
+    </item>
     <item>
       <title>L'INTÉGRALE - Le Best of du samedi 20 décembre 2025</title>
       <guid isPermaLink="false">d656ff91-2e6b-4cb3-af24-25f4900163ee</guid>
