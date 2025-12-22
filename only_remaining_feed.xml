@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Mon, 22 Dec 2025 04:47:52 GMT</lastBuildDate>
-    <pubDate>Mon, 22 Dec 2025 04:47:52 GMT</pubDate>
+    <lastBuildDate>Mon, 22 Dec 2025 05:31:11 GMT</lastBuildDate>
+    <pubDate>Mon, 22 Dec 2025 05:31:11 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,39 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/vdAhbmg</ns3:txt>
+    <item>
+      <title>ARCHIVES - Noël : le repas russe de Fabrice</title>
+      <guid isPermaLink="false">4518cd10-8c48-4983-b5c9-0495bcb83775</guid>
+      <description>Dans cet extrait, l'animateur radio raconte tout ce qu'il a mangé lors de son réveillon...
+&lt;i&gt;Pendant ces fêtes, retrouvez tous les jours en podcast une archive de l'émission spéciale Noël !&amp;nbsp;&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Dans cet extrait, l'animateur radio raconte tout ce qu'il a mangé lors de son réveillon...
+&lt;i&gt;Pendant ces fêtes, retrouvez tous les jours en podcast une archive de l'émission spéciale Noël !&amp;nbsp;&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Mon, 22 Dec 2025 05:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/4518cd10-8c48-4983-b5c9-0495bcb83775.mp3?_=1765982881" length="4550150" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Dans cet extrait, l'animateur radio raconte tout ce qu'il a mangé lors de son réveillon...
+Pendant ces fêtes, retrouvez tous les jours en podcast une archive de l'émission spéciale Noël ! 
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Dans cet extrait, l'animateur radio raconte tout ce qu'il a mangé lors de son réveillon...
+Pendant ces fêtes, retrouvez tous les jours en podcast une archive de l'émission spéciale Noël ! 
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Dans cet extrait, l'animateur radio raconte tout ce qu'il a mangé lors de son réveillon...
+Pendant ces fêtes, retrouvez tous les jours en podcast une archive de l'émission spéciale Noël ! 
+ Hébergé par Audiomeans. Visitez </itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>04:44</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/90c9420d-fa1f-4002-be74-0f5204436b1c.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/90c9420d-fa1f-4002-be74-0f5204436b1c.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/NHnJSby</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>Les Grosses Têtes du 21 décembre 2025</title>
       <guid isPermaLink="false">728ce28f-3391-44d1-805b-2cc45ff29606</guid>
@@ -2833,39 +2866,6 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <ns2:image href="https://static.audiomeans.fr/img/episode/d39d8eec-b613-41b5-8385-28ca57525f47.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/pIPEIrY</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>IMITATIONS - Macron, Bern, Damiens... L'actualité vue par Marc-Antoine Le Bret</title>
-      <guid isPermaLink="false">03cef331-f3ae-49dc-b992-1e0fcc369ab8</guid>
-      <description>Dans l'émission du 9 décembre, Marc-Antoine Le Bret a imité François Damiens, Stéphane Bern et Emmanuel Macron.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Dans l'émission du 9 décembre, Marc-Antoine Le Bret a imité François Damiens, Stéphane Bern et Emmanuel Macron.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Tue, 09 Dec 2025 16:52:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/03cef331-f3ae-49dc-b992-1e0fcc369ab8.mp3?_=1765293180" length="2981236" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Dans l'émission du 9 décembre, Marc-Antoine Le Bret a imité François Damiens, Stéphane Bern et Emmanuel Macron.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Dans l'émission du 9 décembre, Marc-Antoine Le Bret a imité François Damiens, Stéphane Bern et Emmanuel Macron.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Dans l'émission du 9 décembre, Marc-Antoine Le Bret a imité François Damiens, Stéphane Bern et Emmanuel Macron.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez </itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>03:06</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/0ecce821-27f1-4d81-8fca-6314ba08bd25.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/0ecce821-27f1-4d81-8fca-6314ba08bd25.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/kRcpolY</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
