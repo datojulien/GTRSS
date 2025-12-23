@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Tue, 23 Dec 2025 11:26:51 GMT</lastBuildDate>
-    <pubDate>Tue, 23 Dec 2025 11:26:51 GMT</pubDate>
+    <lastBuildDate>Tue, 23 Dec 2025 11:53:03 GMT</lastBuildDate>
+    <pubDate>Tue, 23 Dec 2025 11:53:03 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -76,34 +76,33 @@ Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de 
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
-      <title>MEILLEUR DE LA SAISON - Quand Stomy sort ses capotes</title>
+      <title>MEILLEUR DE LA SAISON - Quand Stomy sort ses capotes en pleine émission</title>
       <guid isPermaLink="false">a1f5eb7a-e42f-4811-b444-3dce805728bf</guid>
       <description>Dans l'émission du 26 septembre 2025, le rappeur a sorti des préservatifs de sa poche pour prouver qu'il a toujours des relations...&amp;nbsp;
-Pendant ces fêtes, retrouvez tous les jours en podcast les meilleurs moments depuis le début de cette saison !&amp;nbsp;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+Pendant ces fêtes, retrouvez tous les jours en podcast les meilleurs moments des &lt;i&gt;Grosses Têtes &lt;/i&gt;depuis le début de cette saison !&amp;nbsp;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
       <ns4:encoded>Dans l'émission du 26 septembre 2025, le rappeur a sorti des préservatifs de sa poche pour prouver qu'il a toujours des relations...&amp;nbsp;
-Pendant ces fêtes, retrouvez tous les jours en podcast les meilleurs moments depuis le début de cette saison !&amp;nbsp;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+Pendant ces fêtes, retrouvez tous les jours en podcast les meilleurs moments des &lt;i&gt;Grosses Têtes &lt;/i&gt;depuis le début de cette saison !&amp;nbsp;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
       <pubDate>Tue, 23 Dec 2025 06:00:00 GMT</pubDate>
       <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/a1f5eb7a-e42f-4811-b444-3dce805728bf.mp3?_=1765890481" length="6629584" type="audio/mpeg" />
       <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
       <itunes:summary>Dans l'émission du 26 septembre 2025, le rappeur a sorti des préservatifs de sa poche pour prouver qu'il a toujours des relations... 
-Pendant ces fêtes, retrouvez tous les jours en podcast les meilleurs moments depuis le début de cette saison ! 
+Pendant ces fêtes, retrouvez tous les jours en podcast les meilleurs moments des Grosses Têtes depuis le début de cette saison ! 
  Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
  </itunes:summary>
       <ns2:description>Dans l'émission du 26 septembre 2025, le rappeur a sorti des préservatifs de sa poche pour prouver qu'il a toujours des relations... 
-Pendant ces fêtes, retrouvez tous les jours en podcast les meilleurs moments depuis le début de cette saison ! 
+Pendant ces fêtes, retrouvez tous les jours en podcast les meilleurs moments des Grosses Têtes depuis le début de cette saison ! 
  Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
  </ns2:description>
       <itunes:author>Laurent Ruquier</itunes:author>
       <author>Laurent Ruquier</author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:subtitle>Dans l'émission du 26 septembre 2025, le rappeur a sorti des préservatifs de sa poche pour prouver qu'il a toujours des relations... 
-Pendant ces fêtes, retrouvez tous les jours en podcast les meilleurs moments depuis le début de cette saison ! 
- ...</itunes:subtitle>
+Pendant ces fêtes, retrouvez tous les jours en podcast les meilleurs moments des Grosses Têtes depuis le début de cette...</itunes:subtitle>
       <itunes:block>no</itunes:block>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>06:54</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/305a89c7-2043-48e4-93b9-938317657691.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/305a89c7-2043-48e4-93b9-938317657691.jpg" />
+      <itunes:image href="https://images.rtl.fr/rtl/www/1776349-les-grosses-tetes-laurent-ruquier.jpg" />
+      <ns2:image href="https://images.rtl.fr/rtl/www/1776349-les-grosses-tetes-laurent-ruquier.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/mpCWaQF</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes,Meilleurs moments GT</itunes:keywords>
