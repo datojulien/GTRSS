@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Tue, 23 Dec 2025 05:55:46 GMT</lastBuildDate>
-    <pubDate>Tue, 23 Dec 2025 05:55:46 GMT</pubDate>
+    <lastBuildDate>Tue, 23 Dec 2025 06:46:35 GMT</lastBuildDate>
+    <pubDate>Tue, 23 Dec 2025 06:46:35 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,39 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/vdAhbmg</ns3:txt>
+    <item>
+      <title>MEILLEUR DE LA SAISON - Quand Stomy sort ses capotes</title>
+      <guid isPermaLink="false">a1f5eb7a-e42f-4811-b444-3dce805728bf</guid>
+      <description>Dans l'émission du 26 septembre 2025, le rappeur a sorti des préservatifs de sa poche pour prouver qu'il a toujours des relations...&amp;nbsp;
+Pendant ces fêtes, retrouvez tous les jours en podcast les meilleurs moments depuis le début de cette saison !&amp;nbsp;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Dans l'émission du 26 septembre 2025, le rappeur a sorti des préservatifs de sa poche pour prouver qu'il a toujours des relations...&amp;nbsp;
+Pendant ces fêtes, retrouvez tous les jours en podcast les meilleurs moments depuis le début de cette saison !&amp;nbsp;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Tue, 23 Dec 2025 06:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/a1f5eb7a-e42f-4811-b444-3dce805728bf.mp3?_=1765890481" length="6629584" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Dans l'émission du 26 septembre 2025, le rappeur a sorti des préservatifs de sa poche pour prouver qu'il a toujours des relations... 
+Pendant ces fêtes, retrouvez tous les jours en podcast les meilleurs moments depuis le début de cette saison ! 
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Dans l'émission du 26 septembre 2025, le rappeur a sorti des préservatifs de sa poche pour prouver qu'il a toujours des relations... 
+Pendant ces fêtes, retrouvez tous les jours en podcast les meilleurs moments depuis le début de cette saison ! 
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Dans l'émission du 26 septembre 2025, le rappeur a sorti des préservatifs de sa poche pour prouver qu'il a toujours des relations... 
+Pendant ces fêtes, retrouvez tous les jours en podcast les meilleurs moments depuis le début de cette saison ! 
+ ...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>06:54</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/305a89c7-2043-48e4-93b9-938317657691.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/305a89c7-2043-48e4-93b9-938317657691.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/mpCWaQF</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes,Meilleurs moments GT</itunes:keywords>
+    </item>
     <item>
       <title>ARCHIVES - Noël : Jean-Pierre Coffe et son omelette de réveillon</title>
       <guid isPermaLink="false">cd53fa91-ed5d-4b58-a3ab-de7c500b9325</guid>
@@ -2884,43 +2917,6 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <ns2:image href="https://static.audiomeans.fr/img/episode/9cfe912b-1645-49b7-8d90-1b8556fc36b1.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/ebEdmhr</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>BLAGUE - Les histoires drôles du 10 décembre 2025</title>
-      <guid isPermaLink="false">8c311fb4-6f74-486e-b899-be6a874325ee</guid>
-      <description>Un homme rentre dans la cour de l'Elysée, deux copines alcoolisées ont un accident de voiture et un couple arrêté au feu rouge réfléchit au futur prénom de leur enfant...&amp;nbsp; Découvrez les 3 histoires drôles du jour !
-&amp;nbsp;
-&lt;i&gt;Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Un homme rentre dans la cour de l'Elysée, deux copines alcoolisées ont un accident de voiture et un couple arrêté au feu rouge réfléchit au futur prénom de leur enfant...&amp;nbsp; Découvrez les 3 histoires drôles du jour !
-&amp;nbsp;
-&lt;i&gt;Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Wed, 10 Dec 2025 10:00:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/8c311fb4-6f74-486e-b899-be6a874325ee.mp3?_=1765299481" length="1949070" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Un homme rentre dans la cour de l'Elysée, deux copines alcoolisées ont un accident de voiture et un couple arrêté au feu rouge réfléchit au futur prénom de leur enfant... Découvrez les 3 histoires drôles du jour !
- 
-Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Un homme rentre dans la cour de l'Elysée, deux copines alcoolisées ont un accident de voiture et un couple arrêté au feu rouge réfléchit au futur prénom de leur enfant... Découvrez les 3 histoires drôles du jour !
- 
-Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Un homme rentre dans la cour de l'Elysée, deux copines alcoolisées ont un accident de voiture et un couple arrêté au feu rouge réfléchit au futur prénom de leur enfant... Découvrez les 3 histoires drôles du jour !
- 
-Tous les jours, en podcast, retrou...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>02:01</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/9b45eceb-a71e-470b-ad97-f26cefe011b2.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/9b45eceb-a71e-470b-ad97-f26cefe011b2.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/AAFNhFq</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
