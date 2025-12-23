@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Tue, 23 Dec 2025 11:53:03 GMT</lastBuildDate>
-    <pubDate>Tue, 23 Dec 2025 11:53:03 GMT</pubDate>
+    <lastBuildDate>Tue, 23 Dec 2025 12:58:33 GMT</lastBuildDate>
+    <pubDate>Tue, 23 Dec 2025 12:58:33 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -101,8 +101,8 @@ Pendant ces fêtes, retrouvez tous les jours en podcast les meilleurs moments de
       <itunes:block>no</itunes:block>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>06:54</itunes:duration>
-      <itunes:image href="https://images.rtl.fr/rtl/www/1776349-les-grosses-tetes-laurent-ruquier.jpg" />
-      <ns2:image href="https://images.rtl.fr/rtl/www/1776349-les-grosses-tetes-laurent-ruquier.jpg" />
+      <itunes:image href="https://static.audiomeans.fr/img/episode/6cbd2827-b519-4f0e-95cd-d4dad343b64e.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/6cbd2827-b519-4f0e-95cd-d4dad343b64e.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/mpCWaQF</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes,Meilleurs moments GT</itunes:keywords>
