@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Tue, 23 Dec 2025 05:01:56 GMT</lastBuildDate>
-    <pubDate>Tue, 23 Dec 2025 05:01:56 GMT</pubDate>
+    <lastBuildDate>Tue, 23 Dec 2025 05:55:46 GMT</lastBuildDate>
+    <pubDate>Tue, 23 Dec 2025 05:55:46 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,38 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/vdAhbmg</ns3:txt>
+    <item>
+      <title>ARCHIVES - Noël : Jean-Pierre Coffe et son omelette de réveillon</title>
+      <guid isPermaLink="false">cd53fa91-ed5d-4b58-a3ab-de7c500b9325</guid>
+      <description>Dans l'émission du 23 décembre 2014&lt;i&gt;,&lt;/i&gt; Jean-Pierre Coffe est convaincue qu'il est possible de manger un repas de Noël pour 3,90 euros...&amp;nbsp;
+&lt;i&gt;&lt;/i&gt;&lt;i&gt;Pendant ces fêtes, retrouvez tous les jours en podcast une archive de l'émission spéciale Noël !&amp;nbsp;&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Dans l'émission du 23 décembre 2014&lt;i&gt;,&lt;/i&gt; Jean-Pierre Coffe est convaincue qu'il est possible de manger un repas de Noël pour 3,90 euros...&amp;nbsp;
+&lt;i&gt;&lt;/i&gt;&lt;i&gt;Pendant ces fêtes, retrouvez tous les jours en podcast une archive de l'émission spéciale Noël !&amp;nbsp;&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Tue, 23 Dec 2025 05:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/cd53fa91-ed5d-4b58-a3ab-de7c500b9325.mp3?_=1765983181" length="3968491" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Dans l'émission du 23 décembre 2014, Jean-Pierre Coffe est convaincue qu'il est possible de manger un repas de Noël pour 3,90 euros... 
+Pendant ces fêtes, retrouvez tous les jours en podcast une archive de l'émission spéciale Noël ! 
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Dans l'émission du 23 décembre 2014, Jean-Pierre Coffe est convaincue qu'il est possible de manger un repas de Noël pour 3,90 euros... 
+Pendant ces fêtes, retrouvez tous les jours en podcast une archive de l'émission spéciale Noël ! 
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Dans l'émission du 23 décembre 2014, Jean-Pierre Coffe est convaincue qu'il est possible de manger un repas de Noël pour 3,90 euros... 
+Pendant ces fêtes, retrouvez tous les jours en podcast une archive de l'émission spéciale Noël ! </itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>04:07</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/377e4367-0e6d-45e1-b860-557fe7c6c100.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/377e4367-0e6d-45e1-b860-557fe7c6c100.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/wNsurEa</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>ARCHIVE - La blague de Carlos</title>
       <guid isPermaLink="false">951201f5-4a82-488c-af62-e90bd6db3d2f</guid>
@@ -2889,38 +2921,6 @@ Tous les jours, en podcast, retrou...</itunes:subtitle>
       <ns2:image href="https://static.audiomeans.fr/img/episode/9b45eceb-a71e-470b-ad97-f26cefe011b2.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/AAFNhFq</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>INÉDIT - Qui se cache derrière l'anecdote ? L'enquête de F. Bucella et K. Marimon</title>
-      <guid isPermaLink="false">cede4d39-9922-47e9-9280-f98fae03baa9</guid>
-      <description>Dans ce nouveau podcast, les Grosses Têtes doivent deviner à qui appartiennent les anecdotes qu'elles entendent avec des voix trafiquées ! Karina Marimon et Fabrizio Bucella mènent l'enquête une nouvelle fois !
-&lt;i&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Dans ce nouveau podcast, les Grosses Têtes doivent deviner à qui appartiennent les anecdotes qu'elles entendent avec des voix trafiquées ! Karina Marimon et Fabrizio Bucella mènent l'enquête une nouvelle fois !
-&lt;i&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Wed, 10 Dec 2025 05:00:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/cede4d39-9922-47e9-9280-f98fae03baa9.mp3?_=1764262982" length="4154208" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Dans ce nouveau podcast, les Grosses Têtes doivent deviner à qui appartiennent les anecdotes qu'elles entendent avec des voix trafiquées ! Karina Marimon et Fabrizio Bucella mènent l'enquête une nouvelle fois !
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Dans ce nouveau podcast, les Grosses Têtes doivent deviner à qui appartiennent les anecdotes qu'elles entendent avec des voix trafiquées ! Karina Marimon et Fabrizio Bucella mènent l'enquête une nouvelle fois !
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Sara Kemacha</itunes:author>
-      <author>Sara Kemacha</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Dans ce nouveau podcast, les Grosses Têtes doivent deviner à qui appartiennent les anecdotes qu'elles entendent avec des voix trafiquées ! Karina Marimon et Fabrizio Bucella mènent l'enquête une nouvelle fois !
-Retrouvez tous les jours le meilleur des Grosses T...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>04:19</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/d3a75a29-411e-4a1c-8ff2-0c3a5af26629.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/d3a75a29-411e-4a1c-8ff2-0c3a5af26629.jpg" />
-      <ns3:person role="host">Sara Kemacha</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/UfzfMOT</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
