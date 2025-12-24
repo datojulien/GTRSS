@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Wed, 24 Dec 2025 09:53:55 GMT</lastBuildDate>
-    <pubDate>Wed, 24 Dec 2025 09:53:55 GMT</pubDate>
+    <lastBuildDate>Wed, 24 Dec 2025 10:29:49 GMT</lastBuildDate>
+    <pubDate>Wed, 24 Dec 2025 10:29:49 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,43 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/vdAhbmg</ns3:txt>
+    <item>
+      <title>BLAGUE - Les histoires drôles du 24 décembre 2025</title>
+      <guid isPermaLink="false">029b0eff-e5d7-414c-9c62-e08303b5c6e2</guid>
+      <description>Un être divin rentre dans un bar, une femme se rend au sport d'hiver sans son mari, et connaissez-vous la différence entre un Pastis 61 et un 69 ?... Découvrez les 3 histoires drôles du jour !&amp;nbsp;&amp;nbsp;
+
+&lt;i&gt;Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Un être divin rentre dans un bar, une femme se rend au sport d'hiver sans son mari, et connaissez-vous la différence entre un Pastis 61 et un 69 ?... Découvrez les 3 histoires drôles du jour !&amp;nbsp;&amp;nbsp;
+
+&lt;i&gt;Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Wed, 24 Dec 2025 10:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/029b0eff-e5d7-414c-9c62-e08303b5c6e2.mp3?_=1766496481" length="1895946" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Un être divin rentre dans un bar, une femme se rend au sport d'hiver sans son mari, et connaissez-vous la différence entre un Pastis 61 et un 69 ?... Découvrez les 3 histoires drôles du jour !  
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Un être divin rentre dans un bar, une femme se rend au sport d'hiver sans son mari, et connaissez-vous la différence entre un Pastis 61 et un 69 ?... Découvrez les 3 histoires drôles du jour !  
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Un être divin rentre dans un bar, une femme se rend au sport d'hiver sans son mari, et connaissez-vous la différence entre un Pastis 61 et un 69 ?... Découvrez les 3 histoires drôles du jour !  
+
+Tous les jours, en podcast, retrouvez une compilation de...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>01:58</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/bda4a6ae-3f64-4afa-ab04-73a5e00751d9.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/bda4a6ae-3f64-4afa-ab04-73a5e00751d9.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/VAuGFXG</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>MEILLEUR DE LA SAISON - Sylvie Tellier ne comprend pas le sketch d'AZ</title>
       <guid isPermaLink="false">99d777cb-d2a5-4480-8f43-75260f74145a</guid>
@@ -2909,41 +2946,6 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <ns2:image href="https://static.audiomeans.fr/img/episode/1cbb99af-1fca-4da0-8428-40ce99d19085.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/zKuSVxI</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>IMITATIONS - Macron, Sarkozy, Lassalle... L'actualité vue par Marc-Antoine Le Bret</title>
-      <guid isPermaLink="false">f875b62e-a739-4ed4-93f6-8ea4455cba9f</guid>
-      <description>Dans l'émission du 11 décembre, Marc-Antoine Le Bret a imité Emmanuel Macron, François Hollande, Nicolas Sarkozy, Gilbert Montagné, Marine Le Pen, Stéphane Marie et Jean Lassalle.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Dans l'émission du 11 décembre, Marc-Antoine Le Bret a imité Emmanuel Macron, François Hollande, Nicolas Sarkozy, Gilbert Montagné, Marine Le Pen, Stéphane Marie et Jean Lassalle.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Thu, 11 Dec 2025 16:52:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/f875b62e-a739-4ed4-93f6-8ea4455cba9f.mp3?_=1765468381" length="4543297" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Dans l'émission du 11 décembre, Marc-Antoine Le Bret a imité Emmanuel Macron, François Hollande, Nicolas Sarkozy, Gilbert Montagné, Marine Le Pen, Stéphane Marie et Jean Lassalle.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Dans l'émission du 11 décembre, Marc-Antoine Le Bret a imité Emmanuel Macron, François Hollande, Nicolas Sarkozy, Gilbert Montagné, Marine Le Pen, Stéphane Marie et Jean Lassalle.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Dans l'émission du 11 décembre, Marc-Antoine Le Bret a imité Emmanuel Macron, François Hollande, Nicolas Sarkozy, Gilbert Montagné, Marine Le Pen, Stéphane Marie et Jean Lassalle.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'a...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>04:43</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/c1b4d4d5-3478-406d-adf5-e90a9123df00.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/c1b4d4d5-3478-406d-adf5-e90a9123df00.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/xXcIYOW</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
