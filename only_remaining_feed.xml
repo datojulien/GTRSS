@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Thu, 25 Dec 2025 05:55:40 GMT</lastBuildDate>
-    <pubDate>Thu, 25 Dec 2025 05:55:40 GMT</pubDate>
+    <lastBuildDate>Thu, 25 Dec 2025 06:44:55 GMT</lastBuildDate>
+    <pubDate>Thu, 25 Dec 2025 06:44:55 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,38 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/vdAhbmg</ns3:txt>
+    <item>
+      <title>MEILLEUR DE LA SAISON - Les caleçons de Yoann Riou</title>
+      <guid isPermaLink="false">a934cf80-13a9-40e5-9e0b-4419e9c30b02</guid>
+      <description>Dans l'émission du 19 novembre 2025, Yoann Riou a eu la bonne idée de dévoiler le nombre de caleçons portés par Yoann Riou par jour... Il n'en fallait pas plus pour Laurent Ruquier !&amp;nbsp;
+&lt;i&gt;Pendant ces fêtes, retrouvez tous les jours en podcast les meilleurs moments depuis le début de cette saison !&amp;nbsp;&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Dans l'émission du 19 novembre 2025, Yoann Riou a eu la bonne idée de dévoiler le nombre de caleçons portés par Yoann Riou par jour... Il n'en fallait pas plus pour Laurent Ruquier !&amp;nbsp;
+&lt;i&gt;Pendant ces fêtes, retrouvez tous les jours en podcast les meilleurs moments depuis le début de cette saison !&amp;nbsp;&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Thu, 25 Dec 2025 06:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/a934cf80-13a9-40e5-9e0b-4419e9c30b02.mp3?_=1765891381" length="9324318" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Dans l'émission du 19 novembre 2025, Yoann Riou a eu la bonne idée de dévoiler le nombre de caleçons portés par Yoann Riou par jour... Il n'en fallait pas plus pour Laurent Ruquier ! 
+Pendant ces fêtes, retrouvez tous les jours en podcast les meilleurs moments depuis le début de cette saison ! 
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Dans l'émission du 19 novembre 2025, Yoann Riou a eu la bonne idée de dévoiler le nombre de caleçons portés par Yoann Riou par jour... Il n'en fallait pas plus pour Laurent Ruquier ! 
+Pendant ces fêtes, retrouvez tous les jours en podcast les meilleurs moments depuis le début de cette saison ! 
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Dans l'émission du 19 novembre 2025, Yoann Riou a eu la bonne idée de dévoiler le nombre de caleçons portés par Yoann Riou par jour... Il n'en fallait pas plus pour Laurent Ruquier ! 
+Pendant ces fêtes, retrouvez tous les jours en podcast les meilleurs mome...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>09:42</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/45b24b24-c7ab-484f-8d41-b102143c33e4.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/45b24b24-c7ab-484f-8d41-b102143c33e4.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/VBWBJIt</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes,Meilleurs moments GT</itunes:keywords>
+    </item>
     <item>
       <title>ARCHIVES - Noël : le débat autour du sapin recyclé</title>
       <guid isPermaLink="false">8ad37a3a-958d-471b-838f-1ebbb93ddb87</guid>
@@ -2868,38 +2900,6 @@ Tous les jours, en podcast, retrouvez une...</itunes:subtitle>
       <ns2:image href="https://static.audiomeans.fr/img/episode/6a3d72c9-20a0-4e9a-baf2-a36445f95ce2.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/YroeomG</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>PÉPITE - Le meilleur de l'émission du 11 décembre 2025</title>
-      <guid isPermaLink="false">9418b342-bddf-4e2b-ae53-6afb4b4752d8</guid>
-      <description>Le retour de Laurence Boccolini, la blague ratée de Laurent Ruquier, les dédicaces du livre de Nicolas Sarkozy... Retrouvez dans ce podcast le meilleur de l'émission du jeudi 11 décembre 2025.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Le retour de Laurence Boccolini, la blague ratée de Laurent Ruquier, les dédicaces du livre de Nicolas Sarkozy... Retrouvez dans ce podcast le meilleur de l'émission du jeudi 11 décembre 2025.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Thu, 11 Dec 2025 16:59:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/9418b342-bddf-4e2b-ae53-6afb4b4752d8.mp3?_=1765468383" length="16555412" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Le retour de Laurence Boccolini, la blague ratée de Laurent Ruquier, les dédicaces du livre de Nicolas Sarkozy... Retrouvez dans ce podcast le meilleur de l'émission du jeudi 11 décembre 2025.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Le retour de Laurence Boccolini, la blague ratée de Laurent Ruquier, les dédicaces du livre de Nicolas Sarkozy... Retrouvez dans ce podcast le meilleur de l'émission du jeudi 11 décembre 2025.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Le retour de Laurence Boccolini, la blague ratée de Laurent Ruquier, les dédicaces du livre de Nicolas Sarkozy... Retrouvez dans ce podcast le meilleur de l'émission du jeudi 11 décembre 2025.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur R...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>17:14</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/efc149f5-c2f4-432d-9a82-e559c75326e7.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/efc149f5-c2f4-432d-9a82-e559c75326e7.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/aplcwqf</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
