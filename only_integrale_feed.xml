@@ -7,8 +7,8 @@
     <description>Tous les épisodes de L'Intégrale de 'Les Grosses Têtes', regroupant la diffusion complète sans coupures ni extras.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Thu, 25 Dec 2025 16:58:09 GMT</lastBuildDate>
-    <pubDate>Thu, 25 Dec 2025 16:58:09 GMT</pubDate>
+    <lastBuildDate>Thu, 25 Dec 2025 17:27:48 GMT</lastBuildDate>
+    <pubDate>Thu, 25 Dec 2025 17:27:48 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -468,44 +468,6 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <ns2:image href="https://static.audiomeans.fr/img/episode/75e8b142-20b9-4166-97bb-0acd70683ffa.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/hZCIseA</ns3:txt>
-      <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes,intégral</itunes:keywords>
-    </item>
-    <item>
-      <title>L'INTÉGRALE - Émission du jeudi 11 décembre 2025</title>
-      <guid isPermaLink="false">682a1009-8bf4-4ceb-9c01-df0683f244ad</guid>
-      <description>Avec Laurence Boccolini, Philippe Geluck, Stéphane Marie, Valérie Mairesse, Liane Foly et Bernard Mabille.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Avec Laurence Boccolini, Philippe Geluck, Stéphane Marie, Valérie Mairesse, Liane Foly et Bernard Mabille.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Thu, 11 Dec 2025 17:02:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/682a1009-8bf4-4ceb-9c01-df0683f244ad.mp3?_=1765466890" length="103272981" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Avec Laurence Boccolini, Philippe Geluck, Stéphane Marie, Valérie Mairesse, Liane Foly et Bernard Mabille.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Avec Laurence Boccolini, Philippe Geluck, Stéphane Marie, Valérie Mairesse, Liane Foly et Bernard Mabille.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Avec Laurence Boccolini, Philippe Geluck, Stéphane Marie, Valérie Mairesse, Liane Foly et Bernard Mabille.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez </itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>01:47:34</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/b065bd0b-cb5c-4a6b-bae8-b3bb88fe93fc.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/b065bd0b-cb5c-4a6b-bae8-b3bb88fe93fc.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/dAyFnoR</ns3:txt>
       <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes,intégral</itunes:keywords>
     </item>
   </channel>
