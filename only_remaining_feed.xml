@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Thu, 25 Dec 2025 04:41:51 GMT</lastBuildDate>
-    <pubDate>Thu, 25 Dec 2025 04:41:51 GMT</pubDate>
+    <lastBuildDate>Thu, 25 Dec 2025 05:01:58 GMT</lastBuildDate>
+    <pubDate>Thu, 25 Dec 2025 05:01:58 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,39 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/vdAhbmg</ns3:txt>
+    <item>
+      <title>ARCHIVES - Noël : le débat autour du sapin recyclé</title>
+      <guid isPermaLink="false">8ad37a3a-958d-471b-838f-1ebbb93ddb87</guid>
+      <description>C'était une découverte pour certaines grosses têtes, les sapins se recyclent !&amp;nbsp;
+&lt;i&gt;Pendant ces fêtes, retrouvez tous les jours en podcast une archive de l'émission spéciale Noël !&amp;nbsp;&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>C'était une découverte pour certaines grosses têtes, les sapins se recyclent !&amp;nbsp;
+&lt;i&gt;Pendant ces fêtes, retrouvez tous les jours en podcast une archive de l'émission spéciale Noël !&amp;nbsp;&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Thu, 25 Dec 2025 05:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/8ad37a3a-958d-471b-838f-1ebbb93ddb87.mp3?_=1765984081" length="4859442" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>C'était une découverte pour certaines grosses têtes, les sapins se recyclent ! 
+Pendant ces fêtes, retrouvez tous les jours en podcast une archive de l'émission spéciale Noël ! 
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>C'était une découverte pour certaines grosses têtes, les sapins se recyclent ! 
+Pendant ces fêtes, retrouvez tous les jours en podcast une archive de l'émission spéciale Noël ! 
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>C'était une découverte pour certaines grosses têtes, les sapins se recyclent ! 
+Pendant ces fêtes, retrouvez tous les jours en podcast une archive de l'émission spéciale Noël ! 
+ Hébergé par Audiomeans. Visitez </itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>05:03</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/9e924776-f65e-45b2-bb0e-5c52c21caa10.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/9e924776-f65e-45b2-bb0e-5c52c21caa10.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/IroTfLJ</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>ARCHIVE - La blague de Philippe Chevallier</title>
       <guid isPermaLink="false">9fb37ade-3159-4a9b-9573-88ae7e0fad9f</guid>
@@ -2867,39 +2900,6 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur R...</itu
       <ns2:image href="https://static.audiomeans.fr/img/episode/efc149f5-c2f4-432d-9a82-e559c75326e7.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/aplcwqf</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>PÉPITE - Quand Laurent Ruquier rate sa blague sur la lettre au Père Noël</title>
-      <guid isPermaLink="false">e41c2453-ab50-47b7-8bd7-4e49fecd2f91</guid>
-      <description>Il n'était pas sur de lui, et il s'est raté. Pourtant, la blague de Laurent Ruquier partait bien...
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Il n'était pas sur de lui, et il s'est raté. Pourtant, la blague de Laurent Ruquier partait bien...
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Thu, 11 Dec 2025 16:58:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/e41c2453-ab50-47b7-8bd7-4e49fecd2f91.mp3?_=1765468384" length="2898862" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Il n'était pas sur de lui, et il s'est raté. Pourtant, la blague de Laurent Ruquier partait bien...
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Il n'était pas sur de lui, et il s'est raté. Pourtant, la blague de Laurent Ruquier partait bien...
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Il n'était pas sur de lui, et il s'est raté. Pourtant, la blague de Laurent Ruquier partait bien...
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez </itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>03:01</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/5953be8c-3cab-46de-8988-c65233510577.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/5953be8c-3cab-46de-8988-c65233510577.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/equnABx</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
