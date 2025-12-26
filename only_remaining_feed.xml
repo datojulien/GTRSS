@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Fri, 26 Dec 2025 16:56:23 GMT</lastBuildDate>
-    <pubDate>Fri, 26 Dec 2025 16:56:23 GMT</pubDate>
+    <lastBuildDate>Fri, 26 Dec 2025 17:25:33 GMT</lastBuildDate>
+    <pubDate>Fri, 26 Dec 2025 17:25:33 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -2903,39 +2903,6 @@ Retrouvez tous les jours le meilleur des Grosses Tête...</itunes:subtitle>
       <ns2:image href="https://static.audiomeans.fr/img/episode/b1726247-4116-4c11-9c4a-10ce80e085c6.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/yQWPOcZ</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>PÉPITE - "Non mais vous êtes con ou quoi ?" Laurent Ruquier corrige Yoann Riou</title>
-      <guid isPermaLink="false">66001d35-4fcc-4999-b7f9-97d102aef30e</guid>
-      <description>Selon Yoann Riou, l'animateur aurait prononcé une phrase lors d'un dîner privé... Qui est totalement fausse !&amp;nbsp;
-&lt;i&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Selon Yoann Riou, l'animateur aurait prononcé une phrase lors d'un dîner privé... Qui est totalement fausse !&amp;nbsp;
-&lt;i&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Fri, 12 Dec 2025 16:58:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/66001d35-4fcc-4999-b7f9-97d102aef30e.mp3?_=1765551181" length="3937118" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Selon Yoann Riou, l'animateur aurait prononcé une phrase lors d'un dîner privé... Qui est totalement fausse ! 
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Selon Yoann Riou, l'animateur aurait prononcé une phrase lors d'un dîner privé... Qui est totalement fausse ! 
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Selon Yoann Riou, l'animateur aurait prononcé une phrase lors d'un dîner privé... Qui est totalement fausse ! 
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez </itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>04:05</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/9eaa9b37-ba8d-4e9a-85fb-5f117ba1c441.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/9eaa9b37-ba8d-4e9a-85fb-5f117ba1c441.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/noGBKxc</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
