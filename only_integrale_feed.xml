@@ -7,8 +7,8 @@
     <description>Tous les épisodes de L'Intégrale de 'Les Grosses Têtes', regroupant la diffusion complète sans coupures ni extras.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Sat, 27 Dec 2025 04:58:57 GMT</lastBuildDate>
-    <pubDate>Sat, 27 Dec 2025 04:58:57 GMT</pubDate>
+    <lastBuildDate>Sat, 27 Dec 2025 05:32:39 GMT</lastBuildDate>
+    <pubDate>Sat, 27 Dec 2025 05:32:39 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -426,49 +426,6 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <ns3:person role="host">Rachel Azria</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/xMwEwep</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>L'INTÉGRALE - Émission du vendredi 12 décembre 2025</title>
-      <guid isPermaLink="false">f9b49a04-e89d-4a12-87a2-762681b59a68</guid>
-      <description>Avec Caroline Diament, Yoann Riou, Julie Leclerc, Laurent Baffie, Fabrizio Bucella et Sébastien Thoen.&amp;nbsp;
-
-
-&lt;i&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Avec Caroline Diament, Yoann Riou, Julie Leclerc, Laurent Baffie, Fabrizio Bucella et Sébastien Thoen.&amp;nbsp;
-
-
-&lt;i&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Fri, 12 Dec 2025 17:02:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/f9b49a04-e89d-4a12-87a2-762681b59a68.mp3?_=1765548188" length="95519015" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Avec Caroline Diament, Yoann Riou, Julie Leclerc, Laurent Baffie, Fabrizio Bucella et Sébastien Thoen. 
-
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Avec Caroline Diament, Yoann Riou, Julie Leclerc, Laurent Baffie, Fabrizio Bucella et Sébastien Thoen. 
-
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Avec Caroline Diament, Yoann Riou, Julie Leclerc, Laurent Baffie, Fabrizio Bucella et Sébastien Thoen. 
-
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez </itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>01:39:29</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/75e8b142-20b9-4166-97bb-0acd70683ffa.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/75e8b142-20b9-4166-97bb-0acd70683ffa.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/hZCIseA</ns3:txt>
-      <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes,intégral</itunes:keywords>
     </item>
   </channel>
 </rss>
