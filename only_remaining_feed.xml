@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Tue, 30 Dec 2025 09:55:44 GMT</lastBuildDate>
-    <pubDate>Tue, 30 Dec 2025 09:55:44 GMT</pubDate>
+    <lastBuildDate>Tue, 30 Dec 2025 10:32:42 GMT</lastBuildDate>
+    <pubDate>Tue, 30 Dec 2025 10:32:42 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,43 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/vdAhbmg</ns3:txt>
+    <item>
+      <title>BLAGUE - Les histoires drôles du 30 décembre 2025</title>
+      <guid isPermaLink="false">a0a6d67a-0848-43b3-af42-547a5b8e9277</guid>
+      <description>Un homme avec un œil de verre rentre dans un bar, un couple fait son jogging dans les bois, et une blonde aperçoit des chevaux... Découvrez les 3 histoires drôles du jour !
+
+&lt;i&gt;Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Un homme avec un œil de verre rentre dans un bar, un couple fait son jogging dans les bois, et une blonde aperçoit des chevaux... Découvrez les 3 histoires drôles du jour !
+
+&lt;i&gt;Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Tue, 30 Dec 2025 10:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/a0a6d67a-0848-43b3-af42-547a5b8e9277.mp3?_=1767025980" length="2216038" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Un homme avec un œil de verre rentre dans un bar, un couple fait son jogging dans les bois, et une blonde aperçoit des chevaux... Découvrez les 3 histoires drôles du jour !
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Un homme avec un œil de verre rentre dans un bar, un couple fait son jogging dans les bois, et une blonde aperçoit des chevaux... Découvrez les 3 histoires drôles du jour !
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Un homme avec un œil de verre rentre dans un bar, un couple fait son jogging dans les bois, et une blonde aperçoit des chevaux... Découvrez les 3 histoires drôles du jour !
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Gros...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>02:18</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/2d138787-4126-4a27-a205-fca405e5b992.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/2d138787-4126-4a27-a205-fca405e5b992.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/TPqZofn</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>MEILLEUR DE LA SAISON - La vidéo gênante de Jeanfi Janssens dans un avion</title>
       <guid isPermaLink="false">8fe40d9b-a6ba-4489-bd4a-9e3937fbc22e</guid>
@@ -2895,48 +2932,6 @@ Retrouvez tous les jours le meil...</itunes:subtitle>
       <ns2:image href="https://static.audiomeans.fr/img/episode/d4e2198b-decf-4293-9e3a-ce6e50c3e5b2.jpg" />
       <ns3:person role="host">Julien Bonneau</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/BbAkwtj</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>BLAGUE - Les histoires drôles du 16 décembre 2025</title>
-      <guid isPermaLink="false">cf6fbd66-3a36-46e0-a182-5bd2fb33e763</guid>
-      <description>Dans un vol Paris-Montréal une blonde s'est trompée de classe, les 3 petits cochons dans leur maison de paille et un homme drague accoudé au comptoir... Découvrez les 3 histoires drôles du jour !
-
-
-&lt;i&gt;Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Dans un vol Paris-Montréal une blonde s'est trompée de classe, les 3 petits cochons dans leur maison de paille et un homme drague accoudé au comptoir... Découvrez les 3 histoires drôles du jour !
-
-
-&lt;i&gt;Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Tue, 16 Dec 2025 10:00:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/cf6fbd66-3a36-46e0-a182-5bd2fb33e763.mp3?_=1765818180" length="1949846" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Dans un vol Paris-Montréal une blonde s'est trompée de classe, les 3 petits cochons dans leur maison de paille et un homme drague accoudé au comptoir... Découvrez les 3 histoires drôles du jour !
-
-
-Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Dans un vol Paris-Montréal une blonde s'est trompée de classe, les 3 petits cochons dans leur maison de paille et un homme drague accoudé au comptoir... Découvrez les 3 histoires drôles du jour !
-
-
-Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Dans un vol Paris-Montréal une blonde s'est trompée de classe, les 3 petits cochons dans leur maison de paille et un homme drague accoudé au comptoir... Découvrez les 3 histoires drôles du jour !
-
-
-Tous les jours, en podcast, retrouvez une compilation des meille...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>02:01</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/4dcd172d-aab2-4427-8ebf-9c2caa755d59.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/4dcd172d-aab2-4427-8ebf-9c2caa755d59.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/MkzzVgC</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
