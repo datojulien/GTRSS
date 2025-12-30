@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Tue, 30 Dec 2025 04:43:53 GMT</lastBuildDate>
-    <pubDate>Tue, 30 Dec 2025 04:43:53 GMT</pubDate>
+    <lastBuildDate>Tue, 30 Dec 2025 05:12:49 GMT</lastBuildDate>
+    <pubDate>Tue, 30 Dec 2025 05:12:49 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,39 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/vdAhbmg</ns3:txt>
+    <item>
+      <title>ARCHIVES - Noël : Jeanfi Janssen et son copain chasseur de rennes</title>
+      <guid isPermaLink="false">10660204-a4ad-46c0-bbbb-03e85a57acc9</guid>
+      <description>Dans cet extrait, l'humoriste raconte comment il a rencontré un suédois, chasseur de rennes...&amp;nbsp;
+&lt;i&gt;&lt;/i&gt;&lt;i&gt;Pendant ces fêtes, retrouvez tous les jours en podcast une archive de l'émission spéciale Noël !&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Dans cet extrait, l'humoriste raconte comment il a rencontré un suédois, chasseur de rennes...&amp;nbsp;
+&lt;i&gt;&lt;/i&gt;&lt;i&gt;Pendant ces fêtes, retrouvez tous les jours en podcast une archive de l'émission spéciale Noël !&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Tue, 30 Dec 2025 05:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/10660204-a4ad-46c0-bbbb-03e85a57acc9.mp3?_=1765989181" length="3781993" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Dans cet extrait, l'humoriste raconte comment il a rencontré un suédois, chasseur de rennes... 
+Pendant ces fêtes, retrouvez tous les jours en podcast une archive de l'émission spéciale Noël !
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Dans cet extrait, l'humoriste raconte comment il a rencontré un suédois, chasseur de rennes... 
+Pendant ces fêtes, retrouvez tous les jours en podcast une archive de l'émission spéciale Noël !
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Dans cet extrait, l'humoriste raconte comment il a rencontré un suédois, chasseur de rennes... 
+Pendant ces fêtes, retrouvez tous les jours en podcast une archive de l'émission spéciale Noël !
+ Hébergé par Audiomeans. Visitez </itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>03:56</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/3ad3d29d-2e10-49bb-8c28-6dcdd00d2c98.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/3ad3d29d-2e10-49bb-8c28-6dcdd00d2c98.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/VKljDOi</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>ARCHIVE - La blague de Pierre Bellemare</title>
       <guid isPermaLink="false">06e4f8fd-e59e-4637-b7eb-da0794326023</guid>

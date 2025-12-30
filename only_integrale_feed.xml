@@ -7,8 +7,8 @@
     <description>Tous les épisodes de L'Intégrale de 'Les Grosses Têtes', regroupant la diffusion complète sans coupures ni extras.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Tue, 30 Dec 2025 04:43:53 GMT</lastBuildDate>
-    <pubDate>Tue, 30 Dec 2025 04:43:53 GMT</pubDate>
+    <lastBuildDate>Tue, 30 Dec 2025 05:12:49 GMT</lastBuildDate>
+    <pubDate>Tue, 30 Dec 2025 05:12:49 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -349,44 +349,6 @@ R...</itunes:subtitle>
       <ns3:person role="host">Rachel Azria</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/WRZcKAr</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>L'INTÉGRALE - Émission du lundi 15 décembre 2025</title>
-      <guid isPermaLink="false">ef09f706-b227-4fa4-a4c6-14e9ccf78f4d</guid>
-      <description>Avec Adil Rami, AZ, Valérie Mairesse, Zize Dupanier, Sébastien Thoen et Arielle Dombasle.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Avec Adil Rami, AZ, Valérie Mairesse, Zize Dupanier, Sébastien Thoen et Arielle Dombasle.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Mon, 15 Dec 2025 17:02:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/ef09f706-b227-4fa4-a4c6-14e9ccf78f4d.mp3?_=1765815190" length="109959876" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Avec Adil Rami, AZ, Valérie Mairesse, Zize Dupanier, Sébastien Thoen et Arielle Dombasle.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Avec Adil Rami, AZ, Valérie Mairesse, Zize Dupanier, Sébastien Thoen et Arielle Dombasle.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Avec Adil Rami, AZ, Valérie Mairesse, Zize Dupanier, Sébastien Thoen et Arielle Dombasle.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez </itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>01:54:32</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/f5f73232-83ab-4d88-82d8-b17b55c8cdb0.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/f5f73232-83ab-4d88-82d8-b17b55c8cdb0.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/cPhETaq</ns3:txt>
-      <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes,intégral</itunes:keywords>
     </item>
   </channel>
 </rss>
