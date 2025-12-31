@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Wed, 31 Dec 2025 13:56:01 GMT</lastBuildDate>
-    <pubDate>Wed, 31 Dec 2025 13:56:01 GMT</pubDate>
+    <lastBuildDate>Wed, 31 Dec 2025 14:28:45 GMT</lastBuildDate>
+    <pubDate>Wed, 31 Dec 2025 14:28:45 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -60,8 +60,8 @@
       <itunes:block>no</itunes:block>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>46:05</itunes:duration>
-      <itunes:image href="https://images.rtl.fr/rtl/www/1805814-evelyne-leclercq-a-ete-societaire-dans-les-grosses-tetes-de-1986-a-1997-puis-de-2010-a-2011.jpg" />
-      <ns2:image href="https://images.rtl.fr/rtl/www/1805814-evelyne-leclercq-a-ete-societaire-dans-les-grosses-tetes-de-1986-a-1997-puis-de-2010-a-2011.jpg" />
+      <itunes:image href="https://static.audiomeans.fr/img/episode/059cb4bb-45e0-44f7-a325-8e883ed8c449.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/059cb4bb-45e0-44f7-a325-8e883ed8c449.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/BpZZEwB</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
