@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Wed, 31 Dec 2025 11:53:14 GMT</lastBuildDate>
-    <pubDate>Wed, 31 Dec 2025 11:53:14 GMT</pubDate>
+    <lastBuildDate>Wed, 31 Dec 2025 12:56:42 GMT</lastBuildDate>
+    <pubDate>Wed, 31 Dec 2025 12:56:42 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,43 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/vdAhbmg</ns3:txt>
+    <item>
+      <title>ARCHIVE - Mort d'Evelyne Leclercq : réécoutez une de ses émissions aux « Grosses Têtes »</title>
+      <guid isPermaLink="false">91194ded-4c84-42f3-b137-8406592edc48</guid>
+      <description>Décédée le 31 décembre 2025, Evelyne Leclercq était une figure emblématique des « Grosses Têtes » de Philippe Bouvard.&amp;nbsp;
+
+Réécoutez l'une de ses émissions sur RTL, le 24 juillet 1993.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Décédée le 31 décembre 2025, Evelyne Leclercq était une figure emblématique des « Grosses Têtes » de Philippe Bouvard.&amp;nbsp;
+
+Réécoutez l'une de ses émissions sur RTL, le 24 juillet 1993.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Wed, 31 Dec 2025 12:17:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/91194ded-4c84-42f3-b137-8406592edc48.mp3?_=1767183788" length="44256769" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Décédée le 31 décembre 2025, Evelyne Leclercq était une figure emblématique des « Grosses Têtes » de Philippe Bouvard. 
+
+Réécoutez l'une de ses émissions sur RTL, le 24 juillet 1993.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Décédée le 31 décembre 2025, Evelyne Leclercq était une figure emblématique des « Grosses Têtes » de Philippe Bouvard. 
+
+Réécoutez l'une de ses émissions sur RTL, le 24 juillet 1993.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Décédée le 31 décembre 2025, Evelyne Leclercq était une figure emblématique des « Grosses Têtes » de Philippe Bouvard. 
+
+Réécoutez l'une de ses émissions sur RTL, le 24 juillet 1993.
+ Hébergé par Audiomeans. Visitez </itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>46:05</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/dc71e8ab-d6aa-491c-8dd5-e0221997c933.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/dc71e8ab-d6aa-491c-8dd5-e0221997c933.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>BLAGUE - Les histoires drôles du 31 décembre 2025</title>
       <guid isPermaLink="false">d4870cfd-fb9c-4c7c-b068-b0cc9a9e2ce3</guid>
@@ -2842,43 +2879,6 @@ Tous les jours, en podcast, retrouvez une compilation des meilleures blagues ...
       <ns2:image href="https://static.audiomeans.fr/img/episode/b9577c44-ee5f-4e6d-9211-0e5e898150d4.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/lkkDaAC</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>PÉPITE - Le meilleur de l'émission du mardi 16 décembre 2025</title>
-      <guid isPermaLink="false">7de97b51-cd0d-47b0-a554-77299f36c38e</guid>
-      <description>Les aventures de Jeanfi Janssens en avion, Bob l'Eponge qui débarque dans le studio, Nicolas Sarkozy en interview... Retrouvez dans ce podcast le meilleur de l'émission du mardi 16 décembre 2025.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Les aventures de Jeanfi Janssens en avion, Bob l'Eponge qui débarque dans le studio, Nicolas Sarkozy en interview... Retrouvez dans ce podcast le meilleur de l'émission du mardi 16 décembre 2025.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Tue, 16 Dec 2025 16:59:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/7de97b51-cd0d-47b0-a554-77299f36c38e.mp3?_=1765901582" length="18343459" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Les aventures de Jeanfi Janssens en avion, Bob l'Eponge qui débarque dans le studio, Nicolas Sarkozy en interview... Retrouvez dans ce podcast le meilleur de l'émission du mardi 16 décembre 2025.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Les aventures de Jeanfi Janssens en avion, Bob l'Eponge qui débarque dans le studio, Nicolas Sarkozy en interview... Retrouvez dans ce podcast le meilleur de l'émission du mardi 16 décembre 2025.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Les aventures de Jeanfi Janssens en avion, Bob l'Eponge qui débarque dans le studio, Nicolas Sarkozy en interview... Retrouvez dans ce podcast le meilleur de l'émission du mardi 16 décembre 2025.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast su...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>19:06</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/18fac924-3226-4476-a637-22662dcc631a.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/18fac924-3226-4476-a637-22662dcc631a.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/HNnHiAm</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
