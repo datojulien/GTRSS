@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Thu, 01 Jan 2026 09:54:54 GMT</lastBuildDate>
-    <pubDate>Thu, 01 Jan 2026 09:54:54 GMT</pubDate>
+    <lastBuildDate>Thu, 01 Jan 2026 10:30:38 GMT</lastBuildDate>
+    <pubDate>Thu, 01 Jan 2026 10:30:38 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,43 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/vdAhbmg</ns3:txt>
+    <item>
+      <title>BLAGUE - Les histoires drôles du 1er janvier 2026</title>
+      <guid isPermaLink="false">76d01c43-4806-4386-bd16-294be3287cfc</guid>
+      <description>Un Belge s'exporte en Afrique pour son voyage de noces, une vieille voiture percute une Rolls-Royce, et au supermarché un homme découvre qu'il a un fils caché... Découvrez les 3 histoires drôles du jour !
+
+&lt;i&gt;Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Un Belge s'exporte en Afrique pour son voyage de noces, une vieille voiture percute une Rolls-Royce, et au supermarché un homme découvre qu'il a un fils caché... Découvrez les 3 histoires drôles du jour !
+
+&lt;i&gt;Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Thu, 01 Jan 2026 10:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/76d01c43-4806-4386-bd16-294be3287cfc.mp3?_=1767112981" length="3098404" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Un Belge s'exporte en Afrique pour son voyage de noces, une vieille voiture percute une Rolls-Royce, et au supermarché un homme découvre qu'il a un fils caché... Découvrez les 3 histoires drôles du jour !
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Un Belge s'exporte en Afrique pour son voyage de noces, une vieille voiture percute une Rolls-Royce, et au supermarché un homme découvre qu'il a un fils caché... Découvrez les 3 histoires drôles du jour !
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Un Belge s'exporte en Afrique pour son voyage de noces, une vieille voiture percute une Rolls-Royce, et au supermarché un homme découvre qu'il a un fils caché... Découvrez les 3 histoires drôles du jour !
+
+Tous les jours, en podcast, retrouvez une compilation de...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>03:13</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/66f70e46-496e-45d8-80d0-fd3751f2cb7e.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/66f70e46-496e-45d8-80d0-fd3751f2cb7e.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/UhFRstp</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>MEILLEUR DE LA SAISON - Laurent Ruquier voudrait sa statue</title>
       <guid isPermaLink="false">dffc6cda-9c93-4923-828a-b8e53ae1e9a1</guid>
@@ -2861,44 +2898,6 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <ns2:image href="https://static.audiomeans.fr/img/episode/1a60d106-8235-46fe-8f66-34b19868912b.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/hZuOPaV</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>IMITATIONS - Praud, Macron, Van Damme... Marc-Antoine Le Bret face à Olivier Minne</title>
-      <guid isPermaLink="false">ae1d1109-7bee-4547-abc6-d01c727bccf5</guid>
-      <description>Dans l'émission du 17 décembre, Marc-Antoine Le Bret a imité Emmanuel Macron, Olivier Minne, Jean-Claude Van Damme et Pascal Praud.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Dans l'émission du 17 décembre, Marc-Antoine Le Bret a imité Emmanuel Macron, Olivier Minne, Jean-Claude Van Damme et Pascal Praud.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Wed, 17 Dec 2025 16:52:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/ae1d1109-7bee-4547-abc6-d01c727bccf5.mp3?_=1765979281" length="4311232" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Dans l'émission du 17 décembre, Marc-Antoine Le Bret a imité Emmanuel Macron, Olivier Minne, Jean-Claude Van Damme et Pascal Praud.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Dans l'émission du 17 décembre, Marc-Antoine Le Bret a imité Emmanuel Macron, Olivier Minne, Jean-Claude Van Damme et Pascal Praud.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Dans l'émission du 17 décembre, Marc-Antoine Le Bret a imité Emmanuel Macron, Olivier Minne, Jean-Claude Van Damme et Pascal Praud.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. ...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>04:29</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/c764ee9a-fe6b-4f1e-b283-ab776cf44875.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/c764ee9a-fe6b-4f1e-b283-ab776cf44875.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/YTCzwBV</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
