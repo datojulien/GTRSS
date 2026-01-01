@@ -7,8 +7,8 @@
     <description>Tous les épisodes de L'Intégrale de 'Les Grosses Têtes', regroupant la diffusion complète sans coupures ni extras.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Wed, 31 Dec 2025 23:53:24 GMT</lastBuildDate>
-    <pubDate>Wed, 31 Dec 2025 23:53:24 GMT</pubDate>
+    <lastBuildDate>Thu, 01 Jan 2026 02:28:55 GMT</lastBuildDate>
+    <pubDate>Thu, 01 Jan 2026 02:28:55 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -269,44 +269,6 @@ Re...</itunes:subtitle>
       <ns3:person role="host">Rachel Azria</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/FavrZKb</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes,Olivier Minne</itunes:keywords>
-    </item>
-    <item>
-      <title>L'INTÉGRALE - Émission du mardi 16 décembre 2025</title>
-      <guid isPermaLink="false">343c0576-3107-4c5d-aeba-f42c12e50915</guid>
-      <description>Avec Gaël Tchakaloff, Stomy Bugsy, Jeanfi Janssens, Valérie Mairesse, Titoff et Philippe Boxho.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Avec Gaël Tchakaloff, Stomy Bugsy, Jeanfi Janssens, Valérie Mairesse, Titoff et Philippe Boxho.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Tue, 16 Dec 2025 17:02:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/343c0576-3107-4c5d-aeba-f42c12e50915.mp3?_=1765899790" length="109062948" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Avec Gaël Tchakaloff, Stomy Bugsy, Jeanfi Janssens, Valérie Mairesse, Titoff et Philippe Boxho.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Avec Gaël Tchakaloff, Stomy Bugsy, Jeanfi Janssens, Valérie Mairesse, Titoff et Philippe Boxho.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Avec Gaël Tchakaloff, Stomy Bugsy, Jeanfi Janssens, Valérie Mairesse, Titoff et Philippe Boxho.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez </itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>01:53:36</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/3dcd1e7a-46cc-44cf-a9e1-48eb458d9d58.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/3dcd1e7a-46cc-44cf-a9e1-48eb458d9d58.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/gSzUdke</ns3:txt>
-      <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes,intégral</itunes:keywords>
     </item>
   </channel>
 </rss>
