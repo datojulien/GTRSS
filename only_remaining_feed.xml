@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Sat, 03 Jan 2026 05:54:09 GMT</lastBuildDate>
-    <pubDate>Sat, 03 Jan 2026 05:54:09 GMT</pubDate>
+    <lastBuildDate>Sat, 03 Jan 2026 06:40:41 GMT</lastBuildDate>
+    <pubDate>Sat, 03 Jan 2026 06:40:41 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,39 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/vdAhbmg</ns3:txt>
+    <item>
+      <title>MEILLEUR DE LA SAISON - La théorie du rouleaux de papiers toilettes</title>
+      <guid isPermaLink="false">bf06dba1-617d-43fd-8e83-65e0d76e95b8</guid>
+      <description>Dans l'émission du 25 août 2025, Fabrizio Bucella expose sa théorie sur l'utilisation du papiers toilettes.&amp;nbsp;&amp;nbsp;
+&lt;i&gt;Pendant ces fêtes, retrouvez tous les jours en podcast les meilleurs moments depuis le début de cette saison !&amp;nbsp;&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Dans l'émission du 25 août 2025, Fabrizio Bucella expose sa théorie sur l'utilisation du papiers toilettes.&amp;nbsp;&amp;nbsp;
+&lt;i&gt;Pendant ces fêtes, retrouvez tous les jours en podcast les meilleurs moments depuis le début de cette saison !&amp;nbsp;&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Sat, 03 Jan 2026 06:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/bf06dba1-617d-43fd-8e83-65e0d76e95b8.mp3?_=1765896164" length="7918617" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Dans l'émission du 25 août 2025, Fabrizio Bucella expose sa théorie sur l'utilisation du papiers toilettes.  
+Pendant ces fêtes, retrouvez tous les jours en podcast les meilleurs moments depuis le début de cette saison ! 
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Dans l'émission du 25 août 2025, Fabrizio Bucella expose sa théorie sur l'utilisation du papiers toilettes.  
+Pendant ces fêtes, retrouvez tous les jours en podcast les meilleurs moments depuis le début de cette saison ! 
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Dans l'émission du 25 août 2025, Fabrizio Bucella expose sa théorie sur l'utilisation du papiers toilettes.  
+Pendant ces fêtes, retrouvez tous les jours en podcast les meilleurs moments depuis le début de cette saison ! 
+ Hébergé par ...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>08:14</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/7add2e50-30dd-407f-b8e0-fdce7c7ccce6.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/7add2e50-30dd-407f-b8e0-fdce7c7ccce6.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/cBzFzMx</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes,Meilleurs moments GT</itunes:keywords>
+    </item>
     <item>
       <title>ARCHIVE - Jean Yanne, "100 ans de conneries" : la génétique</title>
       <guid isPermaLink="false">bca47a87-107b-493e-8c19-62e68096ed55</guid>
@@ -2832,44 +2865,6 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <ns2:image href="https://static.audiomeans.fr/img/episode/956edc0a-5c6e-4ef9-94da-b55280e74648.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/kYuLJdB</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>FAKE NEWS - Jeudi 18 décembre 2025</title>
-      <guid isPermaLink="false">247445c1-8344-48e5-84b9-b025ca383662</guid>
-      <description>Et vous, saurez-vous démêler le vrai du faux ?
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Et vous, saurez-vous démêler le vrai du faux ?
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Thu, 18 Dec 2025 16:55:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/247445c1-8344-48e5-84b9-b025ca383662.mp3?_=1766053982" length="4448056" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Et vous, saurez-vous démêler le vrai du faux ?
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Et vous, saurez-vous démêler le vrai du faux ?
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Et vous, saurez-vous démêler le vrai du faux ?
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.f...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>04:37</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/d1520bfc-5cd0-48bc-94f2-02faa96b302e.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/d1520bfc-5cd0-48bc-94f2-02faa96b302e.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/PAaaFZo</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
