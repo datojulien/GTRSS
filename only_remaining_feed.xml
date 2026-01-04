@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Sun, 04 Jan 2026 16:56:12 GMT</lastBuildDate>
-    <pubDate>Sun, 04 Jan 2026 16:56:12 GMT</pubDate>
+    <lastBuildDate>Sun, 04 Jan 2026 17:25:31 GMT</lastBuildDate>
+    <pubDate>Sun, 04 Jan 2026 17:25:31 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -2814,42 +2814,6 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr ..
       <ns2:image href="https://static.audiomeans.fr/img/episode/2698f619-b87c-4fa3-b114-dfde2fa56042.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/kVpunXm</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>PÉPITE - Le concours d'histoires drôles</title>
-      <guid isPermaLink="false">754f8006-d488-4258-bd9b-4d2b5abe1d2c</guid>
-      <description>Afin de faire gagner un voyage à une auditrice, les Grosses Têtes se lancent dans un concours d'histoires drôles.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Afin de faire gagner un voyage à une auditrice, les Grosses Têtes se lancent dans un concours d'histoires drôles.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Fri, 19 Dec 2025 16:57:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/754f8006-d488-4258-bd9b-4d2b5abe1d2c.mp3?_=1766134981" length="4996983" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Afin de faire gagner un voyage à une auditrice, les Grosses Têtes se lancent dans un concours d'histoires drôles.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Afin de faire gagner un voyage à une auditrice, les Grosses Têtes se lancent dans un concours d'histoires drôles.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Afin de faire gagner un voyage à une auditrice, les Grosses Têtes se lancent dans un concours d'histoires drôles.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez </itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>05:12</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/3bb322a3-389e-4542-8553-f5367591232f.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/3bb322a3-389e-4542-8553-f5367591232f.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/zToSLtj</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
