@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Mon, 05 Jan 2026 09:59:00 GMT</lastBuildDate>
-    <pubDate>Mon, 05 Jan 2026 09:59:00 GMT</pubDate>
+    <lastBuildDate>Mon, 05 Jan 2026 10:38:39 GMT</lastBuildDate>
+    <pubDate>Mon, 05 Jan 2026 10:38:39 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,41 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/vdAhbmg</ns3:txt>
+    <item>
+      <title>BLAGUE - Les histoires drôles du 5 janvier 2026</title>
+      <guid isPermaLink="false">bd3dad5f-a27b-4230-abdc-01270e1d2711</guid>
+      <description>Une femme découvre une annonce dans le journal proposant de lui faire un enfant ressemblant à Stomy Bugsy, un homme alcoolisé assure à son ami qu'il connaît un bar avec des toilettes en or, et un autre arrive saoul au centre de tir de la fête foraine... Découvrez les 3 histoires drôles du jour !
+
+&lt;i&gt;Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Une femme découvre une annonce dans le journal proposant de lui faire un enfant ressemblant à Stomy Bugsy, un homme alcoolisé assure à son ami qu'il connaît un bar avec des toilettes en or, et un autre arrive saoul au centre de tir de la fête foraine... Découvrez les 3 histoires drôles du jour !
+
+&lt;i&gt;Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Mon, 05 Jan 2026 10:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/bd3dad5f-a27b-4230-abdc-01270e1d2711.mp3?_=1767192382" length="3769837" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Une femme découvre une annonce dans le journal proposant de lui faire un enfant ressemblant à Stomy Bugsy, un homme alcoolisé assure à son ami qu'il connaît un bar avec des toilettes en or, et un autre arrive saoul au centre de tir de la fête foraine... Découvrez les 3 histoires drôles du jour !
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Une femme découvre une annonce dans le journal proposant de lui faire un enfant ressemblant à Stomy Bugsy, un homme alcoolisé assure à son ami qu'il connaît un bar avec des toilettes en or, et un autre arrive saoul au centre de tir de la fête foraine... Découvrez les 3 histoires drôles du jour !
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Une femme découvre une annonce dans le journal proposant de lui faire un enfant ressemblant à Stomy Bugsy, un homme alcoolisé assure à son ami qu'il connaît un bar avec des toilettes en or, et un autre arrive saoul au centre de tir de la fête foraine... Découvrez l...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>03:55</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/81166590-a0e5-46e5-bff2-5d11a4386360.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/81166590-a0e5-46e5-bff2-5d11a4386360.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/aPSvizS</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>ARCHIVE - La blague de Jacques Mailhot</title>
       <guid isPermaLink="false">97c43a7d-359c-4230-91fa-a6d562518d99</guid>
@@ -2776,43 +2811,6 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RT...</it
       <ns2:image href="https://static.audiomeans.fr/img/episode/743fb3bb-264f-489e-ac99-c1f8354f2577.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/BlnJTRG</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>PÉPITE - Laurent Ruquier dépassé par les technologies des voitures</title>
-      <guid isPermaLink="false">52a83036-3333-4c9a-9ef0-fac2c4a3bab3</guid>
-      <description>Laurent Ruquier déteste rouler de nuit. Il déteste également devoir, manuellement, changer les feux de route en plein phare. L'animateur rêve d'un système automatique, qui existe déjà...
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Laurent Ruquier déteste rouler de nuit. Il déteste également devoir, manuellement, changer les feux de route en plein phare. L'animateur rêve d'un système automatique, qui existe déjà...
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Fri, 19 Dec 2025 16:58:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/52a83036-3333-4c9a-9ef0-fac2c4a3bab3.mp3?_=1766156880" length="1535225" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Laurent Ruquier déteste rouler de nuit. Il déteste également devoir, manuellement, changer les feux de route en plein phare. L'animateur rêve d'un système automatique, qui existe déjà...
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Laurent Ruquier déteste rouler de nuit. Il déteste également devoir, manuellement, changer les feux de route en plein phare. L'animateur rêve d'un système automatique, qui existe déjà...
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Laurent Ruquier déteste rouler de nuit. Il déteste également devoir, manuellement, changer les feux de route en plein phare. L'animateur rêve d'un système automatique, qui existe déjà...
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr ...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>01:35</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/2698f619-b87c-4fa3-b114-dfde2fa56042.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/2698f619-b87c-4fa3-b114-dfde2fa56042.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/kVpunXm</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
