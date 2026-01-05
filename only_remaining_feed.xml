@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Mon, 05 Jan 2026 08:46:27 GMT</lastBuildDate>
-    <pubDate>Mon, 05 Jan 2026 08:46:27 GMT</pubDate>
+    <lastBuildDate>Mon, 05 Jan 2026 09:40:16 GMT</lastBuildDate>
+    <pubDate>Mon, 05 Jan 2026 09:40:16 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -65,35 +65,6 @@
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/pieJKUa</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>Les Grosses Têtes du 04 janvier 2026</title>
-      <guid isPermaLink="false">29413316-25dd-46f1-a4cb-0dd0e3a834e8</guid>
-      <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Sun, 04 Jan 2026 17:36:46 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/29413316-25dd-46f1-a4cb-0dd0e3a834e8.mp3?_=1767548292" length="107956961" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>01:52:27</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/90632d41-1f97-4226-b2ef-7870ac1d074a.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/90632d41-1f97-4226-b2ef-7870ac1d074a.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/KKCMyzr</ns3:txt>
-      <itunes:keywords>divertissement,humour,Laurent Ruquier,culture,intégral,replay intégral</itunes:keywords>
     </item>
     <item>
       <title>BEST OF - Les 10 meilleures blagues du dimanche 4 janvier 2026</title>
@@ -262,35 +233,6 @@ Pendant ces fêtes, retrouvez tous les jours en podcast une archive de l'émissi
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/BNvEDBg</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>Les Grosses Têtes du 03 janvier 2026</title>
-      <guid isPermaLink="false">f61ccb44-aa3d-45f5-a1af-4033f7b05d7f</guid>
-      <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Sat, 03 Jan 2026 17:34:21 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/f61ccb44-aa3d-45f5-a1af-4033f7b05d7f.mp3?_=1767461889" length="103898995" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>01:48:13</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/dfba215e-2edf-48de-b15b-7029fd36fd74.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/dfba215e-2edf-48de-b15b-7029fd36fd74.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/VhtOjIx</ns3:txt>
-      <itunes:keywords>divertissement,humour,Laurent Ruquier,culture,intégral,replay intégral</itunes:keywords>
     </item>
     <item>
       <title>BLAGUE - Les histoires drôles du 3 janvier 2026</title>
@@ -2802,6 +2744,75 @@ Chaque weekend en podcast, retrouvez "100 ans de conneries", par Jean Yanne. Pen
       <ns2:image href="https://static.audiomeans.fr/img/episode/3dc7a3e8-0612-447a-867d-36c930ebca73.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/GAHQiZs</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
+    <item>
+      <title>PÉPITE - Le meilleur de l'émission du 19 décembre 2025</title>
+      <guid isPermaLink="false">2b66d6ba-8f67-46a1-97b3-b8ee666b8a32</guid>
+      <description>Hector Obalk impressionné par Paul El Kharrat, la drague sur les salons de livre, Jeanfi Janssens en avion... Retrouvez dans ce podcast le meilleur de l'émission du vendredi 19 décembre 2025.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Hector Obalk impressionné par Paul El Kharrat, la drague sur les salons de livre, Jeanfi Janssens en avion... Retrouvez dans ce podcast le meilleur de l'émission du vendredi 19 décembre 2025.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Fri, 19 Dec 2025 16:59:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/2b66d6ba-8f67-46a1-97b3-b8ee666b8a32.mp3?_=1766141583" length="19878603" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Hector Obalk impressionné par Paul El Kharrat, la drague sur les salons de livre, Jeanfi Janssens en avion... Retrouvez dans ce podcast le meilleur de l'émission du vendredi 19 décembre 2025.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Hector Obalk impressionné par Paul El Kharrat, la drague sur les salons de livre, Jeanfi Janssens en avion... Retrouvez dans ce podcast le meilleur de l'émission du vendredi 19 décembre 2025.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Hector Obalk impressionné par Paul El Kharrat, la drague sur les salons de livre, Jeanfi Janssens en avion... Retrouvez dans ce podcast le meilleur de l'émission du vendredi 19 décembre 2025.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RT...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>20:42</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/743fb3bb-264f-489e-ac99-c1f8354f2577.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/743fb3bb-264f-489e-ac99-c1f8354f2577.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/BlnJTRG</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
+    <item>
+      <title>PÉPITE - Laurent Ruquier dépassé par les technologies des voitures</title>
+      <guid isPermaLink="false">52a83036-3333-4c9a-9ef0-fac2c4a3bab3</guid>
+      <description>Laurent Ruquier déteste rouler de nuit. Il déteste également devoir, manuellement, changer les feux de route en plein phare. L'animateur rêve d'un système automatique, qui existe déjà...
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Laurent Ruquier déteste rouler de nuit. Il déteste également devoir, manuellement, changer les feux de route en plein phare. L'animateur rêve d'un système automatique, qui existe déjà...
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Fri, 19 Dec 2025 16:58:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/52a83036-3333-4c9a-9ef0-fac2c4a3bab3.mp3?_=1766156880" length="1535225" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Laurent Ruquier déteste rouler de nuit. Il déteste également devoir, manuellement, changer les feux de route en plein phare. L'animateur rêve d'un système automatique, qui existe déjà...
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Laurent Ruquier déteste rouler de nuit. Il déteste également devoir, manuellement, changer les feux de route en plein phare. L'animateur rêve d'un système automatique, qui existe déjà...
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Laurent Ruquier déteste rouler de nuit. Il déteste également devoir, manuellement, changer les feux de route en plein phare. L'animateur rêve d'un système automatique, qui existe déjà...
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr ...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>01:35</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/2698f619-b87c-4fa3-b114-dfde2fa56042.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/2698f619-b87c-4fa3-b114-dfde2fa56042.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/kVpunXm</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
