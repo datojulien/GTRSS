@@ -7,8 +7,8 @@
     <description>Tous les épisodes de L'Intégrale de 'Les Grosses Têtes', regroupant la diffusion complète sans coupures ni extras.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Tue, 06 Jan 2026 16:40:29 GMT</lastBuildDate>
-    <pubDate>Tue, 06 Jan 2026 16:40:29 GMT</pubDate>
+    <lastBuildDate>Tue, 06 Jan 2026 17:02:45 GMT</lastBuildDate>
+    <pubDate>Tue, 06 Jan 2026 17:02:45 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,44 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/vdAhbmg</ns3:txt>
+    <item>
+      <title>L'INTÉGRALE - Émission du mardi 6 janvier 2026</title>
+      <guid isPermaLink="false">721a49e7-8a89-4a50-9461-12b3f0a21574</guid>
+      <description>Avec Hinaupoko Devèze (Miss France 2026), Max Boublil, Valérie Mairesse, Yoann Riou, Alex Vizorek, Laurence Boccolini et Sylvie Tellier.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Avec Hinaupoko Devèze (Miss France 2026), Max Boublil, Valérie Mairesse, Yoann Riou, Alex Vizorek, Laurence Boccolini et Sylvie Tellier.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Tue, 06 Jan 2026 17:02:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/721a49e7-8a89-4a50-9461-12b3f0a21574.mp3?_=1767715389" length="106920567" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Avec Hinaupoko Devèze (Miss France 2026), Max Boublil, Valérie Mairesse, Yoann Riou, Alex Vizorek, Laurence Boccolini et Sylvie Tellier.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Avec Hinaupoko Devèze (Miss France 2026), Max Boublil, Valérie Mairesse, Yoann Riou, Alex Vizorek, Laurence Boccolini et Sylvie Tellier.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Avec Hinaupoko Devèze (Miss France 2026), Max Boublil, Valérie Mairesse, Yoann Riou, Alex Vizorek, Laurence Boccolini et Sylvie Tellier.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiome...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>01:51:22</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/7dec846e-2a1f-423f-a13b-c3d443967df4.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/7dec846e-2a1f-423f-a13b-c3d443967df4.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/KTzzTyc</ns3:txt>
+      <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes,intégral</itunes:keywords>
+    </item>
     <item>
       <title>L'INTÉGRALE - Émission du lundi 5 janvier 2026</title>
       <guid isPermaLink="false">bd80d676-6229-4544-991a-b759e4fa0248</guid>
