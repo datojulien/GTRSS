@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Tue, 06 Jan 2026 09:56:23 GMT</lastBuildDate>
-    <pubDate>Tue, 06 Jan 2026 09:56:23 GMT</pubDate>
+    <lastBuildDate>Tue, 06 Jan 2026 10:34:04 GMT</lastBuildDate>
+    <pubDate>Tue, 06 Jan 2026 10:34:04 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,43 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/vdAhbmg</ns3:txt>
+    <item>
+      <title>BLAGUE - Les histoires drôles du 6 janvier 2026</title>
+      <guid isPermaLink="false">53f7b83a-c71b-4537-b87f-479172519e4a</guid>
+      <description>Un braqueur achète un masque de Salvador Dalí, dans la jungle un lapin croise une girafe fumant un joint, et un golfeur aperçoit un corbillard... Découvrez les 3 histoires drôles du jour !&amp;nbsp;
+
+&lt;i&gt;Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Un braqueur achète un masque de Salvador Dalí, dans la jungle un lapin croise une girafe fumant un joint, et un golfeur aperçoit un corbillard... Découvrez les 3 histoires drôles du jour !&amp;nbsp;
+
+&lt;i&gt;Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Tue, 06 Jan 2026 10:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/53f7b83a-c71b-4537-b87f-479172519e4a.mp3?_=1767192369" length="3116362" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Un braqueur achète un masque de Salvador Dalí, dans la jungle un lapin croise une girafe fumant un joint, et un golfeur aperçoit un corbillard... Découvrez les 3 histoires drôles du jour ! 
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Un braqueur achète un masque de Salvador Dalí, dans la jungle un lapin croise une girafe fumant un joint, et un golfeur aperçoit un corbillard... Découvrez les 3 histoires drôles du jour ! 
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Un braqueur achète un masque de Salvador Dalí, dans la jungle un lapin croise une girafe fumant un joint, et un golfeur aperçoit un corbillard... Découvrez les 3 histoires drôles du jour ! 
+
+Tous les jours, en podcast, retrouvez une compilation des meilleur...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>03:14</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/f71f9c8e-71a5-475f-b097-2c02e5b7b613.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/f71f9c8e-71a5-475f-b097-2c02e5b7b613.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/edxnpgp</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>ARCHIVE - La blague de Chantal Ladesou</title>
       <guid isPermaLink="false">45e127ee-5511-4e41-9fb4-9c87b8bc05f1</guid>
@@ -2785,43 +2822,6 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <ns2:image href="https://static.audiomeans.fr/img/episode/fde35c86-1f13-4e2a-8116-17fd5afb40fd.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/ATNymRr</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>ARCHIVE - Jean Yanne, "100 ans de conneries" : Noël</title>
-      <guid isPermaLink="false">f5d02eea-1dae-453e-be5a-29efa45ecddf</guid>
-      <description>A quelques jours de Noël, retour sur les plus grosses conneries sur le sujet, par Jean Yanne...
-
-Chaque weekend en podcast, retrouvez "100 ans de conneries", par Jean Yanne. Pendant 4 mois, de septembre à décembre 1999, le sociétaire des "Grosses Têtes", tenait sur RTL une chronique quotidienne dans laquelle il faisait le bilan du siècle qui allait bientôt se terminer. Avec son humour féroce habituel, il s'est attaché à dénoncé la "connerie" humaine, vraie constante et révélatrice du XXème siècle.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>A quelques jours de Noël, retour sur les plus grosses conneries sur le sujet, par Jean Yanne...
-
-Chaque weekend en podcast, retrouvez "100 ans de conneries", par Jean Yanne. Pendant 4 mois, de septembre à décembre 1999, le sociétaire des "Grosses Têtes", tenait sur RTL une chronique quotidienne dans laquelle il faisait le bilan du siècle qui allait bientôt se terminer. Avec son humour féroce habituel, il s'est attaché à dénoncé la "connerie" humaine, vraie constante et révélatrice du XXème siècle.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Sun, 21 Dec 2025 05:00:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/f5d02eea-1dae-453e-be5a-29efa45ecddf.mp3?_=1766158984" length="2339780" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>A quelques jours de Noël, retour sur les plus grosses conneries sur le sujet, par Jean Yanne...
-
-Chaque weekend en podcast, retrouvez "100 ans de conneries", par Jean Yanne. Pendant 4 mois, de septembre à décembre 1999, le sociétaire des "Grosses Têtes", tenait sur RTL une chronique quotidienne dans laquelle il faisait le bilan du siècle qui allait bientôt se terminer. Avec son humour féroce habituel, il s'est attaché à dénoncé la "connerie" humaine, vraie constante et révélatrice du XXème siècle.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>A quelques jours de Noël, retour sur les plus grosses conneries sur le sujet, par Jean Yanne...
-
-Chaque weekend en podcast, retrouvez "100 ans de conneries", par Jean Yanne. Pendant 4 mois, de septembre à décembre 1999, le sociétaire des "Grosses Têtes", tenait sur RTL une chronique quotidienne dans laquelle il faisait le bilan du siècle qui allait bientôt se terminer. Avec son humour féroce habituel, il s'est attaché à dénoncé la "connerie" humaine, vraie constante et révélatrice du XXème siècle.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>A quelques jours de Noël, retour sur les plus grosses conneries sur le sujet, par Jean Yanne...
-
-Chaque weekend en podcast, retrouvez "100 ans de conneries", par Jean Yanne. Pendant 4 mois, de septembre à décembre 1999, le sociétaire des "Grosses Têtes", tenait sur...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>02:26</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/96f02216-be71-4bf8-a065-78aa4c7793be.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/96f02216-be71-4bf8-a065-78aa4c7793be.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/ZrLIxJL</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
