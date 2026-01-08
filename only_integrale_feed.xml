@@ -7,8 +7,8 @@
     <description>Tous les épisodes de L'Intégrale de 'Les Grosses Têtes', regroupant la diffusion complète sans coupures ni extras.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Thu, 08 Jan 2026 17:14:48 GMT</lastBuildDate>
-    <pubDate>Thu, 08 Jan 2026 17:14:48 GMT</pubDate>
+    <lastBuildDate>Thu, 08 Jan 2026 17:57:19 GMT</lastBuildDate>
+    <pubDate>Thu, 08 Jan 2026 17:57:19 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -73,6 +73,7 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <itunes:image href="https://static.audiomeans.fr/img/episode/25b0966f-841e-4f5b-a2c0-4a177fa22cba.jpg" />
       <ns2:image href="https://static.audiomeans.fr/img/episode/25b0966f-841e-4f5b-a2c0-4a177fa22cba.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/dnPVBEs</ns3:txt>
       <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes,intégral</itunes:keywords>
     </item>
     <item>
