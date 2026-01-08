@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Thu, 08 Jan 2026 09:03:07 GMT</lastBuildDate>
-    <pubDate>Thu, 08 Jan 2026 09:03:07 GMT</pubDate>
+    <lastBuildDate>Thu, 08 Jan 2026 09:57:51 GMT</lastBuildDate>
+    <pubDate>Thu, 08 Jan 2026 09:57:51 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -102,6 +102,49 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur ...</itun
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
+      <title>PÉPITE - Sébastien Thoen se paye à nouveau Pierre Niney</title>
+      <guid isPermaLink="false">b45df7ff-2bd7-4be7-8294-0774b1316085</guid>
+      <description>En 2026, on ne change pas une équipe qui gagne : Pierre Niney et Sébastien Thoen, c'est l'amour fou...&amp;nbsp;
+
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>En 2026, on ne change pas une équipe qui gagne : Pierre Niney et Sébastien Thoen, c'est l'amour fou...&amp;nbsp;
+
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Wed, 07 Jan 2026 16:58:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/b45df7ff-2bd7-4be7-8294-0774b1316085.mp3?_=1767801184" length="2082577" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>En 2026, on ne change pas une équipe qui gagne : Pierre Niney et Sébastien Thoen, c'est l'amour fou... 
+
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>En 2026, on ne change pas une équipe qui gagne : Pierre Niney et Sébastien Thoen, c'est l'amour fou... 
+
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>En 2026, on ne change pas une équipe qui gagne : Pierre Niney et Sébastien Thoen, c'est l'amour fou... 
+
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez </itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>02:10</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/5ebd82a7-2523-44eb-88a3-73c247707488.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/5ebd82a7-2523-44eb-88a3-73c247707488.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/xoZwEVw</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
+    <item>
       <title>PÉPITE - Les Grosses Têtes répondent aux auditeurs</title>
       <guid isPermaLink="false">cc72fc0d-9508-43ca-a86a-dbda15929feb</guid>
       <description>Plaintes, compliments, interrogations... Cette saison encore, les Grosses Têtes répondent aux différentes questions et messages des auditeurs à l'antenne.
@@ -174,79 +217,41 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
-      <title>IMITATIONS - De Villepin, Leperc, Ciotti.... L'actualité vue par Marc-Antoine Le Bret</title>
+      <title>IMITATIONS - De Villepin, Lepers, Ciotti.... L'actualité vue par Marc-Antoine Le Bret</title>
       <guid isPermaLink="false">b092fd5c-4c77-496f-bbcc-f7419e22d5ee</guid>
-      <description>Dans l'émission du 7 janvier, Marc-Antoine Le Bret a imité Dominique de Villepin, Jean-Michel Apathie,&amp;nbsp; Roselyne Bachelot, Eric Ciotti et Julien Leperc.
+      <description>Dans l'émission du 7 janvier, Marc-Antoine Le Bret a imité Dominique de Villepin, Jean-Michel Apathie, Roselyne Bachelot, Eric Ciotti et Julien Lepers.
+
 Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Dans l'émission du 7 janvier, Marc-Antoine Le Bret a imité Dominique de Villepin, Jean-Michel Apathie,&amp;nbsp; Roselyne Bachelot, Eric Ciotti et Julien Leperc.
+      <ns4:encoded>Dans l'émission du 7 janvier, Marc-Antoine Le Bret a imité Dominique de Villepin, Jean-Michel Apathie, Roselyne Bachelot, Eric Ciotti et Julien Lepers.
+
 Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
       <pubDate>Wed, 07 Jan 2026 16:51:00 GMT</pubDate>
       <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/b092fd5c-4c77-496f-bbcc-f7419e22d5ee.mp3?_=1767801481" length="4860070" type="audio/mpeg" />
       <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Dans l'émission du 7 janvier, Marc-Antoine Le Bret a imité Dominique de Villepin, Jean-Michel Apathie, Roselyne Bachelot, Eric Ciotti et Julien Leperc.
+      <itunes:summary>Dans l'émission du 7 janvier, Marc-Antoine Le Bret a imité Dominique de Villepin, Jean-Michel Apathie, Roselyne Bachelot, Eric Ciotti et Julien Lepers.
+
 Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
  Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
  </itunes:summary>
-      <ns2:description>Dans l'émission du 7 janvier, Marc-Antoine Le Bret a imité Dominique de Villepin, Jean-Michel Apathie, Roselyne Bachelot, Eric Ciotti et Julien Leperc.
+      <ns2:description>Dans l'émission du 7 janvier, Marc-Antoine Le Bret a imité Dominique de Villepin, Jean-Michel Apathie, Roselyne Bachelot, Eric Ciotti et Julien Lepers.
+
 Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
  Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
  </ns2:description>
       <itunes:author>Laurent Ruquier</itunes:author>
       <author>Laurent Ruquier</author>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Dans l'émission du 7 janvier, Marc-Antoine Le Bret a imité Dominique de Villepin, Jean-Michel Apathie, Roselyne Bachelot, Eric Ciotti et Julien Leperc.
+      <itunes:subtitle>Dans l'émission du 7 janvier, Marc-Antoine Le Bret a imité Dominique de Villepin, Jean-Michel Apathie, Roselyne Bachelot, Eric Ciotti et Julien Lepers.
+
 Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- </itunes:subtitle>
+ Hébe...</itunes:subtitle>
       <itunes:block>no</itunes:block>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>05:03</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/4d4cfcf7-a3c4-4831-bad4-9a50bf3246b8.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/4d4cfcf7-a3c4-4831-bad4-9a50bf3246b8.jpg" />
+      <itunes:image href="https://images.rtl.fr/rtl/www/1776349-les-grosses-tetes-laurent-ruquier.jpg" />
+      <ns2:image href="https://images.rtl.fr/rtl/www/1776349-les-grosses-tetes-laurent-ruquier.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/EPuYRUw</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>PÉPITE - Sébastien Thoen se paye à nouveau Pierre Niney</title>
-      <guid isPermaLink="false">b45df7ff-2bd7-4be7-8294-0774b1316085</guid>
-      <description>En 2026, on ne change pas une équipe qui gagne : Pierre Niney et Sébastien Thoen, c'est l'amour fou...&amp;nbsp;
-
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>En 2026, on ne change pas une équipe qui gagne : Pierre Niney et Sébastien Thoen, c'est l'amour fou...&amp;nbsp;
-
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Wed, 07 Jan 2026 15:52:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/b45df7ff-2bd7-4be7-8294-0774b1316085.mp3?_=1767801184" length="2082577" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>En 2026, on ne change pas une équipe qui gagne : Pierre Niney et Sébastien Thoen, c'est l'amour fou... 
-
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>En 2026, on ne change pas une équipe qui gagne : Pierre Niney et Sébastien Thoen, c'est l'amour fou... 
-
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>En 2026, on ne change pas une équipe qui gagne : Pierre Niney et Sébastien Thoen, c'est l'amour fou... 
-
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez </itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>02:10</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/f344e4b6-5c3a-440f-a23a-4715fea8265e.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/f344e4b6-5c3a-440f-a23a-4715fea8265e.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/xoZwEVw</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
