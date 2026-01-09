@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Fri, 09 Jan 2026 15:34:15 GMT</lastBuildDate>
-    <pubDate>Fri, 09 Jan 2026 15:34:15 GMT</pubDate>
+    <lastBuildDate>Fri, 09 Jan 2026 15:57:31 GMT</lastBuildDate>
+    <pubDate>Fri, 09 Jan 2026 15:57:31 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -2369,11 +2369,11 @@ Pendant ces fêtes, retrouvez tous les jours en podcast une archive de l'émissi
       <itunes:block>no</itunes:block>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>01:57:15</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/088d4863-4500-4363-8954-b7a9283c6b5b.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/088d4863-4500-4363-8954-b7a9283c6b5b.jpg" />
+      <itunes:image href="https://images.rtl.fr/rtl/www/1776349-les-grosses-tetes-laurent-ruquier.jpg" />
+      <ns2:image href="https://images.rtl.fr/rtl/www/1776349-les-grosses-tetes-laurent-ruquier.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/dvUqaiL</ns3:txt>
-      <itunes:keywords>divertissement,humour,Laurent Ruquier,culture,intégral,replay intégral</itunes:keywords>
+      <itunes:keywords>divertissement,humour,Laurent Ruquier,culture,replay intégral</itunes:keywords>
     </item>
     <item>
       <title>BLAGUE - Les histoires drôles du 27 décembre 2025</title>
