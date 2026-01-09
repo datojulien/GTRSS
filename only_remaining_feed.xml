@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Fri, 09 Jan 2026 13:59:30 GMT</lastBuildDate>
-    <pubDate>Fri, 09 Jan 2026 13:59:30 GMT</pubDate>
+    <lastBuildDate>Fri, 09 Jan 2026 14:36:22 GMT</lastBuildDate>
+    <pubDate>Fri, 09 Jan 2026 14:36:22 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -77,6 +77,7 @@ Retrouvez tous les jours le meilleur des Grosses T...</itunes:subtitle>
       <itunes:image href="https://static.audiomeans.fr/img/episode/6fb2089e-6b2a-4746-a87f-610a95e6db8e.jpg" />
       <ns2:image href="https://static.audiomeans.fr/img/episode/6fb2089e-6b2a-4746-a87f-610a95e6db8e.jpg" />
       <ns3:person role="host">Julien Bonneau</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/iDMoFXJ</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
