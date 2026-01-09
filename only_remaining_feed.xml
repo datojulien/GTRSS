@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Fri, 09 Jan 2026 15:57:31 GMT</lastBuildDate>
-    <pubDate>Fri, 09 Jan 2026 15:57:31 GMT</pubDate>
+    <lastBuildDate>Fri, 09 Jan 2026 16:39:54 GMT</lastBuildDate>
+    <pubDate>Fri, 09 Jan 2026 16:39:54 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,49 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/vdAhbmg</ns3:txt>
+    <item>
+      <title>PÉPITE - Quand Philippe Geluck énerve Laurent Ruquier avec ses questions</title>
+      <guid isPermaLink="false">24b5d499-8e74-4fc1-87a7-f6e1838c8722</guid>
+      <description>"Quelle est la raison de cette question ?". Voilà une phrase que Laurent Ruquier ne veut plus entendre de la part de Philippe Geluck.
+
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>"Quelle est la raison de cette question ?". Voilà une phrase que Laurent Ruquier ne veut plus entendre de la part de Philippe Geluck.
+
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Fri, 09 Jan 2026 16:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/24b5d499-8e74-4fc1-87a7-f6e1838c8722.mp3?_=1767972182" length="3174787" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>"Quelle est la raison de cette question ?". Voilà une phrase que Laurent Ruquier ne veut plus entendre de la part de Philippe Geluck.
+
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>"Quelle est la raison de cette question ?". Voilà une phrase que Laurent Ruquier ne veut plus entendre de la part de Philippe Geluck.
+
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>"Quelle est la raison de cette question ?". Voilà une phrase que Laurent Ruquier ne veut plus entendre de la part de Philippe Geluck.
+
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomean...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>03:18</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/a92c2540-a734-4286-8527-cd93766f1421.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/a92c2540-a734-4286-8527-cd93766f1421.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/IKvEXRw</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>INÉDIT - Côté coulisses : Héléna se confie avant l'émission</title>
       <guid isPermaLink="false">b643864d-993a-4f15-8b38-3f7c2dff6413</guid>
@@ -2182,11 +2225,11 @@ Pendant ces fêtes, retrouvez tous les jours en podcast une archive de l'émissi
       <itunes:block>no</itunes:block>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>01:56:56</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/991baae5-d3bc-42a5-9ee0-93cecc1e032a.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/991baae5-d3bc-42a5-9ee0-93cecc1e032a.jpg" />
+      <itunes:image href="https://static.audiomeans.fr/img/episode/60d47bda-a079-4562-93aa-7caf970ada45.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/60d47bda-a079-4562-93aa-7caf970ada45.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/naVKrxG</ns3:txt>
-      <itunes:keywords>divertissement,humour,Laurent Ruquier,culture,intégral,replay intégral</itunes:keywords>
+      <itunes:keywords>divertissement,humour,Laurent Ruquier,culture,replay intégral</itunes:keywords>
     </item>
     <item>
       <title>BEST OF - Les 10 meilleures blagues du dimanche 28 décembre 2025</title>
@@ -2369,8 +2412,8 @@ Pendant ces fêtes, retrouvez tous les jours en podcast une archive de l'émissi
       <itunes:block>no</itunes:block>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>01:57:15</itunes:duration>
-      <itunes:image href="https://images.rtl.fr/rtl/www/1776349-les-grosses-tetes-laurent-ruquier.jpg" />
-      <ns2:image href="https://images.rtl.fr/rtl/www/1776349-les-grosses-tetes-laurent-ruquier.jpg" />
+      <itunes:image href="https://static.audiomeans.fr/img/episode/61264b9f-a50f-463a-8ed3-d54903f7b782.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/61264b9f-a50f-463a-8ed3-d54903f7b782.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/dvUqaiL</ns3:txt>
       <itunes:keywords>divertissement,humour,Laurent Ruquier,culture,replay intégral</itunes:keywords>
@@ -2753,39 +2796,6 @@ Pendant ces fêtes, retrouvez tous les jours en podcast les meilleurs mome...</i
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/VBWBJIt</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes,Meilleurs moments GT</itunes:keywords>
-    </item>
-    <item>
-      <title>ARCHIVES - Noël : le débat autour du sapin recyclé</title>
-      <guid isPermaLink="false">8ad37a3a-958d-471b-838f-1ebbb93ddb87</guid>
-      <description>C'était une découverte pour certaines grosses têtes, les sapins se recyclent !&amp;nbsp;
-&lt;i&gt;Pendant ces fêtes, retrouvez tous les jours en podcast une archive de l'émission spéciale Noël !&amp;nbsp;&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>C'était une découverte pour certaines grosses têtes, les sapins se recyclent !&amp;nbsp;
-&lt;i&gt;Pendant ces fêtes, retrouvez tous les jours en podcast une archive de l'émission spéciale Noël !&amp;nbsp;&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Thu, 25 Dec 2025 05:00:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/8ad37a3a-958d-471b-838f-1ebbb93ddb87.mp3?_=1765984081" length="4859442" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>C'était une découverte pour certaines grosses têtes, les sapins se recyclent ! 
-Pendant ces fêtes, retrouvez tous les jours en podcast une archive de l'émission spéciale Noël ! 
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>C'était une découverte pour certaines grosses têtes, les sapins se recyclent ! 
-Pendant ces fêtes, retrouvez tous les jours en podcast une archive de l'émission spéciale Noël ! 
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>C'était une découverte pour certaines grosses têtes, les sapins se recyclent ! 
-Pendant ces fêtes, retrouvez tous les jours en podcast une archive de l'émission spéciale Noël ! 
- Hébergé par Audiomeans. Visitez </itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>05:03</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/9e924776-f65e-45b2-bb0e-5c52c21caa10.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/9e924776-f65e-45b2-bb0e-5c52c21caa10.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/IroTfLJ</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
       <title>MOMENT CULTE - Eric Laugérias chante du Patrick Bruel</title>
