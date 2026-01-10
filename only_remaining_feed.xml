@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Sat, 10 Jan 2026 13:53:41 GMT</lastBuildDate>
-    <pubDate>Sat, 10 Jan 2026 13:53:41 GMT</pubDate>
+    <lastBuildDate>Sat, 10 Jan 2026 14:25:54 GMT</lastBuildDate>
+    <pubDate>Sat, 10 Jan 2026 14:25:54 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,39 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/vdAhbmg</ns3:txt>
+    <item>
+      <title>BEST OF - Le meilleur de la semaine du 5 au 9 janvier 2026 (1/2)</title>
+      <guid isPermaLink="false">7cf59e2f-baba-4ffe-ba3c-94b0b03f41c2</guid>
+      <description>Dans ce podcast, retrouvez les meilleurs moments qui ont marqué la semaine des Grosses Têtes, du 5 au 9 décembre 2025.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Dans ce podcast, retrouvez les meilleurs moments qui ont marqué la semaine des Grosses Têtes, du 5 au 9 décembre 2025.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Sat, 10 Jan 2026 14:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/7cf59e2f-baba-4ffe-ba3c-94b0b03f41c2.mp3?_=1767803882" length="7843692" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Dans ce podcast, retrouvez les meilleurs moments qui ont marqué la semaine des Grosses Têtes, du 5 au 9 décembre 2025.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Dans ce podcast, retrouvez les meilleurs moments qui ont marqué la semaine des Grosses Têtes, du 5 au 9 décembre 2025.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Dans ce podcast, retrouvez les meilleurs moments qui ont marqué la semaine des Grosses Têtes, du 5 au 9 décembre 2025.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL
+ Hébergé par Audiomeans. Visitez </itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>08:10</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/73e15f16-728b-4401-8bb6-a2816c6b7c86.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/73e15f16-728b-4401-8bb6-a2816c6b7c86.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/sxiLGpc</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>BLAGUE - Les histoires drôles du 10 janvier 2026</title>
       <guid isPermaLink="false">74051315-e87b-4abe-9b40-1be8b77f1259</guid>
@@ -2761,34 +2794,6 @@ Chaque weekend en podcast, retrouvez "100 ans de conneries", par Jean Yanne. Pen
       <itunes:image href="https://static.audiomeans.fr/img/episode/1b3e5be6-4f12-46b7-afb8-1662b508a2d1.jpg" />
       <ns2:image href="https://static.audiomeans.fr/img/episode/1b3e5be6-4f12-46b7-afb8-1662b508a2d1.jpg" />
       <ns3:txt purpose="smartlink">https://audmns.com/QYqzzgg</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>ARCHIVES - Noël : la blague préférée de Jeanfi Janssens lorsqu'il neige</title>
-      <guid isPermaLink="false">e0493a83-16da-443d-8559-24ee6aea4172</guid>
-      <description>Dans cette séquence, l'humoriste raconte son activité favorite lorsque les flocons se mettent à tomber...&amp;nbsp;&lt;i&gt;Pendant ces fêtes, retrouvez tous les jours en podcast une archive de l'émission spéciale Noël !&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Dans cette séquence, l'humoriste raconte son activité favorite lorsque les flocons se mettent à tomber...&amp;nbsp;&lt;i&gt;Pendant ces fêtes, retrouvez tous les jours en podcast une archive de l'émission spéciale Noël !&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Sat, 27 Dec 2025 05:00:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/e0493a83-16da-443d-8559-24ee6aea4172.mp3?_=1765987381" length="4101764" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Dans cette séquence, l'humoriste raconte son activité favorite lorsque les flocons se mettent à tomber... Pendant ces fêtes, retrouvez tous les jours en podcast une archive de l'émission spéciale Noël !
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Dans cette séquence, l'humoriste raconte son activité favorite lorsque les flocons se mettent à tomber... Pendant ces fêtes, retrouvez tous les jours en podcast une archive de l'émission spéciale Noël !
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Dans cette séquence, l'humoriste raconte son activité favorite lorsque les flocons se mettent à tomber... Pendant ces fêtes, retrouvez tous les jours en podcast une archive de l'émission spéciale Noël !
- Hébergé par Audiomeans. Visitez </itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>04:16</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/5a697217-8f7f-4883-bf18-58e05c00e493.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/5a697217-8f7f-4883-bf18-58e05c00e493.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/GzRaPnh</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
