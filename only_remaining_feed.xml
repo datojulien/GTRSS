@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Sat, 10 Jan 2026 17:25:23 GMT</lastBuildDate>
-    <pubDate>Sat, 10 Jan 2026 17:25:23 GMT</pubDate>
+    <lastBuildDate>Sat, 10 Jan 2026 17:53:26 GMT</lastBuildDate>
+    <pubDate>Sat, 10 Jan 2026 17:53:26 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,35 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/vdAhbmg</ns3:txt>
+    <item>
+      <title>Les Grosses Têtes du 10 janvier 2026</title>
+      <guid isPermaLink="false">f0306d2b-925e-4333-8306-88b1660c35a0</guid>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Sat, 10 Jan 2026 17:34:57 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/f0306d2b-925e-4333-8306-88b1660c35a0.mp3?_=1768066688" length="91545376" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>01:35:21</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/85836ad3-260a-4a23-813a-912a9dc3364c.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/85836ad3-260a-4a23-813a-912a9dc3364c.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/iIuSDMM</ns3:txt>
+      <itunes:keywords>divertissement,humour,Laurent Ruquier,culture,replay intégral</itunes:keywords>
+    </item>
     <item>
       <title>BEST OF - Le meilleur de la semaine du 5 au 9 janvier 2026 (1/2)</title>
       <guid isPermaLink="false">7cf59e2f-baba-4ffe-ba3c-94b0b03f41c2</guid>
@@ -2722,43 +2751,6 @@ Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de 
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/fiqRsWY</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>MEILLEUR DE LA SAISON - Caroline Diament s'improvise conteuse d'histoire</title>
-      <guid isPermaLink="false">b699f62f-df77-4387-bfac-e04cf81e2d94</guid>
-      <description>Dans l'émission du 30 octobre 2025, Caroline Diament raconte à la manière d'un récit de podcasts la vie de Romy Schneider.&amp;nbsp;&amp;nbsp;
-
-&lt;i&gt;Pendant ces fêtes, retrouvez tous les jours en podcast les meilleurs moments depuis le début de cette saison !&amp;nbsp;&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Dans l'émission du 30 octobre 2025, Caroline Diament raconte à la manière d'un récit de podcasts la vie de Romy Schneider.&amp;nbsp;&amp;nbsp;
-
-&lt;i&gt;Pendant ces fêtes, retrouvez tous les jours en podcast les meilleurs moments depuis le début de cette saison !&amp;nbsp;&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Sat, 27 Dec 2025 06:00:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/b699f62f-df77-4387-bfac-e04cf81e2d94.mp3?_=1765893181" length="5179698" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Dans l'émission du 30 octobre 2025, Caroline Diament raconte à la manière d'un récit de podcasts la vie de Romy Schneider.  
-
-Pendant ces fêtes, retrouvez tous les jours en podcast les meilleurs moments depuis le début de cette saison ! 
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Dans l'émission du 30 octobre 2025, Caroline Diament raconte à la manière d'un récit de podcasts la vie de Romy Schneider.  
-
-Pendant ces fêtes, retrouvez tous les jours en podcast les meilleurs moments depuis le début de cette saison ! 
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Dans l'émission du 30 octobre 2025, Caroline Diament raconte à la manière d'un récit de podcasts la vie de Romy Schneider.  
-
-Pendant ces fêtes, retrouvez tous les jours en podcast les meilleurs moments depuis le début de cette saison ! </itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>05:23</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/42d76d88-682b-4fcf-ba35-a845f63a98a2.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/42d76d88-682b-4fcf-ba35-a845f63a98a2.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/nmZqUvm</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes,Meilleurs moments GT</itunes:keywords>
     </item>
     <item>
       <title>MOMENT CULTE - Eric Laugérias chante du Patrick Bruel</title>
