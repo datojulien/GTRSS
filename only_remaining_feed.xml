@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Sun, 11 Jan 2026 04:03:48 GMT</lastBuildDate>
-    <pubDate>Sun, 11 Jan 2026 04:03:48 GMT</pubDate>
+    <lastBuildDate>Sun, 11 Jan 2026 05:14:15 GMT</lastBuildDate>
+    <pubDate>Sun, 11 Jan 2026 05:14:15 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,42 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/vdAhbmg</ns3:txt>
+    <item>
+      <title>ARCHIVE - Jean Yanne, "100 ans de conneries" : l'administration française passée au crible</title>
+      <guid isPermaLink="false">19b2c55a-a1b3-41ce-b13e-9491c7c2d19b</guid>
+      <description>Dans cette chronique, Jean Yanne avait décidé de s'en prendre à l'administration française. Et il y a à dire...
+
+Chaque weekend en podcast, retrouvez "100 ans de conneries", par Jean Yanne. Pendant 4 mois, de septembre à décembre 1999, le sociétaire des "Grosses Têtes", tenait sur RTL une chronique quotidienne dans laquelle il faisait le bilan du siècle qui allait bientôt se terminer. Avec son humour féroce habituel, il s'est attaché à dénoncé la "connerie" humaine, vraie constante et révélatrice du XXème siècle.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Dans cette chronique, Jean Yanne avait décidé de s'en prendre à l'administration française. Et il y a à dire...
+
+Chaque weekend en podcast, retrouvez "100 ans de conneries", par Jean Yanne. Pendant 4 mois, de septembre à décembre 1999, le sociétaire des "Grosses Têtes", tenait sur RTL une chronique quotidienne dans laquelle il faisait le bilan du siècle qui allait bientôt se terminer. Avec son humour féroce habituel, il s'est attaché à dénoncé la "connerie" humaine, vraie constante et révélatrice du XXème siècle.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Sun, 11 Jan 2026 05:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/19b2c55a-a1b3-41ce-b13e-9491c7c2d19b.mp3?_=1767863582" length="2293915" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Dans cette chronique, Jean Yanne avait décidé de s'en prendre à l'administration française. Et il y a à dire...
+
+Chaque weekend en podcast, retrouvez "100 ans de conneries", par Jean Yanne. Pendant 4 mois, de septembre à décembre 1999, le sociétaire des "Grosses Têtes", tenait sur RTL une chronique quotidienne dans laquelle il faisait le bilan du siècle qui allait bientôt se terminer. Avec son humour féroce habituel, il s'est attaché à dénoncé la "connerie" humaine, vraie constante et révélatrice du XXème siècle.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Dans cette chronique, Jean Yanne avait décidé de s'en prendre à l'administration française. Et il y a à dire...
+
+Chaque weekend en podcast, retrouvez "100 ans de conneries", par Jean Yanne. Pendant 4 mois, de septembre à décembre 1999, le sociétaire des "Grosses Têtes", tenait sur RTL une chronique quotidienne dans laquelle il faisait le bilan du siècle qui allait bientôt se terminer. Avec son humour féroce habituel, il s'est attaché à dénoncé la "connerie" humaine, vraie constante et révélatrice du XXème siècle.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>RTL</itunes:author>
+      <author>RTL</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Dans cette chronique, Jean Yanne avait décidé de s'en prendre à l'administration française. Et il y a à dire...
+
+Chaque weekend en podcast, retrouvez "100 ans de conneries", par Jean Yanne. Pendant 4 mois, de septembre à décembre 1999, le sociétaire des "Grosses Tê...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>02:23</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/ae14cfcd-ad96-4f3b-8272-92818f868d86.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/ae14cfcd-ad96-4f3b-8272-92818f868d86.jpg" />
+      <ns3:txt purpose="smartlink">https://audmns.com/vTrKcSz</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>ARCHIVE - La blague de Philippe Chevallier</title>
       <guid isPermaLink="false">8cd0b692-c4bf-4b41-a2d3-ed04688e5344</guid>
