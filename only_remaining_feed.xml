@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Sun, 11 Jan 2026 16:56:53 GMT</lastBuildDate>
-    <pubDate>Sun, 11 Jan 2026 16:56:53 GMT</pubDate>
+    <lastBuildDate>Sun, 11 Jan 2026 17:25:55 GMT</lastBuildDate>
+    <pubDate>Sun, 11 Jan 2026 17:25:55 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -2749,39 +2749,6 @@ Chaque weekend en podcast, retrouvez "100 ans de conneries", par Jean Yanne. Pen
       <ns2:image href="https://static.audiomeans.fr/img/episode/659bccb6-ba3d-4dc0-9133-8f55c31e55bc.jpg" />
       <ns3:txt purpose="smartlink">https://audmns.com/BzIRXEc</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>ARCHIVES - Noël : où Pierre Bénichou achète-t-il ses cadeaux ?</title>
-      <guid isPermaLink="false">cd9b9ca6-2b8b-4064-bce1-f90ea9186a0d</guid>
-      <description>Dans cette séquence, les Grosses Têtes cherchent à savoir où le journaliste achète ses cadeaux...&amp;nbsp;
-&lt;i&gt;&lt;/i&gt;&lt;i&gt;Pendant ces fêtes, retrouvez tous les jours en podcast une archive de l'émission spéciale Noël !&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Dans cette séquence, les Grosses Têtes cherchent à savoir où le journaliste achète ses cadeaux...&amp;nbsp;
-&lt;i&gt;&lt;/i&gt;&lt;i&gt;Pendant ces fêtes, retrouvez tous les jours en podcast une archive de l'émission spéciale Noël !&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Sun, 28 Dec 2025 05:00:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/cd9b9ca6-2b8b-4064-bce1-f90ea9186a0d.mp3?_=1765987980" length="3705507" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Dans cette séquence, les Grosses Têtes cherchent à savoir où le journaliste achète ses cadeaux... 
-Pendant ces fêtes, retrouvez tous les jours en podcast une archive de l'émission spéciale Noël !
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Dans cette séquence, les Grosses Têtes cherchent à savoir où le journaliste achète ses cadeaux... 
-Pendant ces fêtes, retrouvez tous les jours en podcast une archive de l'émission spéciale Noël !
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Dans cette séquence, les Grosses Têtes cherchent à savoir où le journaliste achète ses cadeaux... 
-Pendant ces fêtes, retrouvez tous les jours en podcast une archive de l'émission spéciale Noël !
- Hébergé par Audiomeans. Visitez </itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>03:51</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/26ab6d89-043e-4621-92a5-7844c793b3aa.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/26ab6d89-043e-4621-92a5-7844c793b3aa.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/KttyEmb</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes,Meilleurs moments GT</itunes:keywords>
     </item>
     <item>
       <title>MOMENT CULTE - Eric Laugérias chante du Patrick Bruel</title>
