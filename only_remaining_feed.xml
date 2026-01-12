@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Mon, 12 Jan 2026 17:02:48 GMT</lastBuildDate>
-    <pubDate>Mon, 12 Jan 2026 17:02:48 GMT</pubDate>
+    <lastBuildDate>Mon, 12 Jan 2026 17:53:39 GMT</lastBuildDate>
+    <pubDate>Mon, 12 Jan 2026 17:53:39 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -68,6 +68,48 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <ns2:image href="https://static.audiomeans.fr/img/episode/5c3a9c74-d1fb-4dda-8e01-93730961bb4a.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/bIzjeQM</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
+    <item>
+      <title>PÉPITE - Les Grosses Têtes pourraient-elles payer des rançons ?</title>
+      <guid isPermaLink="false">981a3914-3370-45df-b90a-d3294722d87e</guid>
+      <description>A l'évocation de cette question, les réponses étaient partagées selon les Grosses Têtes présentes...
+
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>A l'évocation de cette question, les réponses étaient partagées selon les Grosses Têtes présentes...
+
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Mon, 12 Jan 2026 16:58:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/981a3914-3370-45df-b90a-d3294722d87e.mp3?_=1768237381" length="2827379" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>A l'évocation de cette question, les réponses étaient partagées selon les Grosses Têtes présentes...
+
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>A l'évocation de cette question, les réponses étaient partagées selon les Grosses Têtes présentes...
+
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>A l'évocation de cette question, les réponses étaient partagées selon les Grosses Têtes présentes...
+
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez </itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>02:56</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/e1bae2c9-0e62-4801-837e-9197db9cd9bb.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/e1bae2c9-0e62-4801-837e-9197db9cd9bb.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
@@ -2686,48 +2728,6 @@ Tous les jours, en podcast, retro...</itunes:subtitle>
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/IuFdJvB</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>MEILLEUR DE LA SAISON - Le chien de Sylvie Tellier amputé à cause d'un escalator</title>
-      <guid isPermaLink="false">9efd01cf-4b6d-4f82-9d98-705d3a165c69</guid>
-      <description>Dans l'émission du 3 décembre 2025, Sylvie Tellier raconte le triste moment où sa chienne s'est faite amputée à cause d'un escalator...&amp;nbsp;
-
-
-&lt;i&gt;Pendant ces fêtes, retrouvez tous les jours en podcast les meilleurs moments depuis le début de cette saison !&amp;nbsp;&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Dans l'émission du 3 décembre 2025, Sylvie Tellier raconte le triste moment où sa chienne s'est faite amputée à cause d'un escalator...&amp;nbsp;
-
-
-&lt;i&gt;Pendant ces fêtes, retrouvez tous les jours en podcast les meilleurs moments depuis le début de cette saison !&amp;nbsp;&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Mon, 29 Dec 2025 06:00:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/9efd01cf-4b6d-4f82-9d98-705d3a165c69.mp3?_=1765894382" length="6270678" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Dans l'émission du 3 décembre 2025, Sylvie Tellier raconte le triste moment où sa chienne s'est faite amputée à cause d'un escalator... 
-
-
-Pendant ces fêtes, retrouvez tous les jours en podcast les meilleurs moments depuis le début de cette saison ! 
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Dans l'émission du 3 décembre 2025, Sylvie Tellier raconte le triste moment où sa chienne s'est faite amputée à cause d'un escalator... 
-
-
-Pendant ces fêtes, retrouvez tous les jours en podcast les meilleurs moments depuis le début de cette saison ! 
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Dans l'émission du 3 décembre 2025, Sylvie Tellier raconte le triste moment où sa chienne s'est faite amputée à cause d'un escalator... 
-
-
-Pendant ces fêtes, retrouvez tous les jours en podcast les meilleurs moments depuis le début de cette saison ! </itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>06:31</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/87bd6790-189e-4276-a6a2-17cdccd2a000.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/87bd6790-189e-4276-a6a2-17cdccd2a000.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/ChHAqqc</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes,Meilleurs moments GT</itunes:keywords>
     </item>
     <item>
       <title>MOMENT CULTE - Eric Laugérias chante du Patrick Bruel</title>
