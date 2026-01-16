@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Fri, 16 Jan 2026 11:28:35 GMT</lastBuildDate>
-    <pubDate>Fri, 16 Jan 2026 11:28:35 GMT</pubDate>
+    <lastBuildDate>Fri, 16 Jan 2026 11:53:35 GMT</lastBuildDate>
+    <pubDate>Fri, 16 Jan 2026 11:53:35 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,46 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/vdAhbmg</ns3:txt>
+    <item>
+      <title>BLAGUE - Les histoires drôles du 16 janvier 2026</title>
+      <guid isPermaLink="false">768b0592-c452-4d07-89a9-54a89f6ca1ff</guid>
+      <description>Une tenue de l'amour à repasser, deux belges dans une station service, et un bébé sosie de M. Pokora... Découvrez les 3 histoires drôles du jour !
+
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Une tenue de l'amour à repasser, deux belges dans une station service, et un bébé sosie de M. Pokora... Découvrez les 3 histoires drôles du jour !
+
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Fri, 16 Jan 2026 10:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/768b0592-c452-4d07-89a9-54a89f6ca1ff.mp3?_=1768562281" length="4607969" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Une tenue de l'amour à repasser, deux belges dans une station service, et un bébé sosie de M. Pokora... Découvrez les 3 histoires drôles du jour !
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Une tenue de l'amour à repasser, deux belges dans une station service, et un bébé sosie de M. Pokora... Découvrez les 3 histoires drôles du jour !
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Une tenue de l'amour à repasser, deux belges dans une station service, et un bébé sosie de M. Pokora... Découvrez les 3 histoires drôles du jour !
+
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+ ...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>04:47</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/b35577dd-26f7-4ef0-8aa8-d95beb692f3e.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/b35577dd-26f7-4ef0-8aa8-d95beb692f3e.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>ARCHIVE - La blague d'Amanda Lear</title>
       <guid isPermaLink="false">0cd81b87-1e3f-490d-b5c2-34b34202df42</guid>
@@ -2776,43 +2816,6 @@ Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de 
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/zZfseak</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>MEILLEUR DE LA SAISON - Adil Rami et ses services de luxe au Milan AC</title>
-      <guid isPermaLink="false">852413a8-2887-4913-a0d8-499b5b1ee406</guid>
-      <description>Dans l'émission du 15 décembre 2025, l'ex footballeur professionnel a raconté comment le club de milanais était aux petits soins pour lui.&amp;nbsp;
-
-&lt;i&gt;Pendant ces fêtes, retrouvez tous les jours en podcast les meilleurs moments depuis le début de cette saison !&amp;nbsp;&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Dans l'émission du 15 décembre 2025, l'ex footballeur professionnel a raconté comment le club de milanais était aux petits soins pour lui.&amp;nbsp;
-
-&lt;i&gt;Pendant ces fêtes, retrouvez tous les jours en podcast les meilleurs moments depuis le début de cette saison !&amp;nbsp;&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Sun, 04 Jan 2026 06:00:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/852413a8-2887-4913-a0d8-499b5b1ee406.mp3?_=1765896780" length="5531636" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Dans l'émission du 15 décembre 2025, l'ex footballeur professionnel a raconté comment le club de milanais était aux petits soins pour lui. 
-
-Pendant ces fêtes, retrouvez tous les jours en podcast les meilleurs moments depuis le début de cette saison ! 
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Dans l'émission du 15 décembre 2025, l'ex footballeur professionnel a raconté comment le club de milanais était aux petits soins pour lui. 
-
-Pendant ces fêtes, retrouvez tous les jours en podcast les meilleurs moments depuis le début de cette saison ! 
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Dans l'émission du 15 décembre 2025, l'ex footballeur professionnel a raconté comment le club de milanais était aux petits soins pour lui. 
-
-Pendant ces fêtes, retrouvez tous les jours en podcast les meilleurs moments depuis le début de cette saison ! ...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>05:45</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/393d9409-72de-4c9f-ba76-f75e2472d6f3.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/393d9409-72de-4c9f-ba76-f75e2472d6f3.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/TKeKDrf</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes,Meilleurs moments GT</itunes:keywords>
     </item>
     <item>
       <title>MOMENT CULTE - Eric Laugérias chante du Patrick Bruel</title>
