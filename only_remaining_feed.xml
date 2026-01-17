@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Sat, 17 Jan 2026 16:55:19 GMT</lastBuildDate>
-    <pubDate>Sat, 17 Jan 2026 16:55:19 GMT</pubDate>
+    <lastBuildDate>Sat, 17 Jan 2026 17:23:42 GMT</lastBuildDate>
+    <pubDate>Sat, 17 Jan 2026 17:23:42 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -2827,35 +2827,6 @@ Tous les jours, en podcast, retrouvez une compilation des meilleur...</itunes:su
       <ns2:image href="https://static.audiomeans.fr/img/episode/f71f9c8e-71a5-475f-b097-2c02e5b7b613.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/edxnpgp</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>ARCHIVE - La blague de Chantal Ladesou</title>
-      <guid isPermaLink="false">45e127ee-5511-4e41-9fb4-9c87b8bc05f1</guid>
-      <description>Ecoutez Les Grosses Têtes avec Laurent Ruquier du 06 janvier 2026.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Ecoutez Les Grosses Têtes avec Laurent Ruquier du 06 janvier 2026.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Tue, 06 Jan 2026 01:00:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/45e127ee-5511-4e41-9fb4-9c87b8bc05f1.mp3?_=1767193682" length="987161" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Ecoutez Les Grosses Têtes avec Laurent Ruquier du 06 janvier 2026.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Ecoutez Les Grosses Têtes avec Laurent Ruquier du 06 janvier 2026.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Ecoutez Les Grosses Têtes avec Laurent Ruquier du 06 janvier 2026.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>01:01</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/96911fa1-7fd6-457c-a797-7030408927b8.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/96911fa1-7fd6-457c-a797-7030408927b8.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/MMguTfp</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
