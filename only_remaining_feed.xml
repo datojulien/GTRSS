@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Sun, 18 Jan 2026 04:49:31 GMT</lastBuildDate>
-    <pubDate>Sun, 18 Jan 2026 04:49:31 GMT</pubDate>
+    <lastBuildDate>Sun, 18 Jan 2026 05:30:28 GMT</lastBuildDate>
+    <pubDate>Sun, 18 Jan 2026 05:30:28 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,37 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/vdAhbmg</ns3:txt>
+    <item>
+      <title>ARCHIVE - Jean Yanne, "100 ans de conneries" : Bravo aux couturiers, animateurs et restaurateurs</title>
+      <guid isPermaLink="false">232785b8-41db-4159-83a4-4a215ef220b9</guid>
+      <description>Dans cette chronique, Jean Yanne tenait à féliciter les chausseurs, restaurateurs et autres couturiers ! Pendant plus d'un siècle, ces métiers ont été à la hauteur. Enfin presque...
+Chaque weekend en podcast, retrouvez "100 ans de conneries", par Jean Yanne. Pendant 4 mois, de septembre à décembre 1999, le sociétaire des "Grosses Têtes" tenait sur RTL une chronique quotidienne dans laquelle il faisait le bilan du siècle qui allait bientôt se terminer. Avec son humour féroce habituel, il s'est attaché à dénoncé la "connerie" humaine, vraie constante et révélatrice du XXème siècle.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Dans cette chronique, Jean Yanne tenait à féliciter les chausseurs, restaurateurs et autres couturiers ! Pendant plus d'un siècle, ces métiers ont été à la hauteur. Enfin presque...
+Chaque weekend en podcast, retrouvez "100 ans de conneries", par Jean Yanne. Pendant 4 mois, de septembre à décembre 1999, le sociétaire des "Grosses Têtes" tenait sur RTL une chronique quotidienne dans laquelle il faisait le bilan du siècle qui allait bientôt se terminer. Avec son humour féroce habituel, il s'est attaché à dénoncé la "connerie" humaine, vraie constante et révélatrice du XXème siècle.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Sun, 18 Jan 2026 05:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/232785b8-41db-4159-83a4-4a215ef220b9.mp3?_=1768384981" length="2220821" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Dans cette chronique, Jean Yanne tenait à féliciter les chausseurs, restaurateurs et autres couturiers ! Pendant plus d'un siècle, ces métiers ont été à la hauteur. Enfin presque...
+Chaque weekend en podcast, retrouvez "100 ans de conneries", par Jean Yanne. Pendant 4 mois, de septembre à décembre 1999, le sociétaire des "Grosses Têtes" tenait sur RTL une chronique quotidienne dans laquelle il faisait le bilan du siècle qui allait bientôt se terminer. Avec son humour féroce habituel, il s'est attaché à dénoncé la "connerie" humaine, vraie constante et révélatrice du XXème siècle.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Dans cette chronique, Jean Yanne tenait à féliciter les chausseurs, restaurateurs et autres couturiers ! Pendant plus d'un siècle, ces métiers ont été à la hauteur. Enfin presque...
+Chaque weekend en podcast, retrouvez "100 ans de conneries", par Jean Yanne. Pendant 4 mois, de septembre à décembre 1999, le sociétaire des "Grosses Têtes" tenait sur RTL une chronique quotidienne dans laquelle il faisait le bilan du siècle qui allait bientôt se terminer. Avec son humour féroce habituel, il s'est attaché à dénoncé la "connerie" humaine, vraie constante et révélatrice du XXème siècle.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>RTL</itunes:author>
+      <author>RTL</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Dans cette chronique, Jean Yanne tenait à féliciter les chausseurs, restaurateurs et autres couturiers ! Pendant plus d'un siècle, ces métiers ont été à la hauteur. Enfin presque...
+Chaque weekend en podcast, retrouvez "100 ans de conneries", par Jean Yanne. Pendan...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>02:18</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/98916a11-e016-42cc-bbd7-cdcb111a7c08.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/98916a11-e016-42cc-bbd7-cdcb111a7c08.jpg" />
+      <ns3:txt purpose="smartlink">https://audmns.com/OajnwLL</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>ARCHIVE - La blague d'Evelyne Leclercq</title>
       <guid isPermaLink="false">4c42cbaa-6c42-424a-a901-114a05823410</guid>
@@ -2780,44 +2811,6 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <ns2:image href="https://static.audiomeans.fr/img/episode/0ec1ef63-296f-420e-ac10-ad94787979e9.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/cebwSlH</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>IMITATIONS - Lesggy, Monfort, Paul Mirabel... L'actualité vue par Marc-Antoine Le Bret</title>
-      <guid isPermaLink="false">672f5b8d-5364-4002-b92d-de00920cf043</guid>
-      <description>Dans l'émission du 6 janvier, Marc-Antoine Le Bret a imité Mac Lesggy, Nelson Monfort, François Damiens, François Cluzet et Paul Mirabel.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Dans l'émission du 6 janvier, Marc-Antoine Le Bret a imité Mac Lesggy, Nelson Monfort, François Damiens, François Cluzet et Paul Mirabel.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Tue, 06 Jan 2026 16:52:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/672f5b8d-5364-4002-b92d-de00920cf043.mp3?_=1767709380" length="4321283" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Dans l'émission du 6 janvier, Marc-Antoine Le Bret a imité Mac Lesggy, Nelson Monfort, François Damiens, François Cluzet et Paul Mirabel.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Dans l'émission du 6 janvier, Marc-Antoine Le Bret a imité Mac Lesggy, Nelson Monfort, François Damiens, François Cluzet et Paul Mirabel.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Dans l'émission du 6 janvier, Marc-Antoine Le Bret a imité Mac Lesggy, Nelson Monfort, François Damiens, François Cluzet et Paul Mirabel.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiom...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>04:30</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/c1935c85-d282-4af0-b41f-ae11dbefffe8.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/c1935c85-d282-4af0-b41f-ae11dbefffe8.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/hNhMNRe</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
