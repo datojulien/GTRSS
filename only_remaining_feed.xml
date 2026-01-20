@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Tue, 20 Jan 2026 15:04:05 GMT</lastBuildDate>
-    <pubDate>Tue, 20 Jan 2026 15:04:05 GMT</pubDate>
+    <lastBuildDate>Tue, 20 Jan 2026 16:02:38 GMT</lastBuildDate>
+    <pubDate>Tue, 20 Jan 2026 16:02:38 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -199,6 +199,42 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <ns2:image href="https://static.audiomeans.fr/img/episode/c16deb52-a3a3-4a95-a8f2-65d5fe5341e6.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/SFoPeSS</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
+    <item>
+      <title>PÉPITE - Le "Kiki Express" du 19 janvier 2026</title>
+      <guid isPermaLink="false">b53afc4f-3f8f-42b4-8de1-0d27838bef6e</guid>
+      <description>C'est une nouveauté dans "Les Grosses Têtes", le "Kiki Express" : à chaque personnalité retrouvée, l'auditeur ou l'auditrice remporte 50 euros !
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>C'est une nouveauté dans "Les Grosses Têtes", le "Kiki Express" : à chaque personnalité retrouvée, l'auditeur ou l'auditrice remporte 50 euros !
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Mon, 19 Jan 2026 16:56:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/b53afc4f-3f8f-42b4-8de1-0d27838bef6e.mp3?_=1768923782" length="7443372" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>C'est une nouveauté dans "Les Grosses Têtes", le "Kiki Express" : à chaque personnalité retrouvée, l'auditeur ou l'auditrice remporte 50 euros !
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>C'est une nouveauté dans "Les Grosses Têtes", le "Kiki Express" : à chaque personnalité retrouvée, l'auditeur ou l'auditrice remporte 50 euros !
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>C'est une nouveauté dans "Les Grosses Têtes", le "Kiki Express" : à chaque personnalité retrouvée, l'auditeur ou l'auditrice remporte 50 euros !
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé pa...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>07:45</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/3f083e77-b609-4936-8b41-c78ea9e2929f.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/3f083e77-b609-4936-8b41-c78ea9e2929f.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/tIUVgqd</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
