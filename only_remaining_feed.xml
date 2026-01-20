@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Tue, 20 Jan 2026 14:17:27 GMT</lastBuildDate>
-    <pubDate>Tue, 20 Jan 2026 14:17:27 GMT</pubDate>
+    <lastBuildDate>Tue, 20 Jan 2026 15:04:05 GMT</lastBuildDate>
+    <pubDate>Tue, 20 Jan 2026 15:04:05 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -37,7 +37,7 @@
     <ns2:category text="News" />
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
-    <ns3:txt purpose="smartlink">https://audmns.com/vdAhbmg</ns3:txt>
+    <ns3:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns3:txt>
     <item>
       <title>BLAGUE - Les histoires drôles du 20 janvier 2026</title>
       <guid isPermaLink="false">9d7b8ba1-50b7-4c2f-9d35-9a649c892af3</guid>
