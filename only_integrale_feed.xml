@@ -7,8 +7,8 @@
     <description>Tous les épisodes de L'Intégrale de 'Les Grosses Têtes', regroupant la diffusion complète sans coupures ni extras.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Wed, 21 Jan 2026 23:57:41 GMT</lastBuildDate>
-    <pubDate>Wed, 21 Jan 2026 23:57:41 GMT</pubDate>
+    <lastBuildDate>Thu, 22 Jan 2026 02:29:47 GMT</lastBuildDate>
+    <pubDate>Thu, 22 Jan 2026 02:29:47 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -674,44 +674,6 @@ R...</itunes:subtitle>
       <ns3:person role="host">Rachel Azria</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/sdWFAWb</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>L'INTÉGRALE - Émission du vendredi 9 janvier 2026</title>
-      <guid isPermaLink="false">2beecdbe-da9d-47a2-a661-d6487fafe734</guid>
-      <description>Avec Caroline Diament, Valérie Mairesse, Olivier Bellamy, Philippe Geluck, Bernard Mabille et Yoann Riou.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Avec Caroline Diament, Valérie Mairesse, Olivier Bellamy, Philippe Geluck, Bernard Mabille et Yoann Riou.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Fri, 09 Jan 2026 17:02:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/2beecdbe-da9d-47a2-a661-d6487fafe734.mp3?_=1767970989" length="100071832" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Avec Caroline Diament, Valérie Mairesse, Olivier Bellamy, Philippe Geluck, Bernard Mabille et Yoann Riou.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Avec Caroline Diament, Valérie Mairesse, Olivier Bellamy, Philippe Geluck, Bernard Mabille et Yoann Riou.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Avec Caroline Diament, Valérie Mairesse, Olivier Bellamy, Philippe Geluck, Bernard Mabille et Yoann Riou.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez </itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>01:44:14</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/2a54d895-ba6d-46ff-8c73-6f4c5b2a3620.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/2a54d895-ba6d-46ff-8c73-6f4c5b2a3620.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/rRCZzVw</ns3:txt>
-      <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
   </channel>
 </rss>
