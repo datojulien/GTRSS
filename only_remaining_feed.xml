@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Thu, 22 Jan 2026 17:15:39 GMT</lastBuildDate>
-    <pubDate>Thu, 22 Jan 2026 17:15:39 GMT</pubDate>
+    <lastBuildDate>Thu, 22 Jan 2026 17:59:22 GMT</lastBuildDate>
+    <pubDate>Thu, 22 Jan 2026 17:59:22 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -66,6 +66,43 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <itunes:duration>15:53</itunes:duration>
       <itunes:image href="https://static.audiomeans.fr/img/episode/6aaa744f-159e-4fbe-99c6-b8d74263bef8.jpg" />
       <ns2:image href="https://static.audiomeans.fr/img/episode/6aaa744f-159e-4fbe-99c6-b8d74263bef8.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
+    <item>
+      <title>PÉPITE - Les conseils des Grosses Têtes pour la première d'Hugo Le Van</title>
+      <guid isPermaLink="false">ff238b53-60ea-40c6-a330-f756b11a2b47</guid>
+      <description>L'humoriste a fait sa première dans l'émission ce 22 janvier 2026. Et il a récupéré de nombreux conseils...
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>L'humoriste a fait sa première dans l'émission ce 22 janvier 2026. Et il a récupéré de nombreux conseils...
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Thu, 22 Jan 2026 16:58:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/ff238b53-60ea-40c6-a330-f756b11a2b47.mp3?_=1769102881" length="3250379" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>L'humoriste a fait sa première dans l'émission ce 22 janvier 2026. Et il a récupéré de nombreux conseils...
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>L'humoriste a fait sa première dans l'émission ce 22 janvier 2026. Et il a récupéré de nombreux conseils...
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>L'humoriste a fait sa première dans l'émission ce 22 janvier 2026. Et il a récupéré de nombreux conseils...
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez </itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>03:23</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/886521b6-d4ca-4f86-8bab-8451475abbd0.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/886521b6-d4ca-4f86-8bab-8451475abbd0.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
@@ -134,8 +171,8 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <itunes:block>no</itunes:block>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>07:19</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/a0a8d288-5b0e-4f4e-95f2-6a9776ae579c.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/a0a8d288-5b0e-4f4e-95f2-6a9776ae579c.jpg" />
+      <itunes:image href="https://static.audiomeans.fr/img/episode/32545114-bb1b-4410-8b4a-601941fd11a1.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/32545114-bb1b-4410-8b4a-601941fd11a1.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/cTiLSib</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
@@ -2757,39 +2794,6 @@ Tous les jours, en podcast, retrouvez une co...</itunes:subtitle>
       <ns2:image href="https://static.audiomeans.fr/img/episode/5120be36-a982-4d37-a65a-72219d8452c1.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/faWzubp</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>BEST OF - Le meilleur de la semaine du 5 au 9 janvier 2026 (2/2)</title>
-      <guid isPermaLink="false">ba446d00-1db4-41ff-b10e-babf47650e18</guid>
-      <description>Dans ce podcast, retrouvez les meilleurs moments qui ont marqué la semaine des Grosses Têtes, du 5 au 9 janvier 2026.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Dans ce podcast, retrouvez les meilleurs moments qui ont marqué la semaine des Grosses Têtes, du 5 au 9 janvier 2026.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Sun, 11 Jan 2026 10:00:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/ba446d00-1db4-41ff-b10e-babf47650e18.mp3?_=1767977580" length="3971718" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Dans ce podcast, retrouvez les meilleurs moments qui ont marqué la semaine des Grosses Têtes, du 5 au 9 janvier 2026.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Dans ce podcast, retrouvez les meilleurs moments qui ont marqué la semaine des Grosses Têtes, du 5 au 9 janvier 2026.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Dans ce podcast, retrouvez les meilleurs moments qui ont marqué la semaine des Grosses Têtes, du 5 au 9 janvier 2026.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL
- Hébergé par Audiomeans. Visitez </itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>04:08</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/a953ea71-b407-4739-89d6-2a6a2b56d66d.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/a953ea71-b407-4739-89d6-2a6a2b56d66d.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/dDrsilR</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
