@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Fri, 23 Jan 2026 14:02:32 GMT</lastBuildDate>
-    <pubDate>Fri, 23 Jan 2026 14:02:32 GMT</pubDate>
+    <lastBuildDate>Fri, 23 Jan 2026 15:00:21 GMT</lastBuildDate>
+    <pubDate>Fri, 23 Jan 2026 15:00:21 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,45 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns3:txt>
+    <item>
+      <title>INÉDIT - Côté coulisses : "Lilly Wood and the Prick" se confient avant l'émission</title>
+      <guid isPermaLink="false">914a3b13-4174-4812-833e-e9110c6e7dd9</guid>
+      <description>Dans ce podcast inédit, Nili Hadida et Benjamin Cotto, du group "Lilly Wood and the Pricks", se confient au micro de RTL avant leur passage dans l'émission ! L'occasion d'en apprendre un peu plus sur eux, leurs projets et sur leurs souvenirs de l'émission "Les Grosses Têtes".
+
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Dans ce podcast inédit, Nili Hadida et Benjamin Cotto, du group "Lilly Wood and the Pricks", se confient au micro de RTL avant leur passage dans l'émission ! L'occasion d'en apprendre un peu plus sur eux, leurs projets et sur leurs souvenirs de l'émission "Les Grosses Têtes".
+
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Fri, 23 Jan 2026 13:30:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/914a3b13-4174-4812-833e-e9110c6e7dd9.mp3?_=1769176081" length="5540295" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Dans ce podcast inédit, Nili Hadida et Benjamin Cotto, du group "Lilly Wood and the Pricks", se confient au micro de RTL avant leur passage dans l'émission ! L'occasion d'en apprendre un peu plus sur eux, leurs projets et sur leurs souvenirs de l'émission "Les Grosses Têtes".
+
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Dans ce podcast inédit, Nili Hadida et Benjamin Cotto, du group "Lilly Wood and the Pricks", se confient au micro de RTL avant leur passage dans l'émission ! L'occasion d'en apprendre un peu plus sur eux, leurs projets et sur leurs souvenirs de l'émission "Les Grosses Têtes".
+
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Julien Bonneau</itunes:author>
+      <author>Julien Bonneau</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Dans ce podcast inédit, Nili Hadida et Benjamin Cotto, du group "Lilly Wood and the Pricks", se confient au micro de RTL avant leur passage dans l'émission ! L'occasion d'en apprendre un peu plus sur eux, leurs projets et sur leurs souvenirs de l'émission "Les Gros...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>05:46</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/4f2d60f4-a7ef-483b-a7ab-2a8d115f3924.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/4f2d60f4-a7ef-483b-a7ab-2a8d115f3924.jpg" />
+      <ns3:person role="host">Julien Bonneau</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/fIDSxsg</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>BLAGUE - Les histoires drôles du 23 janvier 2026</title>
       <guid isPermaLink="false">9b7e08d6-6d05-47a8-bc0b-c745742c885f</guid>
@@ -2805,34 +2844,6 @@ Tous les jours, en podcast, retrouvez une co...</itunes:subtitle>
       <itunes:image href="https://static.audiomeans.fr/img/episode/1ce93a68-dd92-48d2-bbcf-7af04b0be0c3.jpg" />
       <ns2:image href="https://static.audiomeans.fr/img/episode/1ce93a68-dd92-48d2-bbcf-7af04b0be0c3.jpg" />
       <ns3:txt purpose="smartlink">https://audmns.com/YQRFMxs</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>ARCHIVE - La blague de Jacques Mailhot</title>
-      <guid isPermaLink="false">199d5d01-ce31-4b83-88b4-33d69872bef7</guid>
-      <description>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Mon, 12 Jan 2026 01:00:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/199d5d01-ce31-4b83-88b4-33d69872bef7.mp3?_=1767948481" length="1163402" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !
- Hébergé par Audiomeans. Visitez </itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>01:12</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/b8d5c3b0-bf05-41b4-9e32-08c231810905.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/b8d5c3b0-bf05-41b4-9e32-08c231810905.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/GwFdsEo</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
