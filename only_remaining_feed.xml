@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Sat, 24 Jan 2026 09:53:17 GMT</lastBuildDate>
-    <pubDate>Sat, 24 Jan 2026 09:53:17 GMT</pubDate>
+    <lastBuildDate>Sat, 24 Jan 2026 10:29:01 GMT</lastBuildDate>
+    <pubDate>Sat, 24 Jan 2026 10:29:01 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,48 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns3:txt>
+    <item>
+      <title>BLAGUE - Les histoires drôles du 24 janvier 2026</title>
+      <guid isPermaLink="false">e9f0e9d1-4099-4860-b449-4fb017b7838f</guid>
+      <description>La différence subtile entre les marrons et le viagra, un conducteur un peu trop fier de conduire une 500 chevaux, et une visite instructive à la ferme... Découvrez les 3 histoires drôles du jour !
+
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>La différence subtile entre les marrons et le viagra, un conducteur un peu trop fier de conduire une 500 chevaux, et une visite instructive à la ferme... Découvrez les 3 histoires drôles du jour !
+
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Sat, 24 Jan 2026 10:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/e9f0e9d1-4099-4860-b449-4fb017b7838f.mp3?_=1768841881" length="1778901" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>La différence subtile entre les marrons et le viagra, un conducteur un peu trop fier de conduire une 500 chevaux, et une visite instructive à la ferme... Découvrez les 3 histoires drôles du jour !
+
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>La différence subtile entre les marrons et le viagra, un conducteur un peu trop fier de conduire une 500 chevaux, et une visite instructive à la ferme... Découvrez les 3 histoires drôles du jour !
+
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>La différence subtile entre les marrons et le viagra, un conducteur un peu trop fier de conduire une 500 chevaux, et une visite instructive à la ferme... Découvrez les 3 histoires drôles du jour !
+
+
+Tous les jours, en podcast, retrouvez une compilation des meilleur...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>01:51</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/a5e0d70b-91ab-4499-a602-c674d9beaf36.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/a5e0d70b-91ab-4499-a602-c674d9beaf36.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/PkJRddy</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>ARCHIVE - Jean Yanne, "100 ans de conneries" : les procès fous et les assurances</title>
       <guid isPermaLink="false">b29b9b34-04d9-4195-b2ad-54a2fc6ffd29</guid>
@@ -2779,41 +2821,6 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <ns2:image href="https://static.audiomeans.fr/img/episode/7dd66d6f-b3f8-4652-8ee7-9190adb51977.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/zdUDulQ</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>INÉDIT - Côté coulisses : Keren Ann se confie avant l'émission</title>
-      <guid isPermaLink="false">32332a78-b24c-4b55-b2de-a5a30f3bb367</guid>
-      <description>Dans ce podcast inédit, Héléna se confie au micro de RTL avant son passage dans l'émission ! L'occasion d'en apprendre un peu plus sur elle, sur ses projets et sur ses souvenirs de l'émission "Les Grosses Têtes".
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Dans ce podcast inédit, Héléna se confie au micro de RTL avant son passage dans l'émission ! L'occasion d'en apprendre un peu plus sur elle, sur ses projets et sur ses souvenirs de l'émission "Les Grosses Têtes".
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Tue, 13 Jan 2026 12:49:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/32332a78-b24c-4b55-b2de-a5a30f3bb367.mp3?_=1768308781" length="8686525" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Dans ce podcast inédit, Héléna se confie au micro de RTL avant son passage dans l'émission ! L'occasion d'en apprendre un peu plus sur elle, sur ses projets et sur ses souvenirs de l'émission "Les Grosses Têtes".
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Dans ce podcast inédit, Héléna se confie au micro de RTL avant son passage dans l'émission ! L'occasion d'en apprendre un peu plus sur elle, sur ses projets et sur ses souvenirs de l'émission "Les Grosses Têtes".
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Julien Bonneau</itunes:author>
-      <author>Julien Bonneau</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Dans ce podcast inédit, Héléna se confie au micro de RTL avant son passage dans l'émission ! L'occasion d'en apprendre un peu plus sur elle, sur ses projets et sur ses souvenirs de l'émission "Les Grosses Têtes".
-
-Retrouvez tous les jours le meilleur des Grosses T...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>09:02</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/5ac8b357-7f86-4363-8aff-a09288849529.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/5ac8b357-7f86-4363-8aff-a09288849529.jpg" />
-      <ns3:person role="host">Julien Bonneau</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/ENwXBOc</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
