@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Sat, 24 Jan 2026 04:39:49 GMT</lastBuildDate>
-    <pubDate>Sat, 24 Jan 2026 04:39:49 GMT</pubDate>
+    <lastBuildDate>Sat, 24 Jan 2026 05:00:43 GMT</lastBuildDate>
+    <pubDate>Sat, 24 Jan 2026 05:00:43 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,43 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns3:txt>
+    <item>
+      <title>ARCHIVE - Jean Yanne, "100 ans de conneries" : les procès fous et les assurances</title>
+      <guid isPermaLink="false">b29b9b34-04d9-4195-b2ad-54a2fc6ffd29</guid>
+      <description>A la fin de l'année 1999, Jean Yanne écumait les conneries reçues chaque jour...
+
+Chaque weekend en podcast, retrouvez "100 ans de conneries", par Jean Yanne. Pendant 4 mois, de septembre à décembre 1999, le sociétaire des "Grosses Têtes" tenait sur RTL une chronique quotidienne dans laquelle il faisait le bilan du siècle qui allait bientôt se terminer. Avec son humour féroce habituel, il s'est attaché à dénoncé la "connerie" humaine, vraie constante et révélatrice du XXème siècle.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>A la fin de l'année 1999, Jean Yanne écumait les conneries reçues chaque jour...
+
+Chaque weekend en podcast, retrouvez "100 ans de conneries", par Jean Yanne. Pendant 4 mois, de septembre à décembre 1999, le sociétaire des "Grosses Têtes" tenait sur RTL une chronique quotidienne dans laquelle il faisait le bilan du siècle qui allait bientôt se terminer. Avec son humour féroce habituel, il s'est attaché à dénoncé la "connerie" humaine, vraie constante et révélatrice du XXème siècle.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Sat, 24 Jan 2026 05:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/b29b9b34-04d9-4195-b2ad-54a2fc6ffd29.mp3?_=1769188381" length="2185997" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>A la fin de l'année 1999, Jean Yanne écumait les conneries reçues chaque jour...
+
+Chaque weekend en podcast, retrouvez "100 ans de conneries", par Jean Yanne. Pendant 4 mois, de septembre à décembre 1999, le sociétaire des "Grosses Têtes" tenait sur RTL une chronique quotidienne dans laquelle il faisait le bilan du siècle qui allait bientôt se terminer. Avec son humour féroce habituel, il s'est attaché à dénoncé la "connerie" humaine, vraie constante et révélatrice du XXème siècle.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>A la fin de l'année 1999, Jean Yanne écumait les conneries reçues chaque jour...
+
+Chaque weekend en podcast, retrouvez "100 ans de conneries", par Jean Yanne. Pendant 4 mois, de septembre à décembre 1999, le sociétaire des "Grosses Têtes" tenait sur RTL une chronique quotidienne dans laquelle il faisait le bilan du siècle qui allait bientôt se terminer. Avec son humour féroce habituel, il s'est attaché à dénoncé la "connerie" humaine, vraie constante et révélatrice du XXème siècle.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>A la fin de l'année 1999, Jean Yanne écumait les conneries reçues chaque jour...
+
+Chaque weekend en podcast, retrouvez "100 ans de conneries", par Jean Yanne. Pendant 4 mois, de septembre à décembre 1999, le sociétaire des "Grosses Têtes" tenait sur RTL une chroniq...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>02:16</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/5a13111d-d803-491e-b422-aac9e7575e39.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/5a13111d-d803-491e-b422-aac9e7575e39.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/mIMpOmK</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>ARCHIVE - La blague de Vincent Perrot et Bernard Mabille</title>
       <guid isPermaLink="false">302dddf1-36d2-4d90-a9ce-ec4534974b51</guid>
@@ -2777,59 +2814,6 @@ Retrouvez tous les jours le meilleur des Grosses T...</itunes:subtitle>
       <ns2:image href="https://static.audiomeans.fr/img/episode/5ac8b357-7f86-4363-8aff-a09288849529.jpg" />
       <ns3:person role="host">Julien Bonneau</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/ENwXBOc</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>BLAGUE - Les histoires drôles du 13 janvier 2026</title>
-      <guid isPermaLink="false">32380c6a-5279-407e-80bf-165d894557e5</guid>
-      <description>L'OM se dote d'un nouveau joueur irakien, un gynécologue surpris en plein adultère et Jésus en pleine partie de golf... Découvrez les 3 histoires drôles du jour !
-
-Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
-&amp;nbsp;
-
-
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>L'OM se dote d'un nouveau joueur irakien, un gynécologue surpris en plein adultère et Jésus en pleine partie de golf... Découvrez les 3 histoires drôles du jour !
-
-Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
-&amp;nbsp;
-
-
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Tue, 13 Jan 2026 10:00:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/32380c6a-5279-407e-80bf-165d894557e5.mp3?_=1768238880" length="1984899" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>L'OM se dote d'un nouveau joueur irakien, un gynécologue surpris en plein adultère et Jésus en pleine partie de golf... Découvrez les 3 histoires drôles du jour !
-
-Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
- 
-
-
-
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>L'OM se dote d'un nouveau joueur irakien, un gynécologue surpris en plein adultère et Jésus en pleine partie de golf... Découvrez les 3 histoires drôles du jour !
-
-Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
- 
-
-
-
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>L'OM se dote d'un nouveau joueur irakien, un gynécologue surpris en plein adultère et Jésus en pleine partie de golf... Découvrez les 3 histoires drôles du jour !
-
-Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes pré...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>02:03</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/32853550-f455-4e26-b12c-e99a6d73bfde.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/32853550-f455-4e26-b12c-e99a6d73bfde.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/VLGjXit</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
