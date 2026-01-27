@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Tue, 27 Jan 2026 10:00:36 GMT</lastBuildDate>
-    <pubDate>Tue, 27 Jan 2026 10:00:36 GMT</pubDate>
+    <lastBuildDate>Tue, 27 Jan 2026 11:01:45 GMT</lastBuildDate>
+    <pubDate>Tue, 27 Jan 2026 11:01:45 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,43 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns3:txt>
+    <item>
+      <title>BLAGUE - Les histoires drôles du 27 janvier 2026</title>
+      <guid isPermaLink="false">bd215474-7723-457a-b23e-08de81f2a97b</guid>
+      <description>Deux français qui regardent un match à la Coupe du Monde, un bon copain doit garder un chat et s'occuper de la grand-mère, et les débuts de relation d'un jeune couple... Découvrez les 3 histoires drôles du jour !
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Deux français qui regardent un match à la Coupe du Monde, un bon copain doit garder un chat et s'occuper de la grand-mère, et les débuts de relation d'un jeune couple... Découvrez les 3 histoires drôles du jour !
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Tue, 27 Jan 2026 10:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/bd215474-7723-457a-b23e-08de81f2a97b.mp3?_=1769434980" length="1760543" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Deux français qui regardent un match à la Coupe du Monde, un bon copain doit garder un chat et s'occuper de la grand-mère, et les débuts de relation d'un jeune couple... Découvrez les 3 histoires drôles du jour !
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Deux français qui regardent un match à la Coupe du Monde, un bon copain doit garder un chat et s'occuper de la grand-mère, et les débuts de relation d'un jeune couple... Découvrez les 3 histoires drôles du jour !
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Deux français qui regardent un match à la Coupe du Monde, un bon copain doit garder un chat et s'occuper de la grand-mère, et les débuts de relation d'un jeune couple... Découvrez les 3 histoires drôles du jour !
+
+Tous les jours, en podcast, retrouvez une compilat...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>01:49</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/4af996c4-73da-446f-8b41-9338ebdd9bac.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/4af996c4-73da-446f-8b41-9338ebdd9bac.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/StneehW</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>ARCHIVE - Les blagues de Jean-Jacques Peroni et Patrick Sébastien</title>
       <guid isPermaLink="false">44eab045-7002-4d2f-ac44-1fa96c92a971</guid>
@@ -212,6 +249,7 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <itunes:image href="https://static.audiomeans.fr/img/episode/71bd2c15-df96-4fad-981b-3c8111e5d454.jpg" />
       <ns2:image href="https://static.audiomeans.fr/img/episode/71bd2c15-df96-4fad-981b-3c8111e5d454.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/CLtfjYt</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
@@ -277,6 +315,7 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <itunes:image href="https://static.audiomeans.fr/img/episode/ba16eb20-209f-4894-beab-204fee27bd86.jpg" />
       <ns2:image href="https://static.audiomeans.fr/img/episode/ba16eb20-209f-4894-beab-204fee27bd86.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/jPswyhw</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
