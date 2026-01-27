@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Tue, 27 Jan 2026 08:45:54 GMT</lastBuildDate>
-    <pubDate>Tue, 27 Jan 2026 08:45:54 GMT</pubDate>
+    <lastBuildDate>Tue, 27 Jan 2026 09:40:43 GMT</lastBuildDate>
+    <pubDate>Tue, 27 Jan 2026 09:40:43 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -180,6 +180,41 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
+      <title>PÉPITE - Le concours des histoires drôles</title>
+      <guid isPermaLink="false">e142fb88-5ed3-4586-aab8-89cbf715c0bb</guid>
+      <description>Afin de faire gagner un voyage à un auditeur, les Grosses Têtes se lancent dans un concours d'histoires drôles.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Afin de faire gagner un voyage à un auditeur, les Grosses Têtes se lancent dans un concours d'histoires drôles.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Mon, 26 Jan 2026 16:57:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/e142fb88-5ed3-4586-aab8-89cbf715c0bb.mp3?_=1769505481" length="7841195" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Afin de faire gagner un voyage à un auditeur, les Grosses Têtes se lancent dans un concours d'histoires drôles.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Afin de faire gagner un voyage à un auditeur, les Grosses Têtes se lancent dans un concours d'histoires drôles.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Afin de faire gagner un voyage à un auditeur, les Grosses Têtes se lancent dans un concours d'histoires drôles.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez </itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>08:10</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/71bd2c15-df96-4fad-981b-3c8111e5d454.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/71bd2c15-df96-4fad-981b-3c8111e5d454.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
+    <item>
       <title>PÉPITE - Les Grosses Têtes répondent aux auditeurs</title>
       <guid isPermaLink="false">f337854e-d120-437f-9c55-57df8feb3818</guid>
       <description>Plaintes, compliments, interrogations... Cette saison encore, les Grosses Têtes répondent aux différentes questions et messages des auditeurs à l'antenne.
@@ -210,6 +245,38 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <ns2:image href="https://static.audiomeans.fr/img/episode/2e9edd64-2c9c-4948-abdb-4b3a2afaa8fb.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/JSkvliH</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
+    <item>
+      <title>IMITATIONS - Trump, Ruquier, Cordula... L'actualité vue par Marc-Antoine Le Bret</title>
+      <guid isPermaLink="false">72b07bf6-22d4-4983-958f-35bbecb27f1d</guid>
+      <description>Dans l'émission du 27 janvier, Marc-Antoine Le Bret a imité Donald Trump, Laurent Ruquier, Cristina Cordula, Renaud, Jeff Tuche et Raphaël Quenard.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Dans l'émission du 27 janvier, Marc-Antoine Le Bret a imité Donald Trump, Laurent Ruquier, Cristina Cordula, Renaud, Jeff Tuche et Raphaël Quenard.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Mon, 26 Jan 2026 16:52:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/72b07bf6-22d4-4983-958f-35bbecb27f1d.mp3?_=1769505781" length="4448350" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Dans l'émission du 27 janvier, Marc-Antoine Le Bret a imité Donald Trump, Laurent Ruquier, Cristina Cordula, Renaud, Jeff Tuche et Raphaël Quenard.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Dans l'émission du 27 janvier, Marc-Antoine Le Bret a imité Donald Trump, Laurent Ruquier, Cristina Cordula, Renaud, Jeff Tuche et Raphaël Quenard.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Dans l'émission du 27 janvier, Marc-Antoine Le Bret a imité Donald Trump, Laurent Ruquier, Cristina Cordula, Renaud, Jeff Tuche et Raphaël Quenard.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé ...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>04:37</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/ba16eb20-209f-4894-beab-204fee27bd86.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/ba16eb20-209f-4894-beab-204fee27bd86.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
@@ -2721,43 +2788,6 @@ Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de 
       <ns2:image href="https://static.audiomeans.fr/img/episode/76d7e046-7ccf-4705-879f-584762f66265.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/yktYROF</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>PÉPITE - Le meilleur de l'émission du 14 janvier 2026</title>
-      <guid isPermaLink="false">cef1a443-4135-4fb2-b81c-7b72ddbdbde7</guid>
-      <description>Le craquage complet de Sébastien Thoen, Pascal Praud et KFC, les vaches absentes du Salon de l'Agriculture... Retrouvez dans ce podcast le meilleur de l'émission du mercredi 14 janvier 2026.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Le craquage complet de Sébastien Thoen, Pascal Praud et KFC, les vaches absentes du Salon de l'Agriculture... Retrouvez dans ce podcast le meilleur de l'émission du mercredi 14 janvier 2026.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Wed, 14 Jan 2026 16:59:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/cef1a443-4135-4fb2-b81c-7b72ddbdbde7.mp3?_=1768412584" length="17350782" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Le craquage complet de Sébastien Thoen, Pascal Praud et KFC, les vaches absentes du Salon de l'Agriculture... Retrouvez dans ce podcast le meilleur de l'émission du mercredi 14 janvier 2026.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Le craquage complet de Sébastien Thoen, Pascal Praud et KFC, les vaches absentes du Salon de l'Agriculture... Retrouvez dans ce podcast le meilleur de l'émission du mercredi 14 janvier 2026.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Le craquage complet de Sébastien Thoen, Pascal Praud et KFC, les vaches absentes du Salon de l'Agriculture... Retrouvez dans ce podcast le meilleur de l'émission du mercredi 14 janvier 2026.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>18:04</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/d6955a07-852f-45ee-8c7e-887b140e9e9d.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/d6955a07-852f-45ee-8c7e-887b140e9e9d.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/ZFsCcvZ</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
