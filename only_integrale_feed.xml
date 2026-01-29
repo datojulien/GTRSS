@@ -7,8 +7,8 @@
     <description>Tous les épisodes de L'Intégrale de 'Les Grosses Têtes', regroupant la diffusion complète sans coupures ni extras.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Thu, 29 Jan 2026 16:23:51 GMT</lastBuildDate>
-    <pubDate>Thu, 29 Jan 2026 16:23:51 GMT</pubDate>
+    <lastBuildDate>Thu, 29 Jan 2026 17:24:06 GMT</lastBuildDate>
+    <pubDate>Thu, 29 Jan 2026 17:24:06 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,44 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns3:txt>
+    <item>
+      <title>L'INTÉGRALE - Émission du jeudi 29 janvier 2026</title>
+      <guid isPermaLink="false">d0f4dc68-b10d-4425-9f0f-cce959cd5dd4</guid>
+      <description>Avec Franck Ferrand, Sébastien Thoen, Christophe Beaugrand, Caroline Diament, Gaël Tchakaloff et Jeanfi Janssens.
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Avec Franck Ferrand, Sébastien Thoen, Christophe Beaugrand, Caroline Diament, Gaël Tchakaloff et Jeanfi Janssens.
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Thu, 29 Jan 2026 17:02:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/d0f4dc68-b10d-4425-9f0f-cce959cd5dd4.mp3?_=1769616795" length="101181964" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Avec Franck Ferrand, Sébastien Thoen, Christophe Beaugrand, Caroline Diament, Gaël Tchakaloff et Jeanfi Janssens.
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Avec Franck Ferrand, Sébastien Thoen, Christophe Beaugrand, Caroline Diament, Gaël Tchakaloff et Jeanfi Janssens.
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Avec Franck Ferrand, Sébastien Thoen, Christophe Beaugrand, Caroline Diament, Gaël Tchakaloff et Jeanfi Janssens.
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+ Hébergé par Audiomeans. Visitez ...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>01:45:23</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/cd34de3c-5e46-4eb5-8949-d3b764957434.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/cd34de3c-5e46-4eb5-8949-d3b764957434.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/GONplSO</ns3:txt>
+      <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>L'INTÉGRALE - Émission du mercredi 28 janvier 2026</title>
       <guid isPermaLink="false">dc85dac9-b731-4f2d-928d-ad8523e2fb0b</guid>
@@ -539,86 +577,6 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <ns2:image href="https://static.audiomeans.fr/img/episode/be1d904f-3cfe-4ced-b41c-faa285af978b.jpg" />
       <ns3:person role="host">Rachel Azria</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/iOKVMUK</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>L'INTÉGRALE - Émission du vendredi 16 janvier 2026</title>
-      <guid isPermaLink="false">877cfe85-81ee-41a3-a179-658c90f6b608</guid>
-      <description>Avec Michèle Bernier, Karine Le Marchand, Stomy Bugsy, Alexis Tramoni, Az et Philippe Geluck.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Avec Michèle Bernier, Karine Le Marchand, Stomy Bugsy, Alexis Tramoni, Az et Philippe Geluck.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Fri, 16 Jan 2026 17:02:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/877cfe85-81ee-41a3-a179-658c90f6b608.mp3?_=1768577293" length="97507630" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Avec Michèle Bernier, Karine Le Marchand, Stomy Bugsy, Alexis Tramoni, Az et Philippe Geluck.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Avec Michèle Bernier, Karine Le Marchand, Stomy Bugsy, Alexis Tramoni, Az et Philippe Geluck.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Avec Michèle Bernier, Karine Le Marchand, Stomy Bugsy, Alexis Tramoni, Az et Philippe Geluck.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez </itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>01:41:34</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/cc08f91b-f16b-4f4e-a01e-0d1039aee8e1.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/cc08f91b-f16b-4f4e-a01e-0d1039aee8e1.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/zqYsJkD</ns3:txt>
-      <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>DÉBRIEF - AZ revient sur l'émission du jour</title>
-      <guid isPermaLink="false">ac9889ef-72cb-4708-852c-3396c26288ad</guid>
-      <description>À la fin de chaque émission, retrouvez en exclusivité sur les plateformes de podcast le débrief des 2h30 d'antenne qui viennent de s'écouler, en compagnie d'une des Grosses Têtes du jour... Ce 16 janvier 2026, AZ se confie au micro de Rachel Azria.
-
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>À la fin de chaque émission, retrouvez en exclusivité sur les plateformes de podcast le débrief des 2h30 d'antenne qui viennent de s'écouler, en compagnie d'une des Grosses Têtes du jour... Ce 16 janvier 2026, AZ se confie au micro de Rachel Azria.
-
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Fri, 16 Jan 2026 17:00:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/ac9889ef-72cb-4708-852c-3396c26288ad.mp3?_=1768574881" length="10053704" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>À la fin de chaque émission, retrouvez en exclusivité sur les plateformes de podcast le débrief des 2h30 d'antenne qui viennent de s'écouler, en compagnie d'une des Grosses Têtes du jour... Ce 16 janvier 2026, AZ se confie au micro de Rachel Azria.
-
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>À la fin de chaque émission, retrouvez en exclusivité sur les plateformes de podcast le débrief des 2h30 d'antenne qui viennent de s'écouler, en compagnie d'une des Grosses Têtes du jour... Ce 16 janvier 2026, AZ se confie au micro de Rachel Azria.
-
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Rachel Azria</itunes:author>
-      <author>Rachel Azria</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>À la fin de chaque émission, retrouvez en exclusivité sur les plateformes de podcast le débrief des 2h30 d'antenne qui viennent de s'écouler, en compagnie d'une des Grosses Têtes du jour... Ce 16 janvier 2026, AZ se confie au micro de Rachel Azria.
-
-
-Retrouvez tous...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>10:28</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/52b7f941-e33f-4b3b-bcc1-4a752e451816.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/52b7f941-e33f-4b3b-bcc1-4a752e451816.jpg" />
-      <ns3:person role="host">Rachel Azria</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/REuJMfU</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
   </channel>
