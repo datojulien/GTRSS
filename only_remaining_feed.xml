@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Fri, 30 Jan 2026 09:49:17 GMT</lastBuildDate>
-    <pubDate>Fri, 30 Jan 2026 09:49:17 GMT</pubDate>
+    <lastBuildDate>Fri, 30 Jan 2026 10:43:49 GMT</lastBuildDate>
+    <pubDate>Fri, 30 Jan 2026 10:43:49 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,43 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns3:txt>
+    <item>
+      <title>BLAGUE - Les histoires drôles du 30 janvier 2026</title>
+      <guid isPermaLink="false">37bdab8a-ba36-42bb-9271-c0c7bdb68828</guid>
+      <description>Une femme qui attend son mari à la montagne, un dîner entre gens de la Wehrmacht et l'histoire folle d'un nain milliardaire fan de foot... Découvrez les 3 histoires drôles du jour !&amp;nbsp;
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&amp;nbsp;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Une femme qui attend son mari à la montagne, un dîner entre gens de la Wehrmacht et l'histoire folle d'un nain milliardaire fan de foot... Découvrez les 3 histoires drôles du jour !&amp;nbsp;
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&amp;nbsp;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Fri, 30 Jan 2026 10:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/37bdab8a-ba36-42bb-9271-c0c7bdb68828.mp3?_=1769435580" length="2107827" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Une femme qui attend son mari à la montagne, un dîner entre gens de la Wehrmacht et l'histoire folle d'un nain milliardaire fan de foot... Découvrez les 3 histoires drôles du jour ! 
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées. 
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Une femme qui attend son mari à la montagne, un dîner entre gens de la Wehrmacht et l'histoire folle d'un nain milliardaire fan de foot... Découvrez les 3 histoires drôles du jour ! 
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées. 
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Une femme qui attend son mari à la montagne, un dîner entre gens de la Wehrmacht et l'histoire folle d'un nain milliardaire fan de foot... Découvrez les 3 histoires drôles du jour ! 
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>02:11</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/51cff077-fe23-4005-b8d8-4af395ebb196.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/51cff077-fe23-4005-b8d8-4af395ebb196.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/wRtxDhm</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>ARCHIVE - La blague de Jacques Balutin</title>
       <guid isPermaLink="false">df8901b3-c9ed-4d0b-946d-c1fccb5268e2</guid>
