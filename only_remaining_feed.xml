@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Wed, 04 Feb 2026 09:27:33 GMT</lastBuildDate>
-    <pubDate>Wed, 04 Feb 2026 09:27:33 GMT</pubDate>
+    <lastBuildDate>Wed, 04 Feb 2026 10:24:44 GMT</lastBuildDate>
+    <pubDate>Wed, 04 Feb 2026 10:24:44 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,42 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns3:txt>
+    <item>
+      <title>BLAGUE - Les histoires drôles du 04 février 2026</title>
+      <guid isPermaLink="false">a2c3323d-7804-487a-8f56-0da300191ed6</guid>
+      <description>Un homme avec des défauts de prononciation rentre dans une quincaillerie, un professeur qui explique l'importance de l'alcool dans les problèmes de couple, et une femme qui trompe son mari avec un nain... Découvrez les 3 histoires drôles du jour !
+&amp;nbsp;Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Un homme avec des défauts de prononciation rentre dans une quincaillerie, un professeur qui explique l'importance de l'alcool dans les problèmes de couple, et une femme qui trompe son mari avec un nain... Découvrez les 3 histoires drôles du jour !
+&amp;nbsp;Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Wed, 04 Feb 2026 10:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/a2c3323d-7804-487a-8f56-0da300191ed6.mp3?_=1770136681" length="1999277" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Un homme avec des défauts de prononciation rentre dans une quincaillerie, un professeur qui explique l'importance de l'alcool dans les problèmes de couple, et une femme qui trompe son mari avec un nain... Découvrez les 3 histoires drôles du jour !
+ Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Un homme avec des défauts de prononciation rentre dans une quincaillerie, un professeur qui explique l'importance de l'alcool dans les problèmes de couple, et une femme qui trompe son mari avec un nain... Découvrez les 3 histoires drôles du jour !
+ Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Un homme avec des défauts de prononciation rentre dans une quincaillerie, un professeur qui explique l'importance de l'alcool dans les problèmes de couple, et une femme qui trompe son mari avec un nain... Découvrez les 3 histoires drôles du jour !
+ Tous les j...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>02:04</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/1ac08923-95fc-4df9-837e-ce9cfdcb94a1.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/1ac08923-95fc-4df9-837e-ce9cfdcb94a1.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/FXLLYCu</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>ARCHIVE - La blague de Patrick Sébastien</title>
       <guid isPermaLink="false">39aa22fe-df77-4e3b-9138-2b98d18639d1</guid>
@@ -2818,44 +2854,6 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <ns2:image href="https://static.audiomeans.fr/img/episode/1df3f438-5afb-4d65-ae7c-9d96fd591018.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/qqbifXB</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>PÉPITE - Le "Kiki Express" du 22 janvier 2026</title>
-      <guid isPermaLink="false">e1c2c00c-7709-40a7-b6f1-9e782e32cac0</guid>
-      <description>C'est une nouveauté dans "Les Grosses Têtes", le "Kiki Express" : à chaque personnalité retrouvée, l'auditeur ou l'auditrice remporte 50 euros !
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>C'est une nouveauté dans "Les Grosses Têtes", le "Kiki Express" : à chaque personnalité retrouvée, l'auditeur ou l'auditrice remporte 50 euros !
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Thu, 22 Jan 2026 16:56:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/e1c2c00c-7709-40a7-b6f1-9e782e32cac0.mp3?_=1769093882" length="7028336" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>C'est une nouveauté dans "Les Grosses Têtes", le "Kiki Express" : à chaque personnalité retrouvée, l'auditeur ou l'auditrice remporte 50 euros !
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>C'est une nouveauté dans "Les Grosses Têtes", le "Kiki Express" : à chaque personnalité retrouvée, l'auditeur ou l'auditrice remporte 50 euros !
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>C'est une nouveauté dans "Les Grosses Têtes", le "Kiki Express" : à chaque personnalité retrouvée, l'auditeur ou l'auditrice remporte 50 euros !
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>07:19</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/58f4c39a-d781-4319-99ab-9d06fab00c15.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/58f4c39a-d781-4319-99ab-9d06fab00c15.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/cTiLSib</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
