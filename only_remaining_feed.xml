@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Thu, 05 Feb 2026 13:53:38 GMT</lastBuildDate>
-    <pubDate>Thu, 05 Feb 2026 13:53:38 GMT</pubDate>
+    <lastBuildDate>Thu, 05 Feb 2026 14:52:03 GMT</lastBuildDate>
+    <pubDate>Thu, 05 Feb 2026 14:52:03 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,49 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns3:txt>
+    <item>
+      <title>INÉDIT - Le "before" de Jeanfi Janssens avant l'émission</title>
+      <guid isPermaLink="false">95a0ba01-bb86-4d7b-95ca-c336d8767aa1</guid>
+      <description>Ce jeudi 5 février 2026, Jeanfi J donne son ressenti juste avant l'émission au micro de Rachel Azria !
+
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Ce jeudi 5 février 2026, Jeanfi J donne son ressenti juste avant l'émission au micro de Rachel Azria !
+
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Thu, 05 Feb 2026 13:30:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/95a0ba01-bb86-4d7b-95ca-c336d8767aa1.mp3?_=1770299582" length="9973608" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Ce jeudi 5 février 2026, Jeanfi J donne son ressenti juste avant l'émission au micro de Rachel Azria !
+
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Ce jeudi 5 février 2026, Jeanfi J donne son ressenti juste avant l'émission au micro de Rachel Azria !
+
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Rachel Azria</itunes:author>
+      <author>Rachel Azria</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Ce jeudi 5 février 2026, Jeanfi J donne son ressenti juste avant l'émission au micro de Rachel Azria !
+
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez </itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>10:23</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/5a889097-265a-4ea0-9a5a-0f58cff3428b.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/5a889097-265a-4ea0-9a5a-0f58cff3428b.jpg" />
+      <ns3:person role="host">Rachel Azria</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/ceLxgvY</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>BLAGUE - Les histoires drôles du 05 février 2026</title>
       <guid isPermaLink="false">f849f2e4-2923-46b7-aebe-7e63fb3647ba</guid>
@@ -2789,39 +2832,6 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podca...</itunes:subt
       <ns2:image href="https://static.audiomeans.fr/img/episode/fc38dde4-5435-4b91-a0d7-4dd07e6aa360.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/hocuEzQ</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>PÉPITE - Laurent Ruquier et le nouveau numéro de Philippe Boxho</title>
-      <guid isPermaLink="false">134c1ff6-9d9f-4565-a731-25b729d474b6</guid>
-      <description>Philippe Boxho a envoyé un message à Laurent Ruquier avec son nouveau numéro français. Mais pendant un moment, l'animateur a cru à l'arnaque...
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Philippe Boxho a envoyé un message à Laurent Ruquier avec son nouveau numéro français. Mais pendant un moment, l'animateur a cru à l'arnaque...
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Fri, 23 Jan 2026 16:58:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/134c1ff6-9d9f-4565-a731-25b729d474b6.mp3?_=1769186281" length="2290801" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Philippe Boxho a envoyé un message à Laurent Ruquier avec son nouveau numéro français. Mais pendant un moment, l'animateur a cru à l'arnaque...
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Philippe Boxho a envoyé un message à Laurent Ruquier avec son nouveau numéro français. Mais pendant un moment, l'animateur a cru à l'arnaque...
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Philippe Boxho a envoyé un message à Laurent Ruquier avec son nouveau numéro français. Mais pendant un moment, l'animateur a cru à l'arnaque...
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par A...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>02:23</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/4fa55cc1-5571-41b6-b03a-033e8389e5c0.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/4fa55cc1-5571-41b6-b03a-033e8389e5c0.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/leREPpI</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
