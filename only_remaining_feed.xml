@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Fri, 06 Feb 2026 23:59:38 GMT</lastBuildDate>
-    <pubDate>Fri, 06 Feb 2026 23:59:38 GMT</pubDate>
+    <lastBuildDate>Sat, 07 Feb 2026 02:46:39 GMT</lastBuildDate>
+    <pubDate>Sat, 07 Feb 2026 02:46:39 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,34 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns3:txt>
+    <item>
+      <title>ARCHIVE - La blague de Sim</title>
+      <guid isPermaLink="false">93cd0d30-729e-45cc-833d-e23201cad094</guid>
+      <description>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Sat, 07 Feb 2026 01:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/93cd0d30-729e-45cc-833d-e23201cad094.mp3?_=1769533381" length="1157539" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !
+ Hébergé par Audiomeans. Visitez </itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>01:12</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/8806c14b-12dc-4622-bfc4-0fef2daf0fa3.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/8806c14b-12dc-4622-bfc4-0fef2daf0fa3.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/tEpdbqm</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>PÉPITE - Le meilleur de l'émission du 6 février 2026</title>
       <guid isPermaLink="false">84020564-3573-4816-b782-016a660fd670</guid>
@@ -2834,43 +2862,6 @@ Tous les jours, en podcast, retrouvez une compilat...</itunes:subtitle>
       <ns2:image href="https://static.audiomeans.fr/img/episode/04f4f080-06a4-4759-891b-ced7caf2bcfd.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/VHKrCYz</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>PÉPITE - Le meilleur de l'émission du 26 janvier 2025</title>
-      <guid isPermaLink="false">04bbdb86-9b56-41ba-9b6a-5afbd9a63caa</guid>
-      <description>Seulement deux grosses têtes pour commencer l'émission, Roselyne Bachelot une nouvelle fois moquée par son tailleur ou encore les ronflements inquiétants de Bernard Mabille... Retrouvez dans ce podcast le meilleur de l'émission du lundi 26 janvier 2026.
-
-&lt;i&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Seulement deux grosses têtes pour commencer l'émission, Roselyne Bachelot une nouvelle fois moquée par son tailleur ou encore les ronflements inquiétants de Bernard Mabille... Retrouvez dans ce podcast le meilleur de l'émission du lundi 26 janvier 2026.
-
-&lt;i&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Mon, 26 Jan 2026 16:59:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/04bbdb86-9b56-41ba-9b6a-5afbd9a63caa.mp3?_=1769433483" length="18351920" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Seulement deux grosses têtes pour commencer l'émission, Roselyne Bachelot une nouvelle fois moquée par son tailleur ou encore les ronflements inquiétants de Bernard Mabille... Retrouvez dans ce podcast le meilleur de l'émission du lundi 26 janvier 2026.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Seulement deux grosses têtes pour commencer l'émission, Roselyne Bachelot une nouvelle fois moquée par son tailleur ou encore les ronflements inquiétants de Bernard Mabille... Retrouvez dans ce podcast le meilleur de l'émission du lundi 26 janvier 2026.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Seulement deux grosses têtes pour commencer l'émission, Roselyne Bachelot une nouvelle fois moquée par son tailleur ou encore les ronflements inquiétants de Bernard Mabille... Retrouvez dans ce podcast le meilleur de l'émission du lundi 26 janvier 2026.
-
-Retrouv...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>19:06</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/3d5065ad-035d-459e-a907-1af61850c318.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/3d5065ad-035d-459e-a907-1af61850c318.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/tfwjJTz</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
