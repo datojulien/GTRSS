@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Sun, 08 Feb 2026 17:34:10 GMT</lastBuildDate>
-    <pubDate>Sun, 08 Feb 2026 17:34:10 GMT</pubDate>
+    <lastBuildDate>Sun, 08 Feb 2026 17:59:20 GMT</lastBuildDate>
+    <pubDate>Sun, 08 Feb 2026 17:59:20 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,35 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns3:txt>
+    <item>
+      <title>Les Grosses Têtes du 08 février 2026</title>
+      <guid isPermaLink="false">4a363054-f3ff-4be7-abcb-550616ab98aa</guid>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Sun, 08 Feb 2026 17:32:26 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/4a363054-f3ff-4be7-abcb-550616ab98aa.mp3?_=1770571995" length="96374894" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>01:40:23</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/b11aa6cd-4350-44a8-a2c9-f3f161b59491.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/b11aa6cd-4350-44a8-a2c9-f3f161b59491.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/fwWOozE</ns3:txt>
+      <itunes:keywords>divertissement,humour,Laurent Ruquier,culture,replay intégral</itunes:keywords>
+    </item>
     <item>
       <title>BEST OF - Le meilleur de la semaine 2 au 6 février 2026 (2/2)</title>
       <guid isPermaLink="false">759a71c0-154c-4175-af29-68fa1c0c497a</guid>
