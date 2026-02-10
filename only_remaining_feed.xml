@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Tue, 10 Feb 2026 08:00:49 GMT</lastBuildDate>
-    <pubDate>Tue, 10 Feb 2026 08:00:49 GMT</pubDate>
+    <lastBuildDate>Tue, 10 Feb 2026 09:43:53 GMT</lastBuildDate>
+    <pubDate>Tue, 10 Feb 2026 09:43:53 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -738,7 +738,7 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
-      <title>IMITATIONS - Cluzet, Bachelot, Hollande... L'actualité du 6 février vue par Marc-Antoine Le Bret</title>
+      <title>IMITATIONS - Cluzet, Bachelot, Hollande... L'actualité vue par Marc-Antoine Le Bret</title>
       <guid isPermaLink="false">7255cefc-d9dd-4fd8-9a39-b62efaa034f3</guid>
       <description>Dans l'émission du 6 février, Marc-Antoine Le Bret a imité François Cluzet, OSS 117, Roselyne Bachelot ou encore François Hollande !&amp;nbsp;
 Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
@@ -764,8 +764,8 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <itunes:block>no</itunes:block>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>05:16</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/cbda4759-a9a5-460e-aa01-2bd2ccbff62f.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/cbda4759-a9a5-460e-aa01-2bd2ccbff62f.jpg" />
+      <itunes:image href="https://static.audiomeans.fr/img/episode/df88cf44-105e-4faf-a40a-f581c292fd5f.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/df88cf44-105e-4faf-a40a-f581c292fd5f.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/huHKVkz</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
