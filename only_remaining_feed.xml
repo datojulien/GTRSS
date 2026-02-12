@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Thu, 12 Feb 2026 09:32:50 GMT</lastBuildDate>
-    <pubDate>Thu, 12 Feb 2026 09:32:50 GMT</pubDate>
+    <lastBuildDate>Thu, 12 Feb 2026 10:28:59 GMT</lastBuildDate>
+    <pubDate>Thu, 12 Feb 2026 10:28:59 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,43 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns3:txt>
+    <item>
+      <title>BLAGUE - Les histoires drôles du 12 février 2026</title>
+      <guid isPermaLink="false">8f615a28-f6e0-49b9-a591-7f492438bd78</guid>
+      <description>La doyenne d'un EPHAD donne son secret pour vivre longtemps, un homme bourré au comptoir d'un bar qui tente de séduire, et Jean-Jacques Peroni croit reconnaître son fils dans un bistrot.&amp;nbsp;
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>La doyenne d'un EPHAD donne son secret pour vivre longtemps, un homme bourré au comptoir d'un bar qui tente de séduire, et Jean-Jacques Peroni croit reconnaître son fils dans un bistrot.&amp;nbsp;
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Thu, 12 Feb 2026 10:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/8f615a28-f6e0-49b9-a591-7f492438bd78.mp3?_=1770646980" length="1953598" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>La doyenne d'un EPHAD donne son secret pour vivre longtemps, un homme bourré au comptoir d'un bar qui tente de séduire, et Jean-Jacques Peroni croit reconnaître son fils dans un bistrot. 
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>La doyenne d'un EPHAD donne son secret pour vivre longtemps, un homme bourré au comptoir d'un bar qui tente de séduire, et Jean-Jacques Peroni croit reconnaître son fils dans un bistrot. 
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>La doyenne d'un EPHAD donne son secret pour vivre longtemps, un homme bourré au comptoir d'un bar qui tente de séduire, et Jean-Jacques Peroni croit reconnaître son fils dans un bistrot. 
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures bl...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>02:02</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/ff3306c8-e68b-411e-b4be-d43c3b8e70a1.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/ff3306c8-e68b-411e-b4be-d43c3b8e70a1.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/RAzdJlF</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>ARCHIVE - La blague de Carlos</title>
       <guid isPermaLink="false">9a6ca58d-f741-4cd7-8147-fe4525c865dc</guid>
@@ -2869,34 +2906,6 @@ Chaque weekend en podcast, retrouvez "100 ans de conneries", par Jean Yanne. Pen
       <itunes:image href="https://static.audiomeans.fr/img/episode/dd5fdd11-ba9e-42a3-88c7-1f08241b9a8e.jpg" />
       <ns2:image href="https://static.audiomeans.fr/img/episode/dd5fdd11-ba9e-42a3-88c7-1f08241b9a8e.jpg" />
       <ns3:txt purpose="smartlink">https://audmns.com/YcGuLHT</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>ARCHIVE - La blague de Carlos</title>
-      <guid isPermaLink="false">473985a6-8822-4e4e-bc80-5ee2676469f8</guid>
-      <description>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Sat, 31 Jan 2026 01:00:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/473985a6-8822-4e4e-bc80-5ee2676469f8.mp3?_=1769511781" length="1464324" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !
- Hébergé par Audiomeans. Visitez </itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>01:31</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/e4f4a119-0124-4de4-aa91-188e8efd39ab.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/e4f4a119-0124-4de4-aa91-188e8efd39ab.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/uYUqRli</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
