@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Fri, 13 Feb 2026 16:57:27 GMT</lastBuildDate>
-    <pubDate>Fri, 13 Feb 2026 16:57:27 GMT</pubDate>
+    <lastBuildDate>Fri, 13 Feb 2026 17:48:22 GMT</lastBuildDate>
+    <pubDate>Fri, 13 Feb 2026 17:48:22 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,38 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns3:txt>
+    <item>
+      <title>PEPITE - Le meilleur de l'émission du 13 février 2026</title>
+      <guid isPermaLink="false">c75549eb-6d35-4b15-8c1f-28dd81b0b144</guid>
+      <description>Ines Reg invitée spéciale de l'émission, le poème d'un auditeur pour Olivier de Kersauson, les conseils amoureux de Valérie Mairesse... Retrouvez dans ce podcast le meilleur de l'émission du vendredi 13 février 2026.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Ines Reg invitée spéciale de l'émission, le poème d'un auditeur pour Olivier de Kersauson, les conseils amoureux de Valérie Mairesse... Retrouvez dans ce podcast le meilleur de l'émission du vendredi 13 février 2026.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Fri, 13 Feb 2026 16:59:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/c75549eb-6d35-4b15-8c1f-28dd81b0b144.mp3?_=1770999782" length="13930674" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Ines Reg invitée spéciale de l'émission, le poème d'un auditeur pour Olivier de Kersauson, les conseils amoureux de Valérie Mairesse... Retrouvez dans ce podcast le meilleur de l'émission du vendredi 13 février 2026.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Ines Reg invitée spéciale de l'émission, le poème d'un auditeur pour Olivier de Kersauson, les conseils amoureux de Valérie Mairesse... Retrouvez dans ce podcast le meilleur de l'émission du vendredi 13 février 2026.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Ines Reg invitée spéciale de l'émission, le poème d'un auditeur pour Olivier de Kersauson, les conseils amoureux de Valérie Mairesse... Retrouvez dans ce podcast le meilleur de l'émission du vendredi 13 février 2026.
+Retrouvez tous les jours le meilleur des Grosse...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>14:30</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/40691f5f-a54c-49d8-95ec-5dc6af476ea0.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/40691f5f-a54c-49d8-95ec-5dc6af476ea0.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/mQEVMDv</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>PÉPITE - Le texte d'un auditeur pour Olivier de Kersauson</title>
       <guid isPermaLink="false">fc16d707-be6d-4b48-af6b-bd3e90b518e8</guid>
@@ -73,6 +105,7 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <itunes:image href="https://static.audiomeans.fr/img/episode/ebbae2f6-aa41-4e63-9461-c5691d1d239c.jpg" />
       <ns2:image href="https://static.audiomeans.fr/img/episode/ebbae2f6-aa41-4e63-9461-c5691d1d239c.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/AomKmtA</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
@@ -105,6 +138,7 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <itunes:image href="https://static.audiomeans.fr/img/episode/a4c96140-4da5-47a1-a4fe-12f2356202fd.jpg" />
       <ns2:image href="https://static.audiomeans.fr/img/episode/a4c96140-4da5-47a1-a4fe-12f2356202fd.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/nEIPUBl</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
@@ -2833,81 +2867,6 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast s...</itunes:
       <ns2:image href="https://static.audiomeans.fr/img/episode/990910a8-8d29-459d-8af6-de08320fc043.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/VMUKHbG</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>PÉPITE - Les Grosses Têtes font "rouroute" avec leurs crêpes</title>
-      <guid isPermaLink="false">432f491d-76fd-48f7-85c6-e3a8295c1ef0</guid>
-      <description>C'est la chandeleur ! L'occasion pour Laurent Ruquier de faire à nouveau "Rouroute". Une tradition qui consiste à mettre la crêpe sur son visage et faire trois trous aux niveaux des yeux et de la bouche. Et les Grosses Têtes ont participé !
-
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>C'est la chandeleur ! L'occasion pour Laurent Ruquier de faire à nouveau "Rouroute". Une tradition qui consiste à mettre la crêpe sur son visage et faire trois trous aux niveaux des yeux et de la bouche. Et les Grosses Têtes ont participé !
-
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Mon, 02 Feb 2026 16:58:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/432f491d-76fd-48f7-85c6-e3a8295c1ef0.mp3?_=1770044003" length="3315411" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>C'est la chandeleur ! L'occasion pour Laurent Ruquier de faire à nouveau "Rouroute". Une tradition qui consiste à mettre la crêpe sur son visage et faire trois trous aux niveaux des yeux et de la bouche. Et les Grosses Têtes ont participé !
-
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>C'est la chandeleur ! L'occasion pour Laurent Ruquier de faire à nouveau "Rouroute". Une tradition qui consiste à mettre la crêpe sur son visage et faire trois trous aux niveaux des yeux et de la bouche. Et les Grosses Têtes ont participé !
-
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>C'est la chandeleur ! L'occasion pour Laurent Ruquier de faire à nouveau "Rouroute". Une tradition qui consiste à mettre la crêpe sur son visage et faire trois trous aux niveaux des yeux et de la bouche. Et les Grosses Têtes ont participé !
-
-
-Retrouvez tous les jou...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>03:27</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/2a9a308b-31bf-4b22-99e1-8e00a49dff3f.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/2a9a308b-31bf-4b22-99e1-8e00a49dff3f.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/normeBW</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>PÉPITE - Les Grosses Têtes répondent aux auditeurs</title>
-      <guid isPermaLink="false">a38f38f2-5991-456d-9627-9323158ba921</guid>
-      <description>Plaintes, compliments, interrogations... Cette saison encore, les Grosses Têtes répondent aux différentes questions et messages des auditeurs à l'antenne.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Plaintes, compliments, interrogations... Cette saison encore, les Grosses Têtes répondent aux différentes questions et messages des auditeurs à l'antenne.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Mon, 02 Feb 2026 16:57:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/a38f38f2-5991-456d-9627-9323158ba921.mp3?_=1770042482" length="7328879" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Plaintes, compliments, interrogations... Cette saison encore, les Grosses Têtes répondent aux différentes questions et messages des auditeurs à l'antenne.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Plaintes, compliments, interrogations... Cette saison encore, les Grosses Têtes répondent aux différentes questions et messages des auditeurs à l'antenne.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Plaintes, compliments, interrogations... Cette saison encore, les Grosses Têtes répondent aux différentes questions et messages des auditeurs à l'antenne.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- H...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>07:37</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/d1d7351c-2460-4445-a6d1-a861f5c19797.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/d1d7351c-2460-4445-a6d1-a861f5c19797.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/iYhwzEg</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
