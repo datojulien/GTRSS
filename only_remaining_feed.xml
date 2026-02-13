@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Fri, 13 Feb 2026 17:48:22 GMT</lastBuildDate>
-    <pubDate>Fri, 13 Feb 2026 17:48:22 GMT</pubDate>
+    <lastBuildDate>Fri, 13 Feb 2026 19:00:51 GMT</lastBuildDate>
+    <pubDate>Fri, 13 Feb 2026 19:00:51 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -39,7 +39,7 @@
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns3:txt>
     <item>
-      <title>PEPITE - Le meilleur de l'émission du 13 février 2026</title>
+      <title>PÉPITE - Le meilleur de l'émission du 13 février 2026</title>
       <guid isPermaLink="false">c75549eb-6d35-4b15-8c1f-28dd81b0b144</guid>
       <description>Ines Reg invitée spéciale de l'émission, le poème d'un auditeur pour Olivier de Kersauson, les conseils amoureux de Valérie Mairesse... Retrouvez dans ce podcast le meilleur de l'émission du vendredi 13 février 2026.
 Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
@@ -64,8 +64,8 @@ Retrouvez tous les jours le meilleur des Grosse...</itunes:subtitle>
       <itunes:block>no</itunes:block>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>14:30</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/40691f5f-a54c-49d8-95ec-5dc6af476ea0.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/40691f5f-a54c-49d8-95ec-5dc6af476ea0.jpg" />
+      <itunes:image href="https://static.audiomeans.fr/img/episode/c158c821-d7b4-49a5-ad40-1f40c4595926.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/c158c821-d7b4-49a5-ad40-1f40c4595926.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/mQEVMDv</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
