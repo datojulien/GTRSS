@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Sat, 14 Feb 2026 09:59:58 GMT</lastBuildDate>
-    <pubDate>Sat, 14 Feb 2026 09:59:58 GMT</pubDate>
+    <lastBuildDate>Sat, 14 Feb 2026 10:41:24 GMT</lastBuildDate>
+    <pubDate>Sat, 14 Feb 2026 10:41:24 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,43 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns3:txt>
+    <item>
+      <title>BLAGUE - Les histoires drôles du 14 février 2026</title>
+      <guid isPermaLink="false">0ca81883-b632-4620-83ca-07747d1f3b9e</guid>
+      <description>L'histoire d'un français qui se ballade dans une forêt ardennaise, un couple de belge qui souhaite absolument retapisser leur salon, et la fille de Marine Le Pen qui annonce à sa mère qu'elle a perdu sa virginité.&amp;nbsp;
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>L'histoire d'un français qui se ballade dans une forêt ardennaise, un couple de belge qui souhaite absolument retapisser leur salon, et la fille de Marine Le Pen qui annonce à sa mère qu'elle a perdu sa virginité.&amp;nbsp;
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Sat, 14 Feb 2026 10:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/0ca81883-b632-4620-83ca-07747d1f3b9e.mp3?_=1770647580" length="2797094" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>L'histoire d'un français qui se ballade dans une forêt ardennaise, un couple de belge qui souhaite absolument retapisser leur salon, et la fille de Marine Le Pen qui annonce à sa mère qu'elle a perdu sa virginité. 
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>L'histoire d'un français qui se ballade dans une forêt ardennaise, un couple de belge qui souhaite absolument retapisser leur salon, et la fille de Marine Le Pen qui annonce à sa mère qu'elle a perdu sa virginité. 
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>L'histoire d'un français qui se ballade dans une forêt ardennaise, un couple de belge qui souhaite absolument retapisser leur salon, et la fille de Marine Le Pen qui annonce à sa mère qu'elle a perdu sa virginité. 
+
+Tous les jours, en podcast, retrouvez une co...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>02:54</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/3b7c3f92-8998-4397-93b7-6a48247effa8.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/3b7c3f92-8998-4397-93b7-6a48247effa8.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/sqgxuWC</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>ARCHIVE - Jean Yanne, "100 ans de conneries" : l'âge d'or des grands-parents, vraiment ?</title>
       <guid isPermaLink="false">b00c4b3f-f599-492d-982c-dc7faa3ac9da</guid>

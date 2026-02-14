@@ -7,8 +7,8 @@
     <description>Tous les épisodes de L'Intégrale de 'Les Grosses Têtes', regroupant la diffusion complète sans coupures ni extras.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Sat, 14 Feb 2026 09:59:58 GMT</lastBuildDate>
-    <pubDate>Sat, 14 Feb 2026 09:59:58 GMT</pubDate>
+    <lastBuildDate>Sat, 14 Feb 2026 10:41:24 GMT</lastBuildDate>
+    <pubDate>Sat, 14 Feb 2026 10:41:24 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -516,44 +516,6 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <ns2:image href="https://static.audiomeans.fr/img/episode/52df5334-2c3f-41be-a722-5285c4569c9d.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/nyzVlgs</ns3:txt>
-      <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>L'INTÉGRALE - Émission du lundi 2 février 2026</title>
-      <guid isPermaLink="false">47167150-b1aa-46a9-86cb-e511e5b8c3f9</guid>
-      <description>Avec Bénabar, Philippe Claudel, Florian Gazan, Gaël Tchakaloff, Max Boublil, Laurence Boccolini et François Berléand.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Avec Bénabar, Philippe Claudel, Florian Gazan, Gaël Tchakaloff, Max Boublil, Laurence Boccolini et François Berléand.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Mon, 02 Feb 2026 17:02:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/47167150-b1aa-46a9-86cb-e511e5b8c3f9.mp3?_=1770043996" length="100954998" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Avec Bénabar, Philippe Claudel, Florian Gazan, Gaël Tchakaloff, Max Boublil, Laurence Boccolini et François Berléand.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Avec Bénabar, Philippe Claudel, Florian Gazan, Gaël Tchakaloff, Max Boublil, Laurence Boccolini et François Berléand.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Avec Bénabar, Philippe Claudel, Florian Gazan, Gaël Tchakaloff, Max Boublil, Laurence Boccolini et François Berléand.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez </itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>01:45:09</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/b615e2c5-5d4d-410a-bc01-997c44692d76.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/b615e2c5-5d4d-410a-bc01-997c44692d76.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/UOMlaWV</ns3:txt>
       <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
   </channel>
