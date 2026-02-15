@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Sun, 15 Feb 2026 16:44:36 GMT</lastBuildDate>
-    <pubDate>Sun, 15 Feb 2026 16:44:36 GMT</pubDate>
+    <lastBuildDate>Sun, 15 Feb 2026 17:13:03 GMT</lastBuildDate>
+    <pubDate>Sun, 15 Feb 2026 17:13:03 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -2872,38 +2872,6 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <ns2:image href="https://static.audiomeans.fr/img/episode/85180408-b676-4ae5-914b-0a629edfa5d8.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/ypAEfVZ</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>PÉPITE - Le meilleur de l'émission du 3 février 2026</title>
-      <guid isPermaLink="false">66cac1cf-e154-429b-82fd-a2890059fd5e</guid>
-      <description>La première de Laura Calu, les demandes folles de fan, l'auditeur qui ne s'attendait pas à recevoir une montre RTL... Retrouvez dans ce podcast le meilleur de l'émission du mardi 3 février 2026.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>La première de Laura Calu, les demandes folles de fan, l'auditeur qui ne s'attendait pas à recevoir une montre RTL... Retrouvez dans ce podcast le meilleur de l'émission du mardi 3 février 2026.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Tue, 03 Feb 2026 16:57:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/66cac1cf-e154-429b-82fd-a2890059fd5e.mp3?_=1770133982" length="12153466" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>La première de Laura Calu, les demandes folles de fan, l'auditeur qui ne s'attendait pas à recevoir une montre RTL... Retrouvez dans ce podcast le meilleur de l'émission du mardi 3 février 2026.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>La première de Laura Calu, les demandes folles de fan, l'auditeur qui ne s'attendait pas à recevoir une montre RTL... Retrouvez dans ce podcast le meilleur de l'émission du mardi 3 février 2026.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>La première de Laura Calu, les demandes folles de fan, l'auditeur qui ne s'attendait pas à recevoir une montre RTL... Retrouvez dans ce podcast le meilleur de l'émission du mardi 3 février 2026.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>12:39</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/78fe2e5b-788b-483d-b7ba-cca611af613f.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/78fe2e5b-788b-483d-b7ba-cca611af613f.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/EfmYqKS</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
