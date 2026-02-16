@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Mon, 16 Feb 2026 09:00:51 GMT</lastBuildDate>
-    <pubDate>Mon, 16 Feb 2026 09:00:51 GMT</pubDate>
+    <lastBuildDate>Mon, 16 Feb 2026 10:34:49 GMT</lastBuildDate>
+    <pubDate>Mon, 16 Feb 2026 10:34:49 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,43 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns3:txt>
+    <item>
+      <title>BLAGUE - Les histoires drôles du 16 février 2026</title>
+      <guid isPermaLink="false">10607fea-f09a-4d5e-8890-2afb6eb1b20a</guid>
+      <description>Deux potes rentrent d'une tournée des bars bien arrosée, un match très important pour l'Olympique de Marseille au stade Vélodrome et un enfant anxieux demande à ses parents s'il a été adopté.&amp;nbsp;
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Deux potes rentrent d'une tournée des bars bien arrosée, un match très important pour l'Olympique de Marseille au stade Vélodrome et un enfant anxieux demande à ses parents s'il a été adopté.&amp;nbsp;
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Mon, 16 Feb 2026 10:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/10607fea-f09a-4d5e-8890-2afb6eb1b20a.mp3?_=1770901682" length="1969908" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Deux potes rentrent d'une tournée des bars bien arrosée, un match très important pour l'Olympique de Marseille au stade Vélodrome et un enfant anxieux demande à ses parents s'il a été adopté. 
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Deux potes rentrent d'une tournée des bars bien arrosée, un match très important pour l'Olympique de Marseille au stade Vélodrome et un enfant anxieux demande à ses parents s'il a été adopté. 
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Deux potes rentrent d'une tournée des bars bien arrosée, un match très important pour l'Olympique de Marseille au stade Vélodrome et un enfant anxieux demande à ses parents s'il a été adopté. 
+
+Tous les jours, en podcast, retrouvez une compilation des meilleur...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>02:03</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/ee90bc56-da3a-4a20-bbd0-90b932429ff1.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/ee90bc56-da3a-4a20-bbd0-90b932429ff1.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/NgWUCUV</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>ARCHIVE - La blague de Jacques Balutin</title>
       <guid isPermaLink="false">519720bb-6f30-4890-ad65-21c048a8d7ee</guid>
