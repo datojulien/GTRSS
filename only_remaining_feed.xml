@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Mon, 16 Feb 2026 16:55:12 GMT</lastBuildDate>
-    <pubDate>Mon, 16 Feb 2026 16:55:12 GMT</pubDate>
+    <lastBuildDate>Mon, 16 Feb 2026 17:43:49 GMT</lastBuildDate>
+    <pubDate>Mon, 16 Feb 2026 17:43:49 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -71,7 +71,7 @@ Retrouvez tous les jours le meilleur de...</itunes:subtitle>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
-      <title>PÉPITE - Jeanfi Janssens et les coulisses des cuisines en avion</title>
+      <title>PÉPITE - Quand une passagère fait une allergie en vol à cause de Jeanfi Janssens</title>
       <guid isPermaLink="false">bb9eb7b9-0a41-4261-b761-3a582613a9fd</guid>
       <description>Entre plats réchauffés et allergies, les souvenirs des cuisines en avion de Jeanfi Janssens sont assez mouvementés...
 
@@ -107,8 +107,8 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <itunes:block>no</itunes:block>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>04:39</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/330324a1-c61d-48ce-87a6-ce7b34fffc33.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/330324a1-c61d-48ce-87a6-ce7b34fffc33.jpg" />
+      <itunes:image href="https://static.audiomeans.fr/img/episode/a835afe8-1971-4ea2-819b-335b425946c9.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/a835afe8-1971-4ea2-819b-335b425946c9.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/dXPfFpf</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
@@ -2878,39 +2878,6 @@ Retrouvez tous les jours le meil...</itunes:subtitle>
       <ns2:image href="https://static.audiomeans.fr/img/episode/b6612e39-9af9-499f-9bcb-17d839aee485.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/ANZkfwJ</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>PÉPITE - Les Grosses Têtes répondent aux auditeurs</title>
-      <guid isPermaLink="false">b211a0bf-a7c9-4168-89df-56ea93f3125e</guid>
-      <description>Plaintes, compliments, interrogations... Cette saison encore, les Grosses Têtes répondent aux différentes questions et messages des auditeurs à l'antenne.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Plaintes, compliments, interrogations... Cette saison encore, les Grosses Têtes répondent aux différentes questions et messages des auditeurs à l'antenne.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Wed, 04 Feb 2026 16:57:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/b211a0bf-a7c9-4168-89df-56ea93f3125e.mp3?_=1770214683" length="7807440" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Plaintes, compliments, interrogations... Cette saison encore, les Grosses Têtes répondent aux différentes questions et messages des auditeurs à l'antenne.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Plaintes, compliments, interrogations... Cette saison encore, les Grosses Têtes répondent aux différentes questions et messages des auditeurs à l'antenne.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Plaintes, compliments, interrogations... Cette saison encore, les Grosses Têtes répondent aux différentes questions et messages des auditeurs à l'antenne.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hé...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>08:07</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/abbc9436-ad88-4b80-b5db-840902d68b94.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/abbc9436-ad88-4b80-b5db-840902d68b94.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/WKORzLt</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
