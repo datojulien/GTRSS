@@ -7,8 +7,8 @@
     <description>Tous les épisodes de L'Intégrale de 'Les Grosses Têtes', regroupant la diffusion complète sans coupures ni extras.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Tue, 17 Feb 2026 14:56:12 GMT</lastBuildDate>
-    <pubDate>Tue, 17 Feb 2026 14:56:12 GMT</pubDate>
+    <lastBuildDate>Tue, 17 Feb 2026 17:43:26 GMT</lastBuildDate>
+    <pubDate>Tue, 17 Feb 2026 17:43:26 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,44 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns3:txt>
+    <item>
+      <title>L'INTÉGRALE - Émission du mardi 17 février 2026</title>
+      <guid isPermaLink="false">50bfbdbf-0ac2-4da5-9df6-c3588c894b5a</guid>
+      <description>Avec Laurence Fournier Beaudry &amp;amp; Guillaume Cizeron, Caroline Diament, Gérard Jugnot, Sylvie Tellier, Alexis Le Rossignol, Philippe Boxho et GuiHome.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Avec Laurence Fournier Beaudry &amp;amp; Guillaume Cizeron, Caroline Diament, Gérard Jugnot, Sylvie Tellier, Alexis Le Rossignol, Philippe Boxho et GuiHome.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Tue, 17 Feb 2026 17:02:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/50bfbdbf-0ac2-4da5-9df6-c3588c894b5a.mp3?_=1771339393" length="103265110" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Avec Laurence Fournier Beaudry &amp;amp; Guillaume Cizeron, Caroline Diament, Gérard Jugnot, Sylvie Tellier, Alexis Le Rossignol, Philippe Boxho et GuiHome.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Avec Laurence Fournier Beaudry &amp;amp; Guillaume Cizeron, Caroline Diament, Gérard Jugnot, Sylvie Tellier, Alexis Le Rossignol, Philippe Boxho et GuiHome.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Avec Laurence Fournier Beaudry &amp;amp; Guillaume Cizeron, Caroline Diament, Gérard Jugnot, Sylvie Tellier, Alexis Le Rossignol, Philippe Boxho et GuiHome.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Héb...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>01:47:33</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/59369bb6-cb3a-4375-b395-abbfc1e97047.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/59369bb6-cb3a-4375-b395-abbfc1e97047.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/YbVNBLI</ns3:txt>
+      <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>L'INTÉGRALE - Émission du lundi 16 février 2026</title>
       <guid isPermaLink="false">a5820c5f-5ae9-462b-a0ac-9ce5872a841e</guid>
@@ -439,44 +477,6 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <ns3:person role="host">Rachel Azria</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/ilcoAvd</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>L'INTÉGRALE - Émission du mercredi 4 février 2026</title>
-      <guid isPermaLink="false">7e90908c-e89a-4d01-befe-46f35c2ddc1b</guid>
-      <description>Avec Sébastien Thoen, Gérard Jugnot, Laura Calu, JeanFi Janssens, Eric Laugérias et Valérie Mairesse.
-
-&lt;i&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Avec Sébastien Thoen, Gérard Jugnot, Laura Calu, JeanFi Janssens, Eric Laugérias et Valérie Mairesse.
-
-&lt;i&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Wed, 04 Feb 2026 17:02:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/7e90908c-e89a-4d01-befe-46f35c2ddc1b.mp3?_=1770219193" length="96824281" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Avec Sébastien Thoen, Gérard Jugnot, Laura Calu, JeanFi Janssens, Eric Laugérias et Valérie Mairesse.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Avec Sébastien Thoen, Gérard Jugnot, Laura Calu, JeanFi Janssens, Eric Laugérias et Valérie Mairesse.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Avec Sébastien Thoen, Gérard Jugnot, Laura Calu, JeanFi Janssens, Eric Laugérias et Valérie Mairesse.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez </itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>01:40:51</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/ff547efe-461a-49c0-b41b-b61d0684762e.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/ff547efe-461a-49c0-b41b-b61d0684762e.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/iItwieY</ns3:txt>
-      <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
   </channel>
 </rss>
