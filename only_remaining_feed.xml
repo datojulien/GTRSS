@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Tue, 17 Feb 2026 09:33:29 GMT</lastBuildDate>
-    <pubDate>Tue, 17 Feb 2026 09:33:29 GMT</pubDate>
+    <lastBuildDate>Tue, 17 Feb 2026 10:30:24 GMT</lastBuildDate>
+    <pubDate>Tue, 17 Feb 2026 10:30:24 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,43 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns3:txt>
+    <item>
+      <title>BLAGUE - Les histoires drôles du 17 février 2026</title>
+      <guid isPermaLink="false">9fcb6da0-1597-49ba-b047-174cfb0b1f7f</guid>
+      <description>L'histoire d'un petit lapin vivant dans la savane, la différence subtile entre un campeur et un rappeur et une maîtresse d'école qui demande aux élèves ce qu'ils ont fait pendant les vacances.
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>L'histoire d'un petit lapin vivant dans la savane, la différence subtile entre un campeur et un rappeur et une maîtresse d'école qui demande aux élèves ce qu'ils ont fait pendant les vacances.
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Tue, 17 Feb 2026 10:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/9fcb6da0-1597-49ba-b047-174cfb0b1f7f.mp3?_=1770902282" length="2962969" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>L'histoire d'un petit lapin vivant dans la savane, la différence subtile entre un campeur et un rappeur et une maîtresse d'école qui demande aux élèves ce qu'ils ont fait pendant les vacances.
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>L'histoire d'un petit lapin vivant dans la savane, la différence subtile entre un campeur et un rappeur et une maîtresse d'école qui demande aux élèves ce qu'ils ont fait pendant les vacances.
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>L'histoire d'un petit lapin vivant dans la savane, la différence subtile entre un campeur et un rappeur et une maîtresse d'école qui demande aux élèves ce qu'ils ont fait pendant les vacances.
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures bl...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>03:05</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/5378692f-260a-4488-9903-029860f7000c.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/5378692f-260a-4488-9903-029860f7000c.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/MlnYVPj</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>ARCHIVE - Les blagues de Carlos et Patrick Sébastien</title>
       <guid isPermaLink="false">7a4a097d-61a6-45df-a14c-8398554287f9</guid>
@@ -2838,42 +2875,6 @@ Tous les jours, en podcast, retrouvez une compi...</itunes:subtitle>
       <ns2:image href="https://static.audiomeans.fr/img/episode/d7be20ca-c271-475d-baa6-8a177bddf85d.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/vQksTBv</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>PÉPITE - Laurent Ruquier dépité face à la nullité des Grosses Têtes</title>
-      <guid isPermaLink="false">9bf7b689-fcc5-4e9e-b2e0-10cd5500b485</guid>
-      <description>La question n'était pas si compliquée, et pourtant, les Grosses Têtes n'ont pas trouvé la réponse... Une séquence qui désole Laurent Ruquier mais qui a fait le bonheur de l'auditrice avec ses 300 euros gagnés !&amp;nbsp;
-&lt;i&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/i&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>La question n'était pas si compliquée, et pourtant, les Grosses Têtes n'ont pas trouvé la réponse... Une séquence qui désole Laurent Ruquier mais qui a fait le bonheur de l'auditrice avec ses 300 euros gagnés !&amp;nbsp;
-&lt;i&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/i&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Wed, 04 Feb 2026 16:58:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/9bf7b689-fcc5-4e9e-b2e0-10cd5500b485.mp3?_=1770218280" length="3592480" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>La question n'était pas si compliquée, et pourtant, les Grosses Têtes n'ont pas trouvé la réponse... Une séquence qui désole Laurent Ruquier mais qui a fait le bonheur de l'auditrice avec ses 300 euros gagnés ! 
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>La question n'était pas si compliquée, et pourtant, les Grosses Têtes n'ont pas trouvé la réponse... Une séquence qui désole Laurent Ruquier mais qui a fait le bonheur de l'auditrice avec ses 300 euros gagnés ! 
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>La question n'était pas si compliquée, et pourtant, les Grosses Têtes n'ont pas trouvé la réponse... Une séquence qui désole Laurent Ruquier mais qui a fait le bonheur de l'auditrice avec ses 300 euros gagnés ! 
-Retrouvez tous les jours le meilleur des Gros...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>03:44</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/716d8d5c-5251-4d37-9921-e6959ca24b7d.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/716d8d5c-5251-4d37-9921-e6959ca24b7d.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/STctJgB</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
