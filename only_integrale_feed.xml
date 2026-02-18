@@ -7,8 +7,8 @@
     <description>Tous les épisodes de L'Intégrale de 'Les Grosses Têtes', regroupant la diffusion complète sans coupures ni extras.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Wed, 18 Feb 2026 16:00:41 GMT</lastBuildDate>
-    <pubDate>Wed, 18 Feb 2026 16:00:41 GMT</pubDate>
+    <lastBuildDate>Wed, 18 Feb 2026 17:41:58 GMT</lastBuildDate>
+    <pubDate>Wed, 18 Feb 2026 17:41:58 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,44 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns3:txt>
+    <item>
+      <title>L'INTÉGRALE - Émission du mercredi 18 février 2026</title>
+      <guid isPermaLink="false">18677dbe-b278-491e-9b3d-a7f40d9d2e0d</guid>
+      <description>Avec Thomas Solivérès, Paul El Kharrat, Valérie Mairesse, Sébastien Thoen, Caroline Diament, Alexis Le Rossignol et Jeanfi Janssens.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Avec Thomas Solivérès, Paul El Kharrat, Valérie Mairesse, Sébastien Thoen, Caroline Diament, Alexis Le Rossignol et Jeanfi Janssens.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Wed, 18 Feb 2026 17:02:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/18677dbe-b278-491e-9b3d-a7f40d9d2e0d.mp3?_=1771430600" length="98944234" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Avec Thomas Solivérès, Paul El Kharrat, Valérie Mairesse, Sébastien Thoen, Caroline Diament, Alexis Le Rossignol et Jeanfi Janssens.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Avec Thomas Solivérès, Paul El Kharrat, Valérie Mairesse, Sébastien Thoen, Caroline Diament, Alexis Le Rossignol et Jeanfi Janssens.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Avec Thomas Solivérès, Paul El Kharrat, Valérie Mairesse, Sébastien Thoen, Caroline Diament, Alexis Le Rossignol et Jeanfi Janssens.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans....</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>01:43:03</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/58952594-84fe-4a9b-a656-c43e92ca3540.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/58952594-84fe-4a9b-a656-c43e92ca3540.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/UzArmLF</ns3:txt>
+      <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>L'INTÉGRALE - Émission du mardi 17 février 2026</title>
       <guid isPermaLink="false">50bfbdbf-0ac2-4da5-9df6-c3588c894b5a</guid>
@@ -405,78 +443,6 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/sSIkYuf</ns3:txt>
       <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>L'INTÉGRALE - Émission du jeudi 5 février 2026</title>
-      <guid isPermaLink="false">79b17698-c61c-4e04-8f4e-b1e58ac0452f</guid>
-      <description>Avec Michel Boujnah, JeanFi Janssens, Roselyne Bachelot, Sylvie Tellier, Sébastien Thoen, Caroline Diament et Yoann Riou !&amp;nbsp;
-&lt;i&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Avec Michel Boujnah, JeanFi Janssens, Roselyne Bachelot, Sylvie Tellier, Sébastien Thoen, Caroline Diament et Yoann Riou !&amp;nbsp;
-&lt;i&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Thu, 05 Feb 2026 17:02:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/79b17698-c61c-4e04-8f4e-b1e58ac0452f.mp3?_=1770306500" length="104452918" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Avec Michel Boujnah, JeanFi Janssens, Roselyne Bachelot, Sylvie Tellier, Sébastien Thoen, Caroline Diament et Yoann Riou ! 
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Avec Michel Boujnah, JeanFi Janssens, Roselyne Bachelot, Sylvie Tellier, Sébastien Thoen, Caroline Diament et Yoann Riou ! 
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Avec Michel Boujnah, JeanFi Janssens, Roselyne Bachelot, Sylvie Tellier, Sébastien Thoen, Caroline Diament et Yoann Riou ! 
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomean...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>01:48:48</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/481da6de-156f-483f-a696-9e7fe88c3d42.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/481da6de-156f-483f-a696-9e7fe88c3d42.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/pYhqOpn</ns3:txt>
-      <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>DÉBRIEF - Michel Boujenah revient sur l'émission du jour</title>
-      <guid isPermaLink="false">0528a63d-48ba-4786-982e-8271ce6de2b2</guid>
-      <description>À la fin de chaque émission, retrouvez en exclusivité sur les plateformes de podcast le débrief des 2h30 d'antenne qui viennent de s'écouler, en compagnie d'une des Grosses Têtes du jour... Ce jeudi 5 février 2026, Michel Boujenah se confie au micro de Rachel Azria.
-
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>À la fin de chaque émission, retrouvez en exclusivité sur les plateformes de podcast le débrief des 2h30 d'antenne qui viennent de s'écouler, en compagnie d'une des Grosses Têtes du jour... Ce jeudi 5 février 2026, Michel Boujenah se confie au micro de Rachel Azria.
-
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Thu, 05 Feb 2026 17:00:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/0528a63d-48ba-4786-982e-8271ce6de2b2.mp3?_=1770308585" length="10150732" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>À la fin de chaque émission, retrouvez en exclusivité sur les plateformes de podcast le débrief des 2h30 d'antenne qui viennent de s'écouler, en compagnie d'une des Grosses Têtes du jour... Ce jeudi 5 février 2026, Michel Boujenah se confie au micro de Rachel Azria.
-
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>À la fin de chaque émission, retrouvez en exclusivité sur les plateformes de podcast le débrief des 2h30 d'antenne qui viennent de s'écouler, en compagnie d'une des Grosses Têtes du jour... Ce jeudi 5 février 2026, Michel Boujenah se confie au micro de Rachel Azria.
-
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Rachel Azria</itunes:author>
-      <author>Rachel Azria</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>À la fin de chaque émission, retrouvez en exclusivité sur les plateformes de podcast le débrief des 2h30 d'antenne qui viennent de s'écouler, en compagnie d'une des Grosses Têtes du jour... Ce jeudi 5 février 2026, Michel Boujenah se confie au micro de Rachel Azria...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>10:34</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/b8029fdb-f2b9-427a-9dfe-2f3062551c30.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/b8029fdb-f2b9-427a-9dfe-2f3062551c30.jpg" />
-      <ns3:person role="host">Rachel Azria</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/ilcoAvd</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
   </channel>
 </rss>
