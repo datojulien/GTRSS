@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Sun, 22 Feb 2026 13:08:37 GMT</lastBuildDate>
-    <pubDate>Sun, 22 Feb 2026 13:08:37 GMT</pubDate>
+    <lastBuildDate>Sun, 22 Feb 2026 14:03:56 GMT</lastBuildDate>
+    <pubDate>Sun, 22 Feb 2026 14:03:56 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,33 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns3:txt>
+    <item>
+      <title>BEST OF - Les 10 meilleures blagues du dimanche 22 février 2026</title>
+      <guid isPermaLink="false">52b50816-36f9-47a6-a8e0-4395ce59f4b5</guid>
+      <description>Chaque dimanche, retrouvez les meilleures blagues de vos Grosses Têtes préférées. Laurent Ruquier, Caroline Diament, Isabelle Mergault... Découvrez dans ce podcast 10 des meilleures blagues passées à l'antenne et racontées par les Grosses Têtes.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Chaque dimanche, retrouvez les meilleures blagues de vos Grosses Têtes préférées. Laurent Ruquier, Caroline Diament, Isabelle Mergault... Découvrez dans ce podcast 10 des meilleures blagues passées à l'antenne et racontées par les Grosses Têtes.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Sun, 22 Feb 2026 14:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/52b50816-36f9-47a6-a8e0-4395ce59f4b5.mp3?_=1771432081" length="6758346" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Chaque dimanche, retrouvez les meilleures blagues de vos Grosses Têtes préférées. Laurent Ruquier, Caroline Diament, Isabelle Mergault... Découvrez dans ce podcast 10 des meilleures blagues passées à l'antenne et racontées par les Grosses Têtes.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Chaque dimanche, retrouvez les meilleures blagues de vos Grosses Têtes préférées. Laurent Ruquier, Caroline Diament, Isabelle Mergault... Découvrez dans ce podcast 10 des meilleures blagues passées à l'antenne et racontées par les Grosses Têtes.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>RTL</itunes:author>
+      <author>RTL</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Chaque dimanche, retrouvez les meilleures blagues de vos Grosses Têtes préférées. Laurent Ruquier, Caroline Diament, Isabelle Mergault... Découvrez dans ce podcast 10 des meilleures blagues passées à l'antenne et racontées par les Grosses Têtes.
+ Hébergé pa...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>07:02</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/6a542f5e-b484-4d9a-adc5-d0799c4e7736.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/6a542f5e-b484-4d9a-adc5-d0799c4e7736.jpg" />
+      <ns3:txt purpose="smartlink">https://audmns.com/aWOqjrk</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>ARCHIVE - Jean Yanne, "100 ans de conneries" : les vieilles publicités à la radio (2/2)</title>
       <guid isPermaLink="false">9c9712ae-fcbc-43f6-b6b2-21ddf83a9a63</guid>
