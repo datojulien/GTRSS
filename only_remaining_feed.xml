@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Tue, 24 Feb 2026 10:32:18 GMT</lastBuildDate>
-    <pubDate>Tue, 24 Feb 2026 10:32:18 GMT</pubDate>
+    <lastBuildDate>Tue, 24 Feb 2026 11:28:32 GMT</lastBuildDate>
+    <pubDate>Tue, 24 Feb 2026 11:28:32 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -566,7 +566,7 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
-      <title>ARCHIVE - Jean Yanne, "100 ans de conneries" : la vieille publicités à la radio (1/2)</title>
+      <title>ARCHIVE - Jean Yanne, "100 ans de conneries" : les vieilles publicités à la radio (1/2)</title>
       <guid isPermaLink="false">e5ae1435-2817-475a-86a1-b1c6f25692d9</guid>
       <description>Avant la radio, existait la TSF (sigle de télégraphie/téléphonie sans fil). Et dans sa chronique, Jean Yanne avait décidé de rendre hommage à l'ancien temps...
 
@@ -601,8 +601,8 @@ Chaque weekend en podcast, retrouvez "100 ans de conneries", par Jean Yanne. Pen
       <itunes:block>no</itunes:block>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>02:38</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/4e463f95-a231-4a9c-bf46-932e63ade1bf.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/4e463f95-a231-4a9c-bf46-932e63ade1bf.jpg" />
+      <itunes:image href="https://static.audiomeans.fr/img/episode/1958fee3-19d6-4402-a05c-70659ef33545.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/1958fee3-19d6-4402-a05c-70659ef33545.jpg" />
       <ns3:txt purpose="smartlink">https://audmns.com/RWuhOIQ</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
