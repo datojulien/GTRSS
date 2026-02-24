@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Tue, 24 Feb 2026 12:29:43 GMT</lastBuildDate>
-    <pubDate>Tue, 24 Feb 2026 12:29:43 GMT</pubDate>
+    <lastBuildDate>Tue, 24 Feb 2026 13:59:28 GMT</lastBuildDate>
+    <pubDate>Tue, 24 Feb 2026 13:59:28 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,48 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns3:txt>
+    <item>
+      <title>INÉDIT - Côté coulisses : Mathieu Des Longchamps se confie avant l'émission</title>
+      <guid isPermaLink="false">3680a683-ac70-43ed-b14f-1321cbb1bb47</guid>
+      <description>Dans ce podcast inédit, Mathieu Des Longchamps se confie au micro de RTL avant son passage dans l'émission ! L'occasion d'en apprendre un peu plus sur lui, sur ses projets et sur ses souvenirs de l'émission "Les Grosses Têtes".
+
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Dans ce podcast inédit, Mathieu Des Longchamps se confie au micro de RTL avant son passage dans l'émission ! L'occasion d'en apprendre un peu plus sur lui, sur ses projets et sur ses souvenirs de l'émission "Les Grosses Têtes".
+
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Tue, 24 Feb 2026 13:30:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/3680a683-ac70-43ed-b14f-1321cbb1bb47.mp3?_=1771936982" length="6715904" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Dans ce podcast inédit, Mathieu Des Longchamps se confie au micro de RTL avant son passage dans l'émission ! L'occasion d'en apprendre un peu plus sur lui, sur ses projets et sur ses souvenirs de l'émission "Les Grosses Têtes".
+
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Dans ce podcast inédit, Mathieu Des Longchamps se confie au micro de RTL avant son passage dans l'émission ! L'occasion d'en apprendre un peu plus sur lui, sur ses projets et sur ses souvenirs de l'émission "Les Grosses Têtes".
+
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Julien Bonneau</itunes:author>
+      <author>Julien Bonneau</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Dans ce podcast inédit, Mathieu Des Longchamps se confie au micro de RTL avant son passage dans l'émission ! L'occasion d'en apprendre un peu plus sur lui, sur ses projets et sur ses souvenirs de l'émission "Les Grosses Têtes".
+
+
+Retrouvez tous les jours le meilleu...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>06:59</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/f8beb8c7-6bf4-4e52-a46b-758bf8fc4976.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/f8beb8c7-6bf4-4e52-a46b-758bf8fc4976.jpg" />
+      <ns3:person role="host">Julien Bonneau</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/OHmvccj</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>BLAGUE - Les histoires drôles du 24 février 2026</title>
       <guid isPermaLink="false">d41c55be-0153-43f8-a59a-c0a59e906894</guid>
@@ -2912,39 +2954,6 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <ns2:image href="https://static.audiomeans.fr/img/episode/989304d5-d893-4f8b-9873-cadf737e55f3.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/yIfjUrF</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>PÉPITE - Le "Qui Qui Express" du 11 février 2026</title>
-      <guid isPermaLink="false">c3a55418-da09-43e8-8db1-c0b72258f874</guid>
-      <description>C'est une nouveauté dans "Les Grosses Têtes", le "Qui Qui Express" : à chaque personnalité retrouvée, l'auditeur ou l'auditrice remporte 50 euros !
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>C'est une nouveauté dans "Les Grosses Têtes", le "Qui Qui Express" : à chaque personnalité retrouvée, l'auditeur ou l'auditrice remporte 50 euros !
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Wed, 11 Feb 2026 16:56:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/c3a55418-da09-43e8-8db1-c0b72258f874.mp3?_=1770799684" length="6114690" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>C'est une nouveauté dans "Les Grosses Têtes", le "Qui Qui Express" : à chaque personnalité retrouvée, l'auditeur ou l'auditrice remporte 50 euros !
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>C'est une nouveauté dans "Les Grosses Têtes", le "Qui Qui Express" : à chaque personnalité retrouvée, l'auditeur ou l'auditrice remporte 50 euros !
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>C'est une nouveauté dans "Les Grosses Têtes", le "Qui Qui Express" : à chaque personnalité retrouvée, l'auditeur ou l'auditrice remporte 50 euros !
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé ...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>06:22</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/5d490595-5474-467c-b2cd-5f5329a93a03.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/5d490595-5474-467c-b2cd-5f5329a93a03.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/snkFQjA</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
