@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Wed, 25 Feb 2026 16:49:45 GMT</lastBuildDate>
-    <pubDate>Wed, 25 Feb 2026 16:49:45 GMT</pubDate>
+    <lastBuildDate>Wed, 25 Feb 2026 18:04:34 GMT</lastBuildDate>
+    <pubDate>Wed, 25 Feb 2026 18:04:34 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -39,6 +39,38 @@
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns3:txt>
     <item>
+      <title>PÉPITE - Le meilleur de l'émission du 25 février 2026</title>
+      <guid isPermaLink="false">5272f889-62c0-4e47-ac56-b9c7a89ea247</guid>
+      <description>Richard Orlinski bientôt au Musée Grévin, les moqueries de Laurent Ruquier, l'homme idéal des Grosses Têtes selon Valérie Mairesse... Retrouvez dans ce podcast le meilleur de l'émission du mercredi 25 février 2026.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Richard Orlinski bientôt au Musée Grévin, les moqueries de Laurent Ruquier, l'homme idéal des Grosses Têtes selon Valérie Mairesse... Retrouvez dans ce podcast le meilleur de l'émission du mercredi 25 février 2026.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Wed, 25 Feb 2026 16:59:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/5272f889-62c0-4e47-ac56-b9c7a89ea247.mp3?_=1772033882" length="15289036" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Richard Orlinski bientôt au Musée Grévin, les moqueries de Laurent Ruquier, l'homme idéal des Grosses Têtes selon Valérie Mairesse... Retrouvez dans ce podcast le meilleur de l'émission du mercredi 25 février 2026.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Richard Orlinski bientôt au Musée Grévin, les moqueries de Laurent Ruquier, l'homme idéal des Grosses Têtes selon Valérie Mairesse... Retrouvez dans ce podcast le meilleur de l'émission du mercredi 25 février 2026.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Richard Orlinski bientôt au Musée Grévin, les moqueries de Laurent Ruquier, l'homme idéal des Grosses Têtes selon Valérie Mairesse... Retrouvez dans ce podcast le meilleur de l'émission du mercredi 25 février 2026.
+Retrouvez tous les jours le meilleur des Grosses T...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>15:55</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/83b237fb-ed51-4be5-91ef-42c6b8cc3bcd.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/83b237fb-ed51-4be5-91ef-42c6b8cc3bcd.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/nPULnAH</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
+    <item>
       <title>PÉPITE - Richard Orlinski bientôt au Musée Grévin et chambré par Laurent Ruquier</title>
       <guid isPermaLink="false">a3960620-2124-472b-b889-8c711dd5ed00</guid>
       <description>Dans quelques jours, Richard Orlinski fera son entrée au Musée Grévin. Mais apparemment, les Grosses Têtes et Laurent Ruquier émettent quelques réserves...
@@ -49,7 +81,7 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
 
 
 Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Wed, 25 Feb 2026 15:43:00 GMT</pubDate>
+      <pubDate>Wed, 25 Feb 2026 16:58:00 GMT</pubDate>
       <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/a3960620-2124-472b-b889-8c711dd5ed00.mp3?_=1772034481" length="6483813" type="audio/mpeg" />
       <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
       <itunes:summary>Dans quelques jours, Richard Orlinski fera son entrée au Musée Grévin. Mais apparemment, les Grosses Têtes et Laurent Ruquier émettent quelques réserves...
@@ -75,8 +107,8 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <itunes:block>no</itunes:block>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>06:45</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/52714aa2-b3dd-480e-be7a-8449ea87f9eb.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/52714aa2-b3dd-480e-be7a-8449ea87f9eb.jpg" />
+      <itunes:image href="https://static.audiomeans.fr/img/episode/6e9010f3-1575-4917-b69b-aad920689d49.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/6e9010f3-1575-4917-b69b-aad920689d49.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/vEYAEYB</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
@@ -88,7 +120,7 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
 Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
       <ns4:encoded>Plaintes, compliments, interrogations... Cette saison encore, les Grosses Têtes répondent aux différentes questions et messages des auditeurs à l'antenne.
 Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Wed, 25 Feb 2026 15:35:00 GMT</pubDate>
+      <pubDate>Wed, 25 Feb 2026 16:57:00 GMT</pubDate>
       <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/1e87b74a-cab2-469b-b2ab-7338c5f9f01e.mp3?_=1772028482" length="7175944" type="audio/mpeg" />
       <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
       <itunes:summary>Plaintes, compliments, interrogations... Cette saison encore, les Grosses Têtes répondent aux différentes questions et messages des auditeurs à l'antenne.
@@ -108,10 +140,108 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <itunes:block>no</itunes:block>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>07:28</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/178db1a9-3619-4dd1-b60a-d69c184f884b.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/178db1a9-3619-4dd1-b60a-d69c184f884b.jpg" />
+      <itunes:image href="https://static.audiomeans.fr/img/episode/d62a4c4e-0c1b-4e68-9e1e-f1d80917734a.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/d62a4c4e-0c1b-4e68-9e1e-f1d80917734a.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/ewrbZKU</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
+    <item>
+      <title>PÉPITE - Le "Qui Qui Express" du 25 février 2026</title>
+      <guid isPermaLink="false">fa8b6f00-76de-4d6b-a827-fbc466634ebb</guid>
+      <description>C'est une nouveauté dans "Les Grosses Têtes", le "Qui Qui Express" : à chaque personnalité retrouvée, l'auditeur ou l'auditrice remporte 50 euros !
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>C'est une nouveauté dans "Les Grosses Têtes", le "Qui Qui Express" : à chaque personnalité retrouvée, l'auditeur ou l'auditrice remporte 50 euros !
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Wed, 25 Feb 2026 16:56:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/fa8b6f00-76de-4d6b-a827-fbc466634ebb.mp3?_=1772028483" length="6720312" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>C'est une nouveauté dans "Les Grosses Têtes", le "Qui Qui Express" : à chaque personnalité retrouvée, l'auditeur ou l'auditrice remporte 50 euros !
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>C'est une nouveauté dans "Les Grosses Têtes", le "Qui Qui Express" : à chaque personnalité retrouvée, l'auditeur ou l'auditrice remporte 50 euros !
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>C'est une nouveauté dans "Les Grosses Têtes", le "Qui Qui Express" : à chaque personnalité retrouvée, l'auditeur ou l'auditrice remporte 50 euros !
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé ...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>06:59</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/a6ea2448-3a5f-4d10-8843-d75a1428f901.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/a6ea2448-3a5f-4d10-8843-d75a1428f901.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/xcExWFi</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
+    <item>
+      <title>FAKE NEWS - Mercredi 25 février 2026</title>
+      <guid isPermaLink="false">d6faf632-c34f-459b-8908-a3f4f06bb5a4</guid>
+      <description>Et vous, saurez-vous démêler le vrai du faux ?
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Et vous, saurez-vous démêler le vrai du faux ?
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Wed, 25 Feb 2026 16:55:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/d6faf632-c34f-459b-8908-a3f4f06bb5a4.mp3?_=1772028481" length="8516057" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Et vous, saurez-vous démêler le vrai du faux ?
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Et vous, saurez-vous démêler le vrai du faux ?
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Et vous, saurez-vous démêler le vrai du faux ?
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.f...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>08:52</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/60b6c221-f269-40a6-845e-40121694e9db.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/60b6c221-f269-40a6-845e-40121694e9db.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/MFPwoWd</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
+    <item>
+      <title>IMITATIONS - Deschamps, Zidane, Dubosc... L'actualité vue par Marc-Antoine Le Bret</title>
+      <guid isPermaLink="false">0adec3a2-d650-4c98-a766-f36fec0af71e</guid>
+      <description>Dans l'émission du 25 février, Marc-Antoine Le Bret a imité Didier Deschamps, Zinédine Zidane, Franck Dubosc, Tibo InShape et Jean-Marc, le singe de Jeff Panacloc.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Dans l'émission du 25 février, Marc-Antoine Le Bret a imité Didier Deschamps, Zinédine Zidane, Franck Dubosc, Tibo InShape et Jean-Marc, le singe de Jeff Panacloc.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Wed, 25 Feb 2026 16:52:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/0adec3a2-d650-4c98-a766-f36fec0af71e.mp3?_=1772030281" length="3800967" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Dans l'émission du 25 février, Marc-Antoine Le Bret a imité Didier Deschamps, Zinédine Zidane, Franck Dubosc, Tibo InShape et Jean-Marc, le singe de Jeff Panacloc.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Dans l'émission du 25 février, Marc-Antoine Le Bret a imité Didier Deschamps, Zinédine Zidane, Franck Dubosc, Tibo InShape et Jean-Marc, le singe de Jeff Panacloc.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Dans l'émission du 25 février, Marc-Antoine Le Bret a imité Didier Deschamps, Zinédine Zidane, Franck Dubosc, Tibo InShape et Jean-Marc, le singe de Jeff Panacloc.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>03:57</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/46ff9898-6b4c-4489-ac9f-537e952d332d.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/46ff9898-6b4c-4489-ac9f-537e952d332d.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/waTbVzu</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
@@ -2793,142 +2923,6 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <ns2:image href="https://static.audiomeans.fr/img/episode/9e49a2cd-24cd-4a24-9fb4-2667696d2af2.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/kGKYIDC</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>FAKE NEWS - Vendredi 13 février 2026</title>
-      <guid isPermaLink="false">03b14d55-a686-4153-a0be-81b63824d6b2</guid>
-      <description>Et vous, saurez-vous démêler le vrai du faux ?
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Et vous, saurez-vous démêler le vrai du faux ?
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Fri, 13 Feb 2026 16:00:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/03b14d55-a686-4153-a0be-81b63824d6b2.mp3?_=1770996481" length="8497249" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Et vous, saurez-vous démêler le vrai du faux ?
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Et vous, saurez-vous démêler le vrai du faux ?
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Et vous, saurez-vous démêler le vrai du faux ?
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.f...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>08:51</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/a62083d4-dc31-40e2-a541-44807f99c742.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/a62083d4-dc31-40e2-a541-44807f99c742.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/fNREWMK</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>BLAGUE - Les histoires drôles du 13 février 2026</title>
-      <guid isPermaLink="false">7e519829-efd9-4931-be9e-43384e6aa7bb</guid>
-      <description>Le petit chaperon rouge va apporter une galette à sa grand-mère, deux hommes pendant la Seconde Guerre Mondiale tentent de tuer Adolf Hitler et un imprimeur égyptien qui hésite sur l'orthographe d'un mot.
-
-Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
-
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Le petit chaperon rouge va apporter une galette à sa grand-mère, deux hommes pendant la Seconde Guerre Mondiale tentent de tuer Adolf Hitler et un imprimeur égyptien qui hésite sur l'orthographe d'un mot.
-
-Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
-
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Fri, 13 Feb 2026 10:00:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/7e519829-efd9-4931-be9e-43384e6aa7bb.mp3?_=1770647282" length="2007121" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Le petit chaperon rouge va apporter une galette à sa grand-mère, deux hommes pendant la Seconde Guerre Mondiale tentent de tuer Adolf Hitler et un imprimeur égyptien qui hésite sur l'orthographe d'un mot.
-
-Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
-
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Le petit chaperon rouge va apporter une galette à sa grand-mère, deux hommes pendant la Seconde Guerre Mondiale tentent de tuer Adolf Hitler et un imprimeur égyptien qui hésite sur l'orthographe d'un mot.
-
-Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
-
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Le petit chaperon rouge va apporter une galette à sa grand-mère, deux hommes pendant la Seconde Guerre Mondiale tentent de tuer Adolf Hitler et un imprimeur égyptien qui hésite sur l'orthographe d'un mot.
-
-Tous les jours, en podcast, retrouvez une compilation des m...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>02:05</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/8be9a095-3ce7-45fe-8658-8cb5cdcdd5f0.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/8be9a095-3ce7-45fe-8658-8cb5cdcdd5f0.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/DdAFEYS</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>ARCHIVE - Les blagues de Pierre Bellemare et Vincent Perrot</title>
-      <guid isPermaLink="false">92e25d3b-7d30-4e2e-9d73-bc7a6f1d2580</guid>
-      <description>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Fri, 13 Feb 2026 01:00:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/92e25d3b-7d30-4e2e-9d73-bc7a6f1d2580.mp3?_=1770646080" length="1364879" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !
- Hébergé par Audiomeans. Visitez </itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>01:25</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/1a80d52d-fc71-42f4-af7f-78901546b44a.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/1a80d52d-fc71-42f4-af7f-78901546b44a.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/NmhuBNJ</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>PÉPITE - Le meilleur de l'émission du 12 février 2026</title>
-      <guid isPermaLink="false">f03821ff-206a-4573-b7c6-51f7c0e48051</guid>
-      <description>Olivier de Kersauson qui ne supporte plus Darie Boutboul, les tatouages des Grosses Têtes ou encore la chanteuse Marine qui se fait tacler par Sébastien Thoen, retrouvez dans ce podcast le meilleur de l'émission du jeudi 12 février 2026.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Olivier de Kersauson qui ne supporte plus Darie Boutboul, les tatouages des Grosses Têtes ou encore la chanteuse Marine qui se fait tacler par Sébastien Thoen, retrouvez dans ce podcast le meilleur de l'émission du jeudi 12 février 2026.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Thu, 12 Feb 2026 16:59:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/f03821ff-206a-4573-b7c6-51f7c0e48051.mp3?_=1770914582" length="15373093" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Olivier de Kersauson qui ne supporte plus Darie Boutboul, les tatouages des Grosses Têtes ou encore la chanteuse Marine qui se fait tacler par Sébastien Thoen, retrouvez dans ce podcast le meilleur de l'émission du jeudi 12 février 2026.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Olivier de Kersauson qui ne supporte plus Darie Boutboul, les tatouages des Grosses Têtes ou encore la chanteuse Marine qui se fait tacler par Sébastien Thoen, retrouvez dans ce podcast le meilleur de l'émission du jeudi 12 février 2026.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Olivier de Kersauson qui ne supporte plus Darie Boutboul, les tatouages des Grosses Têtes ou encore la chanteuse Marine qui se fait tacler par Sébastien Thoen, retrouvez dans ce podcast le meilleur de l'émission du jeudi 12 février 2026.
-Retrouvez tous les jours l...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>16:00</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/9df99a37-2420-4632-a53d-98cad4123e2b.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/9df99a37-2420-4632-a53d-98cad4123e2b.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/VoKYJpm</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
