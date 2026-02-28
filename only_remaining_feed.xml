@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Sat, 28 Feb 2026 16:35:34 GMT</lastBuildDate>
-    <pubDate>Sat, 28 Feb 2026 16:35:34 GMT</pubDate>
+    <lastBuildDate>Sat, 28 Feb 2026 16:58:57 GMT</lastBuildDate>
+    <pubDate>Sat, 28 Feb 2026 16:58:57 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -2886,49 +2886,6 @@ Retrouvez tous les jours le meilleur de...</itunes:subtitle>
       <ns2:image href="https://static.audiomeans.fr/img/episode/6d595eaf-700d-4d57-8e57-27d1f68d6de7.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/GFjLwMN</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>PÉPITE - Quand une passagère fait une allergie en vol à cause de Jeanfi Janssens</title>
-      <guid isPermaLink="false">bb9eb7b9-0a41-4261-b761-3a582613a9fd</guid>
-      <description>Entre plats réchauffés et allergies, les souvenirs des cuisines en avion de Jeanfi Janssens sont assez mouvementés...
-
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Entre plats réchauffés et allergies, les souvenirs des cuisines en avion de Jeanfi Janssens sont assez mouvementés...
-
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Mon, 16 Feb 2026 16:58:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/bb9eb7b9-0a41-4261-b761-3a582613a9fd.mp3?_=1771251482" length="4480023" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Entre plats réchauffés et allergies, les souvenirs des cuisines en avion de Jeanfi Janssens sont assez mouvementés...
-
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Entre plats réchauffés et allergies, les souvenirs des cuisines en avion de Jeanfi Janssens sont assez mouvementés...
-
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Entre plats réchauffés et allergies, les souvenirs des cuisines en avion de Jeanfi Janssens sont assez mouvementés...
-
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez </itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>04:39</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/a835afe8-1971-4ea2-819b-335b425946c9.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/a835afe8-1971-4ea2-819b-335b425946c9.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/dXPfFpf</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
