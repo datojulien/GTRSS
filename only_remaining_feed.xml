@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Sun, 01 Mar 2026 14:00:43 GMT</lastBuildDate>
-    <pubDate>Sun, 01 Mar 2026 14:00:43 GMT</pubDate>
+    <lastBuildDate>Sun, 01 Mar 2026 14:57:39 GMT</lastBuildDate>
+    <pubDate>Sun, 01 Mar 2026 14:57:39 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,33 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns3:txt>
+    <item>
+      <title>BEST OF - Les 10 meilleures blagues du dimanche 1er mars 2026</title>
+      <guid isPermaLink="false">2046b8ee-3966-41ec-9239-4a07ac82c4b5</guid>
+      <description>Chaque dimanche, retrouvez les meilleures blagues de vos Grosses Têtes préférées. Laurent Ruquier, Caroline Diament, Isabelle Mergault... Découvrez dans ce podcast 10 des meilleures blagues passées à l'antenne et racontées par les Grosses Têtes.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Chaque dimanche, retrouvez les meilleures blagues de vos Grosses Têtes préférées. Laurent Ruquier, Caroline Diament, Isabelle Mergault... Découvrez dans ce podcast 10 des meilleures blagues passées à l'antenne et racontées par les Grosses Têtes.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Sun, 01 Mar 2026 14:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/2046b8ee-3966-41ec-9239-4a07ac82c4b5.mp3?_=1771432082" length="6667581" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Chaque dimanche, retrouvez les meilleures blagues de vos Grosses Têtes préférées. Laurent Ruquier, Caroline Diament, Isabelle Mergault... Découvrez dans ce podcast 10 des meilleures blagues passées à l'antenne et racontées par les Grosses Têtes.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Chaque dimanche, retrouvez les meilleures blagues de vos Grosses Têtes préférées. Laurent Ruquier, Caroline Diament, Isabelle Mergault... Découvrez dans ce podcast 10 des meilleures blagues passées à l'antenne et racontées par les Grosses Têtes.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>RTL</itunes:author>
+      <author>RTL</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Chaque dimanche, retrouvez les meilleures blagues de vos Grosses Têtes préférées. Laurent Ruquier, Caroline Diament, Isabelle Mergault... Découvrez dans ce podcast 10 des meilleures blagues passées à l'antenne et racontées par les Grosses Têtes.
+ Hébergé pa...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>06:56</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/33430852-add7-4d80-a790-7e69441c8e3a.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/33430852-add7-4d80-a790-7e69441c8e3a.jpg" />
+      <ns3:txt purpose="smartlink">https://audmns.com/FsTXfZB</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>BEST OF - Le meilleur de la semaine du 23 au 27 février 2026 (2/2)</title>
       <guid isPermaLink="false">602a0856-df6c-40e5-bdc6-7f694ffff7aa</guid>
@@ -2886,43 +2913,6 @@ Retrouvez tous les jours le meilleur des Grosses Tê...</itunes:subtitle>
       <ns2:image href="https://static.audiomeans.fr/img/episode/d21b3aec-497d-4aa5-919c-a604b63e864a.jpg" />
       <ns3:person role="host">Julien Bonneau</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/aTtEgcY</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>BLAGUE - Les histoires drôles du 17 février 2026</title>
-      <guid isPermaLink="false">9fcb6da0-1597-49ba-b047-174cfb0b1f7f</guid>
-      <description>L'histoire d'un petit lapin vivant dans la savane, la différence subtile entre un campeur et un rappeur et une maîtresse d'école qui demande aux élèves ce qu'ils ont fait pendant les vacances.
-
-Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>L'histoire d'un petit lapin vivant dans la savane, la différence subtile entre un campeur et un rappeur et une maîtresse d'école qui demande aux élèves ce qu'ils ont fait pendant les vacances.
-
-Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Tue, 17 Feb 2026 10:00:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/9fcb6da0-1597-49ba-b047-174cfb0b1f7f.mp3?_=1770902282" length="2962969" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>L'histoire d'un petit lapin vivant dans la savane, la différence subtile entre un campeur et un rappeur et une maîtresse d'école qui demande aux élèves ce qu'ils ont fait pendant les vacances.
-
-Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>L'histoire d'un petit lapin vivant dans la savane, la différence subtile entre un campeur et un rappeur et une maîtresse d'école qui demande aux élèves ce qu'ils ont fait pendant les vacances.
-
-Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>L'histoire d'un petit lapin vivant dans la savane, la différence subtile entre un campeur et un rappeur et une maîtresse d'école qui demande aux élèves ce qu'ils ont fait pendant les vacances.
-
-Tous les jours, en podcast, retrouvez une compilation des meilleures bl...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>03:05</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/5378692f-260a-4488-9903-029860f7000c.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/5378692f-260a-4488-9903-029860f7000c.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/MlnYVPj</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
