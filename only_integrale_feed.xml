@@ -7,8 +7,8 @@
     <description>Tous les épisodes de L'Intégrale de 'Les Grosses Têtes', regroupant la diffusion complète sans coupures ni extras.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Tue, 03 Mar 2026 16:58:17 GMT</lastBuildDate>
-    <pubDate>Tue, 03 Mar 2026 16:58:17 GMT</pubDate>
+    <lastBuildDate>Tue, 03 Mar 2026 17:53:33 GMT</lastBuildDate>
+    <pubDate>Tue, 03 Mar 2026 17:53:33 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,44 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns3:txt>
+    <item>
+      <title>L'INTÉGRALE - Émission du mardi 3 mars 2026</title>
+      <guid isPermaLink="false">a1759ac4-a48f-4ae2-8ce9-047a6ead1225</guid>
+      <description>Avec Christophe Beaugrand, Sébastien Thoen, Paul El Kharrat, Karine Le Marchand, Laurent Baffie et Valérie Mairesse.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Avec Christophe Beaugrand, Sébastien Thoen, Paul El Kharrat, Karine Le Marchand, Laurent Baffie et Valérie Mairesse.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Tue, 03 Mar 2026 17:02:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/a1759ac4-a48f-4ae2-8ce9-047a6ead1225.mp3?_=1772550518" length="98519960" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Avec Christophe Beaugrand, Sébastien Thoen, Paul El Kharrat, Karine Le Marchand, Laurent Baffie et Valérie Mairesse.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Avec Christophe Beaugrand, Sébastien Thoen, Paul El Kharrat, Karine Le Marchand, Laurent Baffie et Valérie Mairesse.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Avec Christophe Beaugrand, Sébastien Thoen, Paul El Kharrat, Karine Le Marchand, Laurent Baffie et Valérie Mairesse.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez </itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>01:42:37</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/01d28e37-3bf1-49df-8a20-eb00b2444b46.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/01d28e37-3bf1-49df-8a20-eb00b2444b46.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/oAklyma</ns3:txt>
+      <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>L'INTÉGRALE - Émission du lundi 2 mars 2026</title>
       <guid isPermaLink="false">f7aedb1d-88af-4634-8516-d0bd79d286c8</guid>
@@ -504,44 +542,6 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <ns2:image href="https://static.audiomeans.fr/img/episode/d92d432a-03e1-4ce5-afaa-3602f2f15bb0.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/zCHSVMy</ns3:txt>
-      <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>L'INTÉGRALE - Émission du mercredi 18 février 2026</title>
-      <guid isPermaLink="false">18677dbe-b278-491e-9b3d-a7f40d9d2e0d</guid>
-      <description>Avec Thomas Solivérès, Paul El Kharrat, Valérie Mairesse, Sébastien Thoen, Caroline Diament, Alexis Le Rossignol et Jeanfi Janssens.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Avec Thomas Solivérès, Paul El Kharrat, Valérie Mairesse, Sébastien Thoen, Caroline Diament, Alexis Le Rossignol et Jeanfi Janssens.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Wed, 18 Feb 2026 17:02:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/18677dbe-b278-491e-9b3d-a7f40d9d2e0d.mp3?_=1771430600" length="98944234" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Avec Thomas Solivérès, Paul El Kharrat, Valérie Mairesse, Sébastien Thoen, Caroline Diament, Alexis Le Rossignol et Jeanfi Janssens.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Avec Thomas Solivérès, Paul El Kharrat, Valérie Mairesse, Sébastien Thoen, Caroline Diament, Alexis Le Rossignol et Jeanfi Janssens.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Avec Thomas Solivérès, Paul El Kharrat, Valérie Mairesse, Sébastien Thoen, Caroline Diament, Alexis Le Rossignol et Jeanfi Janssens.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans....</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>01:43:03</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/58952594-84fe-4a9b-a656-c43e92ca3540.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/58952594-84fe-4a9b-a656-c43e92ca3540.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/UzArmLF</ns3:txt>
       <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
   </channel>
