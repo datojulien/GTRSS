@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Tue, 03 Mar 2026 09:26:17 GMT</lastBuildDate>
-    <pubDate>Tue, 03 Mar 2026 09:26:17 GMT</pubDate>
+    <lastBuildDate>Tue, 03 Mar 2026 10:23:57 GMT</lastBuildDate>
+    <pubDate>Tue, 03 Mar 2026 10:23:57 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,34 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns3:txt>
+    <item>
+      <title>BLAGUE - Les histoires drôles du 3 mars 2026</title>
+      <guid isPermaLink="false">b6f761b2-c9b7-4fac-befa-9409578f942c</guid>
+      <description>L'histoire rocambolesque de Jésus qui joue au golf, un homme se lance dans une discussion dans les toilettes d'un restaurant et les résultats d'un sondage à propos des relations de DSK.&amp;nbsp;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>L'histoire rocambolesque de Jésus qui joue au golf, un homme se lance dans une discussion dans les toilettes d'un restaurant et les résultats d'un sondage à propos des relations de DSK.&amp;nbsp;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Tue, 03 Mar 2026 10:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/b6f761b2-c9b7-4fac-befa-9409578f942c.mp3?_=1772104980" length="1621926" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>L'histoire rocambolesque de Jésus qui joue au golf, un homme se lance dans une discussion dans les toilettes d'un restaurant et les résultats d'un sondage à propos des relations de DSK. 
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>L'histoire rocambolesque de Jésus qui joue au golf, un homme se lance dans une discussion dans les toilettes d'un restaurant et les résultats d'un sondage à propos des relations de DSK. 
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>L'histoire rocambolesque de Jésus qui joue au golf, un homme se lance dans une discussion dans les toilettes d'un restaurant et les résultats d'un sondage à propos des relations de DSK. 
+ Hébergé par Audiomeans. Visitez </itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>01:41</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/263b1df0-ae45-4cc7-bbe1-a0e93000f57d.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/263b1df0-ae45-4cc7-bbe1-a0e93000f57d.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/XobpGKw</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>ARCHIVE - Les blagues de Jean-Jacques Peroni et Marianne James</title>
       <guid isPermaLink="false">894ead90-841e-4fbb-8320-a4e01f4724ab</guid>
@@ -2826,39 +2854,6 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <ns2:image href="https://static.audiomeans.fr/img/episode/a56863b0-c61c-4f56-b229-9bdeff45b7c5.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/GlbVsal</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>IMITATIONS - Macron, Lang, Ciotti... L'actualité vue par Marc-Antoine Le Bret</title>
-      <guid isPermaLink="false">92b4e577-74f7-48e9-b22a-3d6e9b444681</guid>
-      <description>Dans l'émission du 18 février, Marc-Antoine Le Bret a imité Emmanuel Macron, Jack Lang, Eric Ciotti, Cyril Lignac et François Hollande.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Dans l'émission du 18 février, Marc-Antoine Le Bret a imité Emmanuel Macron, Jack Lang, Eric Ciotti, Cyril Lignac et François Hollande.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Wed, 18 Feb 2026 16:52:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/92b4e577-74f7-48e9-b22a-3d6e9b444681.mp3?_=1771423381" length="3643749" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Dans l'émission du 18 février, Marc-Antoine Le Bret a imité Emmanuel Macron, Jack Lang, Eric Ciotti, Cyril Lignac et François Hollande.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Dans l'émission du 18 février, Marc-Antoine Le Bret a imité Emmanuel Macron, Jack Lang, Eric Ciotti, Cyril Lignac et François Hollande.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Dans l'émission du 18 février, Marc-Antoine Le Bret a imité Emmanuel Macron, Jack Lang, Eric Ciotti, Cyril Lignac et François Hollande.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomea...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>03:47</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/f554ccd0-bb5c-4e84-879a-434dec8492b8.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/f554ccd0-bb5c-4e84-879a-434dec8492b8.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/mGDlSfO</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
