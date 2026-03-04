@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Wed, 04 Mar 2026 09:24:55 GMT</lastBuildDate>
-    <pubDate>Wed, 04 Mar 2026 09:24:55 GMT</pubDate>
+    <lastBuildDate>Wed, 04 Mar 2026 10:20:42 GMT</lastBuildDate>
+    <pubDate>Wed, 04 Mar 2026 10:20:42 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,43 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns3:txt>
+    <item>
+      <title>LE MEILLEUR DE RUQUIER - Les histoires drôles du 4 mars 2026</title>
+      <guid isPermaLink="false">1e7e65e6-0ae3-4d3e-b3ce-4eb5a0d5e375</guid>
+      <description>Un homme très alcoolisé repère une jolie femme dans le bar d'un hôtel, une Suisse passe un moment intime avec un inconnu et une vieille prostituée prend en charge un client un peu particulier...
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Un homme très alcoolisé repère une jolie femme dans le bar d'un hôtel, une Suisse passe un moment intime avec un inconnu et une vieille prostituée prend en charge un client un peu particulier...
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Wed, 04 Mar 2026 10:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/1e7e65e6-0ae3-4d3e-b3ce-4eb5a0d5e375.mp3?_=1772110987" length="2246165" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Un homme très alcoolisé repère une jolie femme dans le bar d'un hôtel, une Suisse passe un moment intime avec un inconnu et une vieille prostituée prend en charge un client un peu particulier...
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Un homme très alcoolisé repère une jolie femme dans le bar d'un hôtel, une Suisse passe un moment intime avec un inconnu et une vieille prostituée prend en charge un client un peu particulier...
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Un homme très alcoolisé repère une jolie femme dans le bar d'un hôtel, une Suisse passe un moment intime avec un inconnu et une vieille prostituée prend en charge un client un peu particulier...
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures ...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>02:20</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/518d81d5-b374-4199-a554-bc310d50f236.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/518d81d5-b374-4199-a554-bc310d50f236.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/AePGJeV</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>LE MEILLEUR DE BOUVARD - La blague de Pierre Bellemare</title>
       <guid isPermaLink="false">889af7d3-bf78-4d71-9714-46b901f2f778</guid>
@@ -2852,46 +2889,6 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <ns2:image href="https://static.audiomeans.fr/img/episode/1c2921e4-ea72-4db6-9116-ec2e88ad5a5f.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/HwZFwxn</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>BLAGUE - Les histoires drôles du 19 février 2026</title>
-      <guid isPermaLink="false">f74a2316-37ef-4df3-b511-921833eedadd</guid>
-      <description>Un homme demande à monsieur l'anus comment il se porte, un homme raconte à son ami les pipes au crêpe de Bretagne, et un homme qui rentre chez lui bourré.
-
-Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Un homme demande à monsieur l'anus comment il se porte, un homme raconte à son ami les pipes au crêpe de Bretagne, et un homme qui rentre chez lui bourré.
-
-Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Thu, 19 Feb 2026 01:00:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/f74a2316-37ef-4df3-b511-921833eedadd.mp3?_=1770902880" length="1514665" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Un homme demande à monsieur l'anus comment il se porte, un homme raconte à son ami les pipes au crêpe de Bretagne, et un homme qui rentre chez lui bourré.
-
-Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Un homme demande à monsieur l'anus comment il se porte, un homme raconte à son ami les pipes au crêpe de Bretagne, et un homme qui rentre chez lui bourré.
-
-Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Un homme demande à monsieur l'anus comment il se porte, un homme raconte à son ami les pipes au crêpe de Bretagne, et un homme qui rentre chez lui bourré.
-
-Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
-...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>01:34</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/4336c625-327b-467f-95b2-d785901c134e.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/4336c625-327b-467f-95b2-d785901c134e.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/FpSFtmy</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
