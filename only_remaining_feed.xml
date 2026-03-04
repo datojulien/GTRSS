@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Wed, 04 Mar 2026 13:43:44 GMT</lastBuildDate>
-    <pubDate>Wed, 04 Mar 2026 13:43:44 GMT</pubDate>
+    <lastBuildDate>Wed, 04 Mar 2026 14:27:48 GMT</lastBuildDate>
+    <pubDate>Wed, 04 Mar 2026 14:27:48 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -251,32 +251,37 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
     <item>
       <title>IMITATIONS - Le 'Salon des Grosses Têtes' imaginé par Marc-Antoine Le Bret</title>
       <guid isPermaLink="false">af6b5e30-0f3d-4315-ad48-c1ef1e1e1c02</guid>
-      <description>Dans l'émission du 3 mars 226, Marc-Antoine Le Bret a imité Jean-Claude Van Damme et s'est imaginé aller au "Salon des Grosses Têtes".
+      <description>Dans l'émission du 3 mars 2026, Marc-Antoine Le Bret a imité Jean-Claude Van Damme et s'est imaginé aller au "Salon des Grosses Têtes".
+
 Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Dans l'émission du 3 mars 226, Marc-Antoine Le Bret a imité Jean-Claude Van Damme et s'est imaginé aller au "Salon des Grosses Têtes".
+      <ns4:encoded>Dans l'émission du 3 mars 2026, Marc-Antoine Le Bret a imité Jean-Claude Van Damme et s'est imaginé aller au "Salon des Grosses Têtes".
+
 Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
       <pubDate>Tue, 03 Mar 2026 16:52:00 GMT</pubDate>
       <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/af6b5e30-0f3d-4315-ad48-c1ef1e1e1c02.mp3?_=1772553481" length="3515427" type="audio/mpeg" />
       <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Dans l'émission du 3 mars 226, Marc-Antoine Le Bret a imité Jean-Claude Van Damme et s'est imaginé aller au "Salon des Grosses Têtes".
+      <itunes:summary>Dans l'émission du 3 mars 2026, Marc-Antoine Le Bret a imité Jean-Claude Van Damme et s'est imaginé aller au "Salon des Grosses Têtes".
+
 Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
  Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
  </itunes:summary>
-      <ns2:description>Dans l'émission du 3 mars 226, Marc-Antoine Le Bret a imité Jean-Claude Van Damme et s'est imaginé aller au "Salon des Grosses Têtes".
+      <ns2:description>Dans l'émission du 3 mars 2026, Marc-Antoine Le Bret a imité Jean-Claude Van Damme et s'est imaginé aller au "Salon des Grosses Têtes".
+
 Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
  Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
  </ns2:description>
       <itunes:author>Laurent Ruquier</itunes:author>
       <author>Laurent Ruquier</author>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Dans l'émission du 3 mars 226, Marc-Antoine Le Bret a imité Jean-Claude Van Damme et s'est imaginé aller au "Salon des Grosses Têtes".
+      <itunes:subtitle>Dans l'émission du 3 mars 2026, Marc-Antoine Le Bret a imité Jean-Claude Van Damme et s'est imaginé aller au "Salon des Grosses Têtes".
+
 Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomean...</itunes:subtitle>
+ Hébergé par Audiomea...</itunes:subtitle>
       <itunes:block>no</itunes:block>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>03:39</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/daa96682-5aab-4a10-8075-9d5beda915b8.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/daa96682-5aab-4a10-8075-9d5beda915b8.jpg" />
+      <itunes:image href="https://static.audiomeans.fr/img/episode/b0b6c52f-b83f-4bc8-9ab9-6a1e55912a5f.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/b0b6c52f-b83f-4bc8-9ab9-6a1e55912a5f.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/dzKshKt</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
