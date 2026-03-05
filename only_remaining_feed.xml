@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Wed, 04 Mar 2026 23:59:56 GMT</lastBuildDate>
-    <pubDate>Wed, 04 Mar 2026 23:59:56 GMT</pubDate>
+    <lastBuildDate>Thu, 05 Mar 2026 02:50:00 GMT</lastBuildDate>
+    <pubDate>Thu, 05 Mar 2026 02:50:00 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,39 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns3:txt>
+    <item>
+      <title>ARCHIVE - La blague de Jacques Mailhot</title>
+      <guid isPermaLink="false">281eae7d-76b5-4d0a-8274-a03d3a0f3a7b</guid>
+      <description>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Thu, 05 Mar 2026 01:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/281eae7d-76b5-4d0a-8274-a03d3a0f3a7b.mp3?_=1772103482" length="1177195" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !
+
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !
+
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !
+
+ Hébergé par Audiomeans. Visitez </itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>01:13</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/c41c9dac-9892-4983-919c-8f5215960a59.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/c41c9dac-9892-4983-919c-8f5215960a59.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/NFqCOIk</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>LES IMMANQUABLES - Le meilleur de l'émission du 4 mars 2026</title>
       <guid isPermaLink="false">e3c5e30b-3c22-4390-9eee-35644dec6b00</guid>
@@ -2799,45 +2832,6 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <ns2:image href="https://static.audiomeans.fr/img/episode/8cd166f0-46f2-418d-a304-c11e12424316.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/ikVfPlN</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>IMITATIONS - Macron, Dombasle, Ladesou... Marc-Antoine Le Bret imagine les obsèques de Laurent Ruquier</title>
-      <guid isPermaLink="false">78636c4f-ddd2-4017-a590-afa6abf7ab2f</guid>
-      <description>Il y a quelques temps, Laurent Ruquier ironisait sur le fait de vouloir se faire enterrer dans le Grand Studio de RTL. Alors dans l'émission du 20 février, Marc-Antoine Le Bret a pris ces paroles au pied de la lettre. Il a imaginé les obsèques de l'animateur, en imitant Emmanuel Macron, Roselyne Bachelot, Arielle Dombasle, Yoann Riou, Laeticia Hallyday, Olivier de Kersauson, Fabrizio Bucella, Chantal Ladesou, Jean-Marie Bigard et Laurent Ruquier lui-même.
-
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Il y a quelques temps, Laurent Ruquier ironisait sur le fait de vouloir se faire enterrer dans le Grand Studio de RTL. Alors dans l'émission du 20 février, Marc-Antoine Le Bret a pris ces paroles au pied de la lettre. Il a imaginé les obsèques de l'animateur, en imitant Emmanuel Macron, Roselyne Bachelot, Arielle Dombasle, Yoann Riou, Laeticia Hallyday, Olivier de Kersauson, Fabrizio Bucella, Chantal Ladesou, Jean-Marie Bigard et Laurent Ruquier lui-même.
-
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Fri, 20 Feb 2026 16:52:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/78636c4f-ddd2-4017-a590-afa6abf7ab2f.mp3?_=1771577881" length="3980082" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Il y a quelques temps, Laurent Ruquier ironisait sur le fait de vouloir se faire enterrer dans le Grand Studio de RTL. Alors dans l'émission du 20 février, Marc-Antoine Le Bret a pris ces paroles au pied de la lettre. Il a imaginé les obsèques de l'animateur, en imitant Emmanuel Macron, Roselyne Bachelot, Arielle Dombasle, Yoann Riou, Laeticia Hallyday, Olivier de Kersauson, Fabrizio Bucella, Chantal Ladesou, Jean-Marie Bigard et Laurent Ruquier lui-même.
-
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Il y a quelques temps, Laurent Ruquier ironisait sur le fait de vouloir se faire enterrer dans le Grand Studio de RTL. Alors dans l'émission du 20 février, Marc-Antoine Le Bret a pris ces paroles au pied de la lettre. Il a imaginé les obsèques de l'animateur, en imitant Emmanuel Macron, Roselyne Bachelot, Arielle Dombasle, Yoann Riou, Laeticia Hallyday, Olivier de Kersauson, Fabrizio Bucella, Chantal Ladesou, Jean-Marie Bigard et Laurent Ruquier lui-même.
-
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Il y a quelques temps, Laurent Ruquier ironisait sur le fait de vouloir se faire enterrer dans le Grand Studio de RTL. Alors dans l'émission du 20 février, Marc-Antoine Le Bret a pris ces paroles au pied de la lettre. Il a imaginé les obsèques de l'animateur, en im...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>04:08</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/bcc8ee1e-13ce-4bdd-87f0-b2b11912db98.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/bcc8ee1e-13ce-4bdd-87f0-b2b11912db98.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/YiiHIlA</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
