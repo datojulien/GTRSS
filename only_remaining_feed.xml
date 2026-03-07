@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Sat, 07 Mar 2026 09:57:52 GMT</lastBuildDate>
-    <pubDate>Sat, 07 Mar 2026 09:57:52 GMT</pubDate>
+    <lastBuildDate>Sat, 07 Mar 2026 10:35:06 GMT</lastBuildDate>
+    <pubDate>Sat, 07 Mar 2026 10:35:06 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,43 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns3:txt>
+    <item>
+      <title>LE MEILLEUR DE RUQUIER - Les histoires drôles du 7 mars 2026</title>
+      <guid isPermaLink="false">e4d831e6-3315-4be3-afb6-d20e967a1b8e</guid>
+      <description>La différence entre un rappeur et un campeur, une dame s'inquiète pour sa santé et va voir le docteur, et une maîtresse d'école demande aux élèves quels sont leurs rêves.&amp;nbsp;
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>La différence entre un rappeur et un campeur, une dame s'inquiète pour sa santé et va voir le docteur, et une maîtresse d'école demande aux élèves quels sont leurs rêves.&amp;nbsp;
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Sat, 07 Mar 2026 10:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/e4d831e6-3315-4be3-afb6-d20e967a1b8e.mp3?_=1772815980" length="1871252" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>La différence entre un rappeur et un campeur, une dame s'inquiète pour sa santé et va voir le docteur, et une maîtresse d'école demande aux élèves quels sont leurs rêves. 
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>La différence entre un rappeur et un campeur, une dame s'inquiète pour sa santé et va voir le docteur, et une maîtresse d'école demande aux élèves quels sont leurs rêves. 
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>La différence entre un rappeur et un campeur, une dame s'inquiète pour sa santé et va voir le docteur, et une maîtresse d'école demande aux élèves quels sont leurs rêves. 
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Gro...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>01:56</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/fac2fe6f-6fd9-4403-bf09-64f1477bb414.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/fac2fe6f-6fd9-4403-bf09-64f1477bb414.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/vnLyabd</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>ARCHIVE - Jean Yanne, "100 ans de conneries" : la femme qui aurait accouché d'un poisson</title>
       <guid isPermaLink="false">157361d9-2d6d-426c-8709-ce25d8b8c40d</guid>
@@ -2803,53 +2840,6 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <ns2:image href="https://static.audiomeans.fr/img/episode/a5de9fa7-2e4d-4454-a4f0-0f9a868e34ca.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/xlXHMwv</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>PÉPITE - Dupont de Ligonnes vivant ? Les Grosses Têtes mènent l'enquête</title>
-      <guid isPermaLink="false">5eea262f-7011-4673-a6ec-994ea31baa54</guid>
-      <description>Entre Arnaud Ducret, qui a récemment joué Xavier Dupont de Ligonnes, et Gérard Jugnot, qui a, lui, interprété le rôle de Guy Joao, l'homme interpelé en 2019, une question est relancée : Xavier Dupont de Ligonnes est-il en vie ?
-
-
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Entre Arnaud Ducret, qui a récemment joué Xavier Dupont de Ligonnes, et Gérard Jugnot, qui a, lui, interprété le rôle de Guy Joao, l'homme interpelé en 2019, une question est relancée : Xavier Dupont de Ligonnes est-il en vie ?
-
-
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Mon, 23 Feb 2026 16:58:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/5eea262f-7011-4673-a6ec-994ea31baa54.mp3?_=1771867083" length="4000444" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Entre Arnaud Ducret, qui a récemment joué Xavier Dupont de Ligonnes, et Gérard Jugnot, qui a, lui, interprété le rôle de Guy Joao, l'homme interpelé en 2019, une question est relancée : Xavier Dupont de Ligonnes est-il en vie ?
-
-
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Entre Arnaud Ducret, qui a récemment joué Xavier Dupont de Ligonnes, et Gérard Jugnot, qui a, lui, interprété le rôle de Guy Joao, l'homme interpelé en 2019, une question est relancée : Xavier Dupont de Ligonnes est-il en vie ?
-
-
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Entre Arnaud Ducret, qui a récemment joué Xavier Dupont de Ligonnes, et Gérard Jugnot, qui a, lui, interprété le rôle de Guy Joao, l'homme interpelé en 2019, une question est relancée : Xavier Dupont de Ligonnes est-il en vie ?
-
-
-
-Retrouvez tous les jours le meille...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>04:09</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/16383986-a31f-412b-bcde-3d7eaf327a68.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/16383986-a31f-412b-bcde-3d7eaf327a68.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/KJvwknH</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
