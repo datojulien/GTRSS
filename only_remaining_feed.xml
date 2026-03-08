@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Sun, 08 Mar 2026 17:01:10 GMT</lastBuildDate>
-    <pubDate>Sun, 08 Mar 2026 17:01:10 GMT</pubDate>
+    <lastBuildDate>Sun, 08 Mar 2026 17:58:07 GMT</lastBuildDate>
+    <pubDate>Sun, 08 Mar 2026 17:58:07 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -2799,39 +2799,6 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <ns2:image href="https://static.audiomeans.fr/img/episode/89d8e90e-cfdb-4e9f-9acd-86cccca397ca.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/moxaGaJ</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>IMITATIONS - Courbet, Praud, Lignac... L'actualité vue par Marc-Antoine Le Bret</title>
-      <guid isPermaLink="false">cbde9a0a-64b2-4339-bc81-346c4bbfeeef</guid>
-      <description>Dans l'émission du 24 février, Marc-Antoine Le Bret a imité Julien Courbet, Pascal Praud et Cyril Lignac. 
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Dans l'émission du 24 février, Marc-Antoine Le Bret a imité Julien Courbet, Pascal Praud et Cyril Lignac. 
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Tue, 24 Feb 2026 16:52:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/cbde9a0a-64b2-4339-bc81-346c4bbfeeef.mp3?_=1771945683" length="3384978" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Dans l'émission du 24 février, Marc-Antoine Le Bret a imité Julien Courbet, Pascal Praud et Cyril Lignac. 
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Dans l'émission du 24 février, Marc-Antoine Le Bret a imité Julien Courbet, Pascal Praud et Cyril Lignac. 
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Dans l'émission du 24 février, Marc-Antoine Le Bret a imité Julien Courbet, Pascal Praud et Cyril Lignac. 
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez </itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>03:31</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/5606832f-e532-4f3c-8b47-c48966f5bd38.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/5606832f-e532-4f3c-8b47-c48966f5bd38.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/yCZxTCx</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
