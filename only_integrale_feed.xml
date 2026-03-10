@@ -7,8 +7,8 @@
     <description>Tous les épisodes de L'Intégrale de 'Les Grosses Têtes', regroupant la diffusion complète sans coupures ni extras.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Tue, 10 Mar 2026 16:08:13 GMT</lastBuildDate>
-    <pubDate>Tue, 10 Mar 2026 16:08:13 GMT</pubDate>
+    <lastBuildDate>Tue, 10 Mar 2026 17:33:03 GMT</lastBuildDate>
+    <pubDate>Tue, 10 Mar 2026 17:33:03 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,44 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns3:txt>
+    <item>
+      <title>L'INTÉGRALE - Émission du mardi 10 mars 2026</title>
+      <guid isPermaLink="false">281dc74c-f885-4f08-a9ad-3fcef57f4e56</guid>
+      <description>Avec GuiHome, Jeanfi Janssens, Richard Orlinski, Sébastien Thoen, Gaël Tchakaloff et Laurence Boccolini.
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Avec GuiHome, Jeanfi Janssens, Richard Orlinski, Sébastien Thoen, Gaël Tchakaloff et Laurence Boccolini.
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Tue, 10 Mar 2026 17:02:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/281dc74c-f885-4f08-a9ad-3fcef57f4e56.mp3?_=1773156794" length="94646312" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Avec GuiHome, Jeanfi Janssens, Richard Orlinski, Sébastien Thoen, Gaël Tchakaloff et Laurence Boccolini.
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Avec GuiHome, Jeanfi Janssens, Richard Orlinski, Sébastien Thoen, Gaël Tchakaloff et Laurence Boccolini.
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Avec GuiHome, Jeanfi Janssens, Richard Orlinski, Sébastien Thoen, Gaël Tchakaloff et Laurence Boccolini.
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+ Hébergé par Audiomeans. Visitez </itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>01:38:35</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/13c4a06b-f111-464a-b853-cec9746d8583.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/13c4a06b-f111-464a-b853-cec9746d8583.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/qMHtDsK</ns3:txt>
+      <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>L'INTÉGRALE - Émission du lundi 9 mars 2026</title>
       <guid isPermaLink="false">083ecf84-98e2-4544-b32e-956fd2191be7</guid>
@@ -500,80 +538,6 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <ns2:image href="https://static.audiomeans.fr/img/episode/65ad4553-112c-4437-9f10-cc12e4b0c897.jpg" />
       <ns3:person role="host">Rachel Azria</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/FoynwIN</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>L'INTÉGRALE - Émission du mercredi 25 février 2026</title>
-      <guid isPermaLink="false">29a3d975-62c6-4a2f-8b2e-d34ff57df003</guid>
-      <description>Avec Franck Ferrand, Gérard Jugnot, Valérie Mairesse, Richard Orlinski, Bernard Mabille et Constance.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Avec Franck Ferrand, Gérard Jugnot, Valérie Mairesse, Richard Orlinski, Bernard Mabille et Constance.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Wed, 25 Feb 2026 17:02:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/29a3d975-62c6-4a2f-8b2e-d34ff57df003.mp3?_=1772033595" length="99842366" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Avec Franck Ferrand, Gérard Jugnot, Valérie Mairesse, Richard Orlinski, Bernard Mabille et Constance.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Avec Franck Ferrand, Gérard Jugnot, Valérie Mairesse, Richard Orlinski, Bernard Mabille et Constance.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Avec Franck Ferrand, Gérard Jugnot, Valérie Mairesse, Richard Orlinski, Bernard Mabille et Constance.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez </itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>01:44:00</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/ff6e36c3-4b66-4892-9498-35d2f7278047.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/ff6e36c3-4b66-4892-9498-35d2f7278047.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/rpekjBc</ns3:txt>
-      <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>DÉBRIEF - Richard Orlinski revient sur l'émission du jour</title>
-      <guid isPermaLink="false">844716fb-69cc-41cf-82ac-19ce02ef99b9</guid>
-      <description>À la fin de chaque émission, retrouvez en exclusivité sur les plateformes de podcast le débrief des 2h30 d'antenne qui viennent de s'écouler, en compagnie d'une des Grosses Têtes du jour... Ce 25 février 2026, Richard Orlinski se confie au micro de Rachel Azria.
-&lt;i&gt;&lt;/i&gt;
-&lt;i&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>À la fin de chaque émission, retrouvez en exclusivité sur les plateformes de podcast le débrief des 2h30 d'antenne qui viennent de s'écouler, en compagnie d'une des Grosses Têtes du jour... Ce 25 février 2026, Richard Orlinski se confie au micro de Rachel Azria.
-&lt;i&gt;&lt;/i&gt;
-&lt;i&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Wed, 25 Feb 2026 17:00:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/844716fb-69cc-41cf-82ac-19ce02ef99b9.mp3?_=1772029681" length="9005516" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>À la fin de chaque émission, retrouvez en exclusivité sur les plateformes de podcast le débrief des 2h30 d'antenne qui viennent de s'écouler, en compagnie d'une des Grosses Têtes du jour... Ce 25 février 2026, Richard Orlinski se confie au micro de Rachel Azria.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>À la fin de chaque émission, retrouvez en exclusivité sur les plateformes de podcast le débrief des 2h30 d'antenne qui viennent de s'écouler, en compagnie d'une des Grosses Têtes du jour... Ce 25 février 2026, Richard Orlinski se confie au micro de Rachel Azria.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Rachel Azria</itunes:author>
-      <author>Rachel Azria</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>À la fin de chaque émission, retrouvez en exclusivité sur les plateformes de podcast le débrief des 2h30 d'antenne qui viennent de s'écouler, en compagnie d'une des Grosses Têtes du jour... Ce 25 février 2026, Richard Orlinski se confie au micro de Rachel Azria.
-</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>09:22</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/e2fb1971-d778-45f9-8a5e-5a4ab3cacbce.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/e2fb1971-d778-45f9-8a5e-5a4ab3cacbce.jpg" />
-      <ns3:person role="host">Rachel Azria</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/sbvCdCX</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
   </channel>
