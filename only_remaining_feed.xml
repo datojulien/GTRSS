@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Tue, 10 Mar 2026 09:28:37 GMT</lastBuildDate>
-    <pubDate>Tue, 10 Mar 2026 09:28:37 GMT</pubDate>
+    <lastBuildDate>Tue, 10 Mar 2026 10:23:46 GMT</lastBuildDate>
+    <pubDate>Tue, 10 Mar 2026 10:23:46 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,43 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns3:txt>
+    <item>
+      <title>LE MEILLEUR DE RUQUIER - Les histoires drôles du 10 mars 2026</title>
+      <guid isPermaLink="false">1ba71361-92f3-40ed-9b56-02023a21e19f</guid>
+      <description>Un homme fait une confession osée au curé de son église, trois enfants discutent des métiers de leurs pères et les insomnies d'un homme anxieux.&amp;nbsp;
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Un homme fait une confession osée au curé de son église, trois enfants discutent des métiers de leurs pères et les insomnies d'un homme anxieux.&amp;nbsp;
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Tue, 10 Mar 2026 10:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/1ba71361-92f3-40ed-9b56-02023a21e19f.mp3?_=1773075181" length="1905893" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Un homme fait une confession osée au curé de son église, trois enfants discutent des métiers de leurs pères et les insomnies d'un homme anxieux. 
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Un homme fait une confession osée au curé de son église, trois enfants discutent des métiers de leurs pères et les insomnies d'un homme anxieux. 
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Un homme fait une confession osée au curé de son église, trois enfants discutent des métiers de leurs pères et les insomnies d'un homme anxieux. 
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>01:59</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/5a1e0ef8-9c39-4247-8d46-8a8f315acfa3.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/5a1e0ef8-9c39-4247-8d46-8a8f315acfa3.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/umEsbky</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>LE MEILLEUR DE BOUVARD - La blague de Philippe Chevallier</title>
       <guid isPermaLink="false">da73288c-df4d-42c7-8fb1-0c28a961b0b8</guid>
@@ -2775,39 +2812,6 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <ns2:image href="https://static.audiomeans.fr/img/episode/d62a4c4e-0c1b-4e68-9e1e-f1d80917734a.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/ewrbZKU</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>PÉPITE - Le "Qui Qui Express" du 25 février 2026</title>
-      <guid isPermaLink="false">fa8b6f00-76de-4d6b-a827-fbc466634ebb</guid>
-      <description>C'est une nouveauté dans "Les Grosses Têtes", le "Qui Qui Express" : à chaque personnalité retrouvée, l'auditeur ou l'auditrice remporte 50 euros !
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>C'est une nouveauté dans "Les Grosses Têtes", le "Qui Qui Express" : à chaque personnalité retrouvée, l'auditeur ou l'auditrice remporte 50 euros !
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Wed, 25 Feb 2026 16:56:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/fa8b6f00-76de-4d6b-a827-fbc466634ebb.mp3?_=1772028483" length="6720312" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>C'est une nouveauté dans "Les Grosses Têtes", le "Qui Qui Express" : à chaque personnalité retrouvée, l'auditeur ou l'auditrice remporte 50 euros !
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>C'est une nouveauté dans "Les Grosses Têtes", le "Qui Qui Express" : à chaque personnalité retrouvée, l'auditeur ou l'auditrice remporte 50 euros !
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>C'est une nouveauté dans "Les Grosses Têtes", le "Qui Qui Express" : à chaque personnalité retrouvée, l'auditeur ou l'auditrice remporte 50 euros !
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé ...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>06:59</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/a6ea2448-3a5f-4d10-8843-d75a1428f901.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/a6ea2448-3a5f-4d10-8843-d75a1428f901.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/xcExWFi</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
