@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Wed, 11 Mar 2026 12:02:39 GMT</lastBuildDate>
-    <pubDate>Wed, 11 Mar 2026 12:02:39 GMT</pubDate>
+    <lastBuildDate>Wed, 11 Mar 2026 13:53:17 GMT</lastBuildDate>
+    <pubDate>Wed, 11 Mar 2026 13:53:17 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,47 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns3:txt>
+    <item>
+      <title>INÉDIT - Côté coulisses : "J'ai toujours ce petit réflexe de fierté", Virgile Martini se confie avant l'émission</title>
+      <guid isPermaLink="false">54971050-bb3f-483e-a314-a68acc72dded</guid>
+      <description>Dans ce podcast inédit, Virgile Martini se confie au micro de RTL avant son passage dans l'émission ! L'occasion d'en apprendre un peu plus sur elle, sur ses projets et sur ses souvenirs de l'émission "Les Grosses Têtes".
+
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Dans ce podcast inédit, Virgile Martini se confie au micro de RTL avant son passage dans l'émission ! L'occasion d'en apprendre un peu plus sur elle, sur ses projets et sur ses souvenirs de l'émission "Les Grosses Têtes".
+
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Wed, 11 Mar 2026 13:30:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/54971050-bb3f-483e-a314-a68acc72dded.mp3?_=1773234781" length="3975001" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Dans ce podcast inédit, Virgile Martini se confie au micro de RTL avant son passage dans l'émission ! L'occasion d'en apprendre un peu plus sur elle, sur ses projets et sur ses souvenirs de l'émission "Les Grosses Têtes".
+
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Dans ce podcast inédit, Virgile Martini se confie au micro de RTL avant son passage dans l'émission ! L'occasion d'en apprendre un peu plus sur elle, sur ses projets et sur ses souvenirs de l'émission "Les Grosses Têtes".
+
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Julien Bonneau</itunes:author>
+      <author>Julien Bonneau</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Dans ce podcast inédit, Virgile Martini se confie au micro de RTL avant son passage dans l'émission ! L'occasion d'en apprendre un peu plus sur elle, sur ses projets et sur ses souvenirs de l'émission "Les Grosses Têtes".
+
+
+Retrouvez tous les jours le meilleur des ...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>04:08</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/aac48238-17e7-4164-9ad8-8024d2069895.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/aac48238-17e7-4164-9ad8-8024d2069895.jpg" />
+      <ns3:person role="host">Julien Bonneau</ns3:person>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>LE MEILLEUR DE RUQUIER - Les histoires drôles du 11 mars 2026</title>
       <guid isPermaLink="false">5df8cbaa-e6a2-4953-a280-4b6980b9f0e8</guid>
@@ -181,28 +222,35 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
     <item>
       <title>FACE AUX AUDITEURS - "Ça me fait un bien fou" : elle écoute les Grosses Têtes depuis leur création en 1977 !</title>
       <guid isPermaLink="false">58ee73a6-e9ea-4523-b768-ba94948f4e5e</guid>
-      <description>GUIHOME / JEAN FI / ORLINSKI / THOEN / TCHAKALOFF / BOCCOLINI&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>GUIHOME / JEAN FI / ORLINSKI / THOEN / TCHAKALOFF / BOCCOLINI&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <description>Plaintes, compliments, interrogations... Cette saison encore, les Grosses Têtes répondent aux différentes questions et messages des auditeurs à l'antenne.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Plaintes, compliments, interrogations... Cette saison encore, les Grosses Têtes répondent aux différentes questions et messages des auditeurs à l'antenne.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
       <pubDate>Tue, 10 Mar 2026 16:57:00 GMT</pubDate>
       <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/58ee73a6-e9ea-4523-b768-ba94948f4e5e.mp3?_=1773157985" length="5736946" type="audio/mpeg" />
       <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>GUIHOME / JEAN FI / ORLINSKI / THOEN / TCHAKALOFF / BOCCOLINI
+      <itunes:summary>Plaintes, compliments, interrogations... Cette saison encore, les Grosses Têtes répondent aux différentes questions et messages des auditeurs à l'antenne.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
  Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
  </itunes:summary>
-      <ns2:description>GUIHOME / JEAN FI / ORLINSKI / THOEN / TCHAKALOFF / BOCCOLINI
+      <ns2:description>Plaintes, compliments, interrogations... Cette saison encore, les Grosses Têtes répondent aux différentes questions et messages des auditeurs à l'antenne.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
  Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
  </ns2:description>
       <itunes:author>Laurent Ruquier</itunes:author>
       <author>Laurent Ruquier</author>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>GUIHOME / JEAN FI / ORLINSKI / THOEN / TCHAKALOFF / BOCCOLINI
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:subtitle>
+      <itunes:subtitle>Plaintes, compliments, interrogations... Cette saison encore, les Grosses Têtes répondent aux différentes questions et messages des auditeurs à l'antenne.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ ...</itunes:subtitle>
       <itunes:block>no</itunes:block>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>05:58</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/450c226a-a65d-4358-a373-f68ce686418a.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/450c226a-a65d-4358-a373-f68ce686418a.jpg" />
+      <itunes:image href="https://static.audiomeans.fr/img/episode/122fa150-9fe0-41de-8cb9-8c4507f29dbf.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/122fa150-9fe0-41de-8cb9-8c4507f29dbf.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/MgycFRL</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
@@ -2803,39 +2851,6 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <ns2:image href="https://static.audiomeans.fr/img/episode/aadb6c67-8a8a-4971-bc31-52f55783bf36.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/mVGNTeR</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>FAKE NEWS - Jeudi 26 février 2026</title>
-      <guid isPermaLink="false">07ec3f2c-1962-4209-ac03-453ddf7eaf96</guid>
-      <description>Et vous, saurez-vous démêler le vrai du faux ?
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Et vous, saurez-vous démêler le vrai du faux ?
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Thu, 26 Feb 2026 16:55:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/07ec3f2c-1962-4209-ac03-453ddf7eaf96.mp3?_=1772119381" length="8297040" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Et vous, saurez-vous démêler le vrai du faux ?
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Et vous, saurez-vous démêler le vrai du faux ?
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Et vous, saurez-vous démêler le vrai du faux ?
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.f...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>08:38</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/08dad9f8-b644-4057-9e2a-7fbe70d26348.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/08dad9f8-b644-4057-9e2a-7fbe70d26348.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/OphupHO</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
