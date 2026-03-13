@@ -7,8 +7,8 @@
     <description>Tous les épisodes de L'Intégrale de 'Les Grosses Têtes', regroupant la diffusion complète sans coupures ni extras.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Fri, 13 Mar 2026 16:51:02 GMT</lastBuildDate>
-    <pubDate>Fri, 13 Mar 2026 16:51:02 GMT</pubDate>
+    <lastBuildDate>Fri, 13 Mar 2026 17:41:25 GMT</lastBuildDate>
+    <pubDate>Fri, 13 Mar 2026 17:41:25 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,44 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns3:txt>
+    <item>
+      <title>L'INTÉGRALE - Émission du vendredi 13 mars 2026</title>
+      <guid isPermaLink="false">d0daf73f-682b-493f-bf22-bcbdb9ad80b9</guid>
+      <description>Christophe Beaugrand, Laurent Baffie, Christophe Barbier, Caroline Diament, Darie Boutboul et Yoann Riou.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Christophe Beaugrand, Laurent Baffie, Christophe Barbier, Caroline Diament, Darie Boutboul et Yoann Riou.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Fri, 13 Mar 2026 17:02:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/d0daf73f-682b-493f-bf22-bcbdb9ad80b9.mp3?_=1773410891" length="93354806" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Christophe Beaugrand, Laurent Baffie, Christophe Barbier, Caroline Diament, Darie Boutboul et Yoann Riou.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Christophe Beaugrand, Laurent Baffie, Christophe Barbier, Caroline Diament, Darie Boutboul et Yoann Riou.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Christophe Beaugrand, Laurent Baffie, Christophe Barbier, Caroline Diament, Darie Boutboul et Yoann Riou.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez </itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>01:37:14</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/dd957a18-e806-4596-a4c2-9f30f6b8c3d1.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/dd957a18-e806-4596-a4c2-9f30f6b8c3d1.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/GuCmjTc</ns3:txt>
+      <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>L'INTÉGRALE - Émission du jeudi 12 mars 2026</title>
       <guid isPermaLink="false">302e27a8-f427-40a1-b467-c295ed604b1d</guid>
