@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Fri, 13 Mar 2026 09:25:09 GMT</lastBuildDate>
-    <pubDate>Fri, 13 Mar 2026 09:25:09 GMT</pubDate>
+    <lastBuildDate>Fri, 13 Mar 2026 10:19:35 GMT</lastBuildDate>
+    <pubDate>Fri, 13 Mar 2026 10:19:35 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,43 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns3:txt>
+    <item>
+      <title>LE MEILLEUR DE RUQUIER - Les histoires drôles du 13 mars 2026</title>
+      <guid isPermaLink="false">6b8cc959-4501-4c28-9e67-f8613a86131a</guid>
+      <description>Un passager belge se met à fumer dans un avion, le casse-tête d'un juge pour désigner la garde de Toto et un pauvre monsieur qui se fait quitter par sa femme...
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Un passager belge se met à fumer dans un avion, le casse-tête d'un juge pour désigner la garde de Toto et un pauvre monsieur qui se fait quitter par sa femme...
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Fri, 13 Mar 2026 10:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/6b8cc959-4501-4c28-9e67-f8613a86131a.mp3?_=1773075481" length="2192215" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Un passager belge se met à fumer dans un avion, le casse-tête d'un juge pour désigner la garde de Toto et un pauvre monsieur qui se fait quitter par sa femme...
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Un passager belge se met à fumer dans un avion, le casse-tête d'un juge pour désigner la garde de Toto et un pauvre monsieur qui se fait quitter par sa femme...
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Un passager belge se met à fumer dans un avion, le casse-tête d'un juge pour désigner la garde de Toto et un pauvre monsieur qui se fait quitter par sa femme...
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préfé...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>02:16</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/bdd1808f-8dc1-46f2-95a8-081ffa37322d.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/bdd1808f-8dc1-46f2-95a8-081ffa37322d.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/bZlGwoT</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>LE MEILLEUR DE BOUVARD - La blague de Pierre Bellemare</title>
       <guid isPermaLink="false">e6a7a0b5-2af0-4476-9616-81a282acc905</guid>
