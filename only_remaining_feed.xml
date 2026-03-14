@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Sat, 14 Mar 2026 13:11:52 GMT</lastBuildDate>
-    <pubDate>Sat, 14 Mar 2026 13:11:52 GMT</pubDate>
+    <lastBuildDate>Sat, 14 Mar 2026 14:14:39 GMT</lastBuildDate>
+    <pubDate>Sat, 14 Mar 2026 14:14:39 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,39 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns3:txt>
+    <item>
+      <title>BEST OF - Le meilleur de la semaine du 9 au 13 mars (1/2)</title>
+      <guid isPermaLink="false">a56c4674-dcdb-4db3-bfd1-5fffa444d54f</guid>
+      <description>Dans ce podcast, retrouvez les meilleurs moments qui ont marqué la semaine des Grosses Têtes, du 9 au 13 mars 2026.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Dans ce podcast, retrouvez les meilleurs moments qui ont marqué la semaine des Grosses Têtes, du 9 au 13 mars 2026.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Sat, 14 Mar 2026 14:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/a56c4674-dcdb-4db3-bfd1-5fffa444d54f.mp3?_=1773309482" length="6715609" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Dans ce podcast, retrouvez les meilleurs moments qui ont marqué la semaine des Grosses Têtes, du 9 au 13 mars 2026.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Dans ce podcast, retrouvez les meilleurs moments qui ont marqué la semaine des Grosses Têtes, du 9 au 13 mars 2026.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Dans ce podcast, retrouvez les meilleurs moments qui ont marqué la semaine des Grosses Têtes, du 9 au 13 mars 2026.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez </itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>06:59</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/192e9823-d7cf-4346-9fc8-4b80cf22240d.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/192e9823-d7cf-4346-9fc8-4b80cf22240d.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/ScmVWGX</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>LE MEILLEUR DE RUQUIER - Les histoires drôles du 14 mars 2026</title>
       <guid isPermaLink="false">212e7512-ef67-4ce7-835c-33b5f24cca99</guid>
@@ -2849,39 +2882,6 @@ Retrouvez tous les jours le m...</itunes:subtitle>
       <ns2:image href="https://static.audiomeans.fr/img/episode/919fe96e-77c1-4691-8556-865815823156.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/bqdGTvD</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>PÉPITE - Un auditeur demande en mariage son compagnon !</title>
-      <guid isPermaLink="false">5b62879a-61d0-47a0-864d-763de0f21d7c</guid>
-      <description>Lors de la séquence des Grosses Têtes répondent aux auditeurs, Yves fait au téléphone sa demande en mariage !&amp;nbsp;
-&lt;i&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Lors de la séquence des Grosses Têtes répondent aux auditeurs, Yves fait au téléphone sa demande en mariage !&amp;nbsp;
-&lt;i&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Mon, 02 Mar 2026 16:58:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/5b62879a-61d0-47a0-864d-763de0f21d7c.mp3?_=1772460781" length="4630884" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Lors de la séquence des Grosses Têtes répondent aux auditeurs, Yves fait au téléphone sa demande en mariage ! 
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Lors de la séquence des Grosses Têtes répondent aux auditeurs, Yves fait au téléphone sa demande en mariage ! 
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Lors de la séquence des Grosses Têtes répondent aux auditeurs, Yves fait au téléphone sa demande en mariage ! 
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez </itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>04:49</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/e5e34b37-39fd-4f65-88fc-999ebc7a81a2.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/e5e34b37-39fd-4f65-88fc-999ebc7a81a2.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/QEQeSfb</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
