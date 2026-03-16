@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Mon, 16 Mar 2026 17:11:09 GMT</lastBuildDate>
-    <pubDate>Mon, 16 Mar 2026 17:11:09 GMT</pubDate>
+    <lastBuildDate>Mon, 16 Mar 2026 18:38:45 GMT</lastBuildDate>
+    <pubDate>Mon, 16 Mar 2026 18:38:45 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -67,6 +67,7 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.f...<
       <itunes:image href="https://static.audiomeans.fr/img/episode/e2b747bb-a7a1-45e0-8f6e-1b3f07ba0898.jpg" />
       <ns2:image href="https://static.audiomeans.fr/img/episode/e2b747bb-a7a1-45e0-8f6e-1b3f07ba0898.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/RaZPTSb</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
@@ -108,6 +109,7 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <itunes:image href="https://static.audiomeans.fr/img/episode/39c3a35c-9dbb-4a4d-8e80-31852c4ef859.jpg" />
       <ns2:image href="https://static.audiomeans.fr/img/episode/39c3a35c-9dbb-4a4d-8e80-31852c4ef859.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/haXQydV</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
