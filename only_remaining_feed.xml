@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Tue, 17 Mar 2026 14:07:06 GMT</lastBuildDate>
-    <pubDate>Tue, 17 Mar 2026 14:07:06 GMT</pubDate>
+    <lastBuildDate>Tue, 17 Mar 2026 15:45:04 GMT</lastBuildDate>
+    <pubDate>Tue, 17 Mar 2026 15:45:04 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -39,7 +39,7 @@
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns3:txt>
     <item>
-      <title>INÉDIT - Côté coulisses : "J'ai le trac et je suis contente", Isabelle Aubret se confie avant l'émission</title>
+      <title>INÉDIT - Côté coulisses : "J'ai le trac et je suis contente" : Isabelle Aubret se confie avant l'émission</title>
       <guid isPermaLink="false">f4d8366b-6f5f-4b72-a299-1283b16b7b52</guid>
       <description>Dans ce podcast inédit, Isabelle Aubret se confie au micro de RTL avant son passage dans l'émission ! L'occasion d'en apprendre un peu plus sur elle, sur ses projets et sur ses souvenirs de l'émission "Les Grosses Têtes".
 
@@ -74,8 +74,8 @@ Retrouvez tous les jours le meilleur des ...</itunes:subtitle>
       <itunes:block>no</itunes:block>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>05:56</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/49cb19b7-cc4b-4a15-87cf-7afb485f47d7.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/49cb19b7-cc4b-4a15-87cf-7afb485f47d7.jpg" />
+      <itunes:image href="https://static.audiomeans.fr/img/episode/273eae63-9a07-488d-a355-5b66718ffdc7.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/273eae63-9a07-488d-a355-5b66718ffdc7.jpg" />
       <ns3:person role="host">Julien Bonneau</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/wDRdceG</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
