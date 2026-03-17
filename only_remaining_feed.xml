@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Tue, 17 Mar 2026 00:00:09 GMT</lastBuildDate>
-    <pubDate>Tue, 17 Mar 2026 00:00:09 GMT</pubDate>
+    <lastBuildDate>Tue, 17 Mar 2026 03:25:40 GMT</lastBuildDate>
+    <pubDate>Tue, 17 Mar 2026 03:25:40 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,34 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns3:txt>
+    <item>
+      <title>LE MEILLEUR DE BOUVARD - La blague de Carlos</title>
+      <guid isPermaLink="false">8bc3f44f-b1f5-4b0d-b802-6b968e1cac46</guid>
+      <description>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Tue, 17 Mar 2026 01:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/8bc3f44f-b1f5-4b0d-b802-6b968e1cac46.mp3?_=1773310680" length="2095039" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !
+ Hébergé par Audiomeans. Visitez </itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>02:10</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/43b722ae-dc78-4558-a792-dc23a3e5c01b.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/43b722ae-dc78-4558-a792-dc23a3e5c01b.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/ZsmmVle</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>LES IMMANQUABLES - Le meilleur de l'émission du lundi 16 mars 2026</title>
       <guid isPermaLink="false">6b76ecbd-67bc-49b4-85df-d352dd2b1427</guid>
@@ -2771,38 +2799,6 @@ Tous les jours, en podcast, retrouvez une compilation des meilleu...</itunes:sub
       <ns2:image href="https://static.audiomeans.fr/img/episode/e6a33a17-710e-4d55-aa6e-02ad35626e58.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/NFqCOIk</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>LES IMMANQUABLES - Le meilleur de l'émission du 4 mars 2026</title>
-      <guid isPermaLink="false">e3c5e30b-3c22-4390-9eee-35644dec6b00</guid>
-      <description>Jérémy Ferrari invité exceptionnel de l'émission pour présenter son premier film, les perles des réseaux sociaux, un concept d'émission volé par Sébastien Thoen... Retrouvez dans ce podcast le meilleur de l'émission du mercredi 4 mars 2026.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Jérémy Ferrari invité exceptionnel de l'émission pour présenter son premier film, les perles des réseaux sociaux, un concept d'émission volé par Sébastien Thoen... Retrouvez dans ce podcast le meilleur de l'émission du mercredi 4 mars 2026.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Wed, 04 Mar 2026 16:59:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/e3c5e30b-3c22-4390-9eee-35644dec6b00.mp3?_=1772640782" length="12839025" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Jérémy Ferrari invité exceptionnel de l'émission pour présenter son premier film, les perles des réseaux sociaux, un concept d'émission volé par Sébastien Thoen... Retrouvez dans ce podcast le meilleur de l'émission du mercredi 4 mars 2026.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Jérémy Ferrari invité exceptionnel de l'émission pour présenter son premier film, les perles des réseaux sociaux, un concept d'émission volé par Sébastien Thoen... Retrouvez dans ce podcast le meilleur de l'émission du mercredi 4 mars 2026.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Jérémy Ferrari invité exceptionnel de l'émission pour présenter son premier film, les perles des réseaux sociaux, un concept d'émission volé par Sébastien Thoen... Retrouvez dans ce podcast le meilleur de l'émission du mercredi 4 mars 2026.
-Retrouvez tous les jour...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>13:22</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/141553fe-beaf-4e3b-b5c6-cd4a674184d5.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/141553fe-beaf-4e3b-b5c6-cd4a674184d5.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/choHKCY</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
