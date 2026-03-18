@@ -7,8 +7,8 @@
     <description>Tous les épisodes de L'Intégrale de 'Les Grosses Têtes', regroupant la diffusion complète sans coupures ni extras.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Wed, 18 Mar 2026 09:37:12 GMT</lastBuildDate>
-    <pubDate>Wed, 18 Mar 2026 09:37:12 GMT</pubDate>
+    <lastBuildDate>Wed, 18 Mar 2026 10:36:35 GMT</lastBuildDate>
+    <pubDate>Wed, 18 Mar 2026 10:36:35 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -542,44 +542,6 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <ns2:image href="https://static.audiomeans.fr/img/episode/e1299051-317b-4e56-8f86-435529dd2581.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/quORIdk</ns3:txt>
-      <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>L'INTÉGRALE - Émission du jeudi 5 mars 2026</title>
-      <guid isPermaLink="false">b286c1d7-931c-415d-9ed6-655145760f63</guid>
-      <description>Avec Michèle Bernier, Alexis Le Rossignol, Chantal Ladesou, François Berléand, Stomy Bugsy, Christophe Barbier et Dave.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Avec Michèle Bernier, Alexis Le Rossignol, Chantal Ladesou, François Berléand, Stomy Bugsy, Christophe Barbier et Dave.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Thu, 05 Mar 2026 17:02:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/b286c1d7-931c-415d-9ed6-655145760f63.mp3?_=1772722990" length="100478522" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Avec Michèle Bernier, Alexis Le Rossignol, Chantal Ladesou, François Berléand, Stomy Bugsy, Christophe Barbier et Dave.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Avec Michèle Bernier, Alexis Le Rossignol, Chantal Ladesou, François Berléand, Stomy Bugsy, Christophe Barbier et Dave.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Avec Michèle Bernier, Alexis Le Rossignol, Chantal Ladesou, François Berléand, Stomy Bugsy, Christophe Barbier et Dave.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez </itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>01:44:39</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/43946a58-b799-400d-a400-e6c9a7fd0209.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/43946a58-b799-400d-a400-e6c9a7fd0209.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/lUwfHch</ns3:txt>
       <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
   </channel>
