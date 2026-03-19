@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Thu, 19 Mar 2026 09:28:29 GMT</lastBuildDate>
-    <pubDate>Thu, 19 Mar 2026 09:28:29 GMT</pubDate>
+    <lastBuildDate>Thu, 19 Mar 2026 10:25:04 GMT</lastBuildDate>
+    <pubDate>Thu, 19 Mar 2026 10:25:04 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,43 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns3:txt>
+    <item>
+      <title>LE MEILLEUR DE RUQUIER - Les histoires drôles du 19 mars 2026</title>
+      <guid isPermaLink="false">5b71b54d-665a-414a-8f12-0c3b220de41e</guid>
+      <description>Une femme tente d'avoir un deuxième enfant en partant à Lourdes, l'entretien d'embauche d'un jeune ingénieur sortant de l'école des Arts et Métiers et un Belge attiré par deux lesbiennes dans une boîte de nuit...
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Une femme tente d'avoir un deuxième enfant en partant à Lourdes, l'entretien d'embauche d'un jeune ingénieur sortant de l'école des Arts et Métiers et un Belge attiré par deux lesbiennes dans une boîte de nuit...
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Thu, 19 Mar 2026 10:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/5b71b54d-665a-414a-8f12-0c3b220de41e.mp3?_=1773076980" length="2692616" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Une femme tente d'avoir un deuxième enfant en partant à Lourdes, l'entretien d'embauche d'un jeune ingénieur sortant de l'école des Arts et Métiers et un Belge attiré par deux lesbiennes dans une boîte de nuit...
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Une femme tente d'avoir un deuxième enfant en partant à Lourdes, l'entretien d'embauche d'un jeune ingénieur sortant de l'école des Arts et Métiers et un Belge attiré par deux lesbiennes dans une boîte de nuit...
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Une femme tente d'avoir un deuxième enfant en partant à Lourdes, l'entretien d'embauche d'un jeune ingénieur sortant de l'école des Arts et Métiers et un Belge attiré par deux lesbiennes dans une boîte de nuit...
+
+Tous les jours, en podcast, retrouvez une compilati...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>02:48</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/c0c73f17-4e68-4ab4-aa96-03dd1c673633.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/c0c73f17-4e68-4ab4-aa96-03dd1c673633.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/nTYJNom</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>LE MEILLEUR DE BOUVARD - La blague de Jacques Balutin</title>
       <guid isPermaLink="false">e4597904-6ef4-4a82-a53e-cd59fd8c9e5f</guid>
@@ -2785,34 +2822,6 @@ Chaque weekend en podcast, retrouvez "100 ans de conneries", par Jean Yanne. Pen
       <itunes:image href="https://static.audiomeans.fr/img/episode/418b086b-21e6-41ec-8dca-c89a7a1cac8d.jpg" />
       <ns2:image href="https://static.audiomeans.fr/img/episode/418b086b-21e6-41ec-8dca-c89a7a1cac8d.jpg" />
       <ns3:txt purpose="smartlink">https://audmns.com/GNyLtpA</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>LE MEILLEUR DE BOUVARD - La blague d'Éric Laugérias</title>
-      <guid isPermaLink="false">fee285ab-7c92-4990-8b7e-b6dab9ed3cb2</guid>
-      <description>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Sat, 07 Mar 2026 01:00:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/fee285ab-7c92-4990-8b7e-b6dab9ed3cb2.mp3?_=1772791080" length="1035991" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !
- Hébergé par Audiomeans. Visitez </itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>01:04</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/e7b8dcee-c0ae-4f98-a324-b0478119a23d.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/e7b8dcee-c0ae-4f98-a324-b0478119a23d.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/eFOTUIO</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
