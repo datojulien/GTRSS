@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Thu, 19 Mar 2026 10:25:04 GMT</lastBuildDate>
-    <pubDate>Thu, 19 Mar 2026 10:25:04 GMT</pubDate>
+    <lastBuildDate>Thu, 19 Mar 2026 11:23:19 GMT</lastBuildDate>
+    <pubDate>Thu, 19 Mar 2026 11:23:19 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -2107,7 +2107,7 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast su...</itunes
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
-      <title>PÉPITE - "Il parle pendant 10 minutes, il est fou celui-là" : comment Sébastien Thoen a-t-il été recruté dans "Les Grosses Têtes" ?</title>
+      <title>PÉPITE - "Il est fou celui-là" : comment Sébastien Thoen a-t-il été recruté dans "Les Grosses Têtes" ?</title>
       <guid isPermaLink="false">8a22bd1b-9544-4a88-8abb-9ef283fa0c27</guid>
       <description>Saviez-vous comment Sébastien Thoen est arrivé dans "Les Grosses Têtes" ?
 
@@ -2143,8 +2143,8 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <itunes:block>no</itunes:block>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>03:27</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/c22f3585-23d4-453e-8c04-c8f15f5edf9c.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/c22f3585-23d4-453e-8c04-c8f15f5edf9c.jpg" />
+      <itunes:image href="https://static.audiomeans.fr/img/episode/a2cd19fd-d9f3-4741-9fbb-8cd7feaaed55.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/a2cd19fd-d9f3-4741-9fbb-8cd7feaaed55.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/MNrHkIX</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
