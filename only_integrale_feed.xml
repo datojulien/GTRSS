@@ -7,8 +7,8 @@
     <description>Tous les épisodes de L'Intégrale de 'Les Grosses Têtes', regroupant la diffusion complète sans coupures ni extras.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Fri, 20 Mar 2026 15:51:31 GMT</lastBuildDate>
-    <pubDate>Fri, 20 Mar 2026 15:51:31 GMT</pubDate>
+    <lastBuildDate>Fri, 20 Mar 2026 16:54:28 GMT</lastBuildDate>
+    <pubDate>Fri, 20 Mar 2026 16:54:28 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,42 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns3:txt>
+    <item>
+      <title>L'INTÉGRALE - Émission du vendredi 20 mars 2026</title>
+      <guid isPermaLink="false">1509cecd-f52d-4a0c-ad0d-51510e517544</guid>
+      <description>Avec Olivier Bellamy, Paul El Kharrat, Caroline Diament, Christophe Beaugrand, Gaël Tchakaloff et Liane Foly. 
+Dans ce podcast, Laurent Ruquier rend également hommage à Isabelle Mergault, décédée ce 20 mars 2026. L'émission de ce lundi 23 mars lui sera dédiée.&amp;nbsp;
+&lt;i&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Avec Olivier Bellamy, Paul El Kharrat, Caroline Diament, Christophe Beaugrand, Gaël Tchakaloff et Liane Foly. 
+Dans ce podcast, Laurent Ruquier rend également hommage à Isabelle Mergault, décédée ce 20 mars 2026. L'émission de ce lundi 23 mars lui sera dédiée.&amp;nbsp;
+&lt;i&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Fri, 20 Mar 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/1509cecd-f52d-4a0c-ad0d-51510e517544.mp3?_=1774019882" length="91562929" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Avec Olivier Bellamy, Paul El Kharrat, Caroline Diament, Christophe Beaugrand, Gaël Tchakaloff et Liane Foly. 
+Dans ce podcast, Laurent Ruquier rend également hommage à Isabelle Mergault, décédée ce 20 mars 2026. L'émission de ce lundi 23 mars lui sera dédiée. 
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Avec Olivier Bellamy, Paul El Kharrat, Caroline Diament, Christophe Beaugrand, Gaël Tchakaloff et Liane Foly. 
+Dans ce podcast, Laurent Ruquier rend également hommage à Isabelle Mergault, décédée ce 20 mars 2026. L'émission de ce lundi 23 mars lui sera dédiée. 
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Avec Olivier Bellamy, Paul El Kharrat, Caroline Diament, Christophe Beaugrand, Gaël Tchakaloff et Liane Foly. 
+Dans ce podcast, Laurent Ruquier rend également hommage à Isabelle Mergault, décédée ce 20 mars 2026. L'émission de ce lundi 23 mars lui sera dédiée.&amp;nbsp...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>01:35:22</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/cc1b1fc4-3c76-476a-bd40-74081b48c6bc.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/cc1b1fc4-3c76-476a-bd40-74081b48c6bc.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/RaRXoGy</ns3:txt>
+      <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>L'INTÉGRALE - Émission du jeudi 19 mars 2026</title>
       <guid isPermaLink="false">bd40e34a-1ed1-41f6-ab85-0244d553c4a4</guid>
@@ -572,86 +608,6 @@ Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de 
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/qMHtDsK</ns3:txt>
       <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>L'INTÉGRALE - Émission du lundi 9 mars 2026</title>
-      <guid isPermaLink="false">083ecf84-98e2-4544-b32e-956fd2191be7</guid>
-      <description>Avec Elodie Poux, AZ, Franck Ferrand, Roselyne Bachelot, Bernard Mabille, Sylvie Tellier et Alexis Tramoni.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Avec Elodie Poux, AZ, Franck Ferrand, Roselyne Bachelot, Bernard Mabille, Sylvie Tellier et Alexis Tramoni.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Mon, 09 Mar 2026 17:02:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/083ecf84-98e2-4544-b32e-956fd2191be7.mp3?_=1773071894" length="99737457" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Avec Elodie Poux, AZ, Franck Ferrand, Roselyne Bachelot, Bernard Mabille, Sylvie Tellier et Alexis Tramoni.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Avec Elodie Poux, AZ, Franck Ferrand, Roselyne Bachelot, Bernard Mabille, Sylvie Tellier et Alexis Tramoni.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Avec Elodie Poux, AZ, Franck Ferrand, Roselyne Bachelot, Bernard Mabille, Sylvie Tellier et Alexis Tramoni.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez </itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>01:43:53</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/73da131b-f94e-491c-9839-bdcfc51d7ca9.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/73da131b-f94e-491c-9839-bdcfc51d7ca9.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/xqaoaUV</ns3:txt>
-      <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>DÉBRIEF - "J'ai relevé le défi" : Elodie Poux revient sur sa première aux "Grosses Têtes"</title>
-      <guid isPermaLink="false">685b7978-a550-4bf8-ba40-25d1fd77d630</guid>
-      <description>À la fin de chaque émission, retrouvez en exclusivité sur les plateformes de podcast le débrief des 2h30 d'antenne qui viennent de s'écouler, en compagnie d'une des Grosses Têtes du jour... Ce lundi 9 mars 2026, Elodie Poux se confie au micro de Rachel Azria.
-
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>À la fin de chaque émission, retrouvez en exclusivité sur les plateformes de podcast le débrief des 2h30 d'antenne qui viennent de s'écouler, en compagnie d'une des Grosses Têtes du jour... Ce lundi 9 mars 2026, Elodie Poux se confie au micro de Rachel Azria.
-
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Mon, 09 Mar 2026 17:00:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/685b7978-a550-4bf8-ba40-25d1fd77d630.mp3?_=1773067381" length="7889597" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>À la fin de chaque émission, retrouvez en exclusivité sur les plateformes de podcast le débrief des 2h30 d'antenne qui viennent de s'écouler, en compagnie d'une des Grosses Têtes du jour... Ce lundi 9 mars 2026, Elodie Poux se confie au micro de Rachel Azria.
-
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>À la fin de chaque émission, retrouvez en exclusivité sur les plateformes de podcast le débrief des 2h30 d'antenne qui viennent de s'écouler, en compagnie d'une des Grosses Têtes du jour... Ce lundi 9 mars 2026, Elodie Poux se confie au micro de Rachel Azria.
-
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Rachel Azria</itunes:author>
-      <author>Rachel Azria</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>À la fin de chaque émission, retrouvez en exclusivité sur les plateformes de podcast le débrief des 2h30 d'antenne qui viennent de s'écouler, en compagnie d'une des Grosses Têtes du jour... Ce lundi 9 mars 2026, Elodie Poux se confie au micro de Rachel Azria.
-
-
-Ret...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>08:13</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/21620317-0fa8-4d72-9015-22c9183e1a63.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/21620317-0fa8-4d72-9015-22c9183e1a63.jpg" />
-      <ns3:person role="host">Rachel Azria</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/LeNcwfh</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
   </channel>
 </rss>
