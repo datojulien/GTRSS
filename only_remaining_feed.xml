@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Fri, 20 Mar 2026 13:47:47 GMT</lastBuildDate>
-    <pubDate>Fri, 20 Mar 2026 13:47:47 GMT</pubDate>
+    <lastBuildDate>Fri, 20 Mar 2026 14:51:39 GMT</lastBuildDate>
+    <pubDate>Fri, 20 Mar 2026 14:51:39 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,33 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns3:txt>
+    <item>
+      <title>HOMMAGE - Mort d'Isabelle Mergault : Beaugrand, Ladesou, Mabille, Geluck... Les Grosses Têtes réagissent sur RTL</title>
+      <guid isPermaLink="false">f31ea427-47aa-455b-840f-7827aeabc927</guid>
+      <description>La comédienne, réalisatrice et illustre sociétaire des Grosses Têtes sur RTL, Isabelle Mergault est morte ce vendredi 20 mars 2026 au matin. Au micro d'Amandine Bégot, Christophe Beaugrand, Chantal Ladesou, Philippe Geluck et Bernard Mabille lui rendent hommage dans Les auditeurs ont la paroles sur RTL.&amp;nbsp;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>La comédienne, réalisatrice et illustre sociétaire des Grosses Têtes sur RTL, Isabelle Mergault est morte ce vendredi 20 mars 2026 au matin. Au micro d'Amandine Bégot, Christophe Beaugrand, Chantal Ladesou, Philippe Geluck et Bernard Mabille lui rendent hommage dans Les auditeurs ont la paroles sur RTL.&amp;nbsp;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Fri, 20 Mar 2026 13:40:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/f31ea427-47aa-455b-840f-7827aeabc927.mp3?_=1774014181" length="9711482" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>La comédienne, réalisatrice et illustre sociétaire des Grosses Têtes sur RTL, Isabelle Mergault est morte ce vendredi 20 mars 2026 au matin. Au micro d'Amandine Bégot, Christophe Beaugrand, Chantal Ladesou, Philippe Geluck et Bernard Mabille lui rendent hommage dans Les auditeurs ont la paroles sur RTL. 
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>La comédienne, réalisatrice et illustre sociétaire des Grosses Têtes sur RTL, Isabelle Mergault est morte ce vendredi 20 mars 2026 au matin. Au micro d'Amandine Bégot, Christophe Beaugrand, Chantal Ladesou, Philippe Geluck et Bernard Mabille lui rendent hommage dans Les auditeurs ont la paroles sur RTL. 
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>La comédienne, réalisatrice et illustre sociétaire des Grosses Têtes sur RTL, Isabelle Mergault est morte ce vendredi 20 mars 2026 au matin. Au micro d'Amandine Bégot, Christophe Beaugrand, Chantal Ladesou, Philippe Geluck et Bernard Mabille lui rendent hommage dan...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>10:06</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/84a17659-ec20-40a6-aeff-253b32f760b0.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/84a17659-ec20-40a6-aeff-253b32f760b0.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/FCaRWTx</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>HOMMAGE - Isabelle Mergault : ses meilleurs moments dans l'émission</title>
       <guid isPermaLink="false">c092768a-48f3-4717-9f12-faf3753fa1dc</guid>
@@ -2783,39 +2810,6 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <ns2:image href="https://static.audiomeans.fr/img/episode/8ef3b753-9e5a-40f7-9ec1-db4fdcba113f.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/EXSgHDB</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>IMITATIONS - De Villepin, Jeff Tuche, Bachelot... L'actualité vue par Marc-Antoine Le Bret</title>
-      <guid isPermaLink="false">c5e8dc55-f648-4be0-992e-e80d8a7674fe</guid>
-      <description>Dans l'émission du 9 mars 2026, Marc-Antoine Le Bret a imité Dominique de Villepin, Jeff Tuche, Paul Mirabel, Roselyne Bachelot et Nelson Monfort.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Dans l'émission du 9 mars 2026, Marc-Antoine Le Bret a imité Dominique de Villepin, Jeff Tuche, Paul Mirabel, Roselyne Bachelot et Nelson Monfort.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Mon, 09 Mar 2026 16:52:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/c5e8dc55-f648-4be0-992e-e80d8a7674fe.mp3?_=1773067681" length="3580685" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Dans l'émission du 9 mars 2026, Marc-Antoine Le Bret a imité Dominique de Villepin, Jeff Tuche, Paul Mirabel, Roselyne Bachelot et Nelson Monfort.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Dans l'émission du 9 mars 2026, Marc-Antoine Le Bret a imité Dominique de Villepin, Jeff Tuche, Paul Mirabel, Roselyne Bachelot et Nelson Monfort.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Dans l'émission du 9 mars 2026, Marc-Antoine Le Bret a imité Dominique de Villepin, Jeff Tuche, Paul Mirabel, Roselyne Bachelot et Nelson Monfort.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé p...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>03:43</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/58e0192e-1955-49ec-aa84-b8982a96dc17.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/58e0192e-1955-49ec-aa84-b8982a96dc17.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/eHUZwLH</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
