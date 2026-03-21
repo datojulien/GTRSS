@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Sat, 21 Mar 2026 09:59:32 GMT</lastBuildDate>
-    <pubDate>Sat, 21 Mar 2026 09:59:32 GMT</pubDate>
+    <lastBuildDate>Sat, 21 Mar 2026 10:40:17 GMT</lastBuildDate>
+    <pubDate>Sat, 21 Mar 2026 10:40:17 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,56 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns3:txt>
+    <item>
+      <title>LE MEILLEUR DE RUQUIER - Les histoires drôles du 21 mars 2026</title>
+      <guid isPermaLink="false">983e7b25-31d2-4662-8952-48666b4cc37b</guid>
+      <description>Des personnes âgées hypnotisées dans un EPHAD, une dame inquiète se rend chez le médecin et un mannequin avec des problèmes d'odeur dans la culotte.&amp;nbsp;
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+
+
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Des personnes âgées hypnotisées dans un EPHAD, une dame inquiète se rend chez le médecin et un mannequin avec des problèmes d'odeur dans la culotte.&amp;nbsp;
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+
+
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Sat, 21 Mar 2026 10:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/983e7b25-31d2-4662-8952-48666b4cc37b.mp3?_=1773939481" length="5024712" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Des personnes âgées hypnotisées dans un EPHAD, une dame inquiète se rend chez le médecin et un mannequin avec des problèmes d'odeur dans la culotte. 
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+
+
+
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Des personnes âgées hypnotisées dans un EPHAD, une dame inquiète se rend chez le médecin et un mannequin avec des problèmes d'odeur dans la culotte. 
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+
+
+
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Des personnes âgées hypnotisées dans un EPHAD, une dame inquiète se rend chez le médecin et un mannequin avec des problèmes d'odeur dans la culotte. 
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>05:13</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/65caf8ee-0f17-42b9-b4df-bfe507c22b53.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/65caf8ee-0f17-42b9-b4df-bfe507c22b53.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/vOcbzYv</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>ARCHIVE - Jean Yanne, "100 ans de conneries" : Les avions renifleurs (1/2)</title>
       <guid isPermaLink="false">47e2b758-bc86-4ce5-a37f-e80533883935</guid>
@@ -2789,38 +2839,6 @@ Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de 
       <ns2:image href="https://static.audiomeans.fr/img/episode/0f091d49-a53b-46e9-90b6-3721c4615853.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/ciZwvMF</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>LES IMMANQUABLES - Le meilleur de l'émission du 10 mars 2026</title>
-      <guid isPermaLink="false">2a0807c1-297e-4a05-9531-cf449e1f4ddf</guid>
-      <description>Les auditeurs qui défendent Richard Orlinski, les bateaux des Grosses Têtes, GuiHome impressionné par Gaël Tchakaloff... Retrouvez dans ce podcast le meilleur de l'émission du mardi 10 mars 2026.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Les auditeurs qui défendent Richard Orlinski, les bateaux des Grosses Têtes, GuiHome impressionné par Gaël Tchakaloff... Retrouvez dans ce podcast le meilleur de l'émission du mardi 10 mars 2026.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Tue, 10 Mar 2026 16:59:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/2a0807c1-297e-4a05-9531-cf449e1f4ddf.mp3?_=1773157082" length="16968792" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Les auditeurs qui défendent Richard Orlinski, les bateaux des Grosses Têtes, GuiHome impressionné par Gaël Tchakaloff... Retrouvez dans ce podcast le meilleur de l'émission du mardi 10 mars 2026.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Les auditeurs qui défendent Richard Orlinski, les bateaux des Grosses Têtes, GuiHome impressionné par Gaël Tchakaloff... Retrouvez dans ce podcast le meilleur de l'émission du mardi 10 mars 2026.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Les auditeurs qui défendent Richard Orlinski, les bateaux des Grosses Têtes, GuiHome impressionné par Gaël Tchakaloff... Retrouvez dans ce podcast le meilleur de l'émission du mardi 10 mars 2026.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast su...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>17:40</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/d196ecaa-fcf6-4ad4-aecc-5ad11525df8d.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/d196ecaa-fcf6-4ad4-aecc-5ad11525df8d.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/SrxCRzK</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
