@@ -7,8 +7,8 @@
     <description>Tous les épisodes de L'Intégrale de 'Les Grosses Têtes', regroupant la diffusion complète sans coupures ni extras.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Mon, 23 Mar 2026 16:39:45 GMT</lastBuildDate>
-    <pubDate>Mon, 23 Mar 2026 16:39:45 GMT</pubDate>
+    <lastBuildDate>Mon, 23 Mar 2026 17:38:04 GMT</lastBuildDate>
+    <pubDate>Mon, 23 Mar 2026 17:38:04 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,49 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns3:txt>
+    <item>
+      <title>L'INTÉGRALE - Isabelle Mergault : réécoutez l'hommage des "Grosses Têtes" dans une émission spéciale</title>
+      <guid isPermaLink="false">0550cedd-ee6d-4338-ae4f-5656037ee899</guid>
+      <description>Ce lundi 23 mars 2026, dans une émission exceptionnelle, Laurent Ruquier et ses Grosses Têtes ont rendu hommage à Isabelle Mergault, décédée le 20 mars dernier. Au téléphone ou en studio, la famille RTL a tenu à se souvenir, dans la joie et l'émotion, de celle qui a fait le bonheur des auditeurs pendant près de 40 ans.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Ce lundi 23 mars 2026, dans une émission exceptionnelle, Laurent Ruquier et ses Grosses Têtes ont rendu hommage à Isabelle Mergault, décédée le 20 mars dernier. Au téléphone ou en studio, la famille RTL a tenu à se souvenir, dans la joie et l'émotion, de celle qui a fait le bonheur des auditeurs pendant près de 40 ans.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Mon, 23 Mar 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/0550cedd-ee6d-4338-ae4f-5656037ee899.mp3?_=1774279091" length="97959840" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Ce lundi 23 mars 2026, dans une émission exceptionnelle, Laurent Ruquier et ses Grosses Têtes ont rendu hommage à Isabelle Mergault, décédée le 20 mars dernier. Au téléphone ou en studio, la famille RTL a tenu à se souvenir, dans la joie et l'émotion, de celle qui a fait le bonheur des auditeurs pendant près de 40 ans.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+
+
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Ce lundi 23 mars 2026, dans une émission exceptionnelle, Laurent Ruquier et ses Grosses Têtes ont rendu hommage à Isabelle Mergault, décédée le 20 mars dernier. Au téléphone ou en studio, la famille RTL a tenu à se souvenir, dans la joie et l'émotion, de celle qui a fait le bonheur des auditeurs pendant près de 40 ans.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+
+
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Ce lundi 23 mars 2026, dans une émission exceptionnelle, Laurent Ruquier et ses Grosses Têtes ont rendu hommage à Isabelle Mergault, décédée le 20 mars dernier. Au téléphone ou en studio, la famille RTL a tenu à se souvenir, dans la joie et l'émotion, de celle qui ...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>01:42:02</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/ccd9926c-5b61-4de3-9291-c6af26c58b7d.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/ccd9926c-5b61-4de3-9291-c6af26c58b7d.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/GtbcvXT</ns3:txt>
+      <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>L'INTÉGRALE - Émission du vendredi 20 mars 2026</title>
       <guid isPermaLink="false">1509cecd-f52d-4a0c-ad0d-51510e517544</guid>
@@ -493,83 +536,6 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <ns3:person role="host">Rachel Azria</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/JpZJStO</ns3:txt>
       <itunes:keywords>question juridique,Divertissement,Ça peut vous arriver,aide,économie,bonus,consommation,Julien Courbet,consommateur</itunes:keywords>
-    </item>
-    <item>
-      <title>L'INTÉGRALE - Émission du mercredi 11 mars 2026</title>
-      <guid isPermaLink="false">4a2bbbc1-cbf0-42aa-af1c-980adaae53d1</guid>
-      <description>Avec Philippe Geluck, Valérie Mairesse, Karina Marimon, Sébastien Thoen, Philippe Boxho et Jeanfi Janssens.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Avec Philippe Geluck, Valérie Mairesse, Karina Marimon, Sébastien Thoen, Philippe Boxho et Jeanfi Janssens.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Wed, 11 Mar 2026 17:02:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/4a2bbbc1-cbf0-42aa-af1c-980adaae53d1.mp3?_=1773241703" length="97813599" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Avec Philippe Geluck, Valérie Mairesse, Karina Marimon, Sébastien Thoen, Philippe Boxho et Jeanfi Janssens.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Avec Philippe Geluck, Valérie Mairesse, Karina Marimon, Sébastien Thoen, Philippe Boxho et Jeanfi Janssens.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Avec Philippe Geluck, Valérie Mairesse, Karina Marimon, Sébastien Thoen, Philippe Boxho et Jeanfi Janssens.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez </itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>01:41:53</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/2f4909f9-d37a-49bb-a4d7-dedacfc7896d.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/2f4909f9-d37a-49bb-a4d7-dedacfc7896d.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/LNNcwnK</ns3:txt>
-      <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>DÉBRIEF - "Il n'a pas crié ! Il a été sympa là" : Karina Marimon remercie Sébastien Thoen pour son calme dans l'émission</title>
-      <guid isPermaLink="false">00dd6ba1-b0e2-4fa0-a91a-23b3f6db5460</guid>
-      <description>À la fin de chaque émission, retrouvez en exclusivité sur les plateformes de podcast le débrief des 2h30 d'antenne qui viennent de s'écouler, en compagnie d'une des Grosses Têtes du jour... Ce mercredi 11 mars 2026, Karina Marimon se confie au micro de Rachel Azria, et a toujours un mot gentil pour chaque Grosse Tête.
-
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>À la fin de chaque émission, retrouvez en exclusivité sur les plateformes de podcast le débrief des 2h30 d'antenne qui viennent de s'écouler, en compagnie d'une des Grosses Têtes du jour... Ce mercredi 11 mars 2026, Karina Marimon se confie au micro de Rachel Azria, et a toujours un mot gentil pour chaque Grosse Tête.
-
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Wed, 11 Mar 2026 17:00:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/00dd6ba1-b0e2-4fa0-a91a-23b3f6db5460.mp3?_=1773239281" length="13402923" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>À la fin de chaque émission, retrouvez en exclusivité sur les plateformes de podcast le débrief des 2h30 d'antenne qui viennent de s'écouler, en compagnie d'une des Grosses Têtes du jour... Ce mercredi 11 mars 2026, Karina Marimon se confie au micro de Rachel Azria, et a toujours un mot gentil pour chaque Grosse Tête.
-
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>À la fin de chaque émission, retrouvez en exclusivité sur les plateformes de podcast le débrief des 2h30 d'antenne qui viennent de s'écouler, en compagnie d'une des Grosses Têtes du jour... Ce mercredi 11 mars 2026, Karina Marimon se confie au micro de Rachel Azria, et a toujours un mot gentil pour chaque Grosse Tête.
-
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Rachel Azria</itunes:author>
-      <author>Rachel Azria</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>À la fin de chaque émission, retrouvez en exclusivité sur les plateformes de podcast le débrief des 2h30 d'antenne qui viennent de s'écouler, en compagnie d'une des Grosses Têtes du jour... Ce mercredi 11 mars 2026, Karina Marimon se confie au micro de Rachel Azria...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>13:57</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/43ffac9f-099e-4b74-9d69-5ca1eb2f9031.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/43ffac9f-099e-4b74-9d69-5ca1eb2f9031.jpg" />
-      <ns3:person role="host">Rachel Azria</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/VUYfGzw</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
   </channel>
 </rss>
