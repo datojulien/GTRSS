@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Wed, 25 Mar 2026 12:33:03 GMT</lastBuildDate>
-    <pubDate>Wed, 25 Mar 2026 12:33:03 GMT</pubDate>
+    <lastBuildDate>Wed, 25 Mar 2026 14:05:00 GMT</lastBuildDate>
+    <pubDate>Wed, 25 Mar 2026 14:05:00 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,48 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns3:txt>
+    <item>
+      <title>INÉDIT - Côté coulisses : "Feydeau, c'est un génie !" Emeline Bayart se confie avant l'émission</title>
+      <guid isPermaLink="false">e1f7b61e-20f1-441f-ab3d-4c1532607a85</guid>
+      <description>Dans ce podcast inédit, Emeline Bayart se confie au micro de RTL avant son passage dans l'émission ! L'occasion d'en apprendre un peu plus sur elle, sur ses projets et sur ses souvenirs de l'émission "Les Grosses Têtes".
+
+
+&lt;i&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Dans ce podcast inédit, Emeline Bayart se confie au micro de RTL avant son passage dans l'émission ! L'occasion d'en apprendre un peu plus sur elle, sur ses projets et sur ses souvenirs de l'émission "Les Grosses Têtes".
+
+
+&lt;i&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Wed, 25 Mar 2026 13:30:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/e1f7b61e-20f1-441f-ab3d-4c1532607a85.mp3?_=1774446781" length="3900501" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Dans ce podcast inédit, Emeline Bayart se confie au micro de RTL avant son passage dans l'émission ! L'occasion d'en apprendre un peu plus sur elle, sur ses projets et sur ses souvenirs de l'émission "Les Grosses Têtes".
+
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Dans ce podcast inédit, Emeline Bayart se confie au micro de RTL avant son passage dans l'émission ! L'occasion d'en apprendre un peu plus sur elle, sur ses projets et sur ses souvenirs de l'émission "Les Grosses Têtes".
+
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Julien Bonneau</itunes:author>
+      <author>Julien Bonneau</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Dans ce podcast inédit, Emeline Bayart se confie au micro de RTL avant son passage dans l'émission ! L'occasion d'en apprendre un peu plus sur elle, sur ses projets et sur ses souvenirs de l'émission "Les Grosses Têtes".
+
+
+Retrouvez tous les jours le meilleur de...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>04:03</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/00a21ca8-48f2-43fc-a1a2-3fee3f59eee4.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/00a21ca8-48f2-43fc-a1a2-3fee3f59eee4.jpg" />
+      <ns3:person role="host">Julien Bonneau</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/kTQUhGH</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>LE MEILLEUR DE RUQUIER - Les histoires drôles du 25 mars 2026</title>
       <guid isPermaLink="false">84c42c5b-34b6-4632-b5ed-54c4e964931f</guid>
@@ -2792,44 +2834,6 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <ns2:image href="https://static.audiomeans.fr/img/episode/ceb56038-d732-483f-8e7a-6eb43a356ea0.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/qqtiXse</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>PÉPITE - Quand les Grosses Têtes tentent d'hypnotiser Yoann Riou</title>
-      <guid isPermaLink="false">0a042599-795b-4a5e-936c-e11978bafb0c</guid>
-      <description>Si Yoann Riou admet ne jamais avoir été réceptif à l'hypnose, tout peut changer sur le plateau des "Grosses Têtes".
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Si Yoann Riou admet ne jamais avoir été réceptif à l'hypnose, tout peut changer sur le plateau des "Grosses Têtes".
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Fri, 13 Mar 2026 16:58:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/0a042599-795b-4a5e-936c-e11978bafb0c.mp3?_=1773412980" length="2944019" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Si Yoann Riou admet ne jamais avoir été réceptif à l'hypnose, tout peut changer sur le plateau des "Grosses Têtes".
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Si Yoann Riou admet ne jamais avoir été réceptif à l'hypnose, tout peut changer sur le plateau des "Grosses Têtes".
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Si Yoann Riou admet ne jamais avoir été réceptif à l'hypnose, tout peut changer sur le plateau des "Grosses Têtes".
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez </itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>03:03</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/7c7d2e67-85c8-4f80-ba30-ed3a34bcd972.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/7c7d2e67-85c8-4f80-ba30-ed3a34bcd972.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/ZsZsWBb</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
