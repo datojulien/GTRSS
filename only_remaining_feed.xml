@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Thu, 26 Mar 2026 09:06:43 GMT</lastBuildDate>
-    <pubDate>Thu, 26 Mar 2026 09:06:43 GMT</pubDate>
+    <lastBuildDate>Thu, 26 Mar 2026 10:36:24 GMT</lastBuildDate>
+    <pubDate>Thu, 26 Mar 2026 10:36:24 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,43 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns3:txt>
+    <item>
+      <title>LE MEILLEUR DE RUQUIER - Les histoires drôles du 26 mars 2026</title>
+      <guid isPermaLink="false">5fad19a9-b360-4988-9d15-3ae102debf5d</guid>
+      <description>Un petit garçon demande à son père la définition d'un alcoolique, une visite hors du commun de Saint-Malo et les trois petits cochons font une nouvelle fois face au grand méchant loup...
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Un petit garçon demande à son père la définition d'un alcoolique, une visite hors du commun de Saint-Malo et les trois petits cochons font une nouvelle fois face au grand méchant loup...
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Thu, 26 Mar 2026 10:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/5fad19a9-b360-4988-9d15-3ae102debf5d.mp3?_=1773994383" length="3029857" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Un petit garçon demande à son père la définition d'un alcoolique, une visite hors du commun de Saint-Malo et les trois petits cochons font une nouvelle fois face au grand méchant loup...
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Un petit garçon demande à son père la définition d'un alcoolique, une visite hors du commun de Saint-Malo et les trois petits cochons font une nouvelle fois face au grand méchant loup...
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Un petit garçon demande à son père la définition d'un alcoolique, une visite hors du commun de Saint-Malo et les trois petits cochons font une nouvelle fois face au grand méchant loup...
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues ...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>03:09</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/6e0339fd-6eee-44ad-9643-b07d38a3e64e.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/6e0339fd-6eee-44ad-9643-b07d38a3e64e.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/brOkeOU</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>LE MEILLEUR DE BOUVARD - La blague de Jacques Mailhot</title>
       <guid isPermaLink="false">366daaa4-f6c7-4669-9938-063592718fb6</guid>
@@ -2786,39 +2823,6 @@ Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de 
       <ns2:image href="https://static.audiomeans.fr/img/episode/a8290080-d2e4-4bb6-8e8c-02d970491ee1.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/nxNKebb</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>BEST OF - Le meilleur de la semaine du 9 au 13 mars 2026 (2/2)</title>
-      <guid isPermaLink="false">c839311b-c323-409d-a0a2-bfe2d70eb79d</guid>
-      <description>Dans ce podcast, retrouvez les meilleurs moments qui ont marqué la semaine des Grosses Têtes, du 9 au 13 mars 2026.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Dans ce podcast, retrouvez les meilleurs moments qui ont marqué la semaine des Grosses Têtes, du 9 au 13 mars 2026.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Sun, 15 Mar 2026 10:00:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/c839311b-c323-409d-a0a2-bfe2d70eb79d.mp3?_=1773414184" length="6311865" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Dans ce podcast, retrouvez les meilleurs moments qui ont marqué la semaine des Grosses Têtes, du 9 au 13 mars 2026.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Dans ce podcast, retrouvez les meilleurs moments qui ont marqué la semaine des Grosses Têtes, du 9 au 13 mars 2026.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Dans ce podcast, retrouvez les meilleurs moments qui ont marqué la semaine des Grosses Têtes, du 9 au 13 mars 2026.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez </itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>06:34</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/bab2449d-640f-4598-b992-85f0ede6654f.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/bab2449d-640f-4598-b992-85f0ede6654f.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/OSlKFOY</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
