@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Sat, 28 Mar 2026 09:21:09 GMT</lastBuildDate>
-    <pubDate>Sat, 28 Mar 2026 09:21:09 GMT</pubDate>
+    <lastBuildDate>Sat, 28 Mar 2026 10:15:56 GMT</lastBuildDate>
+    <pubDate>Sat, 28 Mar 2026 10:15:56 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,43 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns3:txt>
+    <item>
+      <title>LE MEILLEUR DE RUQUIER - Les histoires drôles du 28 mars 2026</title>
+      <guid isPermaLink="false">8c0df73e-35df-4dde-a2ad-43647493b78d</guid>
+      <description>Un aveugle gonfle une bouée un peu spéciale sur la plage, une infirmière surprend un patient en train de se masturber et un homme propose à sa femme de lui offrir un stérilet en or.&amp;nbsp;
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Un aveugle gonfle une bouée un peu spéciale sur la plage, une infirmière surprend un patient en train de se masturber et un homme propose à sa femme de lui offrir un stérilet en or.&amp;nbsp;
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Sat, 28 Mar 2026 10:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/8c0df73e-35df-4dde-a2ad-43647493b78d.mp3?_=1773994980" length="1491769" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Un aveugle gonfle une bouée un peu spéciale sur la plage, une infirmière surprend un patient en train de se masturber et un homme propose à sa femme de lui offrir un stérilet en or. 
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Un aveugle gonfle une bouée un peu spéciale sur la plage, une infirmière surprend un patient en train de se masturber et un homme propose à sa femme de lui offrir un stérilet en or. 
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Un aveugle gonfle une bouée un peu spéciale sur la plage, une infirmière surprend un patient en train de se masturber et un homme propose à sa femme de lui offrir un stérilet en or. 
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>01:33</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/d04f9467-ed27-4675-a567-a7877fe6e6c7.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/d04f9467-ed27-4675-a567-a7877fe6e6c7.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/dVzRmou</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>ARCHIVE - Jean Yanne, "100 ans de conneries" : les écrivains français sont les meilleurs !</title>
       <guid isPermaLink="false">6abdda98-bfb2-4eac-b172-49648759dcb8</guid>
@@ -2813,48 +2850,6 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <ns2:image href="https://static.audiomeans.fr/img/episode/6f3630b4-0db6-4242-b2eb-60870bbfd77b.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/kQmmWcb</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>INÉDIT - Côté coulisses : "J'ai le trac et je suis contente" : Isabelle Aubret se confie avant l'émission</title>
-      <guid isPermaLink="false">f4d8366b-6f5f-4b72-a299-1283b16b7b52</guid>
-      <description>Dans ce podcast inédit, Isabelle Aubret se confie au micro de RTL avant son passage dans l'émission ! L'occasion d'en apprendre un peu plus sur elle, sur ses projets et sur ses souvenirs de l'émission "Les Grosses Têtes".
-
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Dans ce podcast inédit, Isabelle Aubret se confie au micro de RTL avant son passage dans l'émission ! L'occasion d'en apprendre un peu plus sur elle, sur ses projets et sur ses souvenirs de l'émission "Les Grosses Têtes".
-
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Tue, 17 Mar 2026 13:30:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/f4d8366b-6f5f-4b72-a299-1283b16b7b52.mp3?_=1773752887" length="5699057" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Dans ce podcast inédit, Isabelle Aubret se confie au micro de RTL avant son passage dans l'émission ! L'occasion d'en apprendre un peu plus sur elle, sur ses projets et sur ses souvenirs de l'émission "Les Grosses Têtes".
-
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Dans ce podcast inédit, Isabelle Aubret se confie au micro de RTL avant son passage dans l'émission ! L'occasion d'en apprendre un peu plus sur elle, sur ses projets et sur ses souvenirs de l'émission "Les Grosses Têtes".
-
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Julien Bonneau</itunes:author>
-      <author>Julien Bonneau</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Dans ce podcast inédit, Isabelle Aubret se confie au micro de RTL avant son passage dans l'émission ! L'occasion d'en apprendre un peu plus sur elle, sur ses projets et sur ses souvenirs de l'émission "Les Grosses Têtes".
-
-
-Retrouvez tous les jours le meilleur des ...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>05:56</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/273eae63-9a07-488d-a355-5b66718ffdc7.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/273eae63-9a07-488d-a355-5b66718ffdc7.jpg" />
-      <ns3:person role="host">Julien Bonneau</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/wDRdceG</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
