@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Sat, 28 Mar 2026 13:16:24 GMT</lastBuildDate>
-    <pubDate>Sat, 28 Mar 2026 13:16:24 GMT</pubDate>
+    <lastBuildDate>Sat, 28 Mar 2026 14:19:35 GMT</lastBuildDate>
+    <pubDate>Sat, 28 Mar 2026 14:19:35 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,38 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns3:txt>
+    <item>
+      <title>BEST OF - Le meilleur de la semaine du 23 au 26 mars 2026 (1/2)</title>
+      <guid isPermaLink="false">1bc9f84e-0a57-4040-ab2f-f1d2b0d71c2b</guid>
+      <description>Dans ce podcast, retrouvez les meilleurs moments qui ont marqué la semaine des Grosses Têtes, du 23 au 26 mars 2026, avec notamment, un hommage appuyé à Isabelle Mergault, décédée le 20 mars dernier.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Dans ce podcast, retrouvez les meilleurs moments qui ont marqué la semaine des Grosses Têtes, du 23 au 26 mars 2026, avec notamment, un hommage appuyé à Isabelle Mergault, décédée le 20 mars dernier.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Sat, 28 Mar 2026 14:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/1bc9f84e-0a57-4040-ab2f-f1d2b0d71c2b.mp3?_=1774529281" length="6363861" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Dans ce podcast, retrouvez les meilleurs moments qui ont marqué la semaine des Grosses Têtes, du 23 au 26 mars 2026, avec notamment, un hommage appuyé à Isabelle Mergault, décédée le 20 mars dernier.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Dans ce podcast, retrouvez les meilleurs moments qui ont marqué la semaine des Grosses Têtes, du 23 au 26 mars 2026, avec notamment, un hommage appuyé à Isabelle Mergault, décédée le 20 mars dernier.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Dans ce podcast, retrouvez les meilleurs moments qui ont marqué la semaine des Grosses Têtes, du 23 au 26 mars 2026, avec notamment, un hommage appuyé à Isabelle Mergault, décédée le 20 mars dernier.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcas...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>06:37</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/ccf8b241-5634-46e3-9c6a-600dd58c99c2.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/ccf8b241-5634-46e3-9c6a-600dd58c99c2.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/QXuDWnQ</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>LE MEILLEUR DE RUQUIER - Les histoires drôles du 28 mars 2026</title>
       <guid isPermaLink="false">8c0df73e-35df-4dde-a2ad-43647493b78d</guid>
@@ -2807,49 +2839,6 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <ns2:image href="https://static.audiomeans.fr/img/episode/25e12e4b-9cf2-441c-85fa-7e20e91925fb.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/MtJpRgy</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>IMITATIONS - Aphatie, Sarkozy, Bern... L'actualité vue par Marc-Antoine Lebret</title>
-      <guid isPermaLink="false">79cb0b8f-fa45-447a-8359-2a94b2d30b48</guid>
-      <description>Dans l'émission du 17 mars 2026, Marc-Antoine Le Bret a imité Jean-Michel Aphatie, Nicolas Sarkozy et Stéphane Bern !
-
-
-&lt;i&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Dans l'émission du 17 mars 2026, Marc-Antoine Le Bret a imité Jean-Michel Aphatie, Nicolas Sarkozy et Stéphane Bern !
-
-
-&lt;i&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Tue, 17 Mar 2026 16:52:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/79cb0b8f-fa45-447a-8359-2a94b2d30b48.mp3?_=1773761881" length="3037676" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Dans l'émission du 17 mars 2026, Marc-Antoine Le Bret a imité Jean-Michel Aphatie, Nicolas Sarkozy et Stéphane Bern !
-
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Dans l'émission du 17 mars 2026, Marc-Antoine Le Bret a imité Jean-Michel Aphatie, Nicolas Sarkozy et Stéphane Bern !
-
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Dans l'émission du 17 mars 2026, Marc-Antoine Le Bret a imité Jean-Michel Aphatie, Nicolas Sarkozy et Stéphane Bern !
-
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visite...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>03:09</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/6f3630b4-0db6-4242-b2eb-60870bbfd77b.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/6f3630b4-0db6-4242-b2eb-60870bbfd77b.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/kQmmWcb</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
