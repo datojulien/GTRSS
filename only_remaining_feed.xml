@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Mon, 30 Mar 2026 23:21:21 GMT</lastBuildDate>
-    <pubDate>Mon, 30 Mar 2026 23:21:21 GMT</pubDate>
+    <lastBuildDate>Tue, 31 Mar 2026 01:01:31 GMT</lastBuildDate>
+    <pubDate>Tue, 31 Mar 2026 01:01:31 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,34 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns3:txt>
+    <item>
+      <title>LE MEILLEUR DE BOUVARD - La blague d'Enrico Macias</title>
+      <guid isPermaLink="false">f39f69b7-1d8a-4ef5-82fa-f5e80e1e21bd</guid>
+      <description>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Tue, 31 Mar 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/f39f69b7-1d8a-4ef5-82fa-f5e80e1e21bd.mp3?_=1774276981" length="1837582" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !
+ Hébergé par Audiomeans. Visitez </itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>01:54</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/5aea4bec-92b7-4cfa-9c4d-3868b49bc749.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/5aea4bec-92b7-4cfa-9c4d-3868b49bc749.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/oITrCBC</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>PÉPITE - Le voyage en Orient-Express de Laurent Ruquier et Joyce Jonathan</title>
       <guid isPermaLink="false">e3fbb016-16f8-4f41-a218-fcccd8a26880</guid>
@@ -2781,37 +2809,6 @@ Tous les jours, en podcast, retrouvez une compilati...</itunes:subtitle>
       <ns2:image href="https://static.audiomeans.fr/img/episode/2116acfb-b847-47c6-9fd6-91ad90bec7d0.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/fNwzzby</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>LES IMMANQUABLES - Le meilleur de l'émission du 18 mars 2026</title>
-      <guid isPermaLink="false">923974a6-7582-4c15-9f54-2e983b7e1156</guid>
-      <description>Les expériences physiques de Fabrizio Bucella, l'ex compagnon de Jeanfi Janssens fan de perroquets ou encore le coup de gueule d'un auditeur sur les réponses de Roselyne Bachelot et Franck Ferrand... Retrouvez dans ce podcast le meilleur de l'émission du mercredi 18 mars 2026.
-&lt;i&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Les expériences physiques de Fabrizio Bucella, l'ex compagnon de Jeanfi Janssens fan de perroquets ou encore le coup de gueule d'un auditeur sur les réponses de Roselyne Bachelot et Franck Ferrand... Retrouvez dans ce podcast le meilleur de l'émission du mercredi 18 mars 2026.
-&lt;i&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Wed, 18 Mar 2026 16:59:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/923974a6-7582-4c15-9f54-2e983b7e1156.mp3?_=1773845583" length="21512172" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Les expériences physiques de Fabrizio Bucella, l'ex compagnon de Jeanfi Janssens fan de perroquets ou encore le coup de gueule d'un auditeur sur les réponses de Roselyne Bachelot et Franck Ferrand... Retrouvez dans ce podcast le meilleur de l'émission du mercredi 18 mars 2026.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Les expériences physiques de Fabrizio Bucella, l'ex compagnon de Jeanfi Janssens fan de perroquets ou encore le coup de gueule d'un auditeur sur les réponses de Roselyne Bachelot et Franck Ferrand... Retrouvez dans ce podcast le meilleur de l'émission du mercredi 18 mars 2026.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Les expériences physiques de Fabrizio Bucella, l'ex compagnon de Jeanfi Janssens fan de perroquets ou encore le coup de gueule d'un auditeur sur les réponses de Roselyne Bachelot et Franck Ferrand... Retrouvez dans ce podcast le meilleur de l'émission du mercredi 1...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>22:24</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/e47abea4-c490-4e18-8828-3897eaf3e381.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/e47abea4-c490-4e18-8828-3897eaf3e381.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/ivXoymQ</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
