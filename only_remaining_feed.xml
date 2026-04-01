@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Wed, 01 Apr 2026 12:43:20 GMT</lastBuildDate>
-    <pubDate>Wed, 01 Apr 2026 12:43:20 GMT</pubDate>
+    <lastBuildDate>Wed, 01 Apr 2026 14:20:35 GMT</lastBuildDate>
+    <pubDate>Wed, 01 Apr 2026 14:20:35 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -262,31 +262,32 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
     <item>
       <title>IMITATIONS - Aphatie, Macron, Deschamps... L'actualité vue par Marc-Antoine Lebret !</title>
       <guid isPermaLink="false">bf4f91b4-9c05-4b56-bffd-6faa0de92826</guid>
-      <description>Dans l'émission du 31 mars 2026, Marc-Antoine Le Bret a imité les Grosses Têtes Emmanuel Macron, Jean-Michel Aphatie, Didier Deschamps et Nelson Montfort !&amp;nbsp;
+      <description>Dans l'émission du 31 mars 2026, Marc-Antoine Le Bret a imité Emmanuel Macron, Jean-Michel Aphatie, Didier Deschamps et Nelson Montfort !&amp;nbsp;
 &lt;i&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Dans l'émission du 31 mars 2026, Marc-Antoine Le Bret a imité les Grosses Têtes Emmanuel Macron, Jean-Michel Aphatie, Didier Deschamps et Nelson Montfort !&amp;nbsp;
+      <ns4:encoded>Dans l'émission du 31 mars 2026, Marc-Antoine Le Bret a imité Emmanuel Macron, Jean-Michel Aphatie, Didier Deschamps et Nelson Montfort !&amp;nbsp;
 &lt;i&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
       <pubDate>Tue, 31 Mar 2026 15:52:00 GMT</pubDate>
       <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/bf4f91b4-9c05-4b56-bffd-6faa0de92826.mp3?_=1774967581" length="4125720" type="audio/mpeg" />
       <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Dans l'émission du 31 mars 2026, Marc-Antoine Le Bret a imité les Grosses Têtes Emmanuel Macron, Jean-Michel Aphatie, Didier Deschamps et Nelson Montfort ! 
+      <itunes:summary>Dans l'émission du 31 mars 2026, Marc-Antoine Le Bret a imité Emmanuel Macron, Jean-Michel Aphatie, Didier Deschamps et Nelson Montfort ! 
 Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
  Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
  </itunes:summary>
-      <ns2:description>Dans l'émission du 31 mars 2026, Marc-Antoine Le Bret a imité les Grosses Têtes Emmanuel Macron, Jean-Michel Aphatie, Didier Deschamps et Nelson Montfort ! 
+      <ns2:description>Dans l'émission du 31 mars 2026, Marc-Antoine Le Bret a imité Emmanuel Macron, Jean-Michel Aphatie, Didier Deschamps et Nelson Montfort ! 
 Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
  Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
  </ns2:description>
       <itunes:author>Laurent Ruquier</itunes:author>
       <author>Laurent Ruquier</author>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Dans l'émission du 31 mars 2026, Marc-Antoine Le Bret a imité les Grosses Têtes Emmanuel Macron, Jean-Michel Aphatie, Didier Deschamps et Nelson Montfort ! 
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.</itunes:subtitle>
+      <itunes:subtitle>Dans l'émission du 31 mars 2026, Marc-Antoine Le Bret a imité Emmanuel Macron, Jean-Michel Aphatie, Didier Deschamps et Nelson Montfort ! 
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Héberg...</itunes:subtitle>
       <itunes:block>no</itunes:block>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>04:17</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/8b35acf2-9dc7-4f16-aec8-f3c90aeee038.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/8b35acf2-9dc7-4f16-aec8-f3c90aeee038.jpg" />
+      <itunes:image href="https://static.audiomeans.fr/img/episode/dc2ed81f-2a7f-4b5f-8801-65b6f47fe568.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/dc2ed81f-2a7f-4b5f-8801-65b6f47fe568.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/BjuJtlK</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
