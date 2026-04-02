@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Thu, 02 Apr 2026 08:11:17 GMT</lastBuildDate>
-    <pubDate>Thu, 02 Apr 2026 08:11:17 GMT</pubDate>
+    <lastBuildDate>Thu, 02 Apr 2026 09:44:56 GMT</lastBuildDate>
+    <pubDate>Thu, 02 Apr 2026 09:44:56 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,41 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns3:txt>
+    <item>
+      <title>LE MEILLEUR DE RUQUIER - "C'est la place de ma femme" : Titoff et la blague du supporter marseillais au Vélodrome</title>
+      <guid isPermaLink="false">d7796ad4-fca5-41de-af64-c5854b98ea50</guid>
+      <description>Un homme qui se rend au Vélodrome pour un match à enjeu, le test pour savoir si votre femme devient sourde et des Belges qui veulent absolument retapisser leur salle à manger... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.&amp;nbsp;
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Un homme qui se rend au Vélodrome pour un match à enjeu, le test pour savoir si votre femme devient sourde et des Belges qui veulent absolument retapisser leur salle à manger... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.&amp;nbsp;
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Thu, 02 Apr 2026 09:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/d7796ad4-fca5-41de-af64-c5854b98ea50.mp3?_=1774279686" length="3006845" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Un homme qui se rend au Vélodrome pour un match à enjeu, le test pour savoir si votre femme devient sourde et des Belges qui veulent absolument retapisser leur salle à manger... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier. 
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Un homme qui se rend au Vélodrome pour un match à enjeu, le test pour savoir si votre femme devient sourde et des Belges qui veulent absolument retapisser leur salle à manger... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier. 
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Un homme qui se rend au Vélodrome pour un match à enjeu, le test pour savoir si votre femme devient sourde et des Belges qui veulent absolument retapisser leur salle à manger... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Lau...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>03:07</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/1fb09e84-a5da-419c-95c4-f05dd8625f49.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/1fb09e84-a5da-419c-95c4-f05dd8625f49.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/mkjWpmV</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>LE MEILLEUR DE BOUVARD - La blague de Chantal Ladesou</title>
       <guid isPermaLink="false">8bab3e0a-f6b6-4466-aac7-b50a3a97eb49</guid>
@@ -2760,46 +2795,6 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en ...</itunes:subtitle>
       <ns2:image href="https://static.audiomeans.fr/img/episode/2b22e12c-0cdc-4783-9e8c-01889191f005.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/Gmeyast</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>PÉPITE - Quand Liane Foly s'en prend à Christophe Beaugrand</title>
-      <guid isPermaLink="false">f8b92910-9959-4762-81b4-685063ea609e</guid>
-      <description>Alors que l'animateur charriait la chanteuse sur sa renommée internationale, cette dernière ne s'est pas laissée faire !&amp;nbsp;
-
-&lt;i&gt;Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;/i&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Alors que l'animateur charriait la chanteuse sur sa renommée internationale, cette dernière ne s'est pas laissée faire !&amp;nbsp;
-
-&lt;i&gt;Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;/i&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Fri, 20 Mar 2026 16:58:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/f8b92910-9959-4762-81b4-685063ea609e.mp3?_=1774022880" length="4745873" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Alors que l'animateur charriait la chanteuse sur sa renommée internationale, cette dernière ne s'est pas laissée faire ! 
-
-Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Alors que l'animateur charriait la chanteuse sur sa renommée internationale, cette dernière ne s'est pas laissée faire ! 
-
-Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Alors que l'animateur charriait la chanteuse sur sa renommée internationale, cette dernière ne s'est pas laissée faire ! 
-
-Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
- Hébergé par...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>04:56</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/ae79dbdb-c6bc-4c3f-a43c-b85942ee4eaa.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/ae79dbdb-c6bc-4c3f-a43c-b85942ee4eaa.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/yuWYTGD</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
