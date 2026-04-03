@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Fri, 03 Apr 2026 07:48:08 GMT</lastBuildDate>
-    <pubDate>Fri, 03 Apr 2026 07:48:08 GMT</pubDate>
+    <lastBuildDate>Fri, 03 Apr 2026 09:03:53 GMT</lastBuildDate>
+    <pubDate>Fri, 03 Apr 2026 09:03:53 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,41 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns3:txt>
+    <item>
+      <title>LE MEILLEUR DE RUQUIER - "Je suis blonde, je ne bouge pas" : l'histoire drôle de Caroline Diament lors d'un vol Paris-New York</title>
+      <guid isPermaLink="false">570e46f6-da4b-4940-aaca-271c082a0f11</guid>
+      <description>Une dame qui refuse de céder sa place en première classe, un couple qui se rend chez le gynécologue pour une échographie et un homme qui découvre un inconnu dans son armoire... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.&amp;nbsp;
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Une dame qui refuse de céder sa place en première classe, un couple qui se rend chez le gynécologue pour une échographie et un homme qui découvre un inconnu dans son armoire... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.&amp;nbsp;
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Fri, 03 Apr 2026 09:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/570e46f6-da4b-4940-aaca-271c082a0f11.mp3?_=1774279980" length="2163031" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Une dame qui refuse de céder sa place en première classe, un couple qui se rend chez le gynécologue pour une échographie et un homme qui découvre un inconnu dans son armoire... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier. 
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Une dame qui refuse de céder sa place en première classe, un couple qui se rend chez le gynécologue pour une échographie et un homme qui découvre un inconnu dans son armoire... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier. 
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Une dame qui refuse de céder sa place en première classe, un couple qui se rend chez le gynécologue pour une échographie et un homme qui découvre un inconnu dans son armoire... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laur...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>02:15</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/a708ddff-f17e-42b8-be77-fc1a00b57e27.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/a708ddff-f17e-42b8-be77-fc1a00b57e27.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/qWaaklw</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>LE MEILLEUR DE BOUVARD - La blague de Carlos</title>
       <guid isPermaLink="false">687c7c11-3804-45a1-af2f-ea7398ec927b</guid>
@@ -2725,56 +2760,6 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <ns2:image href="https://static.audiomeans.fr/img/episode/17b8b4ba-2120-45b7-ab8e-33c1a78e6263.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/vVeGmes</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>LE MEILLEUR DE RUQUIER - Les histoires drôles du 21 mars 2026</title>
-      <guid isPermaLink="false">983e7b25-31d2-4662-8952-48666b4cc37b</guid>
-      <description>Des personnes âgées hypnotisées dans un EPHAD, une dame inquiète se rend chez le médecin et un mannequin avec des problèmes d'odeur dans la culotte.&amp;nbsp;
-
-Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
-
-
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Des personnes âgées hypnotisées dans un EPHAD, une dame inquiète se rend chez le médecin et un mannequin avec des problèmes d'odeur dans la culotte.&amp;nbsp;
-
-Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
-
-
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Sat, 21 Mar 2026 10:00:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/983e7b25-31d2-4662-8952-48666b4cc37b.mp3?_=1773939481" length="5024712" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Des personnes âgées hypnotisées dans un EPHAD, une dame inquiète se rend chez le médecin et un mannequin avec des problèmes d'odeur dans la culotte. 
-
-Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
-
-
-
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Des personnes âgées hypnotisées dans un EPHAD, une dame inquiète se rend chez le médecin et un mannequin avec des problèmes d'odeur dans la culotte. 
-
-Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
-
-
-
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Des personnes âgées hypnotisées dans un EPHAD, une dame inquiète se rend chez le médecin et un mannequin avec des problèmes d'odeur dans la culotte. 
-
-Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
-...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>05:13</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/65caf8ee-0f17-42b9-b4df-bfe507c22b53.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/65caf8ee-0f17-42b9-b4df-bfe507c22b53.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/vOcbzYv</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
