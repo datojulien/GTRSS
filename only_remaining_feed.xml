@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Sat, 04 Apr 2026 12:00:52 GMT</lastBuildDate>
-    <pubDate>Sat, 04 Apr 2026 12:00:52 GMT</pubDate>
+    <lastBuildDate>Sat, 04 Apr 2026 13:40:35 GMT</lastBuildDate>
+    <pubDate>Sat, 04 Apr 2026 13:40:35 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,39 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns3:txt>
+    <item>
+      <title>BEST OF - Le meilleur de la semaine du 30 mars au 3 avril (1/2)</title>
+      <guid isPermaLink="false">1724a7ce-66f0-41ce-8052-457709935ce9</guid>
+      <description>Dans ce podcast, retrouvez les meilleurs moments qui ont marqué la semaine des Grosses Têtes, du 30 mars au 3 avril 2026.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Dans ce podcast, retrouvez les meilleurs moments qui ont marqué la semaine des Grosses Têtes, du 30 mars au 3 avril 2026.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Sat, 04 Apr 2026 13:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/1724a7ce-66f0-41ce-8052-457709935ce9.mp3?_=1775059381" length="6593999" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Dans ce podcast, retrouvez les meilleurs moments qui ont marqué la semaine des Grosses Têtes, du 30 mars au 3 avril 2026.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Dans ce podcast, retrouvez les meilleurs moments qui ont marqué la semaine des Grosses Têtes, du 30 mars au 3 avril 2026.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Dans ce podcast, retrouvez les meilleurs moments qui ont marqué la semaine des Grosses Têtes, du 30 mars au 3 avril 2026.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez </itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>06:52</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/ab783f55-df3b-41f5-82ed-54cd9e6de602.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/ab783f55-df3b-41f5-82ed-54cd9e6de602.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/EllLTmx</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>LE MEILLEUR DE RUQUIER - Les cannibales et la touriste égarée... L'histoire drôle d'Olivier Bellamy</title>
       <guid isPermaLink="false">af8be76c-aed8-4563-b9f1-b1b677a35ff9</guid>
@@ -2718,44 +2751,6 @@ Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de 
       <ns2:image href="https://static.audiomeans.fr/img/episode/581c1a05-f0ba-4f50-9bbf-828a6557df19.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/YbXPeTp</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>HOMMAGE - Isabelle Mergault : ses 10 meilleures blagues 'Les Grosses Têtes' de Laurent Ruquier</title>
-      <guid isPermaLink="false">59881990-63ce-4d67-ac72-16b3197c931c</guid>
-      <description>Sociétaire mythique des 'Grosses Têtes', la comédienne et réalisatrice Isabelle Mergault est décédée ce vendredi 20 mars 2026. Dans ce podcast hommage, retrouvez une compilation de ses meilleures blagues sur RTL.&amp;nbsp;
-
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Sociétaire mythique des 'Grosses Têtes', la comédienne et réalisatrice Isabelle Mergault est décédée ce vendredi 20 mars 2026. Dans ce podcast hommage, retrouvez une compilation de ses meilleures blagues sur RTL.&amp;nbsp;
-
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Sun, 22 Mar 2026 14:00:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/59881990-63ce-4d67-ac72-16b3197c931c.mp3?_=1774015381" length="8179442" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Sociétaire mythique des 'Grosses Têtes', la comédienne et réalisatrice Isabelle Mergault est décédée ce vendredi 20 mars 2026. Dans ce podcast hommage, retrouvez une compilation de ses meilleures blagues sur RTL. 
-
-
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Sociétaire mythique des 'Grosses Têtes', la comédienne et réalisatrice Isabelle Mergault est décédée ce vendredi 20 mars 2026. Dans ce podcast hommage, retrouvez une compilation de ses meilleures blagues sur RTL. 
-
-
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Sociétaire mythique des 'Grosses Têtes', la comédienne et réalisatrice Isabelle Mergault est décédée ce vendredi 20 mars 2026. Dans ce podcast hommage, retrouvez une compilation de ses meilleures blagues sur RTL. 
-
-
- Hébergé par Audiomeans. Visitez </itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>08:31</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/d0ffa1aa-64aa-4312-bf2e-808c8832408d.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/d0ffa1aa-64aa-4312-bf2e-808c8832408d.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/qySEeub</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
