@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Sun, 05 Apr 2026 23:16:58 GMT</lastBuildDate>
-    <pubDate>Sun, 05 Apr 2026 23:16:58 GMT</pubDate>
+    <lastBuildDate>Mon, 06 Apr 2026 00:04:01 GMT</lastBuildDate>
+    <pubDate>Mon, 06 Apr 2026 00:04:01 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,34 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns3:txt>
+    <item>
+      <title>LE MEILLEUR DE BOUVARD - Les blagues de Macha Méril et Pierre Bellemare</title>
+      <guid isPermaLink="false">0813c7e5-6b11-4031-80bd-472d955f0836</guid>
+      <description>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Mon, 06 Apr 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/0813c7e5-6b11-4031-80bd-472d955f0836.mp3?_=1774277282" length="1207391" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !
+ Hébergé par Audiomeans. Visitez </itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>01:15</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/9bd83817-80dd-4600-8b4a-cfc88e1651c0.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/9bd83817-80dd-4600-8b4a-cfc88e1651c0.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/IVyIsxA</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>Les Grosses Têtes du 05 avril 2026</title>
       <guid isPermaLink="false">e50bee0d-d2f7-4bab-ae1a-77665a0691a6</guid>
@@ -2653,45 +2681,6 @@ Tous les jours, en podcast, retrouvez une compilati...</itunes:subtitle>
       <ns2:image href="https://static.audiomeans.fr/img/episode/e11cad51-97ce-480a-8173-4a2dd2a9e04f.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/nSGNFhF</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>PÉPITE - "Une séquence mémorable" : quand Laurent Ruquier faisait le médiateur entre Isabelle Mergault et Jeanfi Janssens</title>
-      <guid isPermaLink="false">9e6f7231-9d1e-48c8-aeda-31031bcd48a1</guid>
-      <description>Comme de nombreuses Grosses Têtes, Jeanfi Janssens était au téléphone de l'émission ce 23 mars, pour rendre hommage à Isabelle Mergault. L'occasion de revenir sur une situation chaotique qu'on vécu les deux sociétaire, juste après une fête organisée par Chantal Ladesou...
-
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Comme de nombreuses Grosses Têtes, Jeanfi Janssens était au téléphone de l'émission ce 23 mars, pour rendre hommage à Isabelle Mergault. L'occasion de revenir sur une situation chaotique qu'on vécu les deux sociétaire, juste après une fête organisée par Chantal Ladesou...
-
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Mon, 23 Mar 2026 16:58:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/9e6f7231-9d1e-48c8-aeda-31031bcd48a1.mp3?_=1774278481" length="5150438" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Comme de nombreuses Grosses Têtes, Jeanfi Janssens était au téléphone de l'émission ce 23 mars, pour rendre hommage à Isabelle Mergault. L'occasion de revenir sur une situation chaotique qu'on vécu les deux sociétaire, juste après une fête organisée par Chantal Ladesou...
-
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Comme de nombreuses Grosses Têtes, Jeanfi Janssens était au téléphone de l'émission ce 23 mars, pour rendre hommage à Isabelle Mergault. L'occasion de revenir sur une situation chaotique qu'on vécu les deux sociétaire, juste après une fête organisée par Chantal Ladesou...
-
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Comme de nombreuses Grosses Têtes, Jeanfi Janssens était au téléphone de l'émission ce 23 mars, pour rendre hommage à Isabelle Mergault. L'occasion de revenir sur une situation chaotique qu'on vécu les deux sociétaire, juste après une fête organisée par Chantal Lad...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>05:21</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/8eea2a3a-42d3-4e59-97e3-0f36d184a913.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/8eea2a3a-42d3-4e59-97e3-0f36d184a913.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/LktMAHx</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
