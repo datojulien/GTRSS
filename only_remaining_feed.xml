@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Tue, 07 Apr 2026 08:00:12 GMT</lastBuildDate>
-    <pubDate>Tue, 07 Apr 2026 08:00:12 GMT</pubDate>
+    <lastBuildDate>Tue, 07 Apr 2026 09:17:29 GMT</lastBuildDate>
+    <pubDate>Tue, 07 Apr 2026 09:17:29 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,44 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns3:txt>
+    <item>
+      <title>LE MEILLEUR DE RUQUIER - Un homme fait les cent pas dans son salon... Les histoires drôles du 7 avril 2026</title>
+      <guid isPermaLink="false">7ee7a843-9477-4b86-ad42-4d421eb03796</guid>
+      <description>Un homme marche dans son salon à 2 heures du matin, trois enfants discutent de leurs papas dans la cour de récréation et un couple se dispute...&amp;nbsp;
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préfér&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Un homme marche dans son salon à 2 heures du matin, trois enfants discutent de leurs papas dans la cour de récréation et un couple se dispute...&amp;nbsp;
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préfér&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Tue, 07 Apr 2026 09:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/7ee7a843-9477-4b86-ad42-4d421eb03796.mp3?_=1775055780" length="1985688" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Un homme marche dans son salon à 2 heures du matin, trois enfants discutent de leurs papas dans la cour de récréation et un couple se dispute... 
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préfér
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Un homme marche dans son salon à 2 heures du matin, trois enfants discutent de leurs papas dans la cour de récréation et un couple se dispute... 
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préfér
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Un homme marche dans son salon à 2 heures du matin, trois enfants discutent de leurs papas dans la cour de récréation et un couple se dispute... 
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préfér
+ </itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>02:04</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/62a05b08-d8be-4f8d-b3f0-4396e7cca214.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/62a05b08-d8be-4f8d-b3f0-4396e7cca214.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/ASYkvkf</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>LE MEILLEUR DE BOUVARD - La blague de Philippe Chevallier</title>
       <guid isPermaLink="false">edd10c71-57a1-41f2-9d89-524a8a282772</guid>
@@ -525,6 +563,7 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr e.
       <itunes:image href="https://static.audiomeans.fr/img/episode/5cd771b4-5900-4ead-a6be-dac8d45eedc7.jpg" />
       <ns2:image href="https://static.audiomeans.fr/img/episode/5cd771b4-5900-4ead-a6be-dac8d45eedc7.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/cpsNZpx</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
@@ -565,6 +604,7 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <itunes:image href="https://static.audiomeans.fr/img/episode/d4fec659-ca1f-442d-9474-f5555ce67e8f.jpg" />
       <ns2:image href="https://static.audiomeans.fr/img/episode/d4fec659-ca1f-442d-9474-f5555ce67e8f.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/fjGzMnd</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
@@ -2641,38 +2681,6 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <ns2:image href="https://static.audiomeans.fr/img/episode/9161cba2-b77f-4950-841a-8b87905ec4c6.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/JujNMcK</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>QUI QUI EXPRESS - Quel artiste sera à la Défense Arena ce weekend ?</title>
-      <guid isPermaLink="false">e9dd3155-b166-4fd3-a0f8-526213dd8685</guid>
-      <description>Dans ce jeu du "Qui Qui Express", la règle est simple : à chaque personnalité retrouvée par les Grosses Têtes, l'auditeur ou l'auditrice remporte 50 euros !
-&lt;i&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Dans ce jeu du "Qui Qui Express", la règle est simple : à chaque personnalité retrouvée par les Grosses Têtes, l'auditeur ou l'auditrice remporte 50 euros !
-&lt;i&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Tue, 24 Mar 2026 16:56:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/e9dd3155-b166-4fd3-a0f8-526213dd8685.mp3?_=1774364581" length="6925166" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Dans ce jeu du "Qui Qui Express", la règle est simple : à chaque personnalité retrouvée par les Grosses Têtes, l'auditeur ou l'auditrice remporte 50 euros !
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Dans ce jeu du "Qui Qui Express", la règle est simple : à chaque personnalité retrouvée par les Grosses Têtes, l'auditeur ou l'auditrice remporte 50 euros !
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Dans ce jeu du "Qui Qui Express", la règle est simple : à chaque personnalité retrouvée par les Grosses Têtes, l'auditeur ou l'auditrice remporte 50 euros !
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL....</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>07:12</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/27f9ae9c-6e5f-4bee-9606-b298fe91506c.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/27f9ae9c-6e5f-4bee-9606-b298fe91506c.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/nFSIHMZ</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
