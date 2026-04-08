@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Wed, 08 Apr 2026 16:03:19 GMT</lastBuildDate>
-    <pubDate>Wed, 08 Apr 2026 16:03:19 GMT</pubDate>
+    <lastBuildDate>Wed, 08 Apr 2026 17:47:36 GMT</lastBuildDate>
+    <pubDate>Wed, 08 Apr 2026 17:47:36 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -68,6 +68,38 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur R...</itu
       <ns2:image href="https://static.audiomeans.fr/img/episode/8b4f8d41-90dd-486c-94ad-f1a9cd69e83e.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/tfmeeeu</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
+    <item>
+      <title>PÉPITE - "On dirait Navarro", AZ taquine Charlotte de Turckheim</title>
+      <guid isPermaLink="false">74132db8-bfcb-4b00-a9a6-150f105afc7c</guid>
+      <description>Alors que Charlotte de Turckheim essayait de défendre le charme naturel et sans artifices des actrices d'Hollywood, AZ et Sébastien Thoen s'en sont pris à leur camarades !&amp;nbsp;
+&lt;i&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Alors que Charlotte de Turckheim essayait de défendre le charme naturel et sans artifices des actrices d'Hollywood, AZ et Sébastien Thoen s'en sont pris à leur camarades !&amp;nbsp;
+&lt;i&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Wed, 08 Apr 2026 15:58:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/74132db8-bfcb-4b00-a9a6-150f105afc7c.mp3?_=1775664480" length="3838986" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Alors que Charlotte de Turckheim essayait de défendre le charme naturel et sans artifices des actrices d'Hollywood, AZ et Sébastien Thoen s'en sont pris à leur camarades ! 
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Alors que Charlotte de Turckheim essayait de défendre le charme naturel et sans artifices des actrices d'Hollywood, AZ et Sébastien Thoen s'en sont pris à leur camarades ! 
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Alors que Charlotte de Turckheim essayait de défendre le charme naturel et sans artifices des actrices d'Hollywood, AZ et Sébastien Thoen s'en sont pris à leur camarades ! 
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'ap...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>03:59</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/ab7b0eba-efb7-4e48-b7a2-5741cf6620d9.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/ab7b0eba-efb7-4e48-b7a2-5741cf6620d9.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/WElfKkS</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
@@ -138,6 +170,7 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <itunes:image href="https://static.audiomeans.fr/img/episode/412d5515-4e9c-4e44-ad0d-f9541feeb9ee.jpg" />
       <ns2:image href="https://static.audiomeans.fr/img/episode/412d5515-4e9c-4e44-ad0d-f9541feeb9ee.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/SHFqUVu</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
@@ -2668,43 +2701,6 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <ns2:image href="https://static.audiomeans.fr/img/episode/b8790c00-5703-4801-b582-6de55842e9c9.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/HZTSWWI</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>LE MEILLEUR DE RUQUIER - Les histoires drôles du 26 mars 2026</title>
-      <guid isPermaLink="false">5fad19a9-b360-4988-9d15-3ae102debf5d</guid>
-      <description>Un petit garçon demande à son père la définition d'un alcoolique, une visite hors du commun de Saint-Malo et les trois petits cochons font une nouvelle fois face au grand méchant loup...
-
-Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Un petit garçon demande à son père la définition d'un alcoolique, une visite hors du commun de Saint-Malo et les trois petits cochons font une nouvelle fois face au grand méchant loup...
-
-Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Thu, 26 Mar 2026 10:00:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/5fad19a9-b360-4988-9d15-3ae102debf5d.mp3?_=1773994383" length="3029857" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Un petit garçon demande à son père la définition d'un alcoolique, une visite hors du commun de Saint-Malo et les trois petits cochons font une nouvelle fois face au grand méchant loup...
-
-Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Un petit garçon demande à son père la définition d'un alcoolique, une visite hors du commun de Saint-Malo et les trois petits cochons font une nouvelle fois face au grand méchant loup...
-
-Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Un petit garçon demande à son père la définition d'un alcoolique, une visite hors du commun de Saint-Malo et les trois petits cochons font une nouvelle fois face au grand méchant loup...
-
-Tous les jours, en podcast, retrouvez une compilation des meilleures blagues ...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>03:09</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/6e0339fd-6eee-44ad-9643-b07d38a3e64e.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/6e0339fd-6eee-44ad-9643-b07d38a3e64e.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/brOkeOU</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
