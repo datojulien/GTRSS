@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Thu, 09 Apr 2026 11:57:42 GMT</lastBuildDate>
-    <pubDate>Thu, 09 Apr 2026 11:57:42 GMT</pubDate>
+    <lastBuildDate>Thu, 09 Apr 2026 14:06:02 GMT</lastBuildDate>
+    <pubDate>Thu, 09 Apr 2026 14:06:02 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -134,7 +134,7 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur R...</itu
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
-      <title>PÉPITE - "On dirait Navarro", AZ taquine Charlotte de Turckheim</title>
+      <title>PÉPITE - "Tu jouais pas Navarro", AZ taquine Charlotte de Turckheim</title>
       <guid isPermaLink="false">74132db8-bfcb-4b00-a9a6-150f105afc7c</guid>
       <description>Alors que Charlotte de Turckheim essayait de défendre le charme naturel et sans artifices des actrices d'Hollywood, AZ et Sébastien Thoen s'en sont pris à leur camarades !&amp;nbsp;
 &lt;i&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
@@ -159,8 +159,8 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <itunes:block>no</itunes:block>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>03:59</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/ab7b0eba-efb7-4e48-b7a2-5741cf6620d9.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/ab7b0eba-efb7-4e48-b7a2-5741cf6620d9.jpg" />
+      <itunes:image href="https://static.audiomeans.fr/img/episode/53669c0d-0f0e-48b8-b301-48cb4175a01f.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/53669c0d-0f0e-48b8-b301-48cb4175a01f.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/WElfKkS</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
