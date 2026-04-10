@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Fri, 10 Apr 2026 08:10:53 GMT</lastBuildDate>
-    <pubDate>Fri, 10 Apr 2026 08:10:53 GMT</pubDate>
+    <lastBuildDate>Fri, 10 Apr 2026 09:52:43 GMT</lastBuildDate>
+    <pubDate>Fri, 10 Apr 2026 09:52:43 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,41 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns3:txt>
+    <item>
+      <title>LE MEILLEUR DE RUQUIER - Des élèves de CM2 contredisent leur professeur... L'histoire drôle racontée par Jean-Marie Bigard</title>
+      <guid isPermaLink="false">af9e9ab3-6fa8-4296-afcb-fbdd767ae298</guid>
+      <description>Des enfants de CM2 qui assurent à leur professeur qu'ils ont tout à la maison, une très jolie femme qui se rend chez le médecin pour un problème très particulier et un homme qui avale un œil de verre lors d'une soirée... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Des enfants de CM2 qui assurent à leur professeur qu'ils ont tout à la maison, une très jolie femme qui se rend chez le médecin pour un problème très particulier et un homme qui avale un œil de verre lors d'une soirée... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Fri, 10 Apr 2026 09:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/af9e9ab3-6fa8-4296-afcb-fbdd767ae298.mp3?_=1775056380" length="4082727" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Des enfants de CM2 qui assurent à leur professeur qu'ils ont tout à la maison, une très jolie femme qui se rend chez le médecin pour un problème très particulier et un homme qui avale un œil de verre lors d'une soirée... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Des enfants de CM2 qui assurent à leur professeur qu'ils ont tout à la maison, une très jolie femme qui se rend chez le médecin pour un problème très particulier et un homme qui avale un œil de verre lors d'une soirée... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Des enfants de CM2 qui assurent à leur professeur qu'ils ont tout à la maison, une très jolie femme qui se rend chez le médecin pour un problème très particulier et un homme qui avale un œil de verre lors d'une soirée... Écoutez dans ce podcast 3 des meilleures bla...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>04:15</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/c0c315e0-9486-4be7-8338-f4abf7dd6593.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/c0c315e0-9486-4be7-8338-f4abf7dd6593.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/grPsUTl</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>LE MEILLEUR DE BOUVARD - La blague de Philippe Bouvard</title>
       <guid isPermaLink="false">fca5576c-1093-4168-9e51-110d41fc598f</guid>
@@ -2668,44 +2703,6 @@ Retrouvez tous les jours le meilleur...</itunes:subtitle>
       <ns2:image href="https://static.audiomeans.fr/img/episode/1fa41106-c267-4b11-a700-921ab35eb7c3.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/wVpStAZ</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>PÉPITE - Olivier Bellamy serait Franc-maçon</title>
-      <guid isPermaLink="false">49b53a24-d980-479b-bd5d-72493e26d67a</guid>
-      <description>Une simple question peut changer la vision d'une personne et c'est ce qu'il s'est passé ce 27 mars 2026 pour Olivier Bellamy !
-
-&lt;i&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Une simple question peut changer la vision d'une personne et c'est ce qu'il s'est passé ce 27 mars 2026 pour Olivier Bellamy !
-
-&lt;i&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Fri, 27 Mar 2026 16:58:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/49b53a24-d980-479b-bd5d-72493e26d67a.mp3?_=1774621381" length="3922442" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Une simple question peut changer la vision d'une personne et c'est ce qu'il s'est passé ce 27 mars 2026 pour Olivier Bellamy !
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Une simple question peut changer la vision d'une personne et c'est ce qu'il s'est passé ce 27 mars 2026 pour Olivier Bellamy !
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Une simple question peut changer la vision d'une personne et c'est ce qu'il s'est passé ce 27 mars 2026 pour Olivier Bellamy !
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>04:05</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/35cf9a05-7b83-42a4-8b50-d3d31bc858f8.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/35cf9a05-7b83-42a4-8b50-d3d31bc858f8.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/KutNBCz</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
