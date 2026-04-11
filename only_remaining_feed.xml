@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Sat, 11 Apr 2026 08:26:21 GMT</lastBuildDate>
-    <pubDate>Sat, 11 Apr 2026 08:26:21 GMT</pubDate>
+    <lastBuildDate>Sat, 11 Apr 2026 09:26:07 GMT</lastBuildDate>
+    <pubDate>Sat, 11 Apr 2026 09:26:07 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,40 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns3:txt>
+    <item>
+      <title>LE MEILLEUR DE RUQUIER - Quand un souriceau tombe amoureux d'une éléphante... L'histoire drôle de Karine Le Marchand</title>
+      <guid isPermaLink="false">bc0ccb12-b249-49c5-99c6-f8a10af94f73</guid>
+      <description>L'histoire d'un petit souriceau qui tombe amoureux d'une éléphante, un homme qui veux absolument montrer ses atouts au milieu d'un bar et un homme dont l'anus sent mauvais... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>L'histoire d'un petit souriceau qui tombe amoureux d'une éléphante, un homme qui veux absolument montrer ses atouts au milieu d'un bar et un homme dont l'anus sent mauvais... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Sat, 11 Apr 2026 09:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/bc0ccb12-b249-49c5-99c6-f8a10af94f73.mp3?_=1775056680" length="2096105" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>L'histoire d'un petit souriceau qui tombe amoureux d'une éléphante, un homme qui veux absolument montrer ses atouts au milieu d'un bar et un homme dont l'anus sent mauvais... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>L'histoire d'un petit souriceau qui tombe amoureux d'une éléphante, un homme qui veux absolument montrer ses atouts au milieu d'un bar et un homme dont l'anus sent mauvais... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>RTL</itunes:author>
+      <author>RTL</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>L'histoire d'un petit souriceau qui tombe amoureux d'une éléphante, un homme qui veux absolument montrer ses atouts au milieu d'un bar et un homme dont l'anus sent mauvais... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Lauren...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>02:10</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/c1bec73a-7fcc-401a-9625-28a6c61d0d6a.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/c1bec73a-7fcc-401a-9625-28a6c61d0d6a.jpg" />
+      <ns3:txt purpose="smartlink">https://audmns.com/YWyGcoR</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>LE MEILLEUR DE BOUVARD - La blague de Vincent Perrot</title>
       <guid isPermaLink="false">e53181be-5c7e-4a1e-bc0a-a62be510c6ff</guid>
@@ -2662,47 +2696,6 @@ Tous les jours, en podcast, retrouvez une compilation des meilleures blagues...<
       <ns2:image href="https://static.audiomeans.fr/img/episode/d04f9467-ed27-4675-a567-a7877fe6e6c7.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/dVzRmou</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>ARCHIVE - Jean Yanne, "100 ans de conneries" : les écrivains français sont les meilleurs !</title>
-      <guid isPermaLink="false">6abdda98-bfb2-4eac-b172-49648759dcb8</guid>
-      <description>Nos écrivains sont les meilleurs du monde ! Et ce n'est pas Jean Yanne qui dira le contraire...
-
-
-Chaque weekend en podcast, retrouvez "100 ans de conneries", par Jean Yanne. Pendant 4 mois, de septembre à décembre 1999, le sociétaire des "Grosses Têtes" tenait sur RTL une chronique quotidienne dans laquelle il faisait le bilan du siècle qui allait bientôt se terminer. Avec son humour féroce habituel, il s'est attaché à dénoncé la "connerie" humaine, vraie constante et révélatrice du XXème siècle.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Nos écrivains sont les meilleurs du monde ! Et ce n'est pas Jean Yanne qui dira le contraire...
-
-
-Chaque weekend en podcast, retrouvez "100 ans de conneries", par Jean Yanne. Pendant 4 mois, de septembre à décembre 1999, le sociétaire des "Grosses Têtes" tenait sur RTL une chronique quotidienne dans laquelle il faisait le bilan du siècle qui allait bientôt se terminer. Avec son humour féroce habituel, il s'est attaché à dénoncé la "connerie" humaine, vraie constante et révélatrice du XXème siècle.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Sat, 28 Mar 2026 05:00:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/6abdda98-bfb2-4eac-b172-49648759dcb8.mp3?_=1774626480" length="2756119" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Nos écrivains sont les meilleurs du monde ! Et ce n'est pas Jean Yanne qui dira le contraire...
-
-
-Chaque weekend en podcast, retrouvez "100 ans de conneries", par Jean Yanne. Pendant 4 mois, de septembre à décembre 1999, le sociétaire des "Grosses Têtes" tenait sur RTL une chronique quotidienne dans laquelle il faisait le bilan du siècle qui allait bientôt se terminer. Avec son humour féroce habituel, il s'est attaché à dénoncé la "connerie" humaine, vraie constante et révélatrice du XXème siècle.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Nos écrivains sont les meilleurs du monde ! Et ce n'est pas Jean Yanne qui dira le contraire...
-
-
-Chaque weekend en podcast, retrouvez "100 ans de conneries", par Jean Yanne. Pendant 4 mois, de septembre à décembre 1999, le sociétaire des "Grosses Têtes" tenait sur RTL une chronique quotidienne dans laquelle il faisait le bilan du siècle qui allait bientôt se terminer. Avec son humour féroce habituel, il s'est attaché à dénoncé la "connerie" humaine, vraie constante et révélatrice du XXème siècle.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>RTL</itunes:author>
-      <author>RTL</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Nos écrivains sont les meilleurs du monde ! Et ce n'est pas Jean Yanne qui dira le contraire...
-
-
-Chaque weekend en podcast, retrouvez "100 ans de conneries", par Jean Yanne. Pendant 4 mois, de septembre à décembre 1999, le sociétaire des "Grosses Têtes" tenait sur...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>02:52</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/3fb9bf9c-d304-450d-bd04-4cfe7b896695.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/3fb9bf9c-d304-450d-bd04-4cfe7b896695.jpg" />
-      <ns3:txt purpose="smartlink">https://audmns.com/hDeLnBj</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
