@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Tue, 14 Apr 2026 16:16:27 GMT</lastBuildDate>
-    <pubDate>Tue, 14 Apr 2026 16:16:27 GMT</pubDate>
+    <lastBuildDate>Tue, 14 Apr 2026 17:50:56 GMT</lastBuildDate>
+    <pubDate>Tue, 14 Apr 2026 17:50:56 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -71,7 +71,49 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr e.
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
-      <title>FACE AUX AUDITEURS - "Il pourrait être une excellente recrue" : quand un simple mail permet à Thomas Deseur de faire "Les Grosses Têtes"</title>
+      <title>PÉPITE - Quand les Grosses Têtes reprennent "Je suis malade"</title>
+      <guid isPermaLink="false">e8d4e6c6-357e-45d1-b2e3-abdec591452c</guid>
+      <description>En revenant sur la polémique crée par un candidat de l'émission "The Voice", qui a interprété "Je suis malade", les Grosses Têtes se sont lancées à leur manière dans des reprises du célèbre tube composée pour Serge Lama...
+
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>En revenant sur la polémique crée par un candidat de l'émission "The Voice", qui a interprété "Je suis malade", les Grosses Têtes se sont lancées à leur manière dans des reprises du célèbre tube composée pour Serge Lama...
+
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Tue, 14 Apr 2026 15:58:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/e8d4e6c6-357e-45d1-b2e3-abdec591452c.mp3?_=1776183769" length="4087763" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>En revenant sur la polémique crée par un candidat de l'émission "The Voice", qui a interprété "Je suis malade", les Grosses Têtes se sont lancées à leur manière dans des reprises du célèbre tube composée pour Serge Lama...
+
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>En revenant sur la polémique crée par un candidat de l'émission "The Voice", qui a interprété "Je suis malade", les Grosses Têtes se sont lancées à leur manière dans des reprises du célèbre tube composée pour Serge Lama...
+
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>En revenant sur la polémique crée par un candidat de l'émission "The Voice", qui a interprété "Je suis malade", les Grosses Têtes se sont lancées à leur manière dans des reprises du célèbre tube composée pour Serge Lama...
+
+
+Retrouvez tous les jours le meilleur des...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>04:15</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/4c3ba77d-133f-4f44-be90-6b953310c227.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/4c3ba77d-133f-4f44-be90-6b953310c227.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/soBwHkz</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
+    <item>
+      <title>FACE AUX AUDITEURS - "Il pourrait être une excellente recrue" : quand un mail permet à Thomas Deseur d'entrer aux "Grosses Têtes"</title>
       <guid isPermaLink="false">663edeff-280b-4df2-b51b-701a79102a9d</guid>
       <description>Plaintes, compliments, interrogations... Cette saison encore, les Grosses Têtes répondent aux différentes questions et messages des auditeurs à l'antenne.
 
@@ -100,8 +142,8 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <itunes:block>no</itunes:block>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>07:19</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/0ce1dd58-d493-4dd4-81fe-d06c78c98984.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/0ce1dd58-d493-4dd4-81fe-d06c78c98984.jpg" />
+      <itunes:image href="https://static.audiomeans.fr/img/episode/c77945c6-5ab6-4358-914f-fab28f73a2a1.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/c77945c6-5ab6-4358-914f-fab28f73a2a1.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/waxRBVx</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
@@ -2611,38 +2653,6 @@ Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de 
       <ns2:image href="https://static.audiomeans.fr/img/episode/98035d5c-4551-48f7-972d-4aed845dfb87.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/yXWGBpc</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>LES IMMANQUABLES - Le meilleur de l'émission du 31 mars 2026</title>
-      <guid isPermaLink="false">6c7e71f6-6dde-4616-8559-d5807daef408</guid>
-      <description>L'accent portugais de Sébastien Thoen, Alex Vizorek qui négocie des places pour le concert de Céline Dion ou encore les anecdotes d'enfance d'Alexis le Rossignol et Karina Marimon... Retrouvez dans ce podcast le meilleur de l'émission du mardi 31 mars 2026.
-&lt;i&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>L'accent portugais de Sébastien Thoen, Alex Vizorek qui négocie des places pour le concert de Céline Dion ou encore les anecdotes d'enfance d'Alexis le Rossignol et Karina Marimon... Retrouvez dans ce podcast le meilleur de l'émission du mardi 31 mars 2026.
-&lt;i&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Tue, 31 Mar 2026 15:59:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/6c7e71f6-6dde-4616-8559-d5807daef408.mp3?_=1774969682" length="19106359" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>L'accent portugais de Sébastien Thoen, Alex Vizorek qui négocie des places pour le concert de Céline Dion ou encore les anecdotes d'enfance d'Alexis le Rossignol et Karina Marimon... Retrouvez dans ce podcast le meilleur de l'émission du mardi 31 mars 2026.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>L'accent portugais de Sébastien Thoen, Alex Vizorek qui négocie des places pour le concert de Céline Dion ou encore les anecdotes d'enfance d'Alexis le Rossignol et Karina Marimon... Retrouvez dans ce podcast le meilleur de l'émission du mardi 31 mars 2026.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>L'accent portugais de Sébastien Thoen, Alex Vizorek qui négocie des places pour le concert de Céline Dion ou encore les anecdotes d'enfance d'Alexis le Rossignol et Karina Marimon... Retrouvez dans ce podcast le meilleur de l'émission du mardi 31 mars 2026.
-Ret...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>19:54</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/9a14651e-d8bd-492d-84f9-5c824bc930c8.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/9a14651e-d8bd-492d-84f9-5c824bc930c8.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/paqiCXi</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
