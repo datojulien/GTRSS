@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Tue, 14 Apr 2026 08:14:38 GMT</lastBuildDate>
-    <pubDate>Tue, 14 Apr 2026 08:14:38 GMT</pubDate>
+    <lastBuildDate>Tue, 14 Apr 2026 10:00:51 GMT</lastBuildDate>
+    <pubDate>Tue, 14 Apr 2026 10:00:51 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,43 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns3:txt>
+    <item>
+      <title>LE MEILLEUR DE RUQUIER - La naissance d'un bébé hors du commun...  L'histoire drôle racontée par Philippe Geluck</title>
+      <guid isPermaLink="false">dc579b9e-8fcb-4f0d-8a8b-d84f3119fca3</guid>
+      <description>Un père découvre le physique atypique de son fils à la maternité, une vieille dame grippée demande des conseils à son médecin et la différence entre les marrons et le viagra. Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Un père découvre le physique atypique de son fils à la maternité, une vieille dame grippée demande des conseils à son médecin et la différence entre les marrons et le viagra. Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Tue, 14 Apr 2026 09:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/dc579b9e-8fcb-4f0d-8a8b-d84f3119fca3.mp3?_=1775833382" length="2205923" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Un père découvre le physique atypique de son fils à la maternité, une vieille dame grippée demande des conseils à son médecin et la différence entre les marrons et le viagra. Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Un père découvre le physique atypique de son fils à la maternité, une vieille dame grippée demande des conseils à son médecin et la différence entre les marrons et le viagra. Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Un père découvre le physique atypique de son fils à la maternité, une vieille dame grippée demande des conseils à son médecin et la différence entre les marrons et le viagra. Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Lauren...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>02:17</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/999c38aa-9434-4dbb-b654-e393bd6d3d12.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/999c38aa-9434-4dbb-b654-e393bd6d3d12.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/oeRMotE</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>LE MEILLEUR DE BOUVARD - La blague de Jacques Balutin</title>
       <guid isPermaLink="false">ae9c374b-2213-4915-88d5-e19bcb86179a</guid>
@@ -141,7 +178,7 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
-      <title>QUI QUI EXPRESS - Quelle célèbre photo de Jacques Witt est publiée dans Libération ?</title>
+      <title>QUI QUI EXPRESS - Quelle célèbre photo de Jacques Witt est publiée dans 'Libération' ?</title>
       <guid isPermaLink="false">8b2cdfe5-388c-4bb1-be73-da91460ac7eb</guid>
       <description>Dans ce jeu du "Qui Qui Express", la règle est simple : à chaque personnalité retrouvée par les Grosses Têtes, l'auditeur ou l'auditrice remporte 50 euros !
 &lt;i&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
@@ -166,8 +203,8 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <itunes:block>no</itunes:block>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>08:00</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/5c044ee6-737a-4b11-aab8-59e329a44ea0.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/5c044ee6-737a-4b11-aab8-59e329a44ea0.jpg" />
+      <itunes:image href="https://static.audiomeans.fr/img/episode/12363ebb-bf97-476f-8ddd-41dbafa8a48e.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/12363ebb-bf97-476f-8ddd-41dbafa8a48e.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/wCBhTCl</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
@@ -2627,43 +2664,6 @@ Retrouvez tous les jours le ...</itunes:subtitle>
       <ns2:image href="https://static.audiomeans.fr/img/episode/1738f7f8-8e8e-4778-82f9-4f5ebe019363.jpg" />
       <ns3:person role="host">Julien Bonneau</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/SCYbvhJ</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>LE MEILLEUR DE RUQUIER - L'histoire drôle du perroquet bilingue racontée par Sébastien Thoen</title>
-      <guid isPermaLink="false">54b47fee-50ce-40d3-a7d4-d147ebd57d98</guid>
-      <description>Un homme qui achète un perroquet bilingue, une blonde qui se rend dans un commissariat pour déposer une plainte et un Belge à bord du vol New York-Paris... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.&amp;nbsp;
-
-Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Un homme qui achète un perroquet bilingue, une blonde qui se rend dans un commissariat pour déposer une plainte et un Belge à bord du vol New York-Paris... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.&amp;nbsp;
-
-Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Tue, 31 Mar 2026 09:00:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/54b47fee-50ce-40d3-a7d4-d147ebd57d98.mp3?_=1774279381" length="1751676" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Un homme qui achète un perroquet bilingue, une blonde qui se rend dans un commissariat pour déposer une plainte et un Belge à bord du vol New York-Paris... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier. 
-
-Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Un homme qui achète un perroquet bilingue, une blonde qui se rend dans un commissariat pour déposer une plainte et un Belge à bord du vol New York-Paris... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier. 
-
-Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Un homme qui achète un perroquet bilingue, une blonde qui se rend dans un commissariat pour déposer une plainte et un Belge à bord du vol New York-Paris... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier. 
-
-T...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>01:49</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/763dba9a-7e5b-40c9-bd7e-9683d22322d9.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/763dba9a-7e5b-40c9-bd7e-9683d22322d9.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/Zrwhcpr</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
