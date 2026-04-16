@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Thu, 16 Apr 2026 11:43:02 GMT</lastBuildDate>
-    <pubDate>Thu, 16 Apr 2026 11:43:02 GMT</pubDate>
+    <lastBuildDate>Thu, 16 Apr 2026 12:54:01 GMT</lastBuildDate>
+    <pubDate>Thu, 16 Apr 2026 12:54:01 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -193,7 +193,7 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
-      <title>FACE AUX AUDITEURS - "Ça s'appellera le banquet des Grosses Têtes" : bientôt un nouveau concept pour l'équipe de Laurent Ruquier ?</title>
+      <title>FACE AUX AUDITEURS - "Le banquet des Grosses Têtes" : un nouveau concept d'émission pour Laurent Ruquier ?</title>
       <guid isPermaLink="false">9c1c5ee9-04b1-4ac8-a4a1-f2c321209918</guid>
       <description>Plaintes, compliments, interrogations... Cette saison encore, les Grosses Têtes répondent aux différentes questions et messages des auditeurs à l'antenne.
 Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
@@ -219,8 +219,8 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <itunes:block>no</itunes:block>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>07:56</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/37d5bfd6-dade-4486-bfd5-dfd0713c1ac5.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/37d5bfd6-dade-4486-bfd5-dfd0713c1ac5.jpg" />
+      <itunes:image href="https://static.audiomeans.fr/img/episode/6e58caac-62a1-46d0-bb70-c784f75f0c15.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/6e58caac-62a1-46d0-bb70-c784f75f0c15.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/jKOyNrs</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
@@ -259,7 +259,7 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
-      <title>FAKE NEWS - Procès de Nicolas Sarkozy, médecin en Chine, détroit d'Hormuz... Quelle Grosse Tête dit vrai ?</title>
+      <title>FAKE NEWS - Procès de Sarkozy, médecin en Chine, détroit d'Hormuz... Quelle Grosse Tête dit vrai ?</title>
       <guid isPermaLink="false">ab63066a-c1b8-47ed-8c2f-84884872a45c</guid>
       <description>Et vous, saurez-vous démêler le vrai du faux ?
 Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
@@ -285,8 +285,8 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <itunes:block>no</itunes:block>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>08:03</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/f650831c-9811-4191-95f4-e8912f850546.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/f650831c-9811-4191-95f4-e8912f850546.jpg" />
+      <itunes:image href="https://static.audiomeans.fr/img/episode/6e93333e-818d-40e5-9add-1498053293b3.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/6e93333e-818d-40e5-9add-1498053293b3.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/SElklvL</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
