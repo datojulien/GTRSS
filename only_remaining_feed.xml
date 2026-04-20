@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Mon, 20 Apr 2026 12:52:26 GMT</lastBuildDate>
-    <pubDate>Mon, 20 Apr 2026 12:52:26 GMT</pubDate>
+    <lastBuildDate>Mon, 20 Apr 2026 14:54:44 GMT</lastBuildDate>
+    <pubDate>Mon, 20 Apr 2026 14:54:44 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,43 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns3:txt>
+    <item>
+      <title>INÉDIT - Côté coulisses : Stéphane et Zaoui se confient avant l'émission</title>
+      <guid isPermaLink="false">0038e7e1-46b7-411e-a606-89191792fac7</guid>
+      <description>Dans ce podcast inédit, Stéphane et Zaoui se confient au micro de RTL avant son passage dans l'émission ! L'occasion d'en apprendre un peu plus sur eux, leurs projets et sur leurs souvenirs de l'émission "Les Grosses Têtes".
+&lt;i&gt;&lt;/i&gt;
+&lt;i&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Dans ce podcast inédit, Stéphane et Zaoui se confient au micro de RTL avant son passage dans l'émission ! L'occasion d'en apprendre un peu plus sur eux, leurs projets et sur leurs souvenirs de l'émission "Les Grosses Têtes".
+&lt;i&gt;&lt;/i&gt;
+&lt;i&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Mon, 20 Apr 2026 12:30:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/0038e7e1-46b7-411e-a606-89191792fac7.mp3?_=1776689285" length="5967743" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Dans ce podcast inédit, Stéphane et Zaoui se confient au micro de RTL avant son passage dans l'émission ! L'occasion d'en apprendre un peu plus sur eux, leurs projets et sur leurs souvenirs de l'émission "Les Grosses Têtes".
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Dans ce podcast inédit, Stéphane et Zaoui se confient au micro de RTL avant son passage dans l'émission ! L'occasion d'en apprendre un peu plus sur eux, leurs projets et sur leurs souvenirs de l'émission "Les Grosses Têtes".
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Julien Bonneau</itunes:author>
+      <author>Julien Bonneau</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Dans ce podcast inédit, Stéphane et Zaoui se confient au micro de RTL avant son passage dans l'émission ! L'occasion d'en apprendre un peu plus sur eux, leurs projets et sur leurs souvenirs de l'émission "Les Grosses Têtes".
+
+Retrouvez tous les jours le m...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>06:12</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/e811ceda-5799-4a7c-87e7-1fb6aff06d6e.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/e811ceda-5799-4a7c-87e7-1fb6aff06d6e.jpg" />
+      <ns3:person role="host">Julien Bonneau</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/trXZjwn</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>LE MEILLEUR DE RUQUIER - Un homme affalé dans un théâtre... L'histoire drôle racontée par Jean-Marie Bigard</title>
       <guid isPermaLink="false">68e88f61-e18a-40ff-8710-e8d9e7db328b</guid>
@@ -2762,39 +2799,6 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <ns2:image href="https://static.audiomeans.fr/img/episode/33d0b4fb-d4ab-4d61-a408-b3f6d1a568d1.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/ULbrKys</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>IMITATIONS - Montagné, Van Damme, Praud... Le weekend de Pâques vu par Marc-Antoine Le Bret</title>
-      <guid isPermaLink="false">7a12a938-128a-4638-a284-975226764c50</guid>
-      <description>Dans l'émission du 7 avril 2026, Marc-Antoine Le Bret a imité Gilbert Montagné, Jean-Claude Van Damme, Pascal Praud et Jean Lassalle.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Dans l'émission du 7 avril 2026, Marc-Antoine Le Bret a imité Gilbert Montagné, Jean-Claude Van Damme, Pascal Praud et Jean Lassalle.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Tue, 07 Apr 2026 15:52:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/7a12a938-128a-4638-a284-975226764c50.mp3?_=1775571492" length="2802837" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Dans l'émission du 7 avril 2026, Marc-Antoine Le Bret a imité Gilbert Montagné, Jean-Claude Van Damme, Pascal Praud et Jean Lassalle.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Dans l'émission du 7 avril 2026, Marc-Antoine Le Bret a imité Gilbert Montagné, Jean-Claude Van Damme, Pascal Praud et Jean Lassalle.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Dans l'émission du 7 avril 2026, Marc-Antoine Le Bret a imité Gilbert Montagné, Jean-Claude Van Damme, Pascal Praud et Jean Lassalle.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans....</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>02:55</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/192c0e16-277b-43da-872a-5b2116c08388.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/192c0e16-277b-43da-872a-5b2116c08388.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/ZCBMRXX</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
