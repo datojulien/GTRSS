@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Tue, 21 Apr 2026 08:03:53 GMT</lastBuildDate>
-    <pubDate>Tue, 21 Apr 2026 08:03:53 GMT</pubDate>
+    <lastBuildDate>Tue, 21 Apr 2026 10:06:21 GMT</lastBuildDate>
+    <pubDate>Tue, 21 Apr 2026 10:06:21 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,53 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns3:txt>
+    <item>
+      <title>LE MEILLEUR DE RUQUIER - La différence entre un rappeur et un campeur ? Découvrez l'histoire drôle racontée par Roselyne Bachelot</title>
+      <guid isPermaLink="false">09beb11c-d5ee-4f2e-81a0-625f7bd1a9f9</guid>
+      <description>La différence notable entre un rappeur et un campeur, un homme qui a failli faire l'amour à Brigitte Bardot et un bébé qui met du temps à sortir du ventre de sa mère... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+&amp;nbsp;
+
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>La différence notable entre un rappeur et un campeur, un homme qui a failli faire l'amour à Brigitte Bardot et un bébé qui met du temps à sortir du ventre de sa mère... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+&amp;nbsp;
+
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Tue, 21 Apr 2026 09:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/09beb11c-d5ee-4f2e-81a0-625f7bd1a9f9.mp3?_=1776161581" length="1511727" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>La différence notable entre un rappeur et un campeur, un homme qui a failli faire l'amour à Brigitte Bardot et un bébé qui met du temps à sortir du ventre de sa mère... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+ 
+
+
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>La différence notable entre un rappeur et un campeur, un homme qui a failli faire l'amour à Brigitte Bardot et un bébé qui met du temps à sortir du ventre de sa mère... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+ 
+
+
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>La différence notable entre un rappeur et un campeur, un homme qui a failli faire l'amour à Brigitte Bardot et un bébé qui met du temps à sortir du ventre de sa mère... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruqu...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>01:34</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/1473497f-76a7-43fe-bd68-b9812d42151a.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/1473497f-76a7-43fe-bd68-b9812d42151a.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/XlmnuOT</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>LE MEILLEUR DE BOUVARD - La blague de Jean-Marie Bigard</title>
       <guid isPermaLink="false">07259583-f8ab-4ebd-b987-d372725c1818</guid>
@@ -2742,39 +2789,6 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <ns2:image href="https://static.audiomeans.fr/img/episode/f0d43aba-8b3c-4800-8554-efb505f72ad3.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/pEJISxc</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>IMITATIONS - Macron, Bigard, De Villepin... L'actualité vue par Marc-Antoine Lebret</title>
-      <guid isPermaLink="false">83a42623-8bbf-44d6-a5b7-9fdb01b3d20b</guid>
-      <description>Dans l'émission du 8 avril 2026, Marc-Antoine Le Bret a imité Emmanuel Macron, Nicolas Sarkozy, Dominique de Villepin, Jean-Marie Bigard, Patrick Sébastien.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Dans l'émission du 8 avril 2026, Marc-Antoine Le Bret a imité Emmanuel Macron, Nicolas Sarkozy, Dominique de Villepin, Jean-Marie Bigard, Patrick Sébastien.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Wed, 08 Apr 2026 15:52:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/83a42623-8bbf-44d6-a5b7-9fdb01b3d20b.mp3?_=1775662982" length="3767937" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Dans l'émission du 8 avril 2026, Marc-Antoine Le Bret a imité Emmanuel Macron, Nicolas Sarkozy, Dominique de Villepin, Jean-Marie Bigard, Patrick Sébastien.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Dans l'émission du 8 avril 2026, Marc-Antoine Le Bret a imité Emmanuel Macron, Nicolas Sarkozy, Dominique de Villepin, Jean-Marie Bigard, Patrick Sébastien.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Dans l'émission du 8 avril 2026, Marc-Antoine Le Bret a imité Emmanuel Macron, Nicolas Sarkozy, Dominique de Villepin, Jean-Marie Bigard, Patrick Sébastien.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- </itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>03:55</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/d84ad9b7-5855-47a3-a238-ffb12fe12ed6.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/d84ad9b7-5855-47a3-a238-ffb12fe12ed6.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/qBQDqll</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
