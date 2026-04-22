@@ -7,8 +7,8 @@
     <description>Tous les épisodes de L'Intégrale de 'Les Grosses Têtes', regroupant la diffusion complète sans coupures ni extras.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Wed, 22 Apr 2026 06:25:09 GMT</lastBuildDate>
-    <pubDate>Wed, 22 Apr 2026 06:25:09 GMT</pubDate>
+    <lastBuildDate>Wed, 22 Apr 2026 08:20:14 GMT</lastBuildDate>
+    <pubDate>Wed, 22 Apr 2026 08:20:14 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -39,7 +39,7 @@
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns3:txt>
     <item>
-      <title>L'INTÉGRALE - Émission du mardi 21 avril 2026 bis</title>
+      <title>L'INTÉGRALE - Émission du mardi 21 avril 2026</title>
       <guid isPermaLink="false">fb42058a-e17f-4537-88d3-174735704b5f</guid>
       <description>Avec Philippe Geluck, Valérie Mairesse, Elena Nagapetyan, GuiHome, JeanFi Janssens et Alexis Tramoni.
 &lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
@@ -65,8 +65,8 @@
       <itunes:block>no</itunes:block>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>01:42:52</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/22fa111a-a413-4ca9-b908-49836d0b0df9.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/22fa111a-a413-4ca9-b908-49836d0b0df9.jpg" />
+      <itunes:image href="https://static.audiomeans.fr/img/episode/e1154035-504e-47cf-b0f6-e3216df4e313.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/e1154035-504e-47cf-b0f6-e3216df4e313.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/nbjgYko</ns3:txt>
       <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes</itunes:keywords>
