@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Mon, 27 Apr 2026 07:37:14 GMT</lastBuildDate>
-    <pubDate>Mon, 27 Apr 2026 07:37:14 GMT</pubDate>
+    <lastBuildDate>Mon, 27 Apr 2026 09:59:20 GMT</lastBuildDate>
+    <pubDate>Mon, 27 Apr 2026 09:59:20 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,49 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns3:txt>
+    <item>
+      <title>LE MEILLEUR DE RUQUIER - Une éléphante qui refuse d'aller se baigner...  L'histoire drôle racontée par Éric Thomas</title>
+      <guid isPermaLink="false">3e240a87-91ba-4ff0-9f64-c4bc02f42f18</guid>
+      <description>Une éléphante qui trouve l'eau d'un lac trop froide pour aller s'y baigner, une femme qui raconte à son mari comment elle l'a trompé et un couple qui se dispute décide de repartir de zéro... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+&amp;nbsp;
+&amp;nbsp;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Une éléphante qui trouve l'eau d'un lac trop froide pour aller s'y baigner, une femme qui raconte à son mari comment elle l'a trompé et un couple qui se dispute décide de repartir de zéro... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+&amp;nbsp;
+&amp;nbsp;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Mon, 27 Apr 2026 09:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/3e240a87-91ba-4ff0-9f64-c4bc02f42f18.mp3?_=1776960480" length="2114872" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Une éléphante qui trouve l'eau d'un lac trop froide pour aller s'y baigner, une femme qui raconte à son mari comment elle l'a trompé et un couple qui se dispute décide de repartir de zéro... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+ 
+ 
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Une éléphante qui trouve l'eau d'un lac trop froide pour aller s'y baigner, une femme qui raconte à son mari comment elle l'a trompé et un couple qui se dispute décide de repartir de zéro... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+ 
+ 
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Une éléphante qui trouve l'eau d'un lac trop froide pour aller s'y baigner, une femme qui raconte à son mari comment elle l'a trompé et un couple qui se dispute décide de repartir de zéro... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>02:12</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/575f8300-1ed2-422b-be55-a3f3f1c9aba5.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/575f8300-1ed2-422b-be55-a3f3f1c9aba5.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/CQXZsdg</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>LE MEILLEUR DE BOUVARD - La blague de Pierre Bellemare</title>
       <guid isPermaLink="false">c4892c5d-eae0-4793-8d0a-2d4cd0291841</guid>
@@ -2748,39 +2791,6 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <ns2:image href="https://static.audiomeans.fr/img/episode/083386f9-cdd7-4b86-9b3d-53d15931e3ed.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/XQqRiUF</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>IMITATIONS - Monfort, Trump, Vianney... L'actualité vue par Marc-Antoine Le Bret</title>
-      <guid isPermaLink="false">52b1642d-ba07-4253-996a-3646c32fae3d</guid>
-      <description>Dans l'émission du 13 avril 2026, Marc-Antoine Le Bret a imité Nelson Monfort, Donald Trump, Jack Lang et Vianney ! 
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Dans l'émission du 13 avril 2026, Marc-Antoine Le Bret a imité Nelson Monfort, Donald Trump, Jack Lang et Vianney ! 
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Tue, 14 Apr 2026 15:52:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/52b1642d-ba07-4253-996a-3646c32fae3d.mp3?_=1776173282" length="3071531" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Dans l'émission du 13 avril 2026, Marc-Antoine Le Bret a imité Nelson Monfort, Donald Trump, Jack Lang et Vianney ! 
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Dans l'émission du 13 avril 2026, Marc-Antoine Le Bret a imité Nelson Monfort, Donald Trump, Jack Lang et Vianney ! 
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Dans l'émission du 13 avril 2026, Marc-Antoine Le Bret a imité Nelson Monfort, Donald Trump, Jack Lang et Vianney ! 
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez </itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>03:11</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/e208493d-11b7-407b-b840-802090013678.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/e208493d-11b7-407b-b840-802090013678.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/msJdjyY</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
