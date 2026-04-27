@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Sun, 26 Apr 2026 23:24:23 GMT</lastBuildDate>
-    <pubDate>Sun, 26 Apr 2026 23:24:23 GMT</pubDate>
+    <lastBuildDate>Mon, 27 Apr 2026 01:15:38 GMT</lastBuildDate>
+    <pubDate>Mon, 27 Apr 2026 01:15:38 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,34 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns3:txt>
+    <item>
+      <title>LE MEILLEUR DE BOUVARD - La blague de Pierre Bellemare</title>
+      <guid isPermaLink="false">c4892c5d-eae0-4793-8d0a-2d4cd0291841</guid>
+      <description>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/c4892c5d-eae0-4793-8d0a-2d4cd0291841.mp3?_=1776697383" length="1258295" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !
+ Hébergé par Audiomeans. Visitez </itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>01:18</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/1fda4486-67af-4107-9657-ce2e997b5101.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/1fda4486-67af-4107-9657-ce2e997b5101.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/sDolPKF</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>BEST OF - Les 10 meilleures blagues du dimanche 26 avril 2026</title>
       <guid isPermaLink="false">c1e5f930-8284-4943-b358-f231086e6652</guid>
@@ -2753,48 +2781,6 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <ns2:image href="https://static.audiomeans.fr/img/episode/e208493d-11b7-407b-b840-802090013678.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/msJdjyY</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>INÉDIT - Côté coulisses : Benjamin Bocconi et Tim Zouari se confient avant l'émission</title>
-      <guid isPermaLink="false">aad5ce6a-86f9-4c3c-ae96-a6c53a3785e1</guid>
-      <description>Dans ce podcast inédit, Benjamin Bocconi et Tim Zouari se confient au micro de RTL avant son passage dans l'émission ! L'occasion d'en apprendre un peu plus sur eux, sur leurs projets et sur leurs souvenirs de l'émission "Les Grosses Têtes".
-
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Dans ce podcast inédit, Benjamin Bocconi et Tim Zouari se confient au micro de RTL avant son passage dans l'émission ! L'occasion d'en apprendre un peu plus sur eux, sur leurs projets et sur leurs souvenirs de l'émission "Les Grosses Têtes".
-
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Tue, 14 Apr 2026 15:12:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/aad5ce6a-86f9-4c3c-ae96-a6c53a3785e1.mp3?_=1776169680" length="5018620" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Dans ce podcast inédit, Benjamin Bocconi et Tim Zouari se confient au micro de RTL avant son passage dans l'émission ! L'occasion d'en apprendre un peu plus sur eux, sur leurs projets et sur leurs souvenirs de l'émission "Les Grosses Têtes".
-
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Dans ce podcast inédit, Benjamin Bocconi et Tim Zouari se confient au micro de RTL avant son passage dans l'émission ! L'occasion d'en apprendre un peu plus sur eux, sur leurs projets et sur leurs souvenirs de l'émission "Les Grosses Têtes".
-
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Julien Bonneau</itunes:author>
-      <author>Julien Bonneau</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Dans ce podcast inédit, Benjamin Bocconi et Tim Zouari se confient au micro de RTL avant son passage dans l'émission ! L'occasion d'en apprendre un peu plus sur eux, sur leurs projets et sur leurs souvenirs de l'émission "Les Grosses Têtes".
-
-
-Retrouvez tous les jo...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>05:13</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/d7a36e81-4aa7-429a-a1a0-3f63cf400dad.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/d7a36e81-4aa7-429a-a1a0-3f63cf400dad.jpg" />
-      <ns3:person role="host">Julien Bonneau</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/MyDPQcL</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
