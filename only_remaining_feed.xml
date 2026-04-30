@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Thu, 30 Apr 2026 07:53:07 GMT</lastBuildDate>
-    <pubDate>Thu, 30 Apr 2026 07:53:07 GMT</pubDate>
+    <lastBuildDate>Thu, 30 Apr 2026 10:13:14 GMT</lastBuildDate>
+    <pubDate>Thu, 30 Apr 2026 10:13:14 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,43 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns3:txt>
+    <item>
+      <title>LE MEILLEUR DE RUQUIER - Un bébé qui parle à son père avant sa naissance...  L'histoire drôle racontée par Jeanfi Janssens</title>
+      <guid isPermaLink="false">3d841cfd-8161-4caa-b5c6-1c36c53be923</guid>
+      <description>Un bébé qui s'adresse à son père alors qu'il n'est même pas encore né, la maîtresse d'école qui demande les rêves de ses élèves et un mari qui suspecte sa femme de le tromper... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+&amp;nbsp;
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Un bébé qui s'adresse à son père alors qu'il n'est même pas encore né, la maîtresse d'école qui demande les rêves de ses élèves et un mari qui suspecte sa femme de le tromper... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+&amp;nbsp;
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Thu, 30 Apr 2026 09:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/3d841cfd-8161-4caa-b5c6-1c36c53be923.mp3?_=1776962582" length="1979847" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Un bébé qui s'adresse à son père alors qu'il n'est même pas encore né, la maîtresse d'école qui demande les rêves de ses élèves et un mari qui suspecte sa femme de le tromper... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+ 
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Un bébé qui s'adresse à son père alors qu'il n'est même pas encore né, la maîtresse d'école qui demande les rêves de ses élèves et un mari qui suspecte sa femme de le tromper... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+ 
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Un bébé qui s'adresse à son père alors qu'il n'est même pas encore né, la maîtresse d'école qui demande les rêves de ses élèves et un mari qui suspecte sa femme de le tromper... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Lau...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>02:03</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/940f9f10-9a6d-41fe-b21b-6716941aadd9.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/940f9f10-9a6d-41fe-b21b-6716941aadd9.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/ztBADRO</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>LE MEILLEUR DE BOUVARD - La blague de Bernard Mabille</title>
       <guid isPermaLink="false">c33c4439-cd33-4634-8706-de1cf59f0514</guid>
