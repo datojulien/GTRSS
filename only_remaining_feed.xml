@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Fri, 01 May 2026 12:41:51 GMT</lastBuildDate>
-    <pubDate>Fri, 01 May 2026 12:41:51 GMT</pubDate>
+    <lastBuildDate>Fri, 01 May 2026 14:08:11 GMT</lastBuildDate>
+    <pubDate>Fri, 01 May 2026 14:08:11 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,39 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns3:txt>
+    <item>
+      <title>FACE AUX AUDITEURS - Les meilleures interventions de la saison</title>
+      <guid isPermaLink="false">e13c4e3f-3c72-41b6-921e-c8cab4bcb2c7</guid>
+      <description>Requêtes, compliments, coups de gueule... Depuis le début de la saison, les auditeurs se succèdent pour laisser un message aux Grosses Têtes !
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Requêtes, compliments, coups de gueule... Depuis le début de la saison, les auditeurs se succèdent pour laisser un message aux Grosses Têtes !
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Fri, 01 May 2026 13:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/e13c4e3f-3c72-41b6-921e-c8cab4bcb2c7.mp3?_=1777627681" length="5681219" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Requêtes, compliments, coups de gueule... Depuis le début de la saison, les auditeurs se succèdent pour laisser un message aux Grosses Têtes !
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Requêtes, compliments, coups de gueule... Depuis le début de la saison, les auditeurs se succèdent pour laisser un message aux Grosses Têtes !
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Requêtes, compliments, coups de gueule... Depuis le début de la saison, les auditeurs se succèdent pour laisser un message aux Grosses Têtes !
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par A...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>05:55</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/1c7d4e84-c9dd-4d4f-87c7-24eca45120c8.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/1c7d4e84-c9dd-4d4f-87c7-24eca45120c8.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/iykyQzC</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>LE MEILLEUR DE RUQUIER - Deux Belges qui s'étonnent du programme télé... L'histoire drôle racontée par Laurent Ruquier</title>
       <guid isPermaLink="false">c89769ef-f976-4775-ace6-d7f26edd3c93</guid>
