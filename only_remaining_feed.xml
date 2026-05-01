@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Fri, 01 May 2026 07:52:25 GMT</lastBuildDate>
-    <pubDate>Fri, 01 May 2026 07:52:25 GMT</pubDate>
+    <lastBuildDate>Fri, 01 May 2026 09:53:06 GMT</lastBuildDate>
+    <pubDate>Fri, 01 May 2026 09:53:06 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,45 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns3:txt>
+    <item>
+      <title>LE MEILLEUR DE RUQUIER - Deux Belges qui s'étonnent du programme télé... L'histoire drôle racontée par Laurent Ruquier</title>
+      <guid isPermaLink="false">c89769ef-f976-4775-ace6-d7f26edd3c93</guid>
+      <description>Un couple de Belge qui regardent un programme étrange à la télé, monsieur l'anus qui n'a pas l'air d'aller très fort et un petit souriceau qui décide d'aller draguer une éléphante... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+&amp;nbsp;
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Un couple de Belge qui regardent un programme étrange à la télé, monsieur l'anus qui n'a pas l'air d'aller très fort et un petit souriceau qui décide d'aller draguer une éléphante... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+&amp;nbsp;
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Fri, 01 May 2026 09:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/c89769ef-f976-4775-ace6-d7f26edd3c93.mp3?_=1776962881" length="1746210" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Un couple de Belge qui regardent un programme étrange à la télé, monsieur l'anus qui n'a pas l'air d'aller très fort et un petit souriceau qui décide d'aller draguer une éléphante... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+ 
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Un couple de Belge qui regardent un programme étrange à la télé, monsieur l'anus qui n'a pas l'air d'aller très fort et un petit souriceau qui décide d'aller draguer une éléphante... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+ 
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Un couple de Belge qui regardent un programme étrange à la télé, monsieur l'anus qui n'a pas l'air d'aller très fort et un petit souriceau qui décide d'aller draguer une éléphante... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes d...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>01:49</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/9bb7bb31-a01a-44c1-9a33-d4140c4850b1.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/9bb7bb31-a01a-44c1-9a33-d4140c4850b1.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/yLufreS</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>LE MEILLEUR DE BOUVARD - Les blagues de Macha Méril et Fabrice</title>
       <guid isPermaLink="false">4ec29da8-2745-4a7f-887f-d2878a3e744a</guid>
@@ -2748,38 +2787,6 @@ Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de 
       <ns2:image href="https://static.audiomeans.fr/img/episode/daee488f-b904-44eb-89c1-4358194c3866.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/amGfHEL</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>LES IMMANQUABLES - Le meilleur de l'émission du 17 avril 2026</title>
-      <guid isPermaLink="false">35ec3677-ce50-481a-860a-4c2ed30ea986</guid>
-      <description>Le duel d'intellectuels entre Franck Ferrand et Paul El Kharrat, un couple qui fait l'amour en haut d'une montagne, la chanson de Charlotte de Turckheim... Retrouvez dans ce podcast le meilleur de l'émission du vendredi 17 avril 2026.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Le duel d'intellectuels entre Franck Ferrand et Paul El Kharrat, un couple qui fait l'amour en haut d'une montagne, la chanson de Charlotte de Turckheim... Retrouvez dans ce podcast le meilleur de l'émission du vendredi 17 avril 2026.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Fri, 17 Apr 2026 15:59:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/35ec3677-ce50-481a-860a-4c2ed30ea986.mp3?_=1776435183" length="19306099" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Le duel d'intellectuels entre Franck Ferrand et Paul El Kharrat, un couple qui fait l'amour en haut d'une montagne, la chanson de Charlotte de Turckheim... Retrouvez dans ce podcast le meilleur de l'émission du vendredi 17 avril 2026.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Le duel d'intellectuels entre Franck Ferrand et Paul El Kharrat, un couple qui fait l'amour en haut d'une montagne, la chanson de Charlotte de Turckheim... Retrouvez dans ce podcast le meilleur de l'émission du vendredi 17 avril 2026.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Le duel d'intellectuels entre Franck Ferrand et Paul El Kharrat, un couple qui fait l'amour en haut d'une montagne, la chanson de Charlotte de Turckheim... Retrouvez dans ce podcast le meilleur de l'émission du vendredi 17 avril 2026.
-Retrouvez tous les jours le m...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>20:06</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/1e83d729-2550-4180-b96f-7ce11c1f7c7c.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/1e83d729-2550-4180-b96f-7ce11c1f7c7c.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/UmOskDq</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
