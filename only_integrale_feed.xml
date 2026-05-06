@@ -7,8 +7,8 @@
     <description>Tous les épisodes de L'Intégrale de 'Les Grosses Têtes', regroupant la diffusion complète sans coupures ni extras.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Wed, 06 May 2026 01:18:19 GMT</lastBuildDate>
-    <pubDate>Wed, 06 May 2026 01:18:19 GMT</pubDate>
+    <lastBuildDate>Wed, 06 May 2026 05:00:13 GMT</lastBuildDate>
+    <pubDate>Wed, 06 May 2026 05:00:13 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -73,6 +73,7 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <itunes:image href="https://static.audiomeans.fr/img/episode/825fba7e-77d4-4756-acbb-b5ece0e48106.jpg" />
       <ns2:image href="https://static.audiomeans.fr/img/episode/825fba7e-77d4-4756-acbb-b5ece0e48106.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/rpUnLFS</ns3:txt>
       <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
@@ -114,6 +115,7 @@ Retrouvez tous les jours le meilleur des Grosses Têt...</itunes:subtitle>
       <itunes:image href="https://static.audiomeans.fr/img/episode/ee11fd73-f12c-47dd-aa0e-bf1cba720d9a.jpg" />
       <ns2:image href="https://static.audiomeans.fr/img/episode/ee11fd73-f12c-47dd-aa0e-bf1cba720d9a.jpg" />
       <ns3:person role="host">Rachel Azria</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/BNHhuPf</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
