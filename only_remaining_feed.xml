@@ -7,8 +7,8 @@
     <description>Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Tue, 05 May 2026 23:34:44 GMT</lastBuildDate>
-    <pubDate>Tue, 05 May 2026 23:34:44 GMT</pubDate>
+    <lastBuildDate>Wed, 06 May 2026 01:18:19 GMT</lastBuildDate>
+    <pubDate>Wed, 06 May 2026 01:18:19 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -38,6 +38,34 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns3:txt>
+    <item>
+      <title>LE MEILLEUR DE BOUVARD - Les blagues de Chantal Ladesou et Éric Laugérias</title>
+      <guid isPermaLink="false">29ca84a5-d438-4f87-9a4f-e4403e9c8cf4</guid>
+      <description>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Wed, 06 May 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/29ca84a5-d438-4f87-9a4f-e4403e9c8cf4.mp3?_=1776698282" length="1324427" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !
+ Hébergé par Audiomeans. Visitez </itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>01:22</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/3862d8dd-8e5b-4c25-a516-fc08d7156cad.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/3862d8dd-8e5b-4c25-a516-fc08d7156cad.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/QtjYSzb</ns3:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>LES IMMANQUABLES - Le meilleur de l'émission du 5 mai 2026</title>
       <guid isPermaLink="false">784f9f5a-7258-4439-baff-b1a19b22b3d6</guid>
@@ -2824,45 +2852,6 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <ns2:image href="https://static.audiomeans.fr/img/episode/8d425884-20b6-4cd7-973b-41175539bfdb.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/xaZKZVt</ns3:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>LE MEILLEUR DE RUQUIER - L'histoire incroyable de Jésus qui joue au golf... L'histoire drôle racontée par Michel Boujenah</title>
-      <guid isPermaLink="false">13b68ffc-0d32-42b1-b7b2-dbba2ff2fc35</guid>
-      <description>L'histoire extraordinaire de Jésus qui joue au golf, un médecin qui diagnostique un patient sans même l'avoir ausculté et la maîtresse d'école qui demande le rêve de ses élèves...&amp;nbsp; Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
-
-&amp;nbsp;
-Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>L'histoire extraordinaire de Jésus qui joue au golf, un médecin qui diagnostique un patient sans même l'avoir ausculté et la maîtresse d'école qui demande le rêve de ses élèves...&amp;nbsp; Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
-
-&amp;nbsp;
-Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Wed, 22 Apr 2026 09:00:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/13b68ffc-0d32-42b1-b7b2-dbba2ff2fc35.mp3?_=1776161880" length="1825634" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>L'histoire extraordinaire de Jésus qui joue au golf, un médecin qui diagnostique un patient sans même l'avoir ausculté et la maîtresse d'école qui demande le rêve de ses élèves... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
-
- 
-Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>L'histoire extraordinaire de Jésus qui joue au golf, un médecin qui diagnostique un patient sans même l'avoir ausculté et la maîtresse d'école qui demande le rêve de ses élèves... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
-
- 
-Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>L'histoire extraordinaire de Jésus qui joue au golf, un médecin qui diagnostique un patient sans même l'avoir ausculté et la maîtresse d'école qui demande le rêve de ses élèves... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Tête...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>01:53</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/4e88ada9-3865-4cb3-a509-36ac355e3d7b.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/4e88ada9-3865-4cb3-a509-36ac355e3d7b.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/itoEzTo</ns3:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
