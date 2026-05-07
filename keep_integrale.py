@@ -3,6 +3,7 @@
 
 import xml.etree.ElementTree as ET
 import requests
+import io
 from email.utils import formatdate
 import subprocess
 import os
@@ -13,6 +14,7 @@ feed_url            = "https://feeds.audiomeans.fr/feed/d7c6111b-04c1-46bc-b74c-
 output_integrale    = "only_integrale_feed.xml"
 output_best         = "only_best_feed.xml"
 output_remaining    = "only_remaining_feed.xml"
+style_file          = "grosses-tetes-style.xsl"
 
 # Title prefix checks use .startswith on tuples
 integrale_pref      = ("L'INTÉGRALE", "DÉBRIEF")
@@ -163,12 +165,40 @@ def finalize_channel(channel, cover_url, title_suffix, summary_text):
         else:
             n.text = now
 
+def add_stylesheet_instruction(xml_bytes):
+    stylesheet = (
+        f'<?xml-stylesheet type="text/xsl" href="{style_file}"?>\n'
+    ).encode("utf-8")
+
+    if b"<?xml-stylesheet" in xml_bytes[:300]:
+        return xml_bytes
+
+    if xml_bytes.startswith(b"<?xml"):
+        first_line_end = xml_bytes.find(b"\n")
+        if first_line_end != -1:
+            return (
+                xml_bytes[:first_line_end + 1]
+                + stylesheet
+                + xml_bytes[first_line_end + 1:]
+            )
+
+        declaration_end = xml_bytes.find(b"?>")
+        if declaration_end != -1:
+            insert_at = declaration_end + 2
+            return xml_bytes[:insert_at] + b"\n" + stylesheet + xml_bytes[insert_at:]
+
+    return stylesheet + xml_bytes
+
 def write_xml(root, out_path):
     try:
         ET.indent(root, space='  ')
     except AttributeError:
         pass
-    ET.ElementTree(root).write(out_path, encoding='utf-8', xml_declaration=True)
+    buffer = io.BytesIO()
+    ET.ElementTree(root).write(buffer, encoding='utf-8', xml_declaration=True)
+    xml_bytes = add_stylesheet_instruction(buffer.getvalue())
+    with open(out_path, "wb") as f:
+        f.write(xml_bytes)
 
 def git_commit(paths, message):
     try:
@@ -204,6 +234,6 @@ print(f"✔️ rebuilt {output_remaining}")
 
 # Optional: single commit covering all three (comment out if undesired)
 git_commit(
-    [output_integrale, output_best, output_remaining],
+    [output_integrale, output_best, output_remaining, style_file],
     f"Rebuild feeds at {now}: enforce Best-of ≥ {MIN_BEST_DURATION_MIN} min and proper categorization"
 )

@@ -18,6 +18,7 @@ GTRSS/
 ├── only_integrale_feed.xml   # Flux RSS Intégrale généré
 ├── only_best_feed.xml        # Flux RSS Best-of généré
 ├── only_remaining_feed.xml   # Flux RSS Restants généré
+├── grosses-tetes-style.xsl   # Affichage navigateur des flux Grosses Têtes
 ├── Integrales.jpg            # Jaquette du flux Intégrale
 ├── Extras.jpg                # Jaquette du flux Best-of
 └── README.md                 # Cette documentation
@@ -52,6 +53,7 @@ Mettez ces valeurs à jour avant d’exécuter le script.
 3. **Résultat** :
 
    - Trois fichiers RSS sont créés/mis à jour à la racine du dépôt.
+   - Les flux Grosses Têtes référencent `grosses-tetes-style.xsl` pour un affichage lisible dans le navigateur.
    - Si de nouveaux éléments sont détectés, le script affiche un récapitulatif et peut, en option, **commit & push** les changements.
 
 ## 🤖 Intégration continue
