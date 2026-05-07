@@ -1,79 +1,125 @@
-# Générateur de flux RSS
+# Personal Podcast RSS Feeds
 
-Ce dépôt contient un script Python qui génère **trois flux RSS distincts** à partir d’un **unique flux podcast source** :
+This repository publishes personal RSS feeds for two separate podcasts:
 
-- **Intégrale** : épisodes complets, préfixés par `L'INTÉGRALE`
-- **Best-of (Extras)** : épisodes sélectionnés, préfixés par `MEILLEUR DE LA SAISON`, `BEST OF` ou `MOMENT CULTE`
-- **Épisodes restants** : tous les autres épisodes non inclus ci-dessus
+- **France Culture / Le Cours de l'histoire**: a fresh-feed bridge built from Radio France episode pages.
+- **RTL / Les Grosses Têtes**: a splitter that turns the official Audiomeans feed into three smaller themed feeds.
 
-Chaque flux est enrichi d’une **jaquette personnalisée** et d’un **résumé de chaîne**.
+The generated XML files live at the repository root on purpose so existing feed URLs stay stable.
 
----
+## Feeds
 
-## 📦 Structure du dépôt
+| Podcast | Feed file | Generator | Browser style |
+| --- | --- | --- | --- |
+| Le Cours de l'histoire | `feed.xml` | `build_feed.py` | `feed-style.xsl` |
+| Les Grosses Têtes, intégrales | `only_integrale_feed.xml` | `keep_integrale.py` | `grosses-tetes-style.xsl` |
+| Les Grosses Têtes, extras / best-of | `only_best_feed.xml` | `keep_integrale.py` | `grosses-tetes-style.xsl` |
+| Les Grosses Têtes, other episodes | `only_remaining_feed.xml` | `keep_integrale.py` | `grosses-tetes-style.xsl` |
 
+## Repository Layout
+
+```text
+.
+├── build_feed.py                 # France Culture feed builder
+├── feed.xml                      # Generated France Culture feed
+├── feed-style.xsl                # Browser view for feed.xml
+├── episodes.json                 # France Culture archive/state
+├── keep_integrale.py             # Grosses Têtes feed splitter
+├── only_integrale_feed.xml       # Generated Grosses Têtes intégrale feed
+├── only_best_feed.xml            # Generated Grosses Têtes extras/best-of feed
+├── only_remaining_feed.xml       # Generated Grosses Têtes remaining episodes feed
+├── grosses-tetes-style.xsl       # Browser view for the Grosses Têtes feeds
+├── Integrales.jpg                # Grosses Têtes intégrale cover
+├── Extras.jpg                    # Grosses Têtes extras cover
+├── Autres.jpg                    # Grosses Têtes remaining episodes cover
+├── debug_episode.py              # France Culture scraping helper
+├── test_links.py                 # France Culture link discovery helper
+├── test_mp3.py                   # France Culture audio discovery helper
+├── update-feed.yml.backup        # GitHub Actions workflow template
+└── requirements.txt
 ```
-GTRSS/
-├── keep_integrale.py         # Script principal de génération des flux RSS
-├── only_integrale_feed.xml   # Flux RSS Intégrale généré
-├── only_best_feed.xml        # Flux RSS Best-of généré
-├── only_remaining_feed.xml   # Flux RSS Restants généré
-├── grosses-tetes-style.xsl   # Affichage navigateur des flux Grosses Têtes
-├── Integrales.jpg            # Jaquette du flux Intégrale
-├── Extras.jpg                # Jaquette du flux Best-of
-└── README.md                 # Cette documentation
+
+## Setup
+
+Use Python 3.12 or newer.
+
+```bash
+python3 -m venv .venv
+. .venv/bin/activate
+pip install -r requirements.txt
 ```
 
-## ⚙️ Configuration
+## Build The Feeds
 
-Tous les réglages se trouvent en tête de `keep_integrale.py` :
+Build only the France Culture feed:
 
-- `feed_url` : URL du flux RSS source  
-- `output_integrale`, `output_best`, `output_remaining` : noms des fichiers de sortie  
-- `integrale_pref`, `best_prefs` : préfixes de titre utilisés pour le filtrage  
-- `integrale_image_url`, `best_image_url` : URLs GitHub brutes des jaquettes  
-- `integrale_summary`, `best_summary`, `remaining_summary` : résumés des chaînes
+```bash
+python3 build_feed.py
+```
 
-Mettez ces valeurs à jour avant d’exécuter le script.
+This fetches recent episode pages from Radio France, merges new entries into `episodes.json`, regenerates `feed.xml`, and rewrites `feed-style.xsl`.
 
-## 🚀 Utilisation
+Build only the Grosses Têtes feeds:
 
-1. **Installer la dépendance** :
+```bash
+python3 keep_integrale.py
+```
 
-   ```bash
-   pip install requests
-   ```
+This fetches the official Audiomeans source feed and regenerates:
 
-2. **Lancer le script** :
+- `only_integrale_feed.xml`: titles starting with `L'INTÉGRALE` or `DÉBRIEF`, except items classified as best-of.
+- `only_best_feed.xml`: best-of style titles that are at least 20 minutes long.
+- `only_remaining_feed.xml`: every remaining item.
 
-   ```bash
-   python keep_integrale.py
-   ```
+By default `keep_integrale.py` only writes files. To also commit and push its generated outputs:
 
-3. **Résultat** :
+```bash
+GTRSS_AUTO_COMMIT=1 python3 keep_integrale.py
+```
 
-   - Trois fichiers RSS sont créés/mis à jour à la racine du dépôt.
-   - Les flux Grosses Têtes référencent `grosses-tetes-style.xsl` pour un affichage lisible dans le navigateur.
-   - Si de nouveaux éléments sont détectés, le script affiche un récapitulatif et peut, en option, **commit & push** les changements.
+## Automation
 
-## 🤖 Intégration continue
+`update-feed.yml.backup` is a GitHub Actions workflow template. To enable it, copy or move it to `.github/workflows/update-feed.yml`.
 
-Ce dépôt peut être intégré à **GitHub Actions** :
+The workflow is set up to:
 
-- Exécuter `keep_integrale.py` à intervalle régulier (ex. horaire/quotidien)
-- Committer et pousser les flux RSS mis à jour sur `main`
+1. Install dependencies from `requirements.txt`.
+2. Run `build_feed.py`.
+3. Run `keep_integrale.py`.
+4. Commit all generated feed, style, and archive files if anything changed.
 
-Consultez `.github/workflows/ci.yml` (si présent) pour un exemple de configuration.
+## Validation
 
-## 🤝 Contributions
+Useful local checks after editing scripts or styles:
 
-Vous pouvez ouvrir des *issues* ou *pull requests* pour :
+```bash
+python3 -m py_compile build_feed.py keep_integrale.py
+python3 - <<'PY'
+import xml.etree.ElementTree as ET
+for path in [
+    "feed.xml",
+    "only_integrale_feed.xml",
+    "only_best_feed.xml",
+    "only_remaining_feed.xml",
+    "feed-style.xsl",
+    "grosses-tetes-style.xsl",
+]:
+    ET.parse(path)
+    print(f"{path}: ok")
+PY
+xsltproc feed-style.xsl feed.xml >/tmp/cours-histoire.html
+xsltproc grosses-tetes-style.xsl only_integrale_feed.xml >/tmp/grosses-tetes-integrale.html
+xsltproc grosses-tetes-style.xsl only_best_feed.xml >/tmp/grosses-tetes-best.html
+xsltproc grosses-tetes-style.xsl only_remaining_feed.xml >/tmp/grosses-tetes-remaining.html
+```
 
-- Ajuster les règles/préfixes de filtrage  
-- Modifier le formatage des flux ou la gestion des espaces de noms XML  
-- Améliorer la gestion des erreurs et les logs  
-- Ajouter la prise en charge d’autres flux personnalisés
+## Notes
 
-## 📄 Licence
+- Keep the generated XML filenames stable unless you are ready to update podcast subscriptions.
+- `episodes.json` belongs to the France Culture feed only.
+- The three cover images belong to the Grosses Têtes split feeds only.
+- The debug/test helper scripts are for Radio France scraping experiments and are not part of the regular build path.
 
-Projet distribué sous licence **MIT**. Voir [LICENSE](LICENSE) pour les détails.
+## License
+
+MIT. See `LICENSE`.

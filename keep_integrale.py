@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+"""Build the RTL / Les Grosses Têtes split RSS feeds."""
 
 import xml.etree.ElementTree as ET
 import requests
@@ -8,13 +9,16 @@ from email.utils import formatdate
 import subprocess
 import os
 
-# ─── CONFIG ───────────────────────────────────────────────────
+# ─── RTL: LES GROSSES TÊTES ────────────────────────────────────
+
 feed_url            = "https://feeds.audiomeans.fr/feed/d7c6111b-04c1-46bc-b74c-d941a90d37fb.xml"
 
 output_integrale    = "only_integrale_feed.xml"
 output_best         = "only_best_feed.xml"
 output_remaining    = "only_remaining_feed.xml"
 style_file          = "grosses-tetes-style.xsl"
+
+auto_commit         = os.environ.get("GTRSS_AUTO_COMMIT") == "1"
 
 # Title prefix checks use .startswith on tuples
 integrale_pref      = ("L'INTÉGRALE", "DÉBRIEF")
@@ -232,8 +236,10 @@ finalize_channel(ch_r, autres_image_url, "Other Episodes", remaining_summary)
 write_xml(root_r, output_remaining)
 print(f"✔️ rebuilt {output_remaining}")
 
-# Optional: single commit covering all three (comment out if undesired)
-git_commit(
-    [output_integrale, output_best, output_remaining, style_file],
-    f"Rebuild feeds at {now}: enforce Best-of ≥ {MIN_BEST_DURATION_MIN} min and proper categorization"
-)
+if auto_commit:
+    git_commit(
+        [output_integrale, output_best, output_remaining, style_file],
+        f"Rebuild feeds at {now}: enforce Best-of ≥ {MIN_BEST_DURATION_MIN} min and proper categorization"
+    )
+else:
+    print("ℹ️ auto commit skipped (set GTRSS_AUTO_COMMIT=1 to commit and push)")

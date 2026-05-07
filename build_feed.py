@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+"""Build the France Culture / Le Cours de l'histoire personal RSS feed."""
+
 import json
 import re
 import html
@@ -9,6 +11,8 @@ from datetime import datetime, timezone
 from feedgen.feed import FeedGenerator
 from dateutil.parser import isoparse
 
+
+# ─── FRANCE CULTURE: LE COURS DE L'HISTOIRE ───────────────────
 
 SHOW_URL = "https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire"
 BASE_URL = "https://www.radiofrance.fr"
