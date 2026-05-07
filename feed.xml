@@ -2,7 +2,7 @@
 <?xml-stylesheet type="text/xsl" href="feed-style.xsl"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Le Cours de l'histoire — Dernier épisodes</title>
+    <title>Le Cours de l'histoire — Flux frais</title>
     <link>feed.xml</link>
     <description>Un flux RSS personnel qui récupère les épisodes depuis le site web de France Culture lorsque le flux officiel n’est pas encore à jour.</description>
     <atom:link href="feed.xml" rel="self"/>
@@ -14,7 +14,7 @@
       <link>feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Thu, 07 May 2026 05:10:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 07:52:12 +0000</lastBuildDate>
     <itunes:author>France Culture</itunes:author>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -44,7 +44,7 @@
       <itunes:subtitle>AUDIO Madame de Sévigné et les femmes du Grand Siècle, épisode : Sévigné et les nouvelles, une observatrice des intrigues de la cour. Une série inédite proposée par France Culture. Écoutez Sévigné et les nouvelles, une observatrice des intrigues de la cou</itunes:subtitle>
       <itunes:summary>AUDIO Madame de Sévigné et les femmes du Grand Siècle, épisode : Sévigné et les nouvelles, une observatrice des intrigues de la cour. Une série inédite proposée par France Culture. Écoutez Sévigné et les nouvelles, une observatrice des intrigues de la cour, et découvrez nos podcasts en ligne.</itunes:summary>
     </item>
-  <item>
+    <item>
       <title>"Ma très chère fille", Sévigné en correspondance longue distance : épisode du podcast Madame de Sévigné et les femmes du Grand Siècle | France Culture</title>
       <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/ma-tres-chere-fille-sevigne-en-correspondance-longue-distance-2369263</link>
       <description>AUDIO Madame de Sévigné et les femmes du Grand Siècle, épisode : "Ma très chère fille", Sévigné en correspondance longue distance. Une série inédite proposée par France Culture. Écoutez "Ma très chère fille", Sévigné en correspondance longue distance, et découvrez nos podcasts en ligne.</description>
@@ -424,5 +424,5 @@
       <itunes:subtitle>AUDIO Fou d'histoire, épisode : Anne Berest, écrivaine : "La vie a beaucoup plus d'imagination que moi". Une série inédite proposée par France Culture. Écoutez Anne Berest, écrivaine : "La vie a beaucoup plus d'imagination que moi", et découvrez nos podca</itunes:subtitle>
       <itunes:summary>AUDIO Fou d'histoire, épisode : Anne Berest, écrivaine : "La vie a beaucoup plus d'imagination que moi". Une série inédite proposée par France Culture. Écoutez Anne Berest, écrivaine : "La vie a beaucoup plus d'imagination que moi", et découvrez nos podcasts en ligne.</itunes:summary>
     </item>
-    </channel>
+  </channel>
 </rss>
