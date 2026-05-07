@@ -8,8 +8,10 @@ import requests
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin
 from datetime import datetime, timezone
+from email.utils import parsedate_to_datetime
 from feedgen.feed import FeedGenerator
 from dateutil.parser import isoparse
+from lxml import etree
 
 
 # ─── FRANCE CULTURE: LE COURS DE L'HISTOIRE ───────────────────
@@ -302,14 +304,51 @@ def merge_episodes(old_episodes, new_episodes):
         if episode.get("url"):
             merged[episode["url"]] = episode
 
-    episodes = list(merged.values())
+    return sort_episodes_newest_first(merged.values())
 
-    episodes.sort(
+
+def sort_episodes_newest_first(episodes):
+    return sorted(
+        episodes,
         key=lambda item: archive_to_date(item.get("published")),
         reverse=True
     )
 
-    return episodes
+
+def sort_rss_items_newest_first(rss):
+    parser = etree.XMLParser(strip_cdata=False)
+    root = etree.fromstring(rss, parser)
+    channel = root.find("channel")
+
+    if channel is None:
+        return rss
+
+    items = channel.findall("item")
+
+    if not items:
+        return rss
+
+    def item_date(item):
+        try:
+            return parsedate_to_datetime(item.findtext("pubDate") or "")
+        except Exception:
+            return datetime.min.replace(tzinfo=timezone.utc)
+
+    for item in items:
+        channel.remove(item)
+
+    sorted_items = sorted(items, key=item_date, reverse=True)
+
+    for index, item in enumerate(sorted_items):
+        item.tail = "\n  " if index == len(sorted_items) - 1 else "\n    "
+        channel.append(item)
+
+    return etree.tostring(
+        root,
+        encoding="UTF-8",
+        xml_declaration=True,
+        pretty_print=True
+    )
 
 
 def write_stylesheet():
@@ -520,6 +559,8 @@ def write_stylesheet():
 
 
 def build_rss(episodes):
+    episodes = sort_episodes_newest_first(episodes)
+
     fg = FeedGenerator()
     fg.load_extension("podcast")
 
@@ -590,7 +631,7 @@ def build_rss(episodes):
         if is_itunes_safe_image(episode.get("image")):
             fe.podcast.itunes_image(episode["image"])
 
-    rss = fg.rss_str(pretty=True)
+    rss = sort_rss_items_newest_first(fg.rss_str(pretty=True))
 
     stylesheet = f'<?xml-stylesheet type="text/xsl" href="{STYLE_FILE}"?>\n'.encode("utf-8")
 
