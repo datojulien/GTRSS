@@ -14,7 +14,7 @@
       <link>francois-rollin-feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Fri, 08 May 2026 14:16:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 16:44:20 +0000</lastBuildDate>
     <itunes:author>France Inter</itunes:author>
     <itunes:category text="Comedy"/>
     <itunes:explicit>no</itunes:explicit>
@@ -24,6 +24,26 @@
     </itunes:owner>
     <itunes:subtitle>Flux personnel généré depuis le site Radio France</itunes:subtitle>
     <itunes:summary>Un flux RSS personnel qui récupère les épisodes depuis le site web de France Inter lorsque le flux officiel n’est pas encore à jour.</itunes:summary>
+    <item>
+      <title>Prises de tête</title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/le-billet-de-francois-rollin/francois-rollin-moi-ce-que-j-en-dis-du-vendredi-08-mai-2026-8086582</link>
+      <description>Prises de tête</description>
+      <content:encoded><![CDATA[
+        <p>Prises de tête</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceinter/podcasts/le-billet-de-francois-rollin/francois-rollin-moi-ce-que-j-en-dis-du-vendredi-08-mai-2026-8086582">France Inter</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/b66e4080-2221-4df9-9205-35e13f450bdd/1200x680" alt="Prises de tête" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceinter/podcasts/le-billet-de-francois-rollin/francois-rollin-moi-ce-que-j-en-dis-du-vendredi-08-mai-2026-8086582</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26803-08.05.2026-ITEMA_24504411-2026F22864S0128-NET_MFI_916D88C2-B825-4580-A256-76910BC4F4A1-27-8c28ed9365a9950833653e9271cc72c2.m4a" length="291" type="audio/mp4"/>
+      <pubDate>Fri, 08 May 2026 14:55:00 +0000</pubDate>
+      <itunes:author>France Inter</itunes:author>
+      <itunes:duration>4:51</itunes:duration>
+      <itunes:subtitle>Prises de tête</itunes:subtitle>
+      <itunes:summary>Prises de tête</itunes:summary>
+    </item>
     <item>
       <title>Moratoire</title>
       <link>https://www.radiofrance.fr/franceinter/podcasts/le-billet-de-francois-rollin/francois-rollin-moi-ce-que-j-en-dis-du-vendredi-01-mai-2026-2835826</link>
