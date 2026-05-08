@@ -27,6 +27,9 @@ jobs:
       - name: Build France Culture feed
         run: python build_feed.py
 
+      - name: Build France Inter Rollin feed
+        run: python build_rollin_feed.py
+
       - name: Build Grosses Têtes feeds
         run: python keep_integrale.py
 
@@ -36,6 +39,7 @@ jobs:
           git config user.email "github-actions@github.com"
           git add \
             feed.xml feed-style.xsl episodes.json \
+            francois-rollin-feed.xml francois-rollin-style.xsl francois-rollin-episodes.json \
             only_integrale_feed.xml only_best_feed.xml only_remaining_feed.xml \
             grosses-tetes-style.xsl
           git commit -m "Update podcast feeds" || echo "No changes to commit"

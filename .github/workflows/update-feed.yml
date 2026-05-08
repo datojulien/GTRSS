@@ -24,13 +24,18 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Build feed
+      - name: Build France Culture feed
         run: python build_feed.py
 
-      - name: Commit updated feed
+      - name: Build France Inter Rollin feed
+        run: python build_rollin_feed.py
+
+      - name: Commit updated feeds
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add feed.xml feed-style.xsl episodes.json
-          git commit -m "Update RSS feed" || echo "No changes to commit"
+          git add \
+            feed.xml feed-style.xsl episodes.json \
+            francois-rollin-feed.xml francois-rollin-style.xsl francois-rollin-episodes.json
+          git commit -m "Update RSS feeds" || echo "No changes to commit"
           git push

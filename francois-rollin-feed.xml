@@ -1,0 +1,428 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="francois-rollin-style.xsl"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Le billet de François Rollin — Flux frais</title>
+    <link>francois-rollin-feed.xml</link>
+    <description>Un flux RSS personnel qui récupère les épisodes depuis le site web de France Inter lorsque le flux officiel n’est pas encore à jour.</description>
+    <atom:link href="francois-rollin-feed.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <image>
+      <url>https://www.radiofrance.fr/pikapi/images/b66e4080-2221-4df9-9205-35e13f450bdd/1200x680</url>
+      <title>Le billet de François Rollin — Flux frais</title>
+      <link>francois-rollin-feed.xml</link>
+    </image>
+    <language>fr</language>
+    <lastBuildDate>Fri, 08 May 2026 06:49:51 +0000</lastBuildDate>
+    <itunes:author>France Inter</itunes:author>
+    <itunes:category text="Comedy"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>Personal RSS Bridge</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:subtitle>Flux personnel généré depuis le site Radio France</itunes:subtitle>
+    <itunes:summary>Un flux RSS personnel qui récupère les épisodes depuis le site web de France Inter lorsque le flux officiel n’est pas encore à jour.</itunes:summary>
+    <item>
+      <title>Moratoire</title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/le-billet-de-francois-rollin/francois-rollin-moi-ce-que-j-en-dis-du-vendredi-01-mai-2026-2835826</link>
+      <description>Moratoire</description>
+      <content:encoded><![CDATA[
+        <p>Moratoire</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceinter/podcasts/le-billet-de-francois-rollin/francois-rollin-moi-ce-que-j-en-dis-du-vendredi-01-mai-2026-2835826">France Inter</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/b66e4080-2221-4df9-9205-35e13f450bdd/1200x680" alt="Moratoire" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceinter/podcasts/le-billet-de-francois-rollin/francois-rollin-moi-ce-que-j-en-dis-du-vendredi-01-mai-2026-2835826</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26803-01.05.2026-ITEMA_24496068-2026F22864S0121-NET_MFI_CAC89C06-6FDC-4AC8-8F1A-1D4038DB6EFA-27-58cc4f51d1249c262b97406152908ec6.m4a" length="220" type="audio/mp4"/>
+      <pubDate>Fri, 01 May 2026 14:55:00 +0000</pubDate>
+      <itunes:author>France Inter</itunes:author>
+      <itunes:duration>3:40</itunes:duration>
+      <itunes:subtitle>Moratoire</itunes:subtitle>
+      <itunes:summary>Moratoire</itunes:summary>
+    </item>
+    <item>
+      <title>François Rollin : moi ce que j'en dis du vendredi 17 avril 2026</title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/le-billet-de-francois-rollin/francois-rollin-moi-ce-que-j-en-dis-du-vendredi-17-avril-2026-6973802</link>
+      <description>François Rollin : moi ce que j'en dis du vendredi 17 avril 2026</description>
+      <content:encoded><![CDATA[
+        <p>François Rollin : moi ce que j&#x27;en dis du vendredi 17 avril 2026</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceinter/podcasts/le-billet-de-francois-rollin/francois-rollin-moi-ce-que-j-en-dis-du-vendredi-17-avril-2026-6973802">France Inter</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/b66e4080-2221-4df9-9205-35e13f450bdd/1200x680" alt="François Rollin : moi ce que j&#x27;en dis du vendredi 17 avril 2026" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceinter/podcasts/le-billet-de-francois-rollin/francois-rollin-moi-ce-que-j-en-dis-du-vendredi-17-avril-2026-6973802</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26803-17.04.2026-ITEMA_24479488-2026F22864S0107-NET_MFI_4442206D-6DF0-4641-90DA-B3F2311AB3C3-27-15274870f8a8221f1f42fa1d47d312d9.m4a" length="228" type="audio/mp4"/>
+      <pubDate>Fri, 17 Apr 2026 14:55:00 +0000</pubDate>
+      <itunes:author>France Inter</itunes:author>
+      <itunes:duration>3:48</itunes:duration>
+      <itunes:subtitle>François Rollin : moi ce que j'en dis du vendredi 17 avril 2026</itunes:subtitle>
+      <itunes:summary>François Rollin : moi ce que j'en dis du vendredi 17 avril 2026</itunes:summary>
+    </item>
+    <item>
+      <title>François Rollin : moi ce que j'en dis du jeudi 16 avril 2026</title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/le-billet-de-francois-rollin/francois-rollin-moi-ce-que-j-en-dis-du-jeudi-16-avril-2026-4378668</link>
+      <description>François Rollin : moi ce que j'en dis du jeudi 16 avril 2026</description>
+      <content:encoded><![CDATA[
+        <p>François Rollin : moi ce que j&#x27;en dis du jeudi 16 avril 2026</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceinter/podcasts/le-billet-de-francois-rollin/francois-rollin-moi-ce-que-j-en-dis-du-jeudi-16-avril-2026-4378668">France Inter</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/b66e4080-2221-4df9-9205-35e13f450bdd/1200x680" alt="François Rollin : moi ce que j&#x27;en dis du jeudi 16 avril 2026" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceinter/podcasts/le-billet-de-francois-rollin/francois-rollin-moi-ce-que-j-en-dis-du-jeudi-16-avril-2026-4378668</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26803-16.04.2026-ITEMA_24478931-2026F22864S0106-NET_MFI_FB92251D-AC69-4BB7-AB52-D1CE6CF4440A-27-0b9dd2423ed797c8f65c4cbfbf99e61f.m4a" length="228" type="audio/mp4"/>
+      <pubDate>Thu, 16 Apr 2026 14:55:00 +0000</pubDate>
+      <itunes:author>France Inter</itunes:author>
+      <itunes:duration>3:48</itunes:duration>
+      <itunes:subtitle>François Rollin : moi ce que j'en dis du jeudi 16 avril 2026</itunes:subtitle>
+      <itunes:summary>François Rollin : moi ce que j'en dis du jeudi 16 avril 2026</itunes:summary>
+    </item>
+    <item>
+      <title>DLC</title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/le-billet-de-francois-rollin/francois-rollin-moi-ce-que-j-en-dis-du-vendredi-10-avril-2026-1157018</link>
+      <description>DLC</description>
+      <content:encoded><![CDATA[
+        <p>DLC</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceinter/podcasts/le-billet-de-francois-rollin/francois-rollin-moi-ce-que-j-en-dis-du-vendredi-10-avril-2026-1157018">France Inter</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/b66e4080-2221-4df9-9205-35e13f450bdd/1200x680" alt="DLC" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceinter/podcasts/le-billet-de-francois-rollin/francois-rollin-moi-ce-que-j-en-dis-du-vendredi-10-avril-2026-1157018</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26803-10.04.2026-ITEMA_24471474-2026F22864S0100-NET_MFI_EFE89D41-B0C2-4B3F-81DF-2DD61B7F94CF-27-bb20d960568b538a43a223447ebec8b1.m4a" length="280" type="audio/mp4"/>
+      <pubDate>Fri, 10 Apr 2026 14:55:00 +0000</pubDate>
+      <itunes:author>France Inter</itunes:author>
+      <itunes:duration>4:40</itunes:duration>
+      <itunes:subtitle>DLC</itunes:subtitle>
+      <itunes:summary>DLC</itunes:summary>
+    </item>
+    <item>
+      <title>La sagesse des anciens</title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/le-billet-de-francois-rollin/francois-rollin-moi-ce-que-j-en-dis-du-vendredi-03-avril-2026-8008384</link>
+      <description>La sagesse des anciens</description>
+      <content:encoded><![CDATA[
+        <p>La sagesse des anciens</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceinter/podcasts/le-billet-de-francois-rollin/francois-rollin-moi-ce-que-j-en-dis-du-vendredi-03-avril-2026-8008384">France Inter</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/b66e4080-2221-4df9-9205-35e13f450bdd/1200x680" alt="La sagesse des anciens" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceinter/podcasts/le-billet-de-francois-rollin/francois-rollin-moi-ce-que-j-en-dis-du-vendredi-03-avril-2026-8008384</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26803-03.04.2026-ITEMA_24463567-2026F22864S0093-NET_MFI_981FD2AA-184A-48F2-8653-7FD6A9BC9B5A-27-37c2b0b2e7ca89f55029464fd95d9ae4.m4a" length="263" type="audio/mp4"/>
+      <pubDate>Fri, 03 Apr 2026 14:55:00 +0000</pubDate>
+      <itunes:author>France Inter</itunes:author>
+      <itunes:duration>4:23</itunes:duration>
+      <itunes:subtitle>La sagesse des anciens</itunes:subtitle>
+      <itunes:summary>La sagesse des anciens</itunes:summary>
+    </item>
+    <item>
+      <title>La peste soit du gredin</title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/le-billet-de-francois-rollin/francois-rollin-moi-ce-que-j-en-dis-du-vendredi-27-mars-2026-3293476</link>
+      <description>La peste soit du gredin</description>
+      <content:encoded><![CDATA[
+        <p>La peste soit du gredin</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceinter/podcasts/le-billet-de-francois-rollin/francois-rollin-moi-ce-que-j-en-dis-du-vendredi-27-mars-2026-3293476">France Inter</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/b66e4080-2221-4df9-9205-35e13f450bdd/1200x680" alt="La peste soit du gredin" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceinter/podcasts/le-billet-de-francois-rollin/francois-rollin-moi-ce-que-j-en-dis-du-vendredi-27-mars-2026-3293476</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26803-27.03.2026-ITEMA_24455537-2026F22864S0086-NET_MFI_1A67C7DD-04BB-4944-9EC3-E26BC7FDA94C-27-ea35fad75feeed758b433c9aa3ff0563.m4a" length="248" type="audio/mp4"/>
+      <pubDate>Fri, 27 Mar 2026 15:55:00 +0000</pubDate>
+      <itunes:author>France Inter</itunes:author>
+      <itunes:duration>4:08</itunes:duration>
+      <itunes:subtitle>La peste soit du gredin</itunes:subtitle>
+      <itunes:summary>La peste soit du gredin</itunes:summary>
+    </item>
+    <item>
+      <title>C'est riz ou pâtes ?</title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/le-billet-de-francois-rollin/francois-rollin-moi-ce-que-j-en-dis-du-vendredi-20-mars-2026-7907477</link>
+      <description>C'est riz ou pâtes ?</description>
+      <content:encoded><![CDATA[
+        <p>C&#x27;est riz ou pâtes ?</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceinter/podcasts/le-billet-de-francois-rollin/francois-rollin-moi-ce-que-j-en-dis-du-vendredi-20-mars-2026-7907477">France Inter</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/b66e4080-2221-4df9-9205-35e13f450bdd/1200x680" alt="C&#x27;est riz ou pâtes ?" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceinter/podcasts/le-billet-de-francois-rollin/francois-rollin-moi-ce-que-j-en-dis-du-vendredi-20-mars-2026-7907477</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26803-20.03.2026-ITEMA_24448325-2026F22864S0079-NET_MFI_50FA5F88-6F3C-4903-89A6-F709EE574C96-27-7044d135c1578aa94902ae69ac712dfa.m4a" length="266" type="audio/mp4"/>
+      <pubDate>Fri, 20 Mar 2026 15:52:00 +0000</pubDate>
+      <itunes:author>France Inter</itunes:author>
+      <itunes:duration>4:26</itunes:duration>
+      <itunes:subtitle>C'est riz ou pâtes ?</itunes:subtitle>
+      <itunes:summary>C'est riz ou pâtes ?</itunes:summary>
+    </item>
+    <item>
+      <title>Qu'est-ce qu'on mange ce soir ?</title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/le-billet-de-francois-rollin/francois-rollin-moi-ce-que-j-en-dis-du-vendredi-13-mars-2026-2536360</link>
+      <description>Qu'est-ce qu'on mange ce soir ?</description>
+      <content:encoded><![CDATA[
+        <p>Qu&#x27;est-ce qu&#x27;on mange ce soir ?</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceinter/podcasts/le-billet-de-francois-rollin/francois-rollin-moi-ce-que-j-en-dis-du-vendredi-13-mars-2026-2536360">France Inter</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/b66e4080-2221-4df9-9205-35e13f450bdd/1200x680" alt="Qu&#x27;est-ce qu&#x27;on mange ce soir ?" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceinter/podcasts/le-billet-de-francois-rollin/francois-rollin-moi-ce-que-j-en-dis-du-vendredi-13-mars-2026-2536360</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/15275-13.03.2026-ITEMA_24439530-2026F22864S0072-NET_MFI_3C44AF5C-0709-4BB8-A9C2-6E278E83CFFB-27-8d7f4a8896d66a2aeee8cae10e4cfc74.m4a" length="261" type="audio/mp4"/>
+      <pubDate>Fri, 13 Mar 2026 15:55:00 +0000</pubDate>
+      <itunes:author>France Inter</itunes:author>
+      <itunes:duration>4:21</itunes:duration>
+      <itunes:subtitle>Qu'est-ce qu'on mange ce soir ?</itunes:subtitle>
+      <itunes:summary>Qu'est-ce qu'on mange ce soir ?</itunes:summary>
+    </item>
+    <item>
+      <title>Boire froid</title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/le-billet-de-francois-rollin/francois-rollin-moi-ce-que-j-en-dis-du-vendredi-06-mars-2026-9925769</link>
+      <description>Boire froid</description>
+      <content:encoded><![CDATA[
+        <p>Boire froid</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceinter/podcasts/le-billet-de-francois-rollin/francois-rollin-moi-ce-que-j-en-dis-du-vendredi-06-mars-2026-9925769">France Inter</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/b66e4080-2221-4df9-9205-35e13f450bdd/1200x680" alt="Boire froid" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceinter/podcasts/le-billet-de-francois-rollin/francois-rollin-moi-ce-que-j-en-dis-du-vendredi-06-mars-2026-9925769</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/15275-06.03.2026-ITEMA_24431061-2026F22864S0065-NET_MFI_23736AB9-DA2D-4C95-AF5C-D5299129DE78-27-76d75d8f62bb3303b51715979a31f0f6.m4a" length="270" type="audio/mp4"/>
+      <pubDate>Fri, 06 Mar 2026 15:55:00 +0000</pubDate>
+      <itunes:author>France Inter</itunes:author>
+      <itunes:duration>4:30</itunes:duration>
+      <itunes:subtitle>Boire froid</itunes:subtitle>
+      <itunes:summary>Boire froid</itunes:summary>
+    </item>
+    <item>
+      <title>J'ai failli applaudir</title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/le-billet-de-francois-rollin/francois-rollin-moi-ce-que-j-en-dis-du-vendredi-20-fevrier-2026-1066504</link>
+      <description>J'ai failli applaudir</description>
+      <content:encoded><![CDATA[
+        <p>J&#x27;ai failli applaudir</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceinter/podcasts/le-billet-de-francois-rollin/francois-rollin-moi-ce-que-j-en-dis-du-vendredi-20-fevrier-2026-1066504">France Inter</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/5461d183-65c5-4050-b645-4e8a7cadaf02/1200x680" alt="J&#x27;ai failli applaudir" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceinter/podcasts/le-billet-de-francois-rollin/francois-rollin-moi-ce-que-j-en-dis-du-vendredi-20-fevrier-2026-1066504</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/15275-20.02.2026-ITEMA_24415803-2026F22864S0051-NET_MFI_1397E508-5C9E-4796-A3AA-26039875FBC5-27-b63899f031ea431c0e972f3ac7a42b78.m4a" length="260" type="audio/mp4"/>
+      <pubDate>Fri, 20 Feb 2026 15:55:00 +0000</pubDate>
+      <itunes:author>France Inter</itunes:author>
+      <itunes:duration>4:20</itunes:duration>
+      <itunes:subtitle>J'ai failli applaudir</itunes:subtitle>
+      <itunes:summary>J'ai failli applaudir</itunes:summary>
+    </item>
+    <item>
+      <title>Pour une société mélangée</title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/le-billet-de-francois-rollin/francois-rollin-moi-ce-que-j-en-dis-du-vendredi-13-fevrier-2026-3467111</link>
+      <description>Pour une société mélangée</description>
+      <content:encoded><![CDATA[
+        <p>Pour une société mélangée</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceinter/podcasts/le-billet-de-francois-rollin/francois-rollin-moi-ce-que-j-en-dis-du-vendredi-13-fevrier-2026-3467111">France Inter</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/b66e4080-2221-4df9-9205-35e13f450bdd/1200x680" alt="Pour une société mélangée" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceinter/podcasts/le-billet-de-francois-rollin/francois-rollin-moi-ce-que-j-en-dis-du-vendredi-13-fevrier-2026-3467111</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/15275-13.02.2026-ITEMA_24407825-2026F22864S0044-NET_MFI_95B6CEC5-0B74-411E-8D06-5B131F34F110-27-8e996a9b238a3bc088885848219f08d4.m4a" length="257" type="audio/mp4"/>
+      <pubDate>Fri, 13 Feb 2026 15:55:00 +0000</pubDate>
+      <itunes:author>France Inter</itunes:author>
+      <itunes:duration>4:17</itunes:duration>
+      <itunes:subtitle>Pour une société mélangée</itunes:subtitle>
+      <itunes:summary>Pour une société mélangée</itunes:summary>
+    </item>
+    <item>
+      <title>Contretemps</title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/le-billet-de-francois-rollin/francois-rollin-moi-ce-que-j-en-dis-du-vendredi-06-fevrier-2026-5975718</link>
+      <description>Contretemps</description>
+      <content:encoded><![CDATA[
+        <p>Contretemps</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceinter/podcasts/le-billet-de-francois-rollin/francois-rollin-moi-ce-que-j-en-dis-du-vendredi-06-fevrier-2026-5975718">France Inter</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/b66e4080-2221-4df9-9205-35e13f450bdd/1200x680" alt="Contretemps" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceinter/podcasts/le-billet-de-francois-rollin/francois-rollin-moi-ce-que-j-en-dis-du-vendredi-06-fevrier-2026-5975718</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/15275-06.02.2026-ITEMA_24399603-2026F22864S0037-NET_MFI_5FDF6CA1-52AA-470A-BFB3-4E5576E9FEAD-27-30b72002d1fdc699246ff1b163980148.m4a" length="212" type="audio/mp4"/>
+      <pubDate>Fri, 06 Feb 2026 15:55:00 +0000</pubDate>
+      <itunes:author>France Inter</itunes:author>
+      <itunes:duration>3:32</itunes:duration>
+      <itunes:subtitle>Contretemps</itunes:subtitle>
+      <itunes:summary>Contretemps</itunes:summary>
+    </item>
+    <item>
+      <title>Vague embellie</title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/le-billet-de-francois-rollin/francois-rollin-moi-ce-que-j-en-dis-du-vendredi-23-janvier-2026-8544307</link>
+      <description>Vague embellie</description>
+      <content:encoded><![CDATA[
+        <p>Vague embellie</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceinter/podcasts/le-billet-de-francois-rollin/francois-rollin-moi-ce-que-j-en-dis-du-vendredi-23-janvier-2026-8544307">France Inter</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/b66e4080-2221-4df9-9205-35e13f450bdd/1200x680" alt="Vague embellie" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceinter/podcasts/le-billet-de-francois-rollin/francois-rollin-moi-ce-que-j-en-dis-du-vendredi-23-janvier-2026-8544307</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/15275-23.01.2026-ITEMA_24383461-2026F22864S0023-NET_MFI_E934CB95-89BA-43CA-81FB-0A8C055B5482-27-157f5d6445d64a2d9bd3ef87c5d0cd7d.m4a" length="217" type="audio/mp4"/>
+      <pubDate>Fri, 23 Jan 2026 15:55:00 +0000</pubDate>
+      <itunes:author>France Inter</itunes:author>
+      <itunes:duration>3:37</itunes:duration>
+      <itunes:subtitle>Vague embellie</itunes:subtitle>
+      <itunes:summary>Vague embellie</itunes:summary>
+    </item>
+    <item>
+      <title>Où c'est-y que ça coince ?</title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/le-billet-de-francois-rollin/francois-rollin-moi-ce-que-j-en-dis-du-vendredi-16-janvier-2026-8830610</link>
+      <description>Où c'est-y que ça coince ?</description>
+      <content:encoded><![CDATA[
+        <p>Où c&#x27;est-y que ça coince ?</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceinter/podcasts/le-billet-de-francois-rollin/francois-rollin-moi-ce-que-j-en-dis-du-vendredi-16-janvier-2026-8830610">France Inter</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/b66e4080-2221-4df9-9205-35e13f450bdd/1200x680" alt="Où c&#x27;est-y que ça coince ?" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceinter/podcasts/le-billet-de-francois-rollin/francois-rollin-moi-ce-que-j-en-dis-du-vendredi-16-janvier-2026-8830610</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/15275-16.01.2026-ITEMA_24376016-2026F22864S0016-NET_MFI_5CB991F6-AA6C-4D71-B221-E5DAA4227A7D-27-a0bafaad9bd85ee4b655d2c6c238773e.m4a" length="187" type="audio/mp4"/>
+      <pubDate>Fri, 16 Jan 2026 15:55:00 +0000</pubDate>
+      <itunes:author>France Inter</itunes:author>
+      <itunes:duration>3:07</itunes:duration>
+      <itunes:subtitle>Où c'est-y que ça coince ?</itunes:subtitle>
+      <itunes:summary>Où c'est-y que ça coince ?</itunes:summary>
+    </item>
+    <item>
+      <title>Tempête sur l’échiquier</title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/le-billet-de-francois-rollin/francois-rollin-moi-ce-que-j-en-dis-du-vendredi-09-janvier-2026-5674441</link>
+      <description>Tempête sur l’échiquier</description>
+      <content:encoded><![CDATA[
+        <p>Tempête sur l’échiquier</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceinter/podcasts/le-billet-de-francois-rollin/francois-rollin-moi-ce-que-j-en-dis-du-vendredi-09-janvier-2026-5674441">France Inter</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/b66e4080-2221-4df9-9205-35e13f450bdd/1200x680" alt="Tempête sur l’échiquier" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceinter/podcasts/le-billet-de-francois-rollin/francois-rollin-moi-ce-que-j-en-dis-du-vendredi-09-janvier-2026-5674441</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/15275-09.01.2026-ITEMA_24368284-2026F22864S0009-NET_MFI_6116BFCF-6888-45E1-BC3B-A9B6F8546826-27-0d6447863ef6d7bcf1003eb4ae3d5327.m4a" length="240" type="audio/mp4"/>
+      <pubDate>Fri, 09 Jan 2026 15:55:00 +0000</pubDate>
+      <itunes:author>France Inter</itunes:author>
+      <itunes:duration>4:00</itunes:duration>
+      <itunes:subtitle>Tempête sur l’échiquier</itunes:subtitle>
+      <itunes:summary>Tempête sur l’échiquier</itunes:summary>
+    </item>
+    <item>
+      <title>François Rollin : moi ce que j'en dis du vendredi 19 décembre 2025</title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/le-billet-de-francois-rollin/francois-rollin-moi-ce-que-j-en-dis-du-vendredi-19-decembre-2025-3126703</link>
+      <description>François Rollin : moi ce que j'en dis du vendredi 19 décembre 2025</description>
+      <content:encoded><![CDATA[
+        <p>François Rollin : moi ce que j&#x27;en dis du vendredi 19 décembre 2025</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceinter/podcasts/le-billet-de-francois-rollin/francois-rollin-moi-ce-que-j-en-dis-du-vendredi-19-decembre-2025-3126703">France Inter</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/b66e4080-2221-4df9-9205-35e13f450bdd/1200x680" alt="François Rollin : moi ce que j&#x27;en dis du vendredi 19 décembre 2025" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceinter/podcasts/le-billet-de-francois-rollin/francois-rollin-moi-ce-que-j-en-dis-du-vendredi-19-decembre-2025-3126703</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/15275-19.12.2025-ITEMA_24348293-2025F22864S0353-NET_MFI_FB35F602-EE9C-46DB-9341-634EF490E8A7-27-3748a57de4a9423349711701fe0255bd.m4a" length="288" type="audio/mp4"/>
+      <pubDate>Fri, 19 Dec 2025 16:50:00 +0000</pubDate>
+      <itunes:author>France Inter</itunes:author>
+      <itunes:duration>4:48</itunes:duration>
+      <itunes:subtitle>François Rollin : moi ce que j'en dis du vendredi 19 décembre 2025</itunes:subtitle>
+      <itunes:summary>François Rollin : moi ce que j'en dis du vendredi 19 décembre 2025</itunes:summary>
+    </item>
+    <item>
+      <title>Vous reprendrez bien un peu de jambon ?!</title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/le-billet-de-francois-rollin/francois-rollin-moi-ce-que-j-en-dis-du-jeudi-11-decembre-2025-9112956</link>
+      <description>Vous reprendrez bien un peu de jambon ?!</description>
+      <content:encoded><![CDATA[
+        <p>Vous reprendrez bien un peu de jambon ?!</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceinter/podcasts/le-billet-de-francois-rollin/francois-rollin-moi-ce-que-j-en-dis-du-jeudi-11-decembre-2025-9112956">France Inter</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/d2a117b6-0815-4b95-b810-a77add3189f9/1200x680" alt="Vous reprendrez bien un peu de jambon ?!" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceinter/podcasts/le-billet-de-francois-rollin/francois-rollin-moi-ce-que-j-en-dis-du-jeudi-11-decembre-2025-9112956</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/15275-11.12.2025-ITEMA_24339236-2025F22864S0345-NET_MFI_9A86A931-FBD0-4A42-B111-924E46C76BC9-27-5c28b97997135c6fa214253d3ad6310f.m4a" length="220" type="audio/mp4"/>
+      <pubDate>Thu, 11 Dec 2025 15:55:00 +0000</pubDate>
+      <itunes:author>France Inter</itunes:author>
+      <itunes:duration>3:40</itunes:duration>
+      <itunes:subtitle>Vous reprendrez bien un peu de jambon ?!</itunes:subtitle>
+      <itunes:summary>Vous reprendrez bien un peu de jambon ?!</itunes:summary>
+    </item>
+    <item>
+      <title>Ramène ton ramen</title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/le-billet-de-francois-rollin/francois-rollin-moi-ce-que-j-en-dis-du-vendredi-05-decembre-2025-3847898</link>
+      <description>Ramène ton ramen</description>
+      <content:encoded><![CDATA[
+        <p>Ramène ton ramen</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceinter/podcasts/le-billet-de-francois-rollin/francois-rollin-moi-ce-que-j-en-dis-du-vendredi-05-decembre-2025-3847898">France Inter</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/b66e4080-2221-4df9-9205-35e13f450bdd/1200x680" alt="Ramène ton ramen" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceinter/podcasts/le-billet-de-francois-rollin/francois-rollin-moi-ce-que-j-en-dis-du-vendredi-05-decembre-2025-3847898</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/15275-05.12.2025-ITEMA_24333248-2025F22864S0311-NET_MFI_2F2BEC28-F5E4-42C4-B4E9-E551AA5F6A7F-27-4c38b52bc62e928d0462abc4687ac7b2.m4a" length="189" type="audio/mp4"/>
+      <pubDate>Fri, 05 Dec 2025 15:55:00 +0000</pubDate>
+      <itunes:author>France Inter</itunes:author>
+      <itunes:duration>3:09</itunes:duration>
+      <itunes:subtitle>Ramène ton ramen</itunes:subtitle>
+      <itunes:summary>Ramène ton ramen</itunes:summary>
+    </item>
+    <item>
+      <title>Patrouillons</title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/le-billet-de-francois-rollin/francois-rollin-moi-ce-que-j-en-dis-du-vendredi-28-novembre-2025-9159919</link>
+      <description>Patrouillons</description>
+      <content:encoded><![CDATA[
+        <p>Patrouillons</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceinter/podcasts/le-billet-de-francois-rollin/francois-rollin-moi-ce-que-j-en-dis-du-vendredi-28-novembre-2025-9159919">France Inter</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/b66e4080-2221-4df9-9205-35e13f450bdd/1200x680" alt="Patrouillons" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceinter/podcasts/le-billet-de-francois-rollin/francois-rollin-moi-ce-que-j-en-dis-du-vendredi-28-novembre-2025-9159919</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/15275-28.11.2025-ITEMA_24325807-2025F22864S0332-NET_MFI_636E7178-F1F2-488D-B8A3-62F035ACA9C2-27-a6b9285282e7e602472bb1c653e3a2c7.m4a" length="217" type="audio/mp4"/>
+      <pubDate>Fri, 28 Nov 2025 15:55:00 +0000</pubDate>
+      <itunes:author>France Inter</itunes:author>
+      <itunes:duration>3:37</itunes:duration>
+      <itunes:subtitle>Patrouillons</itunes:subtitle>
+      <itunes:summary>Patrouillons</itunes:summary>
+    </item>
+    <item>
+      <title>Encore un carreau de cassé</title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/le-billet-de-francois-rollin/francois-rollin-moi-ce-que-j-en-dis-du-vendredi-21-novembre-2025-1286404</link>
+      <description>Encore un carreau de cassé</description>
+      <content:encoded><![CDATA[
+        <p>Encore un carreau de cassé</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceinter/podcasts/le-billet-de-francois-rollin/francois-rollin-moi-ce-que-j-en-dis-du-vendredi-21-novembre-2025-1286404">France Inter</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/b66e4080-2221-4df9-9205-35e13f450bdd/1200x680" alt="Encore un carreau de cassé" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceinter/podcasts/le-billet-de-francois-rollin/francois-rollin-moi-ce-que-j-en-dis-du-vendredi-21-novembre-2025-1286404</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/15275-21.11.2025-ITEMA_24318477-2025F22864S0325-NET_MFI_B73D7498-0A64-4CD0-B618-2611BF999DFE-27-dd5f628895d75f28765998b1b951b54b.m4a" length="217" type="audio/mp4"/>
+      <pubDate>Fri, 21 Nov 2025 15:55:00 +0000</pubDate>
+      <itunes:author>France Inter</itunes:author>
+      <itunes:duration>3:37</itunes:duration>
+      <itunes:subtitle>Encore un carreau de cassé</itunes:subtitle>
+      <itunes:summary>Encore un carreau de cassé</itunes:summary>
+    </item>
+  </channel>
+</rss>

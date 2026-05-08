@@ -17,6 +17,7 @@ from lxml import etree
 # ─── FRANCE CULTURE: LE COURS DE L'HISTOIRE ───────────────────
 
 SHOW_URL = "https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire"
+SHOW_PATH = "/franceculture/podcasts/le-cours-de-l-histoire/"
 BASE_URL = "https://www.radiofrance.fr"
 
 OUTPUT_FILE = "feed.xml"
@@ -33,6 +34,10 @@ FEED_DESCRIPTION = (
 )
 
 FEED_IMAGE = "https://www.radiofrance.fr/pikapi/images/d1d9dd6a-bb4b-4811-bfc0-e846eaeb317f/300x300"
+FEED_AUTHOR_NAME = "Radio France / France Culture"
+ITUNES_AUTHOR = "France Culture"
+ITUNES_CATEGORY = "History"
+SOURCE_LABEL = "France Culture"
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Personal Radio France RSS generator)"
@@ -157,7 +162,7 @@ def get_episode_links():
     for a in soup.find_all("a", href=True):
         href = a["href"]
 
-        if "/franceculture/podcasts/le-cours-de-l-histoire/" not in href:
+        if SHOW_PATH not in href:
             continue
 
         full_url = urljoin(BASE_URL, href)
@@ -349,6 +354,15 @@ def sort_rss_items_newest_first(rss):
         xml_declaration=True,
         pretty_print=True
     )
+
+
+def episode_description_for_feed(episode):
+    description = clean_text(episode.get("description", ""))
+
+    if not description or description == ".":
+        return episode.get("title", "")
+
+    return description
 
 
 def write_stylesheet():
@@ -571,11 +585,11 @@ def build_rss(episodes):
     fg.language("fr")
     fg.link(href=SHOW_URL, rel="alternate")
     fg.link(href=OUTPUT_FILE, rel="self")
-    fg.author({"name": "Radio France / France Culture"})
+    fg.author({"name": FEED_AUTHOR_NAME})
     fg.logo(FEED_IMAGE)
     fg.updated(datetime.now(timezone.utc))
 
-    fg.podcast.itunes_author("France Culture")
+    fg.podcast.itunes_author(ITUNES_AUTHOR)
     fg.podcast.itunes_summary(FEED_DESCRIPTION)
     fg.podcast.itunes_subtitle(FEED_SUBTITLE)
     fg.podcast.itunes_owner(
@@ -583,13 +597,14 @@ def build_rss(episodes):
         email="no-reply@example.com"
     )
     fg.podcast.itunes_explicit("no")
-    fg.podcast.itunes_category("History")
+    fg.podcast.itunes_category(ITUNES_CATEGORY)
 
     if is_itunes_safe_image(FEED_IMAGE):
         fg.podcast.itunes_image(FEED_IMAGE)
 
     for episode in episodes:
         published_dt = archive_to_date(episode.get("published"))
+        description = episode_description_for_feed(episode)
 
         fe = fg.add_entry()
 
@@ -601,8 +616,8 @@ def build_rss(episodes):
         fe.updated(published_dt)
 
         rich_description = f"""
-        <p>{html.escape(episode.get("description", ""))}</p>
-        <p><strong>Source:</strong> <a href="{episode["url"]}">France Culture</a></p>
+        <p>{html.escape(description)}</p>
+        <p><strong>Source:</strong> <a href="{episode["url"]}">{SOURCE_LABEL}</a></p>
         """
 
         if episode.get("image"):
@@ -612,7 +627,7 @@ def build_rss(episodes):
             </p>
             """
 
-        fe.description(episode.get("description", ""))
+        fe.description(description)
         fe.content(rich_description, type="CDATA")
 
         fe.enclosure(
@@ -621,9 +636,9 @@ def build_rss(episodes):
             episode.get("audio_type") or "audio/mp4"
         )
 
-        fe.podcast.itunes_author("France Culture")
-        fe.podcast.itunes_summary(episode.get("description", ""))
-        fe.podcast.itunes_subtitle(episode.get("description", "")[:255])
+        fe.podcast.itunes_author(ITUNES_AUTHOR)
+        fe.podcast.itunes_summary(description)
+        fe.podcast.itunes_subtitle(description[:255])
 
         if episode.get("duration_itunes"):
             fe.podcast.itunes_duration(episode["duration_itunes"])
