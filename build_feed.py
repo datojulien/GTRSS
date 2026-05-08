@@ -28,6 +28,7 @@ MAX_LINKS_TO_CHECK = 30
 FOLLOW_PAGINATION = False
 MAX_PAGES_TO_CHECK = 1
 MIN_PUBLISHED_DATE = None
+STOP_WHEN_BEFORE_MIN_PUBLISHED_DATE = False
 
 FEED_TITLE = "Le Cours de l'histoire — Flux frais"
 FEED_SUBTITLE = "Flux personnel généré depuis le site Radio France"
@@ -756,6 +757,9 @@ def build_feed():
 
                 if published_dt < min_dt:
                     print(f"  -> skipped, before {MIN_PUBLISHED_DATE}")
+                    if STOP_WHEN_BEFORE_MIN_PUBLISHED_DATE:
+                        print("  -> stopping, remaining links are older")
+                        break
                     continue
 
             new_episodes.append(data)
