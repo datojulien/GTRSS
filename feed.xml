@@ -14,7 +14,7 @@
       <link>feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Fri, 08 May 2026 07:57:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 09:51:28 +0000</lastBuildDate>
     <itunes:author>France Culture</itunes:author>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -24,6 +24,26 @@
     </itunes:owner>
     <itunes:subtitle>Flux personnel généré depuis le site Radio France</itunes:subtitle>
     <itunes:summary>Un flux RSS personnel qui récupère les épisodes depuis le site web de France Culture lorsque le flux officiel n’est pas encore à jour.</itunes:summary>
+    <item>
+      <title>Noëlle Herrenschmidt, aux grands procès, une aquarelliste pour l’histoire : épisode du podcast Fou d'histoire | France Culture</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/noelle-herrenschmidt-aux-grands-proces-aquarelliste-pour-l-histoire-7400785</link>
+      <description>AUDIO Fou d'histoire, épisode : Noëlle Herrenschmidt, aux grands procès, une aquarelliste pour l’histoire. Une série inédite proposée par France Culture. Écoutez Noëlle Herrenschmidt, aux grands procès, une aquarelliste pour l’histoire, et découvrez nos podcasts en ligne.</description>
+      <content:encoded><![CDATA[
+        <p>AUDIO Fou d&#x27;histoire, épisode : Noëlle Herrenschmidt, aux grands procès, une aquarelliste pour l’histoire. Une série inédite proposée par France Culture. Écoutez Noëlle Herrenschmidt, aux grands procès, une aquarelliste pour l’histoire, et découvrez nos podcasts en ligne.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/noelle-herrenschmidt-aux-grands-proces-aquarelliste-pour-l-histoire-7400785">France Culture</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/8a503d10-77e8-4be9-b4d3-7e6ed84f17d8/1200" alt="Noëlle Herrenschmidt, aux grands procès, une aquarelliste pour l’histoire : épisode du podcast Fou d&#x27;histoire | France Culture" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/noelle-herrenschmidt-aux-grands-proces-aquarelliste-pour-l-histoire-7400785</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26625-08.05.2026-ITEMA_24504679-2026C36128S0128-NET_MFC_0EBD8BD9-C360-42F9-96C8-F824C4F20B9E-25-e286c6b94a9687460f2205379009af83.m4a" length="3473" type="audio/mp4"/>
+      <pubDate>Fri, 08 May 2026 07:00:00 +0000</pubDate>
+      <itunes:author>France Culture</itunes:author>
+      <itunes:duration>57:53</itunes:duration>
+      <itunes:subtitle>AUDIO Fou d'histoire, épisode : Noëlle Herrenschmidt, aux grands procès, une aquarelliste pour l’histoire. Une série inédite proposée par France Culture. Écoutez Noëlle Herrenschmidt, aux grands procès, une aquarelliste pour l’histoire, et découvrez nos p</itunes:subtitle>
+      <itunes:summary>AUDIO Fou d'histoire, épisode : Noëlle Herrenschmidt, aux grands procès, une aquarelliste pour l’histoire. Une série inédite proposée par France Culture. Écoutez Noëlle Herrenschmidt, aux grands procès, une aquarelliste pour l’histoire, et découvrez nos podcasts en ligne.</itunes:summary>
+    </item>
     <item>
       <title>Classique Sévigné, l’héritage des femmes de lettres : épisode du podcast Madame de Sévigné et les femmes du Grand Siècle | France Culture</title>
       <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/classique-sevigne-l-heritage-des-femmes-de-lettres-7519060</link>
