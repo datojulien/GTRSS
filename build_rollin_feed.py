@@ -14,6 +14,10 @@ radiofrance_feed.SHOW_PATH = (
 radiofrance_feed.OUTPUT_FILE = "francois-rollin-feed.xml"
 radiofrance_feed.STYLE_FILE = "francois-rollin-style.xsl"
 radiofrance_feed.ARCHIVE_FILE = "francois-rollin-episodes.json"
+radiofrance_feed.FOLLOW_PAGINATION = True
+radiofrance_feed.MAX_PAGES_TO_CHECK = 8
+radiofrance_feed.MAX_LINKS_TO_CHECK = 120
+radiofrance_feed.MIN_PUBLISHED_DATE = "2025-08-01T00:00:00+00:00"
 
 radiofrance_feed.FEED_TITLE = "Le billet de François Rollin — Flux frais"
 radiofrance_feed.FEED_SUBTITLE = (

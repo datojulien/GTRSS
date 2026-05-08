@@ -25,6 +25,9 @@ STYLE_FILE = "feed-style.xsl"
 ARCHIVE_FILE = "episodes.json"
 
 MAX_LINKS_TO_CHECK = 30
+FOLLOW_PAGINATION = False
+MAX_PAGES_TO_CHECK = 1
+MIN_PUBLISHED_DATE = None
 
 FEED_TITLE = "Le Cours de l'histoire — Flux frais"
 FEED_SUBTITLE = "Flux personnel généré depuis le site Radio France"
@@ -153,10 +156,7 @@ def is_itunes_safe_image(url):
     )
 
 
-def get_episode_links():
-    html_page = fetch_html(SHOW_URL)
-    soup = BeautifulSoup(html_page, "html.parser")
-
+def extract_episode_links_from_soup(soup):
     links = []
 
     for a in soup.find_all("a", href=True):
@@ -173,7 +173,60 @@ def get_episode_links():
         if full_url not in links:
             links.append(full_url)
 
-    return links[:MAX_LINKS_TO_CHECK]
+    return links
+
+
+def find_next_page_url(soup, current_url):
+    next_tag = soup.find(
+        "link",
+        rel=lambda value: value and "next" in value
+    )
+
+    if not next_tag or not next_tag.get("href"):
+        return None
+
+    return urljoin(current_url, next_tag["href"])
+
+
+def get_episode_links_from_page(page_url):
+    html_page = fetch_html(page_url)
+    soup = BeautifulSoup(html_page, "html.parser")
+
+    return (
+        extract_episode_links_from_soup(soup),
+        find_next_page_url(soup, page_url)
+    )
+
+
+def get_episode_links():
+    links = []
+    seen_links = set()
+    seen_pages = set()
+    page_url = SHOW_URL
+
+    for _ in range(MAX_PAGES_TO_CHECK):
+        if not page_url or page_url in seen_pages:
+            break
+
+        seen_pages.add(page_url)
+        page_links, next_page_url = get_episode_links_from_page(page_url)
+
+        for link in page_links:
+            if link in seen_links:
+                continue
+
+            seen_links.add(link)
+            links.append(link)
+
+            if len(links) >= MAX_LINKS_TO_CHECK:
+                return links
+
+        if not FOLLOW_PAGINATION:
+            break
+
+        page_url = next_page_url
+
+    return links
 
 
 def find_radio_episode_from_jsonld(soup):
@@ -310,6 +363,18 @@ def merge_episodes(old_episodes, new_episodes):
             merged[episode["url"]] = episode
 
     return sort_episodes_newest_first(merged.values())
+
+
+def filter_episodes_by_min_date(episodes):
+    if not MIN_PUBLISHED_DATE:
+        return list(episodes)
+
+    min_date = parse_iso_date(MIN_PUBLISHED_DATE)
+
+    return [
+        episode for episode in episodes
+        if archive_to_date(episode.get("published")) >= min_date
+    ]
 
 
 def sort_episodes_newest_first(episodes):
@@ -685,13 +750,23 @@ def build_feed():
                 print("  -> skipped, no valid episode data")
                 continue
 
+            if MIN_PUBLISHED_DATE:
+                published_dt = archive_to_date(data.get("published"))
+                min_dt = parse_iso_date(MIN_PUBLISHED_DATE)
+
+                if published_dt < min_dt:
+                    print(f"  -> skipped, before {MIN_PUBLISHED_DATE}")
+                    continue
+
             new_episodes.append(data)
             print(f"  -> added: {data['title']}")
 
         except Exception as error:
             print(f"  -> error: {error}")
 
-    all_episodes = merge_episodes(archive, new_episodes)
+    all_episodes = filter_episodes_by_min_date(
+        merge_episodes(archive, new_episodes)
+    )
 
     save_archive(all_episodes)
     write_stylesheet()

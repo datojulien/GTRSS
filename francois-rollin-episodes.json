@@ -218,5 +218,126 @@
     "published": "2025-11-21T15:55:00+00:00",
     "image": "https://www.radiofrance.fr/pikapi/images/b66e4080-2221-4df9-9205-35e13f450bdd/1200x680",
     "url": "https://www.radiofrance.fr/franceinter/podcasts/le-billet-de-francois-rollin/francois-rollin-moi-ce-que-j-en-dis-du-vendredi-21-novembre-2025-1286404"
+  },
+  {
+    "title": "En français cocorico",
+    "description": ".",
+    "audio_url": "https://media.radiofrance-podcast.net/podcast09/15275-14.11.2025-ITEMA_24311120-2025F22864S0318-NET_MFI_AF9E14D0-6446-4925-BBD1-EAC84F8E30EC-27-b458ddf2d2d0d15e582f7b2cb50188ed.m4a",
+    "audio_type": "audio/mp4",
+    "duration_seconds": 231,
+    "duration_itunes": "3:51",
+    "published": "2025-11-14T15:55:00+00:00",
+    "image": "https://www.radiofrance.fr/pikapi/images/b66e4080-2221-4df9-9205-35e13f450bdd/1200x680",
+    "url": "https://www.radiofrance.fr/franceinter/podcasts/le-billet-de-francois-rollin/francois-rollin-moi-ce-que-j-en-dis-du-vendredi-14-novembre-2025-7807128"
+  },
+  {
+    "title": "Trop de trop tue le trop",
+    "description": ".",
+    "audio_url": "https://media.radiofrance-podcast.net/podcast09/15275-05.12.2025-ITEMA_24333248-2025F22864S0311-NET_MFI_2F2BEC28-F5E4-42C4-B4E9-E551AA5F6A7F-27-4c38b52bc62e928d0462abc4687ac7b2.m4a",
+    "audio_type": "audio/mp4",
+    "duration_seconds": 189,
+    "duration_itunes": "3:09",
+    "published": "2025-11-07T15:55:00+00:00",
+    "image": "https://www.radiofrance.fr/pikapi/images/b66e4080-2221-4df9-9205-35e13f450bdd/1200x680",
+    "url": "https://www.radiofrance.fr/franceinter/podcasts/le-billet-de-francois-rollin/francois-rollin-moi-ce-que-j-en-dis-du-vendredi-07-novembre-2025-2886178"
+  },
+  {
+    "title": "N'avoue jamais",
+    "description": ".",
+    "audio_url": "https://media.radiofrance-podcast.net/podcast09/15275-31.10.2025-ITEMA_24296280-2025F22864S0304-NET_MFI_52F9AEA7-EA1E-4F1A-971B-2E11670F09EC-27-9463870b09173ebafd430b56bbda7b1d.m4a",
+    "audio_type": "audio/mp4",
+    "duration_seconds": 187,
+    "duration_itunes": "3:07",
+    "published": "2025-10-31T15:55:00+00:00",
+    "image": "https://www.radiofrance.fr/pikapi/images/b66e4080-2221-4df9-9205-35e13f450bdd/1200x680",
+    "url": "https://www.radiofrance.fr/franceinter/podcasts/le-billet-de-francois-rollin/francois-rollin-moi-ce-que-j-en-dis-du-vendredi-31-octobre-2025-9254015"
+  },
+  {
+    "title": "Le naufrage phase 1",
+    "description": ".",
+    "audio_url": "https://media.radiofrance-podcast.net/podcast09/15275-17.10.2025-ITEMA_24281979-2025F22864S0290-NET_MFI_CAE0C774-7037-4ACD-9E13-7F6995F28014-27-7821240ad57be7f0ea0e32df39230731.m4a",
+    "audio_type": "audio/mp4",
+    "duration_seconds": 237,
+    "duration_itunes": "3:57",
+    "published": "2025-10-17T14:55:00+00:00",
+    "image": "https://www.radiofrance.fr/pikapi/images/b66e4080-2221-4df9-9205-35e13f450bdd/1200x680",
+    "url": "https://www.radiofrance.fr/franceinter/podcasts/le-billet-de-francois-rollin/francois-rollin-moi-ce-que-j-en-dis-du-vendredi-17-octobre-2025-3447765"
+  },
+  {
+    "title": "Mon Marseille à moi c'est ça !",
+    "description": ".",
+    "audio_url": "https://media.radiofrance-podcast.net/podcast09/15275-10.10.2025-ITEMA_24274556-2025F22864S0283-NET_MFI_B6384B79-4A92-4B60-A631-35B988C03AAD-27-832e254ed1314b30bb8eb4da0cad6ce6.m4a",
+    "audio_type": "audio/mp4",
+    "duration_seconds": 299,
+    "duration_itunes": "4:59",
+    "published": "2025-10-10T14:55:00+00:00",
+    "image": "https://www.radiofrance.fr/pikapi/images/b66e4080-2221-4df9-9205-35e13f450bdd/1200x680",
+    "url": "https://www.radiofrance.fr/franceinter/podcasts/le-billet-de-francois-rollin/francois-rollin-moi-ce-que-j-en-dis-du-vendredi-10-octobre-2025-3584537"
+  },
+  {
+    "title": "François Rollin : moi ce que j'en dis du vendredi 03 octobre 2025",
+    "description": "",
+    "audio_url": "https://media.radiofrance-podcast.net/podcast09/15275-03.10.2025-ITEMA_24267130-2025F22864S0276-NET_MFI_50639715-EDD1-4D48-A22C-D818EF2230B1-27.m4a",
+    "audio_type": "audio/mp4",
+    "duration_seconds": 211,
+    "duration_itunes": "3:31",
+    "published": "2025-10-03T14:55:00+00:00",
+    "image": "https://www.radiofrance.fr/pikapi/images/b66e4080-2221-4df9-9205-35e13f450bdd/1200x680",
+    "url": "https://www.radiofrance.fr/franceinter/podcasts/le-billet-de-francois-rollin/francois-rollin-moi-ce-que-j-en-dis-du-vendredi-03-octobre-2025-2259379"
+  },
+  {
+    "title": "Tricote cocotte",
+    "description": ".",
+    "audio_url": "https://media.radiofrance-podcast.net/podcast09/15275-26.09.2025-ITEMA_24259655-2025F22864S0269-NET_MFI_741AC093-D4C5-4746-AE6C-CAA320FA2D9D-27.m4a",
+    "audio_type": "audio/mp4",
+    "duration_seconds": 227,
+    "duration_itunes": "3:47",
+    "published": "2025-09-26T14:55:00+00:00",
+    "image": "https://www.radiofrance.fr/pikapi/images/b66e4080-2221-4df9-9205-35e13f450bdd/1200x680",
+    "url": "https://www.radiofrance.fr/franceinter/podcasts/le-billet-de-francois-rollin/francois-rollin-moi-ce-que-j-en-dis-du-vendredi-26-septembre-2025-1388287"
+  },
+  {
+    "title": "REMONTADA !",
+    "description": ".",
+    "audio_url": "https://media.radiofrance-podcast.net/podcast09/15275-19.09.2025-ITEMA_24252165-2025F22864S0262-NET_MFI_BAB1F9C5-EACD-493F-A58F-F2948093EEF8-27.m4a",
+    "audio_type": "audio/mp4",
+    "duration_seconds": 221,
+    "duration_itunes": "3:41",
+    "published": "2025-09-19T14:55:00+00:00",
+    "image": "https://www.radiofrance.fr/pikapi/images/b66e4080-2221-4df9-9205-35e13f450bdd/1200x680",
+    "url": "https://www.radiofrance.fr/franceinter/podcasts/le-billet-de-francois-rollin/francois-rollin-moi-ce-que-j-en-dis-du-vendredi-19-septembre-2025-6904407"
+  },
+  {
+    "title": "Secouez-vous, que diable !",
+    "description": ".",
+    "audio_url": "https://media.radiofrance-podcast.net/podcast09/15275-12.09.2025-ITEMA_24244454-2025F22864S0255-NET_MFI_893F31E5-2F36-4B6E-9DD9-A864DA982EBF-27.m4a",
+    "audio_type": "audio/mp4",
+    "duration_seconds": 214,
+    "duration_itunes": "3:34",
+    "published": "2025-09-12T14:55:00+00:00",
+    "image": "https://www.radiofrance.fr/pikapi/images/b66e4080-2221-4df9-9205-35e13f450bdd/1200x680",
+    "url": "https://www.radiofrance.fr/franceinter/podcasts/le-billet-de-francois-rollin/francois-rollin-moi-ce-que-j-en-dis-du-vendredi-12-septembre-2025-6325707"
+  },
+  {
+    "title": "Le mystère de la gare de Canfran",
+    "description": ".",
+    "audio_url": "https://media.radiofrance-podcast.net/podcast09/15275-05.09.2025-ITEMA_24236881-2025F22864S0248-NET_MFI_7E861EA6-4D5A-49ED-B394-B8B0C7416625-27.m4a",
+    "audio_type": "audio/mp4",
+    "duration_seconds": 255,
+    "duration_itunes": "4:15",
+    "published": "2025-09-05T14:55:00+00:00",
+    "image": "https://www.radiofrance.fr/pikapi/images/b66e4080-2221-4df9-9205-35e13f450bdd/1200x680",
+    "url": "https://www.radiofrance.fr/franceinter/podcasts/le-billet-de-francois-rollin/francois-rollin-moi-ce-que-j-en-dis-du-vendredi-05-septembre-2025-8690046"
+  },
+  {
+    "title": "Ne soyez pas bouchés !",
+    "description": ".",
+    "audio_url": "https://media.radiofrance-podcast.net/podcast09/15275-29.08.2025-ITEMA_24229278-2025F22864S0241-NET_MFI_96695501-A51E-4251-8DD8-23E34829FED4-27.m4a",
+    "audio_type": "audio/mp4",
+    "duration_seconds": 298,
+    "duration_itunes": "4:58",
+    "published": "2025-08-29T14:55:00+00:00",
+    "image": "https://www.radiofrance.fr/pikapi/images/b66e4080-2221-4df9-9205-35e13f450bdd/1200x680",
+    "url": "https://www.radiofrance.fr/franceinter/podcasts/le-billet-de-francois-rollin/francois-rollin-moi-ce-que-j-en-dis-du-vendredi-29-aout-2025-8264261"
   }
 ]
