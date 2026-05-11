@@ -14,7 +14,7 @@
       <link>feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Mon, 11 May 2026 04:35:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 08:35:45 +0000</lastBuildDate>
     <itunes:author>France Culture</itunes:author>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -24,6 +24,26 @@
     </itunes:owner>
     <itunes:subtitle>Flux personnel généré depuis le site Radio France</itunes:subtitle>
     <itunes:summary>Un flux RSS personnel qui récupère les épisodes depuis le site web de France Culture lorsque le flux officiel n’est pas encore à jour.</itunes:summary>
+    <item>
+      <title>Mao et la Révolution culturelle, une décennie de chaos : épisode du podcast Révolution culturelle, une histoire chinoise | France Culture</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/mao-et-la-revolution-culturelle-une-decennie-de-chaos-8417055</link>
+      <description>AUDIO Révolution culturelle, une histoire chinoise, épisode : Mao et la Révolution culturelle, une décennie de chaos. Une série inédite proposée par France Culture. Écoutez Mao et la Révolution culturelle, une décennie de chaos, et découvrez nos podcasts en ligne.</description>
+      <content:encoded><![CDATA[
+        <p>AUDIO Révolution culturelle, une histoire chinoise, épisode : Mao et la Révolution culturelle, une décennie de chaos. Une série inédite proposée par France Culture. Écoutez Mao et la Révolution culturelle, une décennie de chaos, et découvrez nos podcasts en ligne.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/mao-et-la-revolution-culturelle-une-decennie-de-chaos-8417055">France Culture</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/af9754f8-cf3c-4be0-818a-3d76e38d274b/1200x680" alt="Mao et la Révolution culturelle, une décennie de chaos : épisode du podcast Révolution culturelle, une histoire chinoise | France Culture" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/mao-et-la-revolution-culturelle-une-decennie-de-chaos-8417055</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26625-11.05.2026-ITEMA_24507529-2026C36128S0131-NET_MFC_F0534140-C512-43EE-8B7E-CD20DEFBAE15-25-83fd76d481b813ee75bf5539626366cd.m4a" length="3522" type="audio/mp4"/>
+      <pubDate>Mon, 11 May 2026 07:00:00 +0000</pubDate>
+      <itunes:author>France Culture</itunes:author>
+      <itunes:duration>58:42</itunes:duration>
+      <itunes:subtitle>AUDIO Révolution culturelle, une histoire chinoise, épisode : Mao et la Révolution culturelle, une décennie de chaos. Une série inédite proposée par France Culture. Écoutez Mao et la Révolution culturelle, une décennie de chaos, et découvrez nos podcasts </itunes:subtitle>
+      <itunes:summary>AUDIO Révolution culturelle, une histoire chinoise, épisode : Mao et la Révolution culturelle, une décennie de chaos. Une série inédite proposée par France Culture. Écoutez Mao et la Révolution culturelle, une décennie de chaos, et découvrez nos podcasts en ligne.</itunes:summary>
+    </item>
     <item>
       <title>Noëlle Herrenschmidt, aux grands procès, une aquarelliste pour l’histoire : épisode du podcast Fou d'histoire | France Culture</title>
       <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/noelle-herrenschmidt-aux-grands-proces-aquarelliste-pour-l-histoire-7400785</link>
