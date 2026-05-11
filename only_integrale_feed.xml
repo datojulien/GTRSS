@@ -8,8 +8,8 @@
     <description>Tous les épisodes de L'Intégrale de 'Les Grosses Têtes', regroupant la diffusion complète sans coupures ni extras.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Mon, 11 May 2026 15:28:32 GMT</lastBuildDate>
-    <pubDate>Mon, 11 May 2026 15:28:32 GMT</pubDate>
+    <lastBuildDate>Mon, 11 May 2026 17:45:45 GMT</lastBuildDate>
+    <pubDate>Mon, 11 May 2026 17:45:45 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -39,6 +39,39 @@
     <ns2:category text="Comedy" />
     <ns3:person role="host">RTL</ns3:person>
     <ns3:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns3:txt>
+    <item>
+      <title>L'INTÉGRALE - Émission du lundi 11 mai 2026</title>
+      <guid isPermaLink="false">c41cb7cf-896a-411d-8819-5e6d2b384e08</guid>
+      <description>Avec Hector Obalk, Sylvie Tellier, Fabrice, Karina Marimon, Richard Orlinski et Christophe Beaugrand !
+&lt;i&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns4:encoded>Avec Hector Obalk, Sylvie Tellier, Fabrice, Karina Marimon, Richard Orlinski et Christophe Beaugrand !
+&lt;i&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <pubDate>Mon, 11 May 2026 16:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/c41cb7cf-896a-411d-8819-5e6d2b384e08.mp3?_=1778493490" length="97325402" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Avec Hector Obalk, Sylvie Tellier, Fabrice, Karina Marimon, Richard Orlinski et Christophe Beaugrand !
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </itunes:summary>
+      <ns2:description>Avec Hector Obalk, Sylvie Tellier, Fabrice, Karina Marimon, Richard Orlinski et Christophe Beaugrand !
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
+ </ns2:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Avec Hector Obalk, Sylvie Tellier, Fabrice, Karina Marimon, Richard Orlinski et Christophe Beaugrand !
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+ Hébergé par Audiomeans. Visitez </itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>01:41:22</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/fb925a7b-dbed-47e1-bbf8-c83d7d21fab2.jpg" />
+      <ns2:image href="https://static.audiomeans.fr/img/episode/fb925a7b-dbed-47e1-bbf8-c83d7d21fab2.jpg" />
+      <ns3:person role="host">Laurent Ruquier</ns3:person>
+      <ns3:txt purpose="smartlink">https://audmns.com/LrkRXLs</ns3:txt>
+      <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>L'INTÉGRALE - Émission du jeudi 7 mai 2026</title>
       <guid isPermaLink="false">cb9434b3-de89-49f5-b151-76be57517d27</guid>
@@ -414,44 +447,6 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <ns2:image href="https://static.audiomeans.fr/img/episode/515b2590-d999-4d00-b5b6-1f169c934785.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/xiFtfgF</ns3:txt>
-      <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>L'INTÉGRALE - Émission du lundi 27 avril 2026</title>
-      <guid isPermaLink="false">7cefa7dd-6b7a-434b-add9-f1369cc63c31</guid>
-      <description>Avec Christophe Beaugrand, Liane Foly, Titoff, Darie Boutboul, Alexis Tramoni et Sylvie Tellier.&amp;nbsp;
-
-&lt;i&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Avec Christophe Beaugrand, Liane Foly, Titoff, Darie Boutboul, Alexis Tramoni et Sylvie Tellier.&amp;nbsp;
-
-&lt;i&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Mon, 27 Apr 2026 16:00:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/7cefa7dd-6b7a-434b-add9-f1369cc63c31.mp3?_=1777282989" length="94711491" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Avec Christophe Beaugrand, Liane Foly, Titoff, Darie Boutboul, Alexis Tramoni et Sylvie Tellier. 
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Avec Christophe Beaugrand, Liane Foly, Titoff, Darie Boutboul, Alexis Tramoni et Sylvie Tellier. 
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Avec Christophe Beaugrand, Liane Foly, Titoff, Darie Boutboul, Alexis Tramoni et Sylvie Tellier. 
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez </itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>01:38:39</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/f9529045-4a91-4673-af9c-cdf77cab0aaa.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/f9529045-4a91-4673-af9c-cdf77cab0aaa.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/uouCRYt</ns3:txt>
       <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
   </channel>
