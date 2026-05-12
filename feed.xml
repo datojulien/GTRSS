@@ -14,7 +14,7 @@
       <link>feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Tue, 12 May 2026 06:47:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 09:48:45 +0000</lastBuildDate>
     <itunes:author>France Culture</itunes:author>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -24,6 +24,26 @@
     </itunes:owner>
     <itunes:subtitle>Flux personnel généré depuis le site Radio France</itunes:subtitle>
     <itunes:summary>Un flux RSS personnel qui récupère les épisodes depuis le site web de France Culture lorsque le flux officiel n’est pas encore à jour.</itunes:summary>
+    <item>
+      <title>Massacres et camps de travail, la Chine prise dans la Révolution culturelle : épisode du podcast Révolution culturelle, une histoire chinoise | France Culture</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/massacres-et-camps-de-travail-la-chine-prise-dans-la-revolution-culturelle-1386346</link>
+      <description>AUDIO Révolution culturelle, une histoire chinoise, épisode : Massacres et camps de travail, la Chine prise dans la Révolution culturelle. Une série inédite proposée par France Culture. Écoutez Massacres et camps de travail, la Chine prise dans la Révolution culturelle, et découvrez nos podcasts en ligne.</description>
+      <content:encoded><![CDATA[
+        <p>AUDIO Révolution culturelle, une histoire chinoise, épisode : Massacres et camps de travail, la Chine prise dans la Révolution culturelle. Une série inédite proposée par France Culture. Écoutez Massacres et camps de travail, la Chine prise dans la Révolution culturelle, et découvrez nos podcasts en ligne.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/massacres-et-camps-de-travail-la-chine-prise-dans-la-revolution-culturelle-1386346">France Culture</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/3176a453-ab69-4b05-ad91-52f4bd97d6b8/1200x680" alt="Massacres et camps de travail, la Chine prise dans la Révolution culturelle : épisode du podcast Révolution culturelle, une histoire chinoise | France Culture" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/massacres-et-camps-de-travail-la-chine-prise-dans-la-revolution-culturelle-1386346</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26625-12.05.2026-ITEMA_24508956-2026C36128S0132-NET_MFC_48640634-05B9-4923-BEDE-9D6F7E85D91F-25-0a8d41a08dbbf0ee06d42878cde11bd5.m4a" length="3521" type="audio/mp4"/>
+      <pubDate>Tue, 12 May 2026 07:00:00 +0000</pubDate>
+      <itunes:author>France Culture</itunes:author>
+      <itunes:duration>58:41</itunes:duration>
+      <itunes:subtitle>AUDIO Révolution culturelle, une histoire chinoise, épisode : Massacres et camps de travail, la Chine prise dans la Révolution culturelle. Une série inédite proposée par France Culture. Écoutez Massacres et camps de travail, la Chine prise dans la Révolut</itunes:subtitle>
+      <itunes:summary>AUDIO Révolution culturelle, une histoire chinoise, épisode : Massacres et camps de travail, la Chine prise dans la Révolution culturelle. Une série inédite proposée par France Culture. Écoutez Massacres et camps de travail, la Chine prise dans la Révolution culturelle, et découvrez nos podcasts en ligne.</itunes:summary>
+    </item>
     <item>
       <title>Mao et la Révolution culturelle, une décennie de chaos : épisode du podcast Révolution culturelle, une histoire chinoise | France Culture</title>
       <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/mao-et-la-revolution-culturelle-une-decennie-de-chaos-8417055</link>
