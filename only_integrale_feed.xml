@@ -8,8 +8,8 @@
     <description>Tous les épisodes de L'Intégrale de 'Les Grosses Têtes', regroupant la diffusion complète sans coupures ni extras.</description>
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Wed, 13 May 2026 08:25:41 GMT</lastBuildDate>
-    <pubDate>Wed, 13 May 2026 08:25:41 GMT</pubDate>
+    <lastBuildDate>Wed, 13 May 2026 11:15:39 GMT</lastBuildDate>
+    <pubDate>Wed, 13 May 2026 11:15:39 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -452,39 +452,6 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <ns2:image href="https://static.audiomeans.fr/img/episode/34a5b13b-d931-4ce2-b0f3-4a13792fde97.jpg" />
       <ns3:person role="host">Laurent Ruquier</ns3:person>
       <ns3:txt purpose="smartlink">https://audmns.com/BrYHTfr</ns3:txt>
-      <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>L'INTÉGRALE - Émission du mercredi 29 avril 2026</title>
-      <guid isPermaLink="false">8f45b2ff-c75b-4197-b644-29b1826c7631</guid>
-      <description>Avec Caroline Diament, Alexis Le Rossignol, Sébastien Thoen, Valérie Mairesse, Paul El Kharrat, Steevy Boulay et Bernard Werber invité exceptionnel.&amp;nbsp;
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Avec Caroline Diament, Alexis Le Rossignol, Sébastien Thoen, Valérie Mairesse, Paul El Kharrat, Steevy Boulay et Bernard Werber invité exceptionnel.&amp;nbsp;
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
-      <pubDate>Wed, 29 Apr 2026 16:02:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/8f45b2ff-c75b-4197-b644-29b1826c7631.mp3?_=1777472590" length="92998379" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Avec Caroline Diament, Alexis Le Rossignol, Sébastien Thoen, Valérie Mairesse, Paul El Kharrat, Steevy Boulay et Bernard Werber invité exceptionnel. 
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </itunes:summary>
-      <ns2:description>Avec Caroline Diament, Alexis Le Rossignol, Sébastien Thoen, Valérie Mairesse, Paul El Kharrat, Steevy Boulay et Bernard Werber invité exceptionnel. 
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.
- </ns2:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Avec Caroline Diament, Alexis Le Rossignol, Sébastien Thoen, Valérie Mairesse, Paul El Kharrat, Steevy Boulay et Bernard Werber invité exceptionnel. 
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
- Hé...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>01:36:52</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/29f098f2-25df-4a00-918f-9c7b30042275.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/29f098f2-25df-4a00-918f-9c7b30042275.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/ZeJKLFO</ns3:txt>
       <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
   </channel>
