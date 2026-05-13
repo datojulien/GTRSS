@@ -14,7 +14,7 @@
       <link>feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Wed, 13 May 2026 07:27:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 10:42:22 +0000</lastBuildDate>
     <itunes:author>France Culture</itunes:author>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -24,6 +24,26 @@
     </itunes:owner>
     <itunes:subtitle>Flux personnel généré depuis le site Radio France</itunes:subtitle>
     <itunes:summary>Un flux RSS personnel qui récupère les épisodes depuis le site web de France Culture lorsque le flux officiel n’est pas encore à jour.</itunes:summary>
+    <item>
+      <title>Chine et Révolution culturelle, des mémoires sous contrôle : épisode du podcast Révolution culturelle, une histoire chinoise | France Culture</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/chine-et-revolution-culturelle-des-memoires-sous-controle-5250346</link>
+      <description>AUDIO Révolution culturelle, une histoire chinoise, épisode : Chine et Révolution culturelle, des mémoires sous contrôle. Une série inédite proposée par France Culture. Écoutez Chine et Révolution culturelle, des mémoires sous contrôle, et découvrez nos podcasts en ligne.</description>
+      <content:encoded><![CDATA[
+        <p>AUDIO Révolution culturelle, une histoire chinoise, épisode : Chine et Révolution culturelle, des mémoires sous contrôle. Une série inédite proposée par France Culture. Écoutez Chine et Révolution culturelle, des mémoires sous contrôle, et découvrez nos podcasts en ligne.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/chine-et-revolution-culturelle-des-memoires-sous-controle-5250346">France Culture</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/54d350c3-0e57-42b9-a8ac-12ff5701a9fe/1200x680" alt="Chine et Révolution culturelle, des mémoires sous contrôle : épisode du podcast Révolution culturelle, une histoire chinoise | France Culture" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/chine-et-revolution-culturelle-des-memoires-sous-controle-5250346</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26625-13.05.2026-ITEMA_24510340-2026C36128S0133-NET_MFC_C9F5BE64-4C8D-47F0-8D8F-70CF93725630-25-8ddd4d0cf8a4cffccae211a2f68e996a.m4a" length="3533" type="audio/mp4"/>
+      <pubDate>Wed, 13 May 2026 07:00:00 +0000</pubDate>
+      <itunes:author>France Culture</itunes:author>
+      <itunes:duration>58:53</itunes:duration>
+      <itunes:subtitle>AUDIO Révolution culturelle, une histoire chinoise, épisode : Chine et Révolution culturelle, des mémoires sous contrôle. Une série inédite proposée par France Culture. Écoutez Chine et Révolution culturelle, des mémoires sous contrôle, et découvrez nos p</itunes:subtitle>
+      <itunes:summary>AUDIO Révolution culturelle, une histoire chinoise, épisode : Chine et Révolution culturelle, des mémoires sous contrôle. Une série inédite proposée par France Culture. Écoutez Chine et Révolution culturelle, des mémoires sous contrôle, et découvrez nos podcasts en ligne.</itunes:summary>
+    </item>
     <item>
       <title>Massacres et camps de travail, la Chine prise dans la Révolution culturelle : épisode du podcast Révolution culturelle, une histoire chinoise | France Culture</title>
       <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/massacres-et-camps-de-travail-la-chine-prise-dans-la-revolution-culturelle-1386346</link>
