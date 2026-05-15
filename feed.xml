@@ -14,7 +14,7 @@
       <link>feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Fri, 15 May 2026 04:16:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 08:16:13 +0000</lastBuildDate>
     <itunes:author>France Culture</itunes:author>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -523,6 +523,26 @@
       <itunes:duration>58:32</itunes:duration>
       <itunes:subtitle>AUDIO Fou d'histoire, épisode : Anne Berest, écrivaine : "La vie a beaucoup plus d'imagination que moi". Une série inédite proposée par France Culture. Écoutez Anne Berest, écrivaine : "La vie a beaucoup plus d'imagination que moi", et découvrez nos podca</itunes:subtitle>
       <itunes:summary>AUDIO Fou d'histoire, épisode : Anne Berest, écrivaine : "La vie a beaucoup plus d'imagination que moi". Une série inédite proposée par France Culture. Écoutez Anne Berest, écrivaine : "La vie a beaucoup plus d'imagination que moi", et découvrez nos podcasts en ligne.</itunes:summary>
+    </item>
+    <item>
+      <title>Jennifer Richard : "Je réfléchis au temps, notre pire adversaire, qui dirige toute notre vie" : épisode du podcast Fou d'histoire | France Culture</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/jennifer-richard-ecrivaine-et-folle-d-histoire-2771859</link>
+      <description>AUDIO Fou d'histoire, épisode : Jennifer Richard : "Je réfléchis au temps, notre pire adversaire, qui dirige toute notre vie". Une série inédite proposée par France Culture. Écoutez Jennifer Richard : "Je réfléchis au temps, notre pire adversaire, qui dirige toute notre vie", et découvrez nos podcasts en ligne.</description>
+      <content:encoded><![CDATA[
+        <p>AUDIO Fou d&#x27;histoire, épisode : Jennifer Richard : &quot;Je réfléchis au temps, notre pire adversaire, qui dirige toute notre vie&quot;. Une série inédite proposée par France Culture. Écoutez Jennifer Richard : &quot;Je réfléchis au temps, notre pire adversaire, qui dirige toute notre vie&quot;, et découvrez nos podcasts en ligne.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/jennifer-richard-ecrivaine-et-folle-d-histoire-2771859">France Culture</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/7b3ae5e5-d966-4af1-af4f-bfa9d3363fa4/1200" alt="Jennifer Richard : &quot;Je réfléchis au temps, notre pire adversaire, qui dirige toute notre vie&quot; : épisode du podcast Fou d&#x27;histoire | France Culture" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/jennifer-richard-ecrivaine-et-folle-d-histoire-2771859</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/10076-06.09.2024-ITEMA_23851842-2024C36128S0250-21.mp3" length="3513" type="audio/mpeg"/>
+      <pubDate>Fri, 06 Sep 2024 07:00:00 +0000</pubDate>
+      <itunes:author>France Culture</itunes:author>
+      <itunes:duration>58:33</itunes:duration>
+      <itunes:subtitle>AUDIO Fou d'histoire, épisode : Jennifer Richard : "Je réfléchis au temps, notre pire adversaire, qui dirige toute notre vie". Une série inédite proposée par France Culture. Écoutez Jennifer Richard : "Je réfléchis au temps, notre pire adversaire, qui dir</itunes:subtitle>
+      <itunes:summary>AUDIO Fou d'histoire, épisode : Jennifer Richard : "Je réfléchis au temps, notre pire adversaire, qui dirige toute notre vie". Une série inédite proposée par France Culture. Écoutez Jennifer Richard : "Je réfléchis au temps, notre pire adversaire, qui dirige toute notre vie", et découvrez nos podcasts en ligne.</itunes:summary>
     </item>
   </channel>
 </rss>
