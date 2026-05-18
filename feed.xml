@@ -14,7 +14,7 @@
       <link>feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Mon, 18 May 2026 04:40:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 08:52:43 +0000</lastBuildDate>
     <itunes:author>France Culture</itunes:author>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -24,6 +24,26 @@
     </itunes:owner>
     <itunes:subtitle>Flux personnel généré depuis le site Radio France</itunes:subtitle>
     <itunes:summary>Un flux RSS personnel qui récupère les épisodes depuis le site web de France Culture lorsque le flux officiel n’est pas encore à jour.</itunes:summary>
+    <item>
+      <title>Objectif urnes, la victoire d’un front populaire antifasciste : épisode du podcast Front populaire, une histoire de luttes | France Culture</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/objectif-urnes-la-victoire-d-un-front-populaire-antifasciste-9064835</link>
+      <description>AUDIO Front populaire, une histoire de luttes, épisode : Objectif urnes, la victoire d’un front populaire antifasciste. Une série inédite proposée par France Culture. Écoutez Objectif urnes, la victoire d’un front populaire antifasciste, et découvrez nos podcasts en ligne.</description>
+      <content:encoded><![CDATA[
+        <p>AUDIO Front populaire, une histoire de luttes, épisode : Objectif urnes, la victoire d’un front populaire antifasciste. Une série inédite proposée par France Culture. Écoutez Objectif urnes, la victoire d’un front populaire antifasciste, et découvrez nos podcasts en ligne.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/objectif-urnes-la-victoire-d-un-front-populaire-antifasciste-9064835">France Culture</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/62c6538c-4492-4819-95db-17da6a556e80/1200x680" alt="Objectif urnes, la victoire d’un front populaire antifasciste : épisode du podcast Front populaire, une histoire de luttes | France Culture" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/objectif-urnes-la-victoire-d-un-front-populaire-antifasciste-9064835</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26625-18.05.2026-ITEMA_24516066-2026C36128S0138-NET_MFC_7AE73425-F1B4-44D3-9304-7A939CE1F872-25-ea5b4b9b5dc5a9bd0cad53695971d0b3.m4a" length="3536" type="audio/mp4"/>
+      <pubDate>Mon, 18 May 2026 07:00:00 +0000</pubDate>
+      <itunes:author>France Culture</itunes:author>
+      <itunes:duration>58:56</itunes:duration>
+      <itunes:subtitle>AUDIO Front populaire, une histoire de luttes, épisode : Objectif urnes, la victoire d’un front populaire antifasciste. Une série inédite proposée par France Culture. Écoutez Objectif urnes, la victoire d’un front populaire antifasciste, et découvrez nos </itunes:subtitle>
+      <itunes:summary>AUDIO Front populaire, une histoire de luttes, épisode : Objectif urnes, la victoire d’un front populaire antifasciste. Une série inédite proposée par France Culture. Écoutez Objectif urnes, la victoire d’un front populaire antifasciste, et découvrez nos podcasts en ligne.</itunes:summary>
+    </item>
     <item>
       <title>Chine et Révolution culturelle, des mémoires sous contrôle : épisode du podcast Révolution culturelle, une histoire chinoise | France Culture</title>
       <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/chine-et-revolution-culturelle-des-memoires-sous-controle-5250346</link>
