@@ -20,12 +20,12 @@ jobs:
           persist-credentials: true
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
-          python-version: "3.x"
+          python-version: "3.12"
 
       - name: Install dependencies
-        run: pip install requests
+        run: pip install -r requirements.txt
 
       - name: Run RSS filter script
         run: python keep_integrale.py
@@ -35,8 +35,12 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           if [ -n "$(git status --porcelain)" ]; then
-            git add only_integrale_feed.xml
-            git commit -m "chore: update L’INTÉGRALE feed"
+            git add \
+              only_integrale_feed.xml \
+              only_best_feed.xml \
+              only_remaining_feed.xml \
+              grosses-tetes-style.xsl
+            git commit -m "chore: update Grosses Têtes feeds"
             git push
           else
             echo "No changes to commit"

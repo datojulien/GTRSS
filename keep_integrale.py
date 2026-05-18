@@ -193,7 +193,19 @@ def add_stylesheet_instruction(xml_bytes):
 
     return stylesheet + xml_bytes
 
+def clean_text_value(value):
+    lines = value.replace("\r\n", "\n").replace("\r", "\n").split("\n")
+    return "\n".join(line.strip() for line in lines).strip()
+
+def strip_text_edges(root):
+    for elem in root.iter():
+        if elem.text:
+            elem.text = clean_text_value(elem.text)
+        if elem.tail:
+            elem.tail = elem.tail.rstrip()
+
 def write_xml(root, out_path):
+    strip_text_edges(root)
     try:
         ET.indent(root, space='  ')
     except AttributeError:
