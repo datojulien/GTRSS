@@ -1,61 +1,160 @@
 #!/usr/bin/env python3
-"""Build the France Culture / Le Cours de l'histoire personal RSS feed."""
+"""Build Radio France personal podcast RSS feeds."""
 
-import json
-import re
+from __future__ import annotations
+
 import html
-import requests
-from bs4 import BeautifulSoup
-from urllib.parse import urljoin
+import json
+import os
+import re
+import tempfile
+from dataclasses import dataclass
 from datetime import datetime, timezone
 from email.utils import parsedate_to_datetime
-from feedgen.feed import FeedGenerator
+from pathlib import Path
+from typing import Iterable
+from urllib.parse import urljoin, urlparse
+
+import requests
+from bs4 import BeautifulSoup
 from dateutil.parser import isoparse
+from feedgen.feed import FeedGenerator
 from lxml import etree
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
 
 
-# ─── FRANCE CULTURE: LE COURS DE L'HISTOIRE ───────────────────
-
-SHOW_URL = "https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire"
-SHOW_PATH = "/franceculture/podcasts/le-cours-de-l-histoire/"
 BASE_URL = "https://www.radiofrance.fr"
-
-OUTPUT_FILE = "feed.xml"
-STYLE_FILE = "feed-style.xsl"
-ARCHIVE_FILE = "episodes.json"
-
-MAX_LINKS_TO_CHECK = 30
-FOLLOW_PAGINATION = False
-MAX_PAGES_TO_CHECK = 1
-MIN_PUBLISHED_DATE = None
-STOP_WHEN_BEFORE_MIN_PUBLISHED_DATE = False
-
-FEED_TITLE = "Le Cours de l'histoire — Flux frais"
-FEED_SUBTITLE = "Flux personnel généré depuis le site Radio France"
-FEED_DESCRIPTION = (
-    "Un flux RSS personnel qui récupère les épisodes depuis le site web de "
-    "France Culture lorsque le flux officiel n’est pas encore à jour."
-)
-
-FEED_IMAGE = "https://www.radiofrance.fr/pikapi/images/d1d9dd6a-bb4b-4811-bfc0-e846eaeb317f/300x300"
-FEED_AUTHOR_NAME = "Radio France / France Culture"
-ITUNES_AUTHOR = "France Culture"
-ITUNES_CATEGORY = "History"
-SOURCE_LABEL = "France Culture"
+DEFAULT_PUBLIC_BASE_URL = "https://datojulien.github.io/GTRSS/"
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Personal Radio France RSS generator)"
 }
 
 
-def fetch_html(url):
-    response = requests.get(url, headers=HEADERS, timeout=25)
+@dataclass(frozen=True)
+class RadioFranceFeedConfig:
+    show_url: str
+    show_path: str
+    output_file: str
+    style_file: str
+    archive_file: str
+    feed_title: str
+    feed_subtitle: str
+    feed_description: str
+    feed_image: str
+    feed_author_name: str
+    itunes_author: str
+    itunes_category: str
+    source_label: str
+    max_links_to_check: int = 30
+    follow_pagination: bool = False
+    max_pages_to_check: int = 1
+    min_published_date: str | None = None
+    stop_when_before_min_published_date: bool = False
+
+
+FRANCE_CULTURE_CONFIG = RadioFranceFeedConfig(
+    show_url="https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire",
+    show_path="/franceculture/podcasts/le-cours-de-l-histoire/",
+    output_file="feed.xml",
+    style_file="feed-style.xsl",
+    archive_file="episodes.json",
+    feed_title="Le Cours de l'histoire — Flux frais",
+    feed_subtitle="Flux personnel généré depuis le site Radio France",
+    feed_description=(
+        "Un flux RSS personnel qui récupère les épisodes depuis le site web de "
+        "France Culture lorsque le flux officiel n’est pas encore à jour."
+    ),
+    feed_image=(
+        "https://www.radiofrance.fr/pikapi/images/"
+        "d1d9dd6a-bb4b-4811-bfc0-e846eaeb317f/300x300"
+    ),
+    feed_author_name="Radio France / France Culture",
+    itunes_author="France Culture",
+    itunes_category="History",
+    source_label="France Culture",
+)
+
+
+ARCHIVE_REQUIRED_TEXT_FIELDS = ("title", "url", "audio_url", "audio_type", "published")
+ARCHIVE_OPTIONAL_FIELDS = (
+    "description",
+    "duration_seconds",
+    "duration_itunes",
+    "image",
+    "audio_length",
+)
+
+
+def public_base_url() -> str:
+    base_url = os.environ.get("GTRSS_PUBLIC_BASE_URL", DEFAULT_PUBLIC_BASE_URL).strip()
+    if not base_url:
+        base_url = DEFAULT_PUBLIC_BASE_URL
+    return base_url.rstrip("/") + "/"
+
+
+def public_file_url(filename: str) -> str:
+    return urljoin(public_base_url(), filename)
+
+
+def create_session() -> requests.Session:
+    retry = Retry(
+        total=3,
+        connect=3,
+        read=3,
+        status=3,
+        backoff_factor=0.75,
+        status_forcelist=(429, 500, 502, 503, 504),
+        allowed_methods=("GET", "HEAD"),
+        raise_on_status=False,
+    )
+    adapter = HTTPAdapter(max_retries=retry)
+    session = requests.Session()
+    session.headers.update(HEADERS)
+    session.mount("https://", adapter)
+    session.mount("http://", adapter)
+    return session
+
+
+def fetch_html(session: requests.Session, url: str) -> str:
+    response = session.get(url, timeout=25)
     response.raise_for_status()
     response.encoding = "utf-8"
     return response.text
 
 
-def clean_text(value):
+def fetch_content_length(session: requests.Session, url: str) -> int:
+    try:
+        response = session.head(url, allow_redirects=True, timeout=20)
+        response.raise_for_status()
+        content_length = response.headers.get("Content-Length")
+        if content_length and content_length.isdigit():
+            return int(content_length)
+    except requests.RequestException:
+        pass
+    return 0
+
+
+def atomic_write_bytes(path: str | Path, data: bytes) -> None:
+    target = Path(path)
+    target.parent.mkdir(parents=True, exist_ok=True)
+    with tempfile.NamedTemporaryFile(
+        "wb",
+        delete=False,
+        dir=str(target.parent or Path(".")),
+        prefix=f".{target.name}.",
+    ) as tmp:
+        tmp.write(data)
+        tmp_name = tmp.name
+    os.replace(tmp_name, target)
+
+
+def atomic_write_text(path: str | Path, text: str) -> None:
+    atomic_write_bytes(path, text.encode("utf-8"))
+
+
+def clean_text(value: str | None) -> str:
     if not value:
         return ""
 
@@ -65,37 +164,32 @@ def clean_text(value):
     return value.strip()
 
 
-def parse_iso_date(value):
+def parse_iso_date(value: str | None) -> datetime:
     if not value:
-        return datetime.now(timezone.utc)
+        raise ValueError("missing date")
 
-    try:
-        dt = isoparse(value)
-        if not dt.tzinfo:
-            dt = dt.replace(tzinfo=timezone.utc)
-        return dt
-    except Exception:
-        return datetime.now(timezone.utc)
+    dt = isoparse(value)
+    if not dt.tzinfo:
+        dt = dt.replace(tzinfo=timezone.utc)
+    return dt
 
 
-def date_to_archive(dt):
-    if isinstance(dt, datetime):
-        return dt.isoformat()
-    return str(dt)
+def date_to_archive(dt: datetime) -> str:
+    return dt.isoformat()
 
 
-def archive_to_date(value):
+def archive_to_date(value: str | None) -> datetime:
     return parse_iso_date(value)
 
 
-def parse_duration_to_seconds(duration):
+def parse_duration_to_seconds(duration: str | None) -> int | None:
     if not duration:
         return None
 
-    match = re.search(
+    match = re.fullmatch(
         r"P(?:(\d+)Y)?(?:(\d+)M)?(?:(\d+)D)?T?"
         r"(?:(\d+)H)?(?:(\d+)M)?(?:(\d+)S)?",
-        duration
+        duration,
     )
 
     if not match:
@@ -115,7 +209,7 @@ def parse_duration_to_seconds(duration):
     )
 
 
-def seconds_to_itunes_duration(seconds):
+def seconds_to_itunes_duration(seconds: int | None) -> str | None:
     if not seconds:
         return None
 
@@ -129,7 +223,7 @@ def seconds_to_itunes_duration(seconds):
     return f"{minutes}:{secs:02d}"
 
 
-def normalize_audio_type(audio_type, audio_url):
+def normalize_audio_type(audio_type: str | None, audio_url: str) -> str:
     if audio_type:
         return audio_type
 
@@ -144,7 +238,7 @@ def normalize_audio_type(audio_type, audio_url):
     return "audio/mp4"
 
 
-def is_itunes_safe_image(url):
+def is_itunes_safe_image(url: str | None) -> bool:
     if not url:
         return False
 
@@ -157,18 +251,26 @@ def is_itunes_safe_image(url):
     )
 
 
-def extract_episode_links_from_soup(soup):
+def is_http_url(value: str) -> bool:
+    parsed = urlparse(value)
+    return parsed.scheme in {"http", "https"} and bool(parsed.netloc)
+
+
+def extract_episode_links_from_soup(
+    soup: BeautifulSoup,
+    config: RadioFranceFeedConfig,
+) -> list[str]:
     links = []
 
-    for a in soup.find_all("a", href=True):
-        href = a["href"]
+    for anchor in soup.find_all("a", href=True):
+        href = anchor["href"]
 
-        if SHOW_PATH not in href:
+        if config.show_path not in href:
             continue
 
         full_url = urljoin(BASE_URL, href)
 
-        if full_url == SHOW_URL:
+        if full_url == config.show_url:
             continue
 
         if full_url not in links:
@@ -177,11 +279,8 @@ def extract_episode_links_from_soup(soup):
     return links
 
 
-def find_next_page_url(soup, current_url):
-    next_tag = soup.find(
-        "link",
-        rel=lambda value: value and "next" in value
-    )
+def find_next_page_url(soup: BeautifulSoup, current_url: str) -> str | None:
+    next_tag = soup.find("link", rel=lambda value: value and "next" in value)
 
     if not next_tag or not next_tag.get("href"):
         return None
@@ -189,28 +288,35 @@ def find_next_page_url(soup, current_url):
     return urljoin(current_url, next_tag["href"])
 
 
-def get_episode_links_from_page(page_url):
-    html_page = fetch_html(page_url)
+def get_episode_links_from_page(
+    session: requests.Session,
+    page_url: str,
+    config: RadioFranceFeedConfig,
+) -> tuple[list[str], str | None]:
+    html_page = fetch_html(session, page_url)
     soup = BeautifulSoup(html_page, "html.parser")
 
     return (
-        extract_episode_links_from_soup(soup),
-        find_next_page_url(soup, page_url)
+        extract_episode_links_from_soup(soup, config),
+        find_next_page_url(soup, page_url),
     )
 
 
-def get_episode_links():
+def get_episode_links(
+    session: requests.Session,
+    config: RadioFranceFeedConfig,
+) -> list[str]:
     links = []
     seen_links = set()
     seen_pages = set()
-    page_url = SHOW_URL
+    page_url = config.show_url
 
-    for _ in range(MAX_PAGES_TO_CHECK):
+    for _ in range(config.max_pages_to_check):
         if not page_url or page_url in seen_pages:
             break
 
         seen_pages.add(page_url)
-        page_links, next_page_url = get_episode_links_from_page(page_url)
+        page_links, next_page_url = get_episode_links_from_page(session, page_url, config)
 
         for link in page_links:
             if link in seen_links:
@@ -219,18 +325,21 @@ def get_episode_links():
             seen_links.add(link)
             links.append(link)
 
-            if len(links) >= MAX_LINKS_TO_CHECK:
+            if len(links) >= config.max_links_to_check:
                 return links
 
-        if not FOLLOW_PAGINATION:
+        if not config.follow_pagination:
             break
 
         page_url = next_page_url
 
+    if not links:
+        raise RuntimeError(f"No episode links found for {config.show_url}")
+
     return links
 
 
-def find_radio_episode_from_jsonld(soup):
+def find_radio_episode_from_jsonld(soup: BeautifulSoup) -> dict | None:
     scripts = soup.find_all("script", type="application/ld+json")
 
     for script in scripts:
@@ -239,7 +348,7 @@ def find_radio_episode_from_jsonld(soup):
 
         try:
             data = json.loads(script.string)
-        except Exception:
+        except json.JSONDecodeError:
             continue
 
         graph = data.get("@graph", [])
@@ -251,8 +360,8 @@ def find_radio_episode_from_jsonld(soup):
     return None
 
 
-def extract_article_metadata(soup):
-    def meta_content(selector):
+def extract_article_metadata(soup: BeautifulSoup) -> dict[str, str | None]:
+    def meta_content(selector: str) -> str | None:
         tag = soup.select_one(selector)
         return tag.get("content") if tag and tag.get("content") else None
 
@@ -265,8 +374,11 @@ def extract_article_metadata(soup):
     }
 
 
-def extract_episode_data(url):
-    html_page = fetch_html(url)
+def extract_episode_data(
+    session: requests.Session,
+    url: str,
+) -> dict | None:
+    html_page = fetch_html(session, url)
     soup = BeautifulSoup(html_page, "html.parser")
 
     episode = find_radio_episode_from_jsonld(soup)
@@ -298,26 +410,16 @@ def extract_episode_data(url):
         or ""
     )
 
-    image_url = (
-        image.get("url")
-        or metadata.get("og_image")
-        or None
-    )
-
+    image_url = image.get("url") or metadata.get("og_image") or None
     published = (
         episode.get("dateCreated")
         or metadata.get("published")
         or metadata.get("modified")
     )
-
-    audio_type = normalize_audio_type(
-        audio.get("encodingFormat"),
-        audio_url
-    )
-
     published_dt = parse_iso_date(published)
+    audio_type = normalize_audio_type(audio.get("encodingFormat"), audio_url)
 
-    return {
+    data = {
         "title": clean_text(title),
         "description": clean_text(description),
         "audio_url": audio_url,
@@ -327,50 +429,122 @@ def extract_episode_data(url):
         "published": date_to_archive(published_dt),
         "image": image_url,
         "url": url,
+        "audio_length": fetch_content_length(session, audio_url),
     }
+    validate_episode(data)
+    return data
 
 
-def load_archive():
-    try:
-        with open(ARCHIVE_FILE, "r", encoding="utf-8") as f:
-            data = json.load(f)
+def normalize_archive_episode(episode: dict, index: int) -> dict:
+    if not isinstance(episode, dict):
+        raise ValueError(f"Archive item {index} is not an object")
 
-        if isinstance(data, list):
-            return data
+    normalized = dict(episode)
+    for key in ARCHIVE_OPTIONAL_FIELDS:
+        normalized.setdefault(key, None)
+    normalized["audio_length"] = int(normalized.get("audio_length") or 0)
+    validate_episode(normalized, index=index)
+    return normalized
 
+
+def validate_episode(episode: dict, index: int | None = None) -> None:
+    label = f"Archive item {index}" if index is not None else "Episode"
+
+    for key in ARCHIVE_REQUIRED_TEXT_FIELDS:
+        if not isinstance(episode.get(key), str) or not episode[key].strip():
+            raise ValueError(f"{label} has missing or invalid {key}")
+
+    if not is_http_url(episode["url"]):
+        raise ValueError(f"{label} has invalid url: {episode['url']}")
+
+    if not is_http_url(episode["audio_url"]):
+        raise ValueError(f"{label} has invalid audio_url: {episode['audio_url']}")
+
+    archive_to_date(episode.get("published"))
+
+    duration_seconds = episode.get("duration_seconds")
+    if duration_seconds is not None and (
+        not isinstance(duration_seconds, int) or duration_seconds < 0
+    ):
+        raise ValueError(f"{label} has invalid duration_seconds")
+
+    audio_length = episode.get("audio_length")
+    if audio_length is not None and (
+        not isinstance(audio_length, int) or audio_length < 0
+    ):
+        raise ValueError(f"{label} has invalid audio_length")
+
+
+def validate_archive(episodes: Iterable[dict]) -> list[dict]:
+    normalized = []
+    seen_urls = set()
+
+    for index, episode in enumerate(episodes, 1):
+        item = normalize_archive_episode(episode, index)
+        if item["url"] in seen_urls:
+            raise ValueError(f"Duplicate archive URL: {item['url']}")
+        seen_urls.add(item["url"])
+        normalized.append(item)
+
+    return normalized
+
+
+def load_archive(config: RadioFranceFeedConfig) -> list[dict]:
+    path = Path(config.archive_file)
+    if not path.exists():
         return []
 
-    except FileNotFoundError:
-        return []
+    with path.open("r", encoding="utf-8") as f:
+        data = json.load(f)
 
-    except Exception:
-        return []
+    if not isinstance(data, list):
+        raise ValueError(f"{config.archive_file} must contain a JSON list")
 
-
-def save_archive(episodes):
-    with open(ARCHIVE_FILE, "w", encoding="utf-8") as f:
-        json.dump(episodes, f, ensure_ascii=False, indent=2)
+    return validate_archive(data)
 
 
-def merge_episodes(old_episodes, new_episodes):
+def save_archive(config: RadioFranceFeedConfig, episodes: list[dict]) -> None:
+    episodes = validate_archive(episodes)
+    text = json.dumps(episodes, ensure_ascii=False, indent=2) + "\n"
+    atomic_write_text(config.archive_file, text)
+
+
+def hydrate_audio_lengths(
+    session: requests.Session,
+    episodes: Iterable[dict],
+) -> list[dict]:
+    hydrated = []
+
+    for episode in episodes:
+        item = dict(episode)
+        if not item.get("audio_length"):
+            item["audio_length"] = fetch_content_length(session, item["audio_url"])
+        validate_episode(item)
+        hydrated.append(item)
+
+    return hydrated
+
+
+def merge_episodes(old_episodes: Iterable[dict], new_episodes: Iterable[dict]) -> list[dict]:
     merged = {}
 
     for episode in old_episodes:
-        if episode.get("url"):
-            merged[episode["url"]] = episode
+        merged[episode["url"]] = episode
 
     for episode in new_episodes:
-        if episode.get("url"):
-            merged[episode["url"]] = episode
+        merged[episode["url"]] = episode
 
     return sort_episodes_newest_first(merged.values())
 
 
-def filter_episodes_by_min_date(episodes):
-    if not MIN_PUBLISHED_DATE:
+def filter_episodes_by_min_date(
+    config: RadioFranceFeedConfig,
+    episodes: Iterable[dict],
+) -> list[dict]:
+    if not config.min_published_date:
         return list(episodes)
 
-    min_date = parse_iso_date(MIN_PUBLISHED_DATE)
+    min_date = parse_iso_date(config.min_published_date)
 
     return [
         episode for episode in episodes
@@ -378,15 +552,15 @@ def filter_episodes_by_min_date(episodes):
     ]
 
 
-def sort_episodes_newest_first(episodes):
+def sort_episodes_newest_first(episodes: Iterable[dict]) -> list[dict]:
     return sorted(
         episodes,
         key=lambda item: archive_to_date(item.get("published")),
-        reverse=True
+        reverse=True,
     )
 
 
-def sort_rss_items_newest_first(rss):
+def sort_rss_items_newest_first(rss: bytes) -> bytes:
     parser = etree.XMLParser(strip_cdata=False)
     root = etree.fromstring(rss, parser)
     channel = root.find("channel")
@@ -402,7 +576,7 @@ def sort_rss_items_newest_first(rss):
     def item_date(item):
         try:
             return parsedate_to_datetime(item.findtext("pubDate") or "")
-        except Exception:
+        except (TypeError, ValueError):
             return datetime.min.replace(tzinfo=timezone.utc)
 
     for item in items:
@@ -418,11 +592,11 @@ def sort_rss_items_newest_first(rss):
         root,
         encoding="UTF-8",
         xml_declaration=True,
-        pretty_print=True
+        pretty_print=True,
     )
 
 
-def episode_description_for_feed(episode):
+def episode_description_for_feed(episode: dict) -> str:
     description = clean_text(episode.get("description", ""))
 
     if not description or description == ".":
@@ -431,242 +605,51 @@ def episode_description_for_feed(episode):
     return description
 
 
-def write_stylesheet():
-    xsl = """<?xml version="1.0" encoding="UTF-8"?>
-<xsl:stylesheet version="1.0"
-  xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
-  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+def add_stylesheet_instruction(rss: bytes, style_file: str) -> bytes:
+    stylesheet = f'<?xml-stylesheet type="text/xsl" href="{style_file}"?>\n'.encode(
+        "utf-8"
+    )
 
-<xsl:output method="html" encoding="UTF-8" indent="yes"/>
+    if b"<?xml-stylesheet" in rss[:300]:
+        return rss
 
-<xsl:template match="/">
-<html>
-<head>
-  <meta charset="UTF-8"/>
-  <title><xsl:value-of select="/rss/channel/title"/></title>
-  <style>
-    body {
-      margin: 0;
-      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-      background: #111;
-      color: #f5f5f5;
-      line-height: 1.5;
-    }
+    if rss.startswith(b"<?xml"):
+        first_line_end = rss.find(b"\n") + 1
+        return rss[:first_line_end] + stylesheet + rss[first_line_end:]
 
-    .hero {
-      padding: 56px 24px;
-      background: linear-gradient(135deg, #351057, #7b1fa2, #111);
-      border-bottom: 1px solid rgba(255,255,255,0.15);
-    }
-
-    .wrap {
-      max-width: 950px;
-      margin: 0 auto;
-    }
-
-    h1 {
-      margin: 0 0 12px;
-      font-size: 42px;
-      letter-spacing: -0.04em;
-    }
-
-    .subtitle {
-      max-width: 720px;
-      font-size: 18px;
-      opacity: 0.9;
-    }
-
-    .badge {
-      display: inline-block;
-      margin-bottom: 18px;
-      padding: 6px 12px;
-      border-radius: 999px;
-      background: rgba(255,255,255,0.14);
-      font-size: 13px;
-      text-transform: uppercase;
-      letter-spacing: 0.08em;
-    }
-
-    .content {
-      padding: 32px 24px 64px;
-    }
-
-    .episode {
-      display: grid;
-      grid-template-columns: 120px 1fr;
-      gap: 20px;
-      padding: 22px;
-      margin-bottom: 18px;
-      border-radius: 24px;
-      background: #1b1b1f;
-      border: 1px solid rgba(255,255,255,0.08);
-      box-shadow: 0 10px 35px rgba(0,0,0,0.25);
-    }
-
-    .episode img {
-      width: 120px;
-      height: 120px;
-      object-fit: cover;
-      border-radius: 18px;
-      background: #333;
-    }
-
-    .episode h2 {
-      margin: 0 0 8px;
-      font-size: 22px;
-      line-height: 1.2;
-    }
-
-    .episode h2 a {
-      color: #fff;
-      text-decoration: none;
-    }
-
-    .date {
-      color: #c9a8ff;
-      font-size: 14px;
-      margin-bottom: 10px;
-    }
-
-    .desc {
-      color: #ddd;
-      margin-bottom: 14px;
-    }
-
-    audio {
-      width: 100%;
-      margin-top: 8px;
-    }
-
-    .rss-note {
-      margin-top: 24px;
-      padding: 16px 18px;
-      border-radius: 16px;
-      background: rgba(255,255,255,0.08);
-      color: #ddd;
-      font-size: 14px;
-    }
-
-    @media (max-width: 650px) {
-      .episode {
-        grid-template-columns: 1fr;
-      }
-
-      .episode img {
-        width: 100%;
-        height: auto;
-        max-height: 280px;
-      }
-
-      h1 {
-        font-size: 32px;
-      }
-    }
-  </style>
-</head>
-
-<body>
-  <section class="hero">
-    <div class="wrap">
-      <div class="badge">RSS personnel</div>
-      <h1><xsl:value-of select="/rss/channel/title"/></h1>
-      <div class="subtitle">
-        <xsl:value-of select="/rss/channel/description"/>
-      </div>
-      <div class="rss-note">
-        This is a podcast RSS feed. Copy this URL into a podcast app to subscribe.
-      </div>
-    </div>
-  </section>
-
-  <main class="content">
-    <div class="wrap">
-      <xsl:for-each select="/rss/channel/item">
-        <article class="episode">
-          <div>
-            <xsl:choose>
-              <xsl:when test="itunes:image/@href">
-                <img>
-                  <xsl:attribute name="src">
-                    <xsl:value-of select="itunes:image/@href"/>
-                  </xsl:attribute>
-                </img>
-              </xsl:when>
-            </xsl:choose>
-          </div>
-
-          <div>
-            <h2>
-              <a>
-                <xsl:attribute name="href">
-                  <xsl:value-of select="link"/>
-                </xsl:attribute>
-                <xsl:value-of select="title"/>
-              </a>
-            </h2>
-
-            <div class="date">
-              <xsl:value-of select="pubDate"/>
-            </div>
-
-            <div class="desc">
-              <xsl:value-of select="description"/>
-            </div>
-
-            <audio controls="controls">
-              <source>
-                <xsl:attribute name="src">
-                  <xsl:value-of select="enclosure/@url"/>
-                </xsl:attribute>
-                <xsl:attribute name="type">
-                  <xsl:value-of select="enclosure/@type"/>
-                </xsl:attribute>
-              </source>
-            </audio>
-          </div>
-        </article>
-      </xsl:for-each>
-    </div>
-  </main>
-</body>
-</html>
-</xsl:template>
-</xsl:stylesheet>
-"""
-
-    with open(STYLE_FILE, "w", encoding="utf-8") as f:
-        f.write(xsl)
+    return stylesheet + rss
 
 
-def build_rss(episodes):
-    episodes = sort_episodes_newest_first(episodes)
+def build_rss(config: RadioFranceFeedConfig, episodes: list[dict]) -> bytes:
+    episodes = sort_episodes_newest_first(validate_archive(episodes))
+    feed_url = public_file_url(config.output_file)
 
     fg = FeedGenerator()
     fg.load_extension("podcast")
 
-    fg.id(SHOW_URL)
-    fg.title(FEED_TITLE)
-    fg.subtitle(FEED_SUBTITLE)
-    fg.description(FEED_DESCRIPTION)
+    fg.id(feed_url)
+    fg.title(config.feed_title)
+    fg.subtitle(config.feed_subtitle)
+    fg.description(config.feed_description)
     fg.language("fr")
-    fg.link(href=SHOW_URL, rel="alternate")
-    fg.link(href=OUTPUT_FILE, rel="self")
-    fg.author({"name": FEED_AUTHOR_NAME})
-    fg.logo(FEED_IMAGE)
+    fg.link(href=feed_url, rel="alternate")
+    fg.link(href=feed_url, rel="self")
+    fg.author({"name": config.feed_author_name})
+    fg.logo(config.feed_image)
     fg.updated(datetime.now(timezone.utc))
 
-    fg.podcast.itunes_author(ITUNES_AUTHOR)
-    fg.podcast.itunes_summary(FEED_DESCRIPTION)
-    fg.podcast.itunes_subtitle(FEED_SUBTITLE)
+    fg.podcast.itunes_author(config.itunes_author)
+    fg.podcast.itunes_summary(config.feed_description)
+    fg.podcast.itunes_subtitle(config.feed_subtitle)
     fg.podcast.itunes_owner(
         name="Personal RSS Bridge",
-        email="no-reply@example.com"
+        email="no-reply@example.com",
     )
     fg.podcast.itunes_explicit("no")
-    fg.podcast.itunes_category(ITUNES_CATEGORY)
+    fg.podcast.itunes_category(config.itunes_category)
 
-    if is_itunes_safe_image(FEED_IMAGE):
-        fg.podcast.itunes_image(FEED_IMAGE)
+    if is_itunes_safe_image(config.feed_image):
+        fg.podcast.itunes_image(config.feed_image)
 
     for episode in episodes:
         published_dt = archive_to_date(episode.get("published"))
@@ -683,7 +666,7 @@ def build_rss(episodes):
 
         rich_description = f"""
         <p>{html.escape(description)}</p>
-        <p><strong>Source:</strong> <a href="{episode["url"]}">{SOURCE_LABEL}</a></p>
+        <p><strong>Source:</strong> <a href="{episode["url"]}">{config.source_label}</a></p>
         """
 
         if episode.get("image"):
@@ -695,14 +678,13 @@ def build_rss(episodes):
 
         fe.description(description)
         fe.content(rich_description, type="CDATA")
-
         fe.enclosure(
             episode["audio_url"],
-            str(episode.get("duration_seconds") or 0),
-            episode.get("audio_type") or "audio/mp4"
+            str(episode.get("audio_length") or 0),
+            episode.get("audio_type") or "audio/mp4",
         )
 
-        fe.podcast.itunes_author(ITUNES_AUTHOR)
+        fe.podcast.itunes_author(config.itunes_author)
         fe.podcast.itunes_summary(description)
         fe.podcast.itunes_subtitle(description[:255])
 
@@ -713,26 +695,23 @@ def build_rss(episodes):
             fe.podcast.itunes_image(episode["image"])
 
     rss = sort_rss_items_newest_first(fg.rss_str(pretty=True))
-
-    stylesheet = f'<?xml-stylesheet type="text/xsl" href="{STYLE_FILE}"?>\n'.encode("utf-8")
-
-    if rss.startswith(b"<?xml"):
-        first_line_end = rss.find(b"\n") + 1
-        rss = rss[:first_line_end] + stylesheet + rss[first_line_end:]
-
-    with open(OUTPUT_FILE, "wb") as f:
-        f.write(rss)
+    return add_stylesheet_instruction(rss, config.style_file)
 
 
-def build_feed():
+def write_rss(config: RadioFranceFeedConfig, episodes: list[dict]) -> None:
+    atomic_write_bytes(config.output_file, build_rss(config, episodes))
+
+
+def build_feed(config: RadioFranceFeedConfig = FRANCE_CULTURE_CONFIG) -> None:
+    session = create_session()
+
     print("Loading archive...")
-    archive = load_archive()
-    known_urls = {episode.get("url") for episode in archive}
-
+    archive = load_archive(config)
+    known_urls = {episode["url"] for episode in archive}
     print(f"Archive contains {len(archive)} episodes")
 
     print("Fetching website episode links...")
-    links = get_episode_links()
+    links = get_episode_links(session, config)
     print(f"Found {len(links)} episode links on website")
 
     new_episodes = []
@@ -743,45 +722,42 @@ def build_feed():
             continue
 
         print(f"Checking: {link}")
+        data = extract_episode_data(session, link)
 
-        try:
-            data = extract_episode_data(link)
+        if not data:
+            raise RuntimeError(f"No valid episode data found at {link}")
 
-            if not data:
-                print("  -> skipped, no valid episode data")
+        if config.min_published_date:
+            published_dt = archive_to_date(data.get("published"))
+            min_dt = parse_iso_date(config.min_published_date)
+
+            if published_dt < min_dt:
+                print(f"  -> skipped, before {config.min_published_date}")
+                if config.stop_when_before_min_published_date:
+                    print("  -> stopping, remaining links are older")
+                    break
                 continue
 
-            if MIN_PUBLISHED_DATE:
-                published_dt = archive_to_date(data.get("published"))
-                min_dt = parse_iso_date(MIN_PUBLISHED_DATE)
+        new_episodes.append(data)
+        print(f"  -> added: {data['title']}")
 
-                if published_dt < min_dt:
-                    print(f"  -> skipped, before {MIN_PUBLISHED_DATE}")
-                    if STOP_WHEN_BEFORE_MIN_PUBLISHED_DATE:
-                        print("  -> stopping, remaining links are older")
-                        break
-                    continue
-
-            new_episodes.append(data)
-            print(f"  -> added: {data['title']}")
-
-        except Exception as error:
-            print(f"  -> error: {error}")
-
+    hydrated_archive = hydrate_audio_lengths(session, archive)
     all_episodes = filter_episodes_by_min_date(
-        merge_episodes(archive, new_episodes)
+        config,
+        merge_episodes(hydrated_archive, new_episodes),
     )
 
-    save_archive(all_episodes)
-    write_stylesheet()
-    build_rss(all_episodes)
+    if not all_episodes:
+        raise RuntimeError(f"No episodes available for {config.feed_title}")
+
+    save_archive(config, all_episodes)
+    write_rss(config, all_episodes)
 
     print()
     print(f"New episodes added: {len(new_episodes)}")
     print(f"Total archived episodes: {len(all_episodes)}")
-    print(f"Created {OUTPUT_FILE}")
-    print(f"Created {STYLE_FILE}")
-    print(f"Updated {ARCHIVE_FILE}")
+    print(f"Created {config.output_file}")
+    print(f"Updated {config.archive_file}")
 
 
 if __name__ == "__main__":

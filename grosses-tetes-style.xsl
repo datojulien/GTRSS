@@ -7,7 +7,7 @@
 <xsl:output method="html" encoding="UTF-8" indent="yes"/>
 
 <xsl:template match="/">
-<html>
+<html lang="fr">
 <head>
   <meta charset="UTF-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
@@ -40,6 +40,14 @@
 
     a {
       color: inherit;
+      text-decoration-thickness: 0.08em;
+      text-underline-offset: 0.16em;
+    }
+
+    a:focus-visible,
+    audio:focus-visible {
+      outline: 3px solid var(--gold);
+      outline-offset: 4px;
     }
 
     .hero {
@@ -187,7 +195,7 @@
     }
 
     .episode h2 a {
-      text-decoration: none;
+      text-decoration: underline;
     }
 
     .episode h2 a:hover {
@@ -243,7 +251,7 @@
       color: var(--red-dark);
       font-size: 13px;
       font-weight: 700;
-      text-decoration: none;
+      text-decoration: underline;
     }
 
     .audio-link:hover {
@@ -402,7 +410,7 @@
             </div>
 
             <div class="desc">
-              <xsl:value-of select="description" disable-output-escaping="yes"/>
+              <xsl:value-of select="description"/>
             </div>
 
             <xsl:if test="enclosure/@url">

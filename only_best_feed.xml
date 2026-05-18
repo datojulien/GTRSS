@@ -1,15 +1,21 @@
 <?xml version='1.0' encoding='utf-8'?>
 <?xml-stylesheet type="text/xsl" href="grosses-tetes-style.xsl"?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:ns1="http://www.spotify.com/ns/rss" xmlns:ns2="http://www.google.com/schemas/play-podcasts/1.0" xmlns:ns3="https://podcastindex.org/namespace/1.0" xmlns:ns4="http://purl.org/rss/1.0/modules/content/" version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:ns2="http://www.spotify.com/ns/rss" xmlns:ns3="http://www.google.com/schemas/play-podcasts/1.0" xmlns:ns4="https://podcastindex.org/namespace/1.0" xmlns:ns5="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>Les Grosses Têtes (Extras)</title>
-    <itunes:image href="https://raw.githubusercontent.com/datojulien/GTRSS/main/Extras.jpg" />
-    <link>https://www.rtl.fr/emission/les-grosses-tetes</link>
+    <itunes:image href="https://datojulien.github.io/GTRSS/Extras.jpg" />
+    <image>
+      <url>https://datojulien.github.io/GTRSS/Extras.jpg</url>
+      <title>Les Grosses Têtes (Extras)</title>
+      <link>https://datojulien.github.io/GTRSS/only_best_feed.xml</link>
+    </image>
+    <link>https://datojulien.github.io/GTRSS/only_best_feed.xml</link>
     <description>Le Best Of : une sélection des moments les plus drôles et emblématiques de la saison, incluant bonus et moments cultes (≥ 20 min).</description>
+    <atom:link href="https://datojulien.github.io/GTRSS/only_best_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Mon, 18 May 2026 10:09:17 GMT</lastBuildDate>
-    <pubDate>Mon, 18 May 2026 10:09:17 GMT</pubDate>
+    <lastBuildDate>Mon, 18 May 2026 10:30:48 GMT</lastBuildDate>
+    <pubDate>Mon, 18 May 2026 10:30:48 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -22,12 +28,12 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:block>no</itunes:block>
     <itunes:type>episodic</itunes:type>
-    <ns1:countryOfOrigin>fr</ns1:countryOfOrigin>
-    <ns2:author>RTL</ns2:author>
-    <ns2:description>&lt;p&gt;Tous les jours de 15h30 à 18h, plongez dans l'univers hilarant et décalé des "Grosses Têtes", l'émission culte animée par Laurent Ruquier. Entre anecdotes croustillantes, quiz culturels, et débats endiablés retrouvez les sociétaires des Grosses Têtes dans les intégrales, les bonus et les archives de l'émission ! Abonnez-vous et ne manquez aucun épisode !&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns2:description>
-    <ns2:email>podcast.radio@m6.fr</ns2:email>
-    <ns2:explicit>no</ns2:explicit>
-    <ns2:block>no</ns2:block>
+    <ns2:countryOfOrigin>fr</ns2:countryOfOrigin>
+    <ns3:author>RTL</ns3:author>
+    <ns3:description>&lt;p&gt;Tous les jours de 15h30 à 18h, plongez dans l'univers hilarant et décalé des "Grosses Têtes", l'émission culte animée par Laurent Ruquier. Entre anecdotes croustillantes, quiz culturels, et débats endiablés retrouvez les sociétaires des Grosses Têtes dans les intégrales, les bonus et les archives de l'émission ! Abonnez-vous et ne manquez aucun épisode !&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns3:description>
+    <ns3:email>podcast.radio@m6.fr</ns3:email>
+    <ns3:explicit>no</ns3:explicit>
+    <ns3:block>no</ns3:block>
     <itunes:keywords>Divertissement,RTL,humour,rire,actualité,blague,insolite,culture,Laurent Ruquier,Les grosses têtes,comédie,débat,jeux</itunes:keywords>
     <category>News</category>
     <category>Comedy</category>
@@ -35,30 +41,30 @@
       <itunes:category text="Entertainment News" />
     </itunes:category>
     <itunes:category text="Comedy" />
-    <ns2:category text="News" />
-    <ns2:category text="Comedy" />
-    <ns3:person role="host">RTL</ns3:person>
-    <ns3:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns3:txt>
+    <ns3:category text="News" />
+    <ns3:category text="Comedy" />
+    <ns4:person role="host">RTL</ns4:person>
+    <ns4:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns4:txt>
     <item>
       <title>L'INTÉGRALE - Le Best of du dimanche 17 mai 2026</title>
       <guid isPermaLink="false">dcb5a1ff-6e56-463e-b954-cf8f8c5c1d7d</guid>
       <description>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du dimanche 17 mai 2026.
 
 &lt;i&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du dimanche 17 mai 2026.
+      <ns5:encoded>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du dimanche 17 mai 2026.
 
-&lt;i&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+&lt;i&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
       <pubDate>Sun, 17 May 2026 16:00:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/dcb5a1ff-6e56-463e-b954-cf8f8c5c1d7d.mp3?_=1778692998" length="94615791" type="audio/mpeg" />
+      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/dcb5a1ff-6e56-463e-b954-cf8f8c5c1d7d.mp3?_=1778692998" length="94615791" type="audio/mpeg" />
       <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
       <itunes:summary>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du dimanche 17 mai 2026.
 
 Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
 Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns2:description>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du dimanche 17 mai 2026.
+      <ns3:description>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du dimanche 17 mai 2026.
 
 Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns2:description>
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
       <itunes:author>Laurent Ruquier</itunes:author>
       <author>Laurent Ruquier</author>
       <itunes:explicit>no</itunes:explicit>
@@ -70,9 +76,9 @@ Hébergé par Audiomeans. Visitez</itunes:subtitle>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>01:38:33</itunes:duration>
       <itunes:image href="https://static.audiomeans.fr/img/episode/c902c1ca-688c-4fce-9bdb-d9b6478b6018.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/c902c1ca-688c-4fce-9bdb-d9b6478b6018.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/pLWjAhg</ns3:txt>
+      <ns3:image href="https://static.audiomeans.fr/img/episode/c902c1ca-688c-4fce-9bdb-d9b6478b6018.jpg" />
+      <ns4:person role="host">Laurent Ruquier</ns4:person>
+      <ns4:txt purpose="smartlink">https://audmns.com/pLWjAhg</ns4:txt>
       <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
@@ -81,20 +87,20 @@ Hébergé par Audiomeans. Visitez</itunes:subtitle>
       <description>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du samedi 16 mai 2026.
 &lt;i&gt;
 Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du samedi 16 mai 2026.
+      <ns5:encoded>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du samedi 16 mai 2026.
 &lt;i&gt;
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
       <pubDate>Sat, 16 May 2026 16:00:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/76c4a434-5988-45f2-8f4d-a932c1b12a33.mp3?_=1778693591" length="94957673" type="audio/mpeg" />
+      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/76c4a434-5988-45f2-8f4d-a932c1b12a33.mp3?_=1778693591" length="94957673" type="audio/mpeg" />
       <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
       <itunes:summary>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du samedi 16 mai 2026.
 
 Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
 Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns2:description>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du samedi 16 mai 2026.
+      <ns3:description>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du samedi 16 mai 2026.
 
 Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns2:description>
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
       <itunes:author>Laurent Ruquier</itunes:author>
       <author>Laurent Ruquier</author>
       <itunes:explicit>no</itunes:explicit>
@@ -106,9 +112,9 @@ Hébergé par Audiomeans. Visitez</itunes:subtitle>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>01:38:54</itunes:duration>
       <itunes:image href="https://static.audiomeans.fr/img/episode/fe18275e-f1b1-4302-ab64-1717f0bcb0a9.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/fe18275e-f1b1-4302-ab64-1717f0bcb0a9.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/CAnfGQv</ns3:txt>
+      <ns3:image href="https://static.audiomeans.fr/img/episode/fe18275e-f1b1-4302-ab64-1717f0bcb0a9.jpg" />
+      <ns4:person role="host">Laurent Ruquier</ns4:person>
+      <ns4:txt purpose="smartlink">https://audmns.com/CAnfGQv</ns4:txt>
       <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
@@ -118,23 +124,23 @@ Hébergé par Audiomeans. Visitez</itunes:subtitle>
 
 
 Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du vendredi 15 mai 2026.
+      <ns5:encoded>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du vendredi 15 mai 2026.
 
 
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
       <pubDate>Fri, 15 May 2026 16:00:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/3064c471-4d24-4094-8f10-504c1687981d.mp3?_=1778685191" length="96562229" type="audio/mpeg" />
+      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/3064c471-4d24-4094-8f10-504c1687981d.mp3?_=1778685191" length="96562229" type="audio/mpeg" />
       <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
       <itunes:summary>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du vendredi 15 mai 2026.
 
 
 Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
 Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns2:description>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du vendredi 15 mai 2026.
+      <ns3:description>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du vendredi 15 mai 2026.
 
 
 Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns2:description>
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
       <itunes:author>Laurent Ruquier</itunes:author>
       <author>Laurent Ruquier</author>
       <itunes:explicit>no</itunes:explicit>
@@ -147,9 +153,9 @@ Hébergé par Audiomeans. Visitez</itunes:subtitle>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>01:40:35</itunes:duration>
       <itunes:image href="https://static.audiomeans.fr/img/episode/e8eaf1a5-fded-4d7f-9de3-8ac2fe06ea06.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/e8eaf1a5-fded-4d7f-9de3-8ac2fe06ea06.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/JTFKcrH</ns3:txt>
+      <ns3:image href="https://static.audiomeans.fr/img/episode/e8eaf1a5-fded-4d7f-9de3-8ac2fe06ea06.jpg" />
+      <ns4:person role="host">Laurent Ruquier</ns4:person>
+      <ns4:txt purpose="smartlink">https://audmns.com/JTFKcrH</ns4:txt>
       <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
@@ -157,17 +163,17 @@ Hébergé par Audiomeans. Visitez</itunes:subtitle>
       <guid isPermaLink="false">485c0ca8-6a12-45e5-9bdb-5c25916a852d</guid>
       <description>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du jeudi 14 mai 2026.
 &lt;i&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du jeudi 14 mai 2026.
-&lt;i&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <ns5:encoded>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du jeudi 14 mai 2026.
+&lt;i&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
       <pubDate>Thu, 14 May 2026 16:00:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/485c0ca8-6a12-45e5-9bdb-5c25916a852d.mp3?_=1778692390" length="96143836" type="audio/mpeg" />
+      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/485c0ca8-6a12-45e5-9bdb-5c25916a852d.mp3?_=1778692390" length="96143836" type="audio/mpeg" />
       <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
       <itunes:summary>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du jeudi 14 mai 2026.
 Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
 Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns2:description>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du jeudi 14 mai 2026.
+      <ns3:description>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du jeudi 14 mai 2026.
 Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns2:description>
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
       <itunes:author>Laurent Ruquier</itunes:author>
       <author>Laurent Ruquier</author>
       <itunes:explicit>no</itunes:explicit>
@@ -178,9 +184,9 @@ Hébergé par Audiomeans. Visitez</itunes:subtitle>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>01:40:08</itunes:duration>
       <itunes:image href="https://static.audiomeans.fr/img/episode/c509fe6d-f5f6-4091-8196-2a8285ce58bc.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/c509fe6d-f5f6-4091-8196-2a8285ce58bc.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/vhcQtFo</ns3:txt>
+      <ns3:image href="https://static.audiomeans.fr/img/episode/c509fe6d-f5f6-4091-8196-2a8285ce58bc.jpg" />
+      <ns4:person role="host">Laurent Ruquier</ns4:person>
+      <ns4:txt purpose="smartlink">https://audmns.com/vhcQtFo</ns4:txt>
       <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
@@ -190,23 +196,23 @@ Hébergé par Audiomeans. Visitez</itunes:subtitle>
 
 
 Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du dimanche 10 mai 2026.
+      <ns5:encoded>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du dimanche 10 mai 2026.
 
 
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
       <pubDate>Sun, 10 May 2026 16:00:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/531c20ba-3b20-446a-88b7-4d15702097f8.mp3?_=1778160796" length="97753412" type="audio/mpeg" />
+      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/531c20ba-3b20-446a-88b7-4d15702097f8.mp3?_=1778160796" length="97753412" type="audio/mpeg" />
       <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
       <itunes:summary>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du dimanche 10 mai 2026.
 
 
 Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
 Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns2:description>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du dimanche 10 mai 2026.
+      <ns3:description>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du dimanche 10 mai 2026.
 
 
 Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns2:description>
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
       <itunes:author>Laurent Ruquier</itunes:author>
       <author>Laurent Ruquier</author>
       <itunes:explicit>no</itunes:explicit>
@@ -219,9 +225,9 @@ Hébergé par Audiomeans. Visitez</itunes:subtitle>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>01:41:49</itunes:duration>
       <itunes:image href="https://static.audiomeans.fr/img/episode/ef348aee-bc56-4f31-9cc3-f2ea6cf48cd1.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/ef348aee-bc56-4f31-9cc3-f2ea6cf48cd1.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/hRUesGJ</ns3:txt>
+      <ns3:image href="https://static.audiomeans.fr/img/episode/ef348aee-bc56-4f31-9cc3-f2ea6cf48cd1.jpg" />
+      <ns4:person role="host">Laurent Ruquier</ns4:person>
+      <ns4:txt purpose="smartlink">https://audmns.com/hRUesGJ</ns4:txt>
       <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
@@ -230,20 +236,20 @@ Hébergé par Audiomeans. Visitez</itunes:subtitle>
       <description>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du samedi 9 mai 2026.
 
 Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du samedi 9 mai 2026.
+      <ns5:encoded>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du samedi 9 mai 2026.
 
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
       <pubDate>Sat, 09 May 2026 16:00:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/899748ce-90e6-4c71-aa0f-60b21f79974f.mp3?_=1778149093" length="98667893" type="audio/mpeg" />
+      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/899748ce-90e6-4c71-aa0f-60b21f79974f.mp3?_=1778149093" length="98667893" type="audio/mpeg" />
       <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
       <itunes:summary>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du samedi 9 mai 2026.
 
 Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
 Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns2:description>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du samedi 9 mai 2026.
+      <ns3:description>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du samedi 9 mai 2026.
 
 Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns2:description>
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
       <itunes:author>Laurent Ruquier</itunes:author>
       <author>Laurent Ruquier</author>
       <itunes:explicit>no</itunes:explicit>
@@ -255,9 +261,9 @@ Hébergé par Audiomeans. Visitez</itunes:subtitle>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>01:42:46</itunes:duration>
       <itunes:image href="https://static.audiomeans.fr/img/episode/e53538f2-7fa7-4c82-8024-9947ad0e45fc.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/e53538f2-7fa7-4c82-8024-9947ad0e45fc.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/yqAjlTs</ns3:txt>
+      <ns3:image href="https://static.audiomeans.fr/img/episode/e53538f2-7fa7-4c82-8024-9947ad0e45fc.jpg" />
+      <ns4:person role="host">Laurent Ruquier</ns4:person>
+      <ns4:txt purpose="smartlink">https://audmns.com/yqAjlTs</ns4:txt>
       <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
@@ -265,17 +271,17 @@ Hébergé par Audiomeans. Visitez</itunes:subtitle>
       <guid isPermaLink="false">fefc0c14-ff8c-42ca-93ca-590da0e13239</guid>
       <description>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du vendredi 8 mai 2026.
 Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns4:encoded>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du vendredi 8 mai 2026.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns4:encoded>
+      <ns5:encoded>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du vendredi 8 mai 2026.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
       <pubDate>Fri, 08 May 2026 16:00:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/VBQyAWMUlo/fefc0c14-ff8c-42ca-93ca-590da0e13239.mp3?_=1778076792" length="93478899" type="audio/mpeg" />
+      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/fefc0c14-ff8c-42ca-93ca-590da0e13239.mp3?_=1778076792" length="93478899" type="audio/mpeg" />
       <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
       <itunes:summary>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du vendredi 8 mai 2026.
 Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
 Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns2:description>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du vendredi 8 mai 2026.
+      <ns3:description>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du vendredi 8 mai 2026.
 Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns2:description>
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
       <itunes:author>Laurent Ruquier</itunes:author>
       <author>Laurent Ruquier</author>
       <itunes:explicit>no</itunes:explicit>
@@ -286,9 +292,9 @@ Hébergé par Audiomeans. Visitez</itunes:subtitle>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>01:37:22</itunes:duration>
       <itunes:image href="https://static.audiomeans.fr/img/episode/cd3864e0-b338-488d-b5d0-095587cdf13a.jpg" />
-      <ns2:image href="https://static.audiomeans.fr/img/episode/cd3864e0-b338-488d-b5d0-095587cdf13a.jpg" />
-      <ns3:person role="host">Laurent Ruquier</ns3:person>
-      <ns3:txt purpose="smartlink">https://audmns.com/fXpcAHw</ns3:txt>
+      <ns3:image href="https://static.audiomeans.fr/img/episode/cd3864e0-b338-488d-b5d0-095587cdf13a.jpg" />
+      <ns4:person role="host">Laurent Ruquier</ns4:person>
+      <ns4:txt purpose="smartlink">https://audmns.com/fXpcAHw</ns4:txt>
       <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
   </channel>

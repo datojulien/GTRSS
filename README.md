@@ -38,11 +38,12 @@ The generated XML files live at the repository root on purpose so existing feed 
 ├── Integrales.jpg                # Grosses Têtes intégrale cover
 ├── Extras.jpg                    # Grosses Têtes extras cover
 ├── Autres.jpg                    # Grosses Têtes remaining episodes cover
+├── tests/                        # Offline pytest coverage for builders and generated feeds
 ├── debug_episode.py              # France Culture scraping helper
 ├── test_links.py                 # France Culture link discovery helper
 ├── test_mp3.py                   # France Culture audio discovery helper
-├── update-feed.yml.backup        # GitHub Actions workflow template
-└── requirements.txt
+├── requirements.txt              # Pinned runtime dependencies
+└── requirements-dev.txt          # Runtime dependencies plus pytest
 ```
 
 ## Setup
@@ -55,6 +56,18 @@ python3 -m venv .venv
 pip install -r requirements.txt
 ```
 
+For local validation and tests:
+
+```bash
+pip install -r requirements-dev.txt
+```
+
+Generated feed self-links default to GitHub Pages:
+
+```bash
+GTRSS_PUBLIC_BASE_URL=https://datojulien.github.io/GTRSS/
+```
+
 ## Build The Feeds
 
 Build only the France Culture feed:
@@ -63,7 +76,7 @@ Build only the France Culture feed:
 python3 build_feed.py
 ```
 
-This fetches recent episode pages from Radio France, merges new entries into `episodes.json`, regenerates `feed.xml`, and rewrites `feed-style.xsl`.
+This fetches recent episode pages from Radio France, merges new entries into `episodes.json`, validates the archive, and regenerates `feed.xml`.
 
 Build only the France Inter / François Rollin feed:
 
@@ -71,7 +84,7 @@ Build only the France Inter / François Rollin feed:
 python3 build_rollin_feed.py
 ```
 
-This reuses the Radio France builder, merges new entries into `francois-rollin-episodes.json`, regenerates `francois-rollin-feed.xml`, and rewrites `francois-rollin-style.xsl`.
+This reuses the Radio France builder, merges new entries into `francois-rollin-episodes.json`, validates the archive, and regenerates `francois-rollin-feed.xml`.
 
 Build only the Grosses Têtes feeds:
 
@@ -85,23 +98,19 @@ This fetches the official Audiomeans source feed and regenerates:
 - `only_best_feed.xml`: best-of style titles that are at least 20 minutes long.
 - `only_remaining_feed.xml`: every remaining item.
 
-By default `keep_integrale.py` only writes files. To also commit and push its generated outputs:
-
-```bash
-GTRSS_AUTO_COMMIT=1 python3 keep_integrale.py
-```
+`keep_integrale.py` only writes files. Commits are handled by GitHub Actions.
 
 ## Automation
 
-`update-feed.yml.backup` is a GitHub Actions workflow template. To enable it, copy or move it to `.github/workflows/update-feed.yml`.
+`.github/workflows/update-feeds.yml` is the active GitHub Actions workflow. It is set up to:
 
-The workflow is set up to:
+1. Install dependencies from `requirements-dev.txt`.
+2. Run offline tests.
+3. Run `build_feed.py`, `build_rollin_feed.py`, and `keep_integrale.py`.
+4. Validate XML and XSLT rendering.
+5. Commit only the known generated feed, style, and archive files if anything changed.
 
-1. Install dependencies from `requirements.txt`.
-2. Run `build_feed.py`.
-3. Run `build_rollin_feed.py`.
-4. Run `keep_integrale.py`.
-5. Commit all generated feed, style, and archive files if anything changed.
+The workflow uses concurrency protection so scheduled and manual runs do not race each other.
 
 ## Validation
 
@@ -109,6 +118,7 @@ Useful local checks after editing scripts or styles:
 
 ```bash
 python3 -m py_compile build_feed.py build_rollin_feed.py keep_integrale.py
+pytest
 python3 - <<'PY'
 import xml.etree.ElementTree as ET
 for path in [
@@ -131,9 +141,16 @@ xsltproc grosses-tetes-style.xsl only_best_feed.xml >/tmp/grosses-tetes-best.htm
 xsltproc grosses-tetes-style.xsl only_remaining_feed.xml >/tmp/grosses-tetes-remaining.html
 ```
 
+Network smoke tests are opt-in:
+
+```bash
+GTRSS_RUN_NETWORK_TESTS=1 pytest
+```
+
 ## Notes
 
 - Keep the generated XML filenames stable unless you are ready to update podcast subscriptions.
+- The public base URL defaults to `https://datojulien.github.io/GTRSS/`; override with `GTRSS_PUBLIC_BASE_URL` only when intentionally publishing somewhere else.
 - `episodes.json` belongs to the France Culture feed only.
 - `francois-rollin-episodes.json` belongs to the France Inter / François Rollin feed only.
 - The three cover images belong to the Grosses Têtes split feeds only.

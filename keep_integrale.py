@@ -2,177 +2,225 @@
 # -*- coding: utf-8 -*-
 """Build the RTL / Les Grosses Têtes split RSS feeds."""
 
-import xml.etree.ElementTree as ET
-import requests
+from __future__ import annotations
+
 import io
-from email.utils import formatdate
-import subprocess
 import os
+import xml.etree.ElementTree as ET
+from dataclasses import dataclass
+from email.utils import formatdate
+from typing import Callable
 
-# ─── RTL: LES GROSSES TÊTES ────────────────────────────────────
+from build_feed import atomic_write_bytes, create_session, public_file_url
 
-feed_url            = "https://feeds.audiomeans.fr/feed/d7c6111b-04c1-46bc-b74c-d941a90d37fb.xml"
 
-output_integrale    = "only_integrale_feed.xml"
-output_best         = "only_best_feed.xml"
-output_remaining    = "only_remaining_feed.xml"
-style_file          = "grosses-tetes-style.xsl"
+ITUNES_NS = "http://www.itunes.com/dtds/podcast-1.0.dtd"
+GPOD_NS = "http://www.google.com/schemas/play-podcasts/1.0"
+ATOM_NS = "http://www.w3.org/2005/Atom"
+ET.register_namespace("itunes", ITUNES_NS)
+ET.register_namespace("atom", ATOM_NS)
 
-auto_commit         = os.environ.get("GTRSS_AUTO_COMMIT") == "1"
 
-# Title prefix checks use .startswith on tuples
-integrale_pref      = ("L'INTÉGRALE", "DÉBRIEF")
-best_prefs          = (
+@dataclass(frozen=True)
+class GrossesTetesConfig:
+    feed_url: str = "https://feeds.audiomeans.fr/feed/d7c6111b-04c1-46bc-b74c-d941a90d37fb.xml"
+    output_integrale: str = "only_integrale_feed.xml"
+    output_best: str = "only_best_feed.xml"
+    output_remaining: str = "only_remaining_feed.xml"
+    style_file: str = "grosses-tetes-style.xsl"
+    min_best_duration_min: int = 20
+    integrale_image_file: str = "Integrales.jpg"
+    best_image_file: str = "Extras.jpg"
+    autres_image_file: str = "Autres.jpg"
+    integrale_summary: str = (
+        "Tous les épisodes de L'Intégrale de 'Les Grosses Têtes', regroupant "
+        "la diffusion complète sans coupures ni extras."
+    )
+    best_summary: str = (
+        "Le Best Of : une sélection des moments les plus drôles et "
+        "emblématiques de la saison, incluant bonus et moments cultes "
+        "(≥ 20 min)."
+    )
+    remaining_summary: str = (
+        "Les autres épisodes : tout le reste du flux officiel, hors Intégrale "
+        "et Best Of, pour ne rien manquer."
+    )
+
+    @property
+    def min_best_duration_sec(self) -> int:
+        return self.min_best_duration_min * 60
+
+
+CONFIG = GrossesTetesConfig()
+
+INTEGRALE_PREFIXES = ("L'INTÉGRALE", "DÉBRIEF")
+BEST_PREFIXES = (
     "MEILLEUR DE LA SAISON",
     "BEST OF",
     "MOMENT CULTE",
-    "L'INTÉGRALE - Le Best of",   # ensure these go to Best-of, not Intégrale
+    "L'INTÉGRALE - Le Best of",
 )
 
-# Best-of minimum duration (minutes)
-MIN_BEST_DURATION_MIN = 20
-MIN_BEST_DURATION_SEC = MIN_BEST_DURATION_MIN * 60
 
-# Git repo root (optional; leave "." to use current dir)
-repo_path           = "."
-
-# Cover art URLs
-integrale_image_url = "https://raw.githubusercontent.com/datojulien/GTRSS/main/Integrales.jpg"
-best_image_url      = "https://raw.githubusercontent.com/datojulien/GTRSS/main/Extras.jpg"
-autres_image_url    = "https://raw.githubusercontent.com/datojulien/GTRSS/main/Autres.jpg"
-
-# Channel summaries
-integrale_summary   = "Tous les épisodes de L'Intégrale de 'Les Grosses Têtes', regroupant la diffusion complète sans coupures ni extras."
-best_summary        = "Le Best Of : une sélection des moments les plus drôles et emblématiques de la saison, incluant bonus et moments cultes (≥ 20 min)."
-remaining_summary   = "Les autres épisodes : tout le reste du flux officiel, hors Intégrale et Best Of, pour ne rien manquer."
-# ───────────────────────────────────────────────────────────────
-
-# Namespaces
-ITUNES_NS = "http://www.itunes.com/dtds/podcast-1.0.dtd"
-GPOD_NS   = "http://www.google.com/schemas/play-podcasts/1.0"
-ET.register_namespace('itunes', ITUNES_NS)
-
-# Timestamp
-now = formatdate(usegmt=True)
-
-# ─── FETCH SOURCE FEED ────────────────────────────────────────
-resp = requests.get(feed_url, timeout=60)
-resp.raise_for_status()
-raw = resp.content
-src_root = ET.fromstring(raw)
-src_channel = src_root.find('channel')
-
-# ─── HELPERS ──────────────────────────────────────────────────
-def safe_text(elem, tag, ns=None):
+def safe_text(elem: ET.Element, tag: str, ns: str | None = None) -> str:
     if ns:
         tag = f"{{{ns}}}{tag}"
     node = elem.find(tag)
     return (node.text or "").strip() if node is not None and node.text else ""
 
-def parse_itunes_duration_to_seconds(text: str) -> int:
-    """
-    Parse itunes:duration to seconds.
-    Accepts "SS", "MM:SS", "HH:MM:SS". Returns -1 if invalid/missing.
-    """
+
+def parse_itunes_duration_to_seconds(text: str | None) -> int:
+    """Parse SS, MM:SS, or HH:MM:SS to seconds. Invalid values return -1."""
     if not text:
         return -1
-    s = text.strip()
+    value = text.strip()
     try:
-        if s.isdigit():
-            return int(s)
-        parts = s.split(":")
+        if value.isdigit():
+            return int(value)
+        parts = value.split(":")
         if len(parts) == 2:
-            mm, ss = parts
-            return int(mm) * 60 + int(ss)
+            minutes, seconds = parts
+            return int(minutes) * 60 + int(seconds)
         if len(parts) == 3:
-            hh, mm, ss = parts
-            return int(hh) * 3600 + int(mm) * 60 + int(ss)
-    except Exception:
+            hours, minutes, seconds = parts
+            return int(hours) * 3600 + int(minutes) * 60 + int(seconds)
+    except ValueError:
         pass
     return -1
 
-def get_item_duration_seconds(item) -> int:
-    dur_text = safe_text(item, 'duration', ITUNES_NS)
-    return parse_itunes_duration_to_seconds(dur_text)
+
+def get_item_duration_seconds(item: ET.Element) -> int:
+    return parse_itunes_duration_to_seconds(safe_text(item, "duration", ITUNES_NS))
+
 
 def is_best_title(title: str) -> bool:
-    return any(title.startswith(pref) for pref in best_prefs)
+    return title.startswith(BEST_PREFIXES)
+
 
 def is_integrale_title(title: str) -> bool:
-    # Intégrale only if starts with integrale_pref AND is NOT best-of
-    return title.startswith(integrale_pref) and not is_best_title(title)
+    return title.startswith(INTEGRALE_PREFIXES) and not is_best_title(title)
 
-def is_best_episode(item) -> bool:
-    """
-    Best-of classification that ALSO enforces the duration threshold.
-    Missing/invalid duration -> exclude from Best-of.
-    """
-    title = safe_text(item, 'title')
-    if not is_best_title(title):
-        return False
-    dur = get_item_duration_seconds(item)
-    return dur >= MIN_BEST_DURATION_SEC
 
-def is_remaining_item(item) -> bool:
-    t = safe_text(item, 'title')
-    return (not is_integrale_title(t)) and (not is_best_episode(item))
+def is_best_episode(item: ET.Element, config: GrossesTetesConfig = CONFIG) -> bool:
+    title = safe_text(item, "title")
+    return is_best_title(title) and get_item_duration_seconds(item) >= config.min_best_duration_sec
 
-def new_root_with_filtered_items(predicate_item):
-    """
-    Create a fresh copy of the source feed, keeping only items that satisfy predicate_item(item).
-    """
+
+def is_remaining_item(item: ET.Element, config: GrossesTetesConfig = CONFIG) -> bool:
+    title = safe_text(item, "title")
+    return not is_integrale_title(title) and not is_best_episode(item, config)
+
+
+def source_channel(root: ET.Element) -> ET.Element:
+    channel = root.find("channel")
+    if channel is None:
+        raise ValueError("Source RSS has no channel")
+    return channel
+
+
+def new_root_with_filtered_items(
+    raw: bytes,
+    predicate_item: Callable[[ET.Element], bool],
+) -> tuple[ET.Element, ET.Element]:
     root = ET.fromstring(raw)
-    ch   = root.find('channel')
-    for it in list(ch.findall('item')):
-        if not predicate_item(it):
-            ch.remove(it)
-    return root, ch
+    channel = source_channel(root)
+    for item in list(channel.findall("item")):
+        if not predicate_item(item):
+            channel.remove(item)
+    return root, channel
 
-def apply_cover(channel, image_url):
-    # Remove any existing <image>, <itunes:image>, <gpod:image>
-    for old in channel.findall('image') + channel.findall(f"{{{GPOD_NS}}}image") + channel.findall(f"{{{ITUNES_NS}}}image"):
-        channel.remove(old)
-    img = ET.Element(f"{{{ITUNES_NS}}}image")
-    img.set('href', image_url)
-    title_elem = channel.find('title')
+
+def remove_children(channel: ET.Element, *tags: str) -> None:
+    for tag in tags:
+        for old in channel.findall(tag):
+            channel.remove(old)
+
+
+def apply_cover(channel: ET.Element, image_url: str, title: str, link: str) -> None:
+    remove_children(
+        channel,
+        "image",
+        f"{{{GPOD_NS}}}image",
+        f"{{{ITUNES_NS}}}image",
+    )
+
+    itunes_image = ET.Element(f"{{{ITUNES_NS}}}image")
+    itunes_image.set("href", image_url)
+
+    image = ET.Element("image")
+    ET.SubElement(image, "url").text = image_url
+    ET.SubElement(image, "title").text = title
+    ET.SubElement(image, "link").text = link
+
+    title_elem = channel.find("title")
     idx = list(channel).index(title_elem) if title_elem is not None else 0
-    channel.insert(idx + 1, img)
+    channel.insert(idx + 1, image)
+    channel.insert(idx + 1, itunes_image)
 
-def finalize_channel(channel, cover_url, title_suffix, summary_text):
-    apply_cover(channel, cover_url)
-    src_title = safe_text(src_channel, 'title')
 
-    # <title>
-    title_node = channel.find('title')
+def ensure_atom_self_link(channel: ET.Element, feed_url: str) -> None:
+    for old in list(channel.findall(f"{{{ATOM_NS}}}link")):
+        if old.get("rel") == "self":
+            channel.remove(old)
+
+    atom_link = ET.Element(f"{{{ATOM_NS}}}link")
+    atom_link.set("href", feed_url)
+    atom_link.set("rel", "self")
+    atom_link.set("type", "application/rss+xml")
+
+    description = channel.find("description")
+    idx = list(channel).index(description) if description is not None else 0
+    channel.insert(idx + 1, atom_link)
+
+
+def finalize_channel(
+    channel: ET.Element,
+    src_title: str,
+    cover_url: str,
+    output_file: str,
+    title_suffix: str,
+    summary_text: str,
+    now: str,
+) -> None:
+    feed_url = public_file_url(output_file)
+    title_text = f"{src_title} ({title_suffix})"
+
+    title_node = channel.find("title")
     if title_node is None:
-        title_node = ET.SubElement(channel, 'title')
-    title_node.text = f"{src_title} ({title_suffix})"
+        title_node = ET.SubElement(channel, "title")
+    title_node.text = title_text
 
-    # <description>
-    desc = channel.find('description')
+    link_node = channel.find("link")
+    if link_node is None:
+        link_node = ET.SubElement(channel, "link")
+    link_node.text = feed_url
+
+    desc = channel.find("description")
     if desc is None:
-        desc = ET.SubElement(channel, 'description')
+        desc = ET.SubElement(channel, "description")
     desc.text = summary_text
 
-    # <itunes:summary>
-    sum_tag = f"{{{ITUNES_NS}}}summary"
-    node = channel.find(sum_tag)
+    summary_tag = f"{{{ITUNES_NS}}}summary"
+    node = channel.find(summary_tag)
     if node is None:
-        node = ET.SubElement(channel, sum_tag)
+        node = ET.SubElement(channel, summary_tag)
     node.text = summary_text
 
-    # timestamps
-    for tag in ('pubDate', 'lastBuildDate'):
-        n = channel.find(tag)
-        if n is None:
+    apply_cover(channel, cover_url, title_text, feed_url)
+    ensure_atom_self_link(channel, feed_url)
+
+    for tag in ("pubDate", "lastBuildDate"):
+        node = channel.find(tag)
+        if node is None:
             ET.SubElement(channel, tag).text = now
         else:
-            n.text = now
+            node.text = now
 
-def add_stylesheet_instruction(xml_bytes):
-    stylesheet = (
-        f'<?xml-stylesheet type="text/xsl" href="{style_file}"?>\n'
-    ).encode("utf-8")
+
+def add_stylesheet_instruction(xml_bytes: bytes, style_file: str) -> bytes:
+    stylesheet = f'<?xml-stylesheet type="text/xsl" href="{style_file}"?>\n'.encode(
+        "utf-8"
+    )
 
     if b"<?xml-stylesheet" in xml_bytes[:300]:
         return xml_bytes
@@ -180,11 +228,7 @@ def add_stylesheet_instruction(xml_bytes):
     if xml_bytes.startswith(b"<?xml"):
         first_line_end = xml_bytes.find(b"\n")
         if first_line_end != -1:
-            return (
-                xml_bytes[:first_line_end + 1]
-                + stylesheet
-                + xml_bytes[first_line_end + 1:]
-            )
+            return xml_bytes[: first_line_end + 1] + stylesheet + xml_bytes[first_line_end + 1 :]
 
         declaration_end = xml_bytes.find(b"?>")
         if declaration_end != -1:
@@ -193,65 +237,136 @@ def add_stylesheet_instruction(xml_bytes):
 
     return stylesheet + xml_bytes
 
-def clean_text_value(value):
+
+def clean_text_value(value: str) -> str:
     lines = value.replace("\r\n", "\n").replace("\r", "\n").split("\n")
     return "\n".join(line.strip() for line in lines).strip()
 
-def strip_text_edges(root):
+
+def strip_text_edges(root: ET.Element) -> None:
     for elem in root.iter():
         if elem.text:
             elem.text = clean_text_value(elem.text)
         if elem.tail:
             elem.tail = elem.tail.rstrip()
 
-def write_xml(root, out_path):
+
+def item_count(channel: ET.Element) -> int:
+    return len(channel.findall("item"))
+
+
+def render_xml(root: ET.Element, style_file: str) -> bytes:
     strip_text_edges(root)
-    try:
-        ET.indent(root, space='  ')
-    except AttributeError:
-        pass
+    ET.indent(root, space="  ")
     buffer = io.BytesIO()
-    ET.ElementTree(root).write(buffer, encoding='utf-8', xml_declaration=True)
-    xml_bytes = add_stylesheet_instruction(buffer.getvalue())
-    with open(out_path, "wb") as f:
-        f.write(xml_bytes)
+    ET.ElementTree(root).write(buffer, encoding="utf-8", xml_declaration=True)
+    return add_stylesheet_instruction(buffer.getvalue(), style_file)
 
-def git_commit(paths, message):
-    try:
-        cwd = os.getcwd()
-        os.chdir(repo_path)
-        subprocess.run(["git", "add"] + paths, check=False)
-        subprocess.run(["git", "commit", "-m", message], check=False)
-        subprocess.run(["git", "push", "origin", "main"], check=False)
-    finally:
-        try:
-            os.chdir(cwd)
-        except Exception:
-            pass
 
-# ─── BUILD ALL FEEDS FRESH (always overwrite) ─────────────────
-# Intégrale (not best-of)
-root_i, ch_i = new_root_with_filtered_items(lambda it: is_integrale_title(safe_text(it, 'title')))
-finalize_channel(ch_i, integrale_image_url, "L’intégrale", integrale_summary)
-write_xml(root_i, output_integrale)
-print(f"✔️ rebuilt {output_integrale}")
+def write_xml(root: ET.Element, out_path: str, style_file: str) -> None:
+    atomic_write_bytes(out_path, render_xml(root, style_file))
 
-# Best-of (≥ 20 min)
-root_b, ch_b = new_root_with_filtered_items(is_best_episode)
-finalize_channel(ch_b, best_image_url, "Extras", best_summary)
-write_xml(root_b, output_best)
-print(f"✔️ rebuilt {output_best} (only items ≥ {MIN_BEST_DURATION_MIN} min)")
 
-# Remaining (everything else that isn't Intégrale or Best-of ≥ 20)
-root_r, ch_r = new_root_with_filtered_items(is_remaining_item)
-finalize_channel(ch_r, autres_image_url, "Other Episodes", remaining_summary)
-write_xml(root_r, output_remaining)
-print(f"✔️ rebuilt {output_remaining}")
+def fetch_source_feed(config: GrossesTetesConfig = CONFIG) -> bytes:
+    session = create_session()
+    response = session.get(config.feed_url, timeout=60)
+    response.raise_for_status()
+    return response.content
 
-if auto_commit:
-    git_commit(
-        [output_integrale, output_best, output_remaining, style_file],
-        f"Rebuild feeds at {now}: enforce Best-of ≥ {MIN_BEST_DURATION_MIN} min and proper categorization"
+
+def build_split_feeds(
+    raw: bytes,
+    config: GrossesTetesConfig = CONFIG,
+    now: str | None = None,
+) -> dict[str, ET.Element]:
+    now = now or formatdate(usegmt=True)
+    src_root = ET.fromstring(raw)
+    src_title = safe_text(source_channel(src_root), "title")
+    if not src_title:
+        raise ValueError("Source RSS channel has no title")
+
+    root_i, ch_i = new_root_with_filtered_items(
+        raw,
+        lambda item: is_integrale_title(safe_text(item, "title")),
     )
-else:
-    print("ℹ️ auto commit skipped (set GTRSS_AUTO_COMMIT=1 to commit and push)")
+    finalize_channel(
+        ch_i,
+        src_title,
+        public_file_url(config.integrale_image_file),
+        config.output_integrale,
+        "L’intégrale",
+        config.integrale_summary,
+        now,
+    )
+
+    root_b, ch_b = new_root_with_filtered_items(
+        raw,
+        lambda item: is_best_episode(item, config),
+    )
+    finalize_channel(
+        ch_b,
+        src_title,
+        public_file_url(config.best_image_file),
+        config.output_best,
+        "Extras",
+        config.best_summary,
+        now,
+    )
+
+    root_r, ch_r = new_root_with_filtered_items(
+        raw,
+        lambda item: is_remaining_item(item, config),
+    )
+    finalize_channel(
+        ch_r,
+        src_title,
+        public_file_url(config.autres_image_file),
+        config.output_remaining,
+        "Other Episodes",
+        config.remaining_summary,
+        now,
+    )
+
+    outputs = {
+        config.output_integrale: root_i,
+        config.output_best: root_b,
+        config.output_remaining: root_r,
+    }
+
+    empty = [
+        path
+        for path, root in outputs.items()
+        if item_count(source_channel(root)) == 0
+    ]
+    if empty:
+        raise RuntimeError(f"Refusing to write empty split feed(s): {', '.join(empty)}")
+
+    return outputs
+
+
+def write_split_feeds(
+    roots: dict[str, ET.Element],
+    config: GrossesTetesConfig = CONFIG,
+) -> None:
+    for output_file, root in roots.items():
+        write_xml(root, output_file, config.style_file)
+
+
+def main(config: GrossesTetesConfig = CONFIG) -> None:
+    if os.environ.get("GTRSS_AUTO_COMMIT") == "1":
+        print(
+            "GTRSS_AUTO_COMMIT is deprecated; generation no longer runs git "
+            "commands. GitHub Actions handles commits."
+        )
+
+    raw = fetch_source_feed(config)
+    roots = build_split_feeds(raw, config)
+    write_split_feeds(roots, config)
+
+    print(f"rebuilt {config.output_integrale}")
+    print(f"rebuilt {config.output_best} (only items ≥ {config.min_best_duration_min} min)")
+    print(f"rebuilt {config.output_remaining}")
+
+
+if __name__ == "__main__":
+    main()

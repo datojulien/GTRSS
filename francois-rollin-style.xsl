@@ -6,159 +6,218 @@
 <xsl:output method="html" encoding="UTF-8" indent="yes"/>
 
 <xsl:template match="/">
-<html>
+<html lang="fr">
 <head>
   <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <title><xsl:value-of select="/rss/channel/title"/></title>
   <style>
+    :root {
+      color-scheme: dark;
+      --bg: #111111;
+      --surface: #1b1b1f;
+      --ink: #f5f5f5;
+      --muted: #d8d2e6;
+      --accent: #d3b9ff;
+      --line: rgba(255,255,255,0.14);
+      --focus: #ffd166;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
     body {
       margin: 0;
       font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-      background: #111;
-      color: #f5f5f5;
-      line-height: 1.5;
+      background: var(--bg);
+      color: var(--ink);
+      line-height: 1.55;
+    }
+
+    a {
+      color: inherit;
+      text-decoration-thickness: 0.08em;
+      text-underline-offset: 0.16em;
+    }
+
+    a:focus-visible,
+    audio:focus-visible {
+      outline: 3px solid var(--focus);
+      outline-offset: 4px;
     }
 
     .hero {
-      padding: 56px 24px;
-      background: linear-gradient(135deg, #351057, #7b1fa2, #111);
-      border-bottom: 1px solid rgba(255,255,255,0.15);
+      padding: 46px 20px 38px;
+      background: #2d164f;
+      border-bottom: 1px solid var(--line);
     }
 
     .wrap {
-      max-width: 950px;
+      width: min(950px, calc(100% - 32px));
       margin: 0 auto;
     }
 
     h1 {
       margin: 0 0 12px;
-      font-size: 42px;
-      letter-spacing: -0.04em;
+      font-size: clamp(30px, 6vw, 44px);
+      line-height: 1.08;
+      letter-spacing: 0;
     }
 
     .subtitle {
       max-width: 720px;
+      margin: 0;
+      color: var(--muted);
       font-size: 18px;
-      opacity: 0.9;
     }
 
     .badge {
-      display: inline-block;
+      display: inline-flex;
+      align-items: center;
+      min-height: 30px;
       margin-bottom: 18px;
-      padding: 6px 12px;
-      border-radius: 999px;
-      background: rgba(255,255,255,0.14);
+      padding: 5px 10px;
+      border: 1px solid var(--line);
+      border-radius: 6px;
+      background: rgba(255,255,255,0.08);
       font-size: 13px;
+      font-weight: 700;
       text-transform: uppercase;
-      letter-spacing: 0.08em;
+    }
+
+    .rss-note {
+      max-width: 720px;
+      margin-top: 22px;
+      padding: 14px 16px;
+      border-radius: 8px;
+      background: rgba(255,255,255,0.08);
+      color: var(--muted);
+      font-size: 14px;
     }
 
     .content {
-      padding: 32px 24px 64px;
+      padding: 28px 0 58px;
+    }
+
+    .episodes {
+      display: grid;
+      gap: 16px;
     }
 
     .episode {
       display: grid;
-      grid-template-columns: 120px 1fr;
-      gap: 20px;
-      padding: 22px;
-      margin-bottom: 18px;
-      border-radius: 24px;
-      background: #1b1b1f;
-      border: 1px solid rgba(255,255,255,0.08);
-      box-shadow: 0 10px 35px rgba(0,0,0,0.25);
+      grid-template-columns: 120px minmax(0, 1fr);
+      gap: 18px;
+      padding: 18px;
+      border-radius: 8px;
+      background: var(--surface);
+      border: 1px solid var(--line);
+      box-shadow: 0 10px 28px rgba(0,0,0,0.24);
     }
 
-    .episode img {
+    .cover {
+      min-width: 0;
+    }
+
+    .cover img {
+      display: block;
       width: 120px;
-      height: 120px;
+      aspect-ratio: 1;
       object-fit: cover;
-      border-radius: 18px;
-      background: #333;
+      border-radius: 6px;
+      background: #333333;
+      border: 1px solid var(--line);
     }
 
     .episode h2 {
       margin: 0 0 8px;
       font-size: 22px;
-      line-height: 1.2;
+      line-height: 1.22;
+      letter-spacing: 0;
     }
 
     .episode h2 a {
-      color: #fff;
-      text-decoration: none;
+      color: #ffffff;
     }
 
     .date {
-      color: #c9a8ff;
+      color: var(--accent);
       font-size: 14px;
       margin-bottom: 10px;
     }
 
     .desc {
-      color: #ddd;
+      color: #e6e1ef;
       margin-bottom: 14px;
     }
 
     audio {
+      display: block;
       width: 100%;
+      min-height: 40px;
       margin-top: 8px;
     }
 
-    .rss-note {
-      margin-top: 24px;
-      padding: 16px 18px;
-      border-radius: 16px;
-      background: rgba(255,255,255,0.08);
-      color: #ddd;
+    .audio-link {
+      display: inline-flex;
+      margin-top: 10px;
+      color: var(--accent);
       font-size: 14px;
+      font-weight: 700;
     }
 
     @media (max-width: 650px) {
+      .hero {
+        padding: 34px 16px 30px;
+      }
+
+      .wrap {
+        width: min(100% - 24px, 950px);
+      }
+
       .episode {
         grid-template-columns: 1fr;
+        padding: 14px;
       }
 
-      .episode img {
+      .cover img {
         width: 100%;
-        height: auto;
         max-height: 280px;
-      }
-
-      h1 {
-        font-size: 32px;
       }
     }
   </style>
 </head>
 
 <body>
-  <section class="hero">
+  <header class="hero">
     <div class="wrap">
       <div class="badge">RSS personnel</div>
       <h1><xsl:value-of select="/rss/channel/title"/></h1>
-      <div class="subtitle">
+      <p class="subtitle">
         <xsl:value-of select="/rss/channel/description"/>
-      </div>
+      </p>
       <div class="rss-note">
         This is a podcast RSS feed. Copy this URL into a podcast app to subscribe.
       </div>
     </div>
-  </section>
+  </header>
 
   <main class="content">
-    <div class="wrap">
+    <div class="wrap episodes">
       <xsl:for-each select="/rss/channel/item">
         <article class="episode">
-          <div>
-            <xsl:choose>
-              <xsl:when test="itunes:image/@href">
-                <img>
-                  <xsl:attribute name="src">
-                    <xsl:value-of select="itunes:image/@href"/>
-                  </xsl:attribute>
-                </img>
-              </xsl:when>
-            </xsl:choose>
+          <div class="cover">
+            <xsl:if test="itunes:image/@href">
+              <img>
+                <xsl:attribute name="src">
+                  <xsl:value-of select="itunes:image/@href"/>
+                </xsl:attribute>
+                <xsl:attribute name="alt">
+                  <xsl:value-of select="title"/>
+                </xsl:attribute>
+              </img>
+            </xsl:if>
           </div>
 
           <div>
@@ -179,16 +238,24 @@
               <xsl:value-of select="description"/>
             </div>
 
-            <audio controls="controls">
-              <source>
-                <xsl:attribute name="src">
+            <xsl:if test="enclosure/@url">
+              <audio controls="controls" preload="none">
+                <source>
+                  <xsl:attribute name="src">
+                    <xsl:value-of select="enclosure/@url"/>
+                  </xsl:attribute>
+                  <xsl:attribute name="type">
+                    <xsl:value-of select="enclosure/@type"/>
+                  </xsl:attribute>
+                </source>
+              </audio>
+              <a class="audio-link">
+                <xsl:attribute name="href">
                   <xsl:value-of select="enclosure/@url"/>
                 </xsl:attribute>
-                <xsl:attribute name="type">
-                  <xsl:value-of select="enclosure/@type"/>
-                </xsl:attribute>
-              </source>
-            </audio>
+                Ouvrir le fichier audio
+              </a>
+            </xsl:if>
           </div>
         </article>
       </xsl:for-each>
