@@ -14,7 +14,7 @@
       <link>https://datojulien.github.io/GTRSS/feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Tue, 19 May 2026 04:34:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 08:38:55 +0000</lastBuildDate>
     <itunes:author>France Culture</itunes:author>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -24,6 +24,26 @@
     </itunes:owner>
     <itunes:subtitle>Flux personnel généré depuis le site Radio France</itunes:subtitle>
     <itunes:summary>Un flux RSS personnel qui récupère les épisodes depuis le site web de France Culture lorsque le flux officiel n’est pas encore à jour.</itunes:summary>
+    <item>
+      <title>Le Front populaire, une histoire de grèves et de joie : épisode du podcast Front populaire, une histoire de luttes | France Culture</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/le-front-populaire-une-histoire-de-greves-et-de-joie-7198615</link>
+      <description>AUDIO Front populaire, une histoire de luttes, épisode : Le Front populaire, une histoire de grèves et de joie. Une série inédite proposée par France Culture. Écoutez Le Front populaire, une histoire de grèves et de joie, et découvrez nos podcasts en ligne.</description>
+      <content:encoded><![CDATA[
+        <p>AUDIO Front populaire, une histoire de luttes, épisode : Le Front populaire, une histoire de grèves et de joie. Une série inédite proposée par France Culture. Écoutez Le Front populaire, une histoire de grèves et de joie, et découvrez nos podcasts en ligne.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/le-front-populaire-une-histoire-de-greves-et-de-joie-7198615">France Culture</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/e81bc3d3-0a44-4dc9-bede-d90ea6d59dfe/1200x680" alt="Le Front populaire, une histoire de grèves et de joie : épisode du podcast Front populaire, une histoire de luttes | France Culture" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/le-front-populaire-une-histoire-de-greves-et-de-joie-7198615</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26625-19.05.2026-ITEMA_24517661-2026C36128S0139-NET_MFC_B3AE7B51-AD5D-45C2-BDBE-F595689D2A2E-25-0978c58f2134dafbd1455a24c272a540.m4a" length="85096700" type="audio/mp4"/>
+      <pubDate>Tue, 19 May 2026 07:00:00 +0000</pubDate>
+      <itunes:author>France Culture</itunes:author>
+      <itunes:duration>58:37</itunes:duration>
+      <itunes:subtitle>AUDIO Front populaire, une histoire de luttes, épisode : Le Front populaire, une histoire de grèves et de joie. Une série inédite proposée par France Culture. Écoutez Le Front populaire, une histoire de grèves et de joie, et découvrez nos podcasts en lign</itunes:subtitle>
+      <itunes:summary>AUDIO Front populaire, une histoire de luttes, épisode : Le Front populaire, une histoire de grèves et de joie. Une série inédite proposée par France Culture. Écoutez Le Front populaire, une histoire de grèves et de joie, et découvrez nos podcasts en ligne.</itunes:summary>
+    </item>
     <item>
       <title>Objectif urnes, la victoire d’un front populaire antifasciste : épisode du podcast Front populaire, une histoire de luttes | France Culture</title>
       <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/objectif-urnes-la-victoire-d-un-front-populaire-antifasciste-9064835</link>
