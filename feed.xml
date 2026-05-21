@@ -14,7 +14,7 @@
       <link>https://datojulien.github.io/GTRSS/feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Thu, 21 May 2026 05:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 10:03:46 +0000</lastBuildDate>
     <itunes:author>France Culture</itunes:author>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -24,6 +24,26 @@
     </itunes:owner>
     <itunes:subtitle>Flux personnel généré depuis le site Radio France</itunes:subtitle>
     <itunes:summary>Un flux RSS personnel qui récupère les épisodes depuis le site web de France Culture lorsque le flux officiel n’est pas encore à jour.</itunes:summary>
+    <item>
+      <title>Les fronts populaires dans le monde, histoires d’expériences politiques : épisode du podcast Front populaire, une histoire de luttes | France Culture</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/les-fronts-populaires-dans-le-monde-histoires-d-experiences-politiques-4124120</link>
+      <description>AUDIO Front populaire, une histoire de luttes, épisode : Les fronts populaires dans le monde, histoires d’expériences politiques. Une série inédite proposée par France Culture. Écoutez Les fronts populaires dans le monde, histoires d’expériences politiques, et découvrez nos podcasts en ligne.</description>
+      <content:encoded><![CDATA[
+        <p>AUDIO Front populaire, une histoire de luttes, épisode : Les fronts populaires dans le monde, histoires d’expériences politiques. Une série inédite proposée par France Culture. Écoutez Les fronts populaires dans le monde, histoires d’expériences politiques, et découvrez nos podcasts en ligne.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/les-fronts-populaires-dans-le-monde-histoires-d-experiences-politiques-4124120">France Culture</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/567f7604-adb3-4ae8-b7e2-e3d711d9823b/1200x680" alt="Les fronts populaires dans le monde, histoires d’expériences politiques : épisode du podcast Front populaire, une histoire de luttes | France Culture" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/les-fronts-populaires-dans-le-monde-histoires-d-experiences-politiques-4124120</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26625-21.05.2026-ITEMA_24520468-2026C36128S0141-NET_MFC_AAEB2294-A84C-4DA0-B8B5-859657CE10EC-25-43eea941240adac1dcf3fb72b3e77f2f.m4a" length="85550292" type="audio/mp4"/>
+      <pubDate>Thu, 21 May 2026 07:00:00 +0000</pubDate>
+      <itunes:author>France Culture</itunes:author>
+      <itunes:duration>58:56</itunes:duration>
+      <itunes:subtitle>AUDIO Front populaire, une histoire de luttes, épisode : Les fronts populaires dans le monde, histoires d’expériences politiques. Une série inédite proposée par France Culture. Écoutez Les fronts populaires dans le monde, histoires d’expériences politique</itunes:subtitle>
+      <itunes:summary>AUDIO Front populaire, une histoire de luttes, épisode : Les fronts populaires dans le monde, histoires d’expériences politiques. Une série inédite proposée par France Culture. Écoutez Les fronts populaires dans le monde, histoires d’expériences politiques, et découvrez nos podcasts en ligne.</itunes:summary>
+    </item>
     <item>
       <title>Adversité et désaccords, le Front populaire désenchanté : épisode du podcast Front populaire, une histoire de luttes | France Culture</title>
       <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/adversite-et-desaccords-le-front-populaire-desenchante-1853335</link>
