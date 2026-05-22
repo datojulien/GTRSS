@@ -14,7 +14,7 @@
       <link>https://datojulien.github.io/GTRSS/feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Fri, 22 May 2026 04:35:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 10:11:59 +0000</lastBuildDate>
     <itunes:author>France Culture</itunes:author>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -24,6 +24,26 @@
     </itunes:owner>
     <itunes:subtitle>Flux personnel généré depuis le site Radio France</itunes:subtitle>
     <itunes:summary>Un flux RSS personnel qui récupère les épisodes depuis le site web de France Culture lorsque le flux officiel n’est pas encore à jour.</itunes:summary>
+    <item>
+      <title>Emmanuel Ruben, écrivain-géographe à bicyclette : épisode du podcast Fou d'histoire | France Culture</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/emmanuel-ruben-ecrivain-geographe-a-bicyclette-9805418</link>
+      <description>AUDIO Fou d'histoire, épisode : Emmanuel Ruben, écrivain-géographe à bicyclette. Une série inédite proposée par France Culture. Écoutez Emmanuel Ruben, écrivain-géographe à bicyclette, et découvrez nos podcasts en ligne.</description>
+      <content:encoded><![CDATA[
+        <p>AUDIO Fou d&#x27;histoire, épisode : Emmanuel Ruben, écrivain-géographe à bicyclette. Une série inédite proposée par France Culture. Écoutez Emmanuel Ruben, écrivain-géographe à bicyclette, et découvrez nos podcasts en ligne.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/emmanuel-ruben-ecrivain-geographe-a-bicyclette-9805418">France Culture</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/296b72f1-20ec-4d50-b270-c1c236604792/1200x680" alt="Emmanuel Ruben, écrivain-géographe à bicyclette : épisode du podcast Fou d&#x27;histoire | France Culture" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/emmanuel-ruben-ecrivain-geographe-a-bicyclette-9805418</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26625-22.05.2026-ITEMA_24488530-2026C36128S0142-NET_MFC_D38B7141-86CB-4FE4-A8A0-5933C07342C6-25-310dd70486b2ec4222e4208dc71202ad.m4a" length="85586895" type="audio/mp4"/>
+      <pubDate>Fri, 22 May 2026 07:00:00 +0000</pubDate>
+      <itunes:author>France Culture</itunes:author>
+      <itunes:duration>58:57</itunes:duration>
+      <itunes:subtitle>AUDIO Fou d'histoire, épisode : Emmanuel Ruben, écrivain-géographe à bicyclette. Une série inédite proposée par France Culture. Écoutez Emmanuel Ruben, écrivain-géographe à bicyclette, et découvrez nos podcasts en ligne.</itunes:subtitle>
+      <itunes:summary>AUDIO Fou d'histoire, épisode : Emmanuel Ruben, écrivain-géographe à bicyclette. Une série inédite proposée par France Culture. Écoutez Emmanuel Ruben, écrivain-géographe à bicyclette, et découvrez nos podcasts en ligne.</itunes:summary>
+    </item>
     <item>
       <title>Les fronts populaires dans le monde, histoires d’expériences politiques : épisode du podcast Front populaire, une histoire de luttes | France Culture</title>
       <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/les-fronts-populaires-dans-le-monde-histoires-d-experiences-politiques-4124120</link>
