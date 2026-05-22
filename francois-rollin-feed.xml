@@ -14,7 +14,7 @@
       <link>https://datojulien.github.io/GTRSS/francois-rollin-feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Fri, 22 May 2026 12:01:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 15:22:29 +0000</lastBuildDate>
     <itunes:author>France Inter</itunes:author>
     <itunes:category text="Comedy"/>
     <itunes:explicit>no</itunes:explicit>
@@ -24,6 +24,26 @@
     </itunes:owner>
     <itunes:subtitle>Flux personnel généré depuis le site Radio France</itunes:subtitle>
     <itunes:summary>Un flux RSS personnel qui récupère les épisodes depuis le site web de France Inter lorsque le flux officiel n’est pas encore à jour.</itunes:summary>
+    <item>
+      <title>Joli mois de mai</title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/le-billet-de-francois-rollin/francois-rollin-moi-ce-que-j-en-dis-du-vendredi-22-mai-2026-5509963</link>
+      <description>Joli mois de mai</description>
+      <content:encoded><![CDATA[
+        <p>Joli mois de mai</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceinter/podcasts/le-billet-de-francois-rollin/francois-rollin-moi-ce-que-j-en-dis-du-vendredi-22-mai-2026-5509963">France Inter</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/b66e4080-2221-4df9-9205-35e13f450bdd/1200x680" alt="Joli mois de mai" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceinter/podcasts/le-billet-de-francois-rollin/francois-rollin-moi-ce-que-j-en-dis-du-vendredi-22-mai-2026-5509963</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26803-22.05.2026-ITEMA_24521796-2026F22864S0142-NET_MFI_A1BF49E0-3495-4656-B1C5-0487F049383F-27-d8e798a39445790369018c2d247652da.m4a" length="5771668" type="audio/mp4"/>
+      <pubDate>Fri, 22 May 2026 14:55:00 +0000</pubDate>
+      <itunes:author>France Inter</itunes:author>
+      <itunes:duration>3:58</itunes:duration>
+      <itunes:subtitle>Joli mois de mai</itunes:subtitle>
+      <itunes:summary>Joli mois de mai</itunes:summary>
+    </item>
     <item>
       <title>Pas si con l'IA !</title>
       <link>https://www.radiofrance.fr/franceinter/podcasts/le-billet-de-francois-rollin/francois-rollin-moi-ce-que-j-en-dis-du-vendredi-15-mai-2026-1710652</link>
