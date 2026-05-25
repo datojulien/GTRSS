@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet version="1.0"
   xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
   xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
 
 <xsl:output method="html" encoding="UTF-8" indent="yes"/>
@@ -208,10 +209,28 @@
       <xsl:for-each select="/rss/channel/item">
         <article class="episode">
           <div class="cover">
-            <xsl:if test="itunes:image/@href">
+            <xsl:variable
+              name="contentImage"
+              select="substring-before(substring-after(content:encoded, '&lt;img src=&quot;'), '&quot;')"
+            />
+            <xsl:variable name="coverImage">
+              <xsl:choose>
+                <xsl:when test="itunes:image/@href">
+                  <xsl:value-of select="itunes:image/@href"/>
+                </xsl:when>
+                <xsl:when test="$contentImage != ''">
+                  <xsl:value-of select="$contentImage"/>
+                </xsl:when>
+                <xsl:otherwise>
+                  <xsl:value-of select="/rss/channel/image/url"/>
+                </xsl:otherwise>
+              </xsl:choose>
+            </xsl:variable>
+
+            <xsl:if test="$coverImage != ''">
               <img>
                 <xsl:attribute name="src">
-                  <xsl:value-of select="itunes:image/@href"/>
+                  <xsl:value-of select="$coverImage"/>
                 </xsl:attribute>
                 <xsl:attribute name="alt">
                   <xsl:value-of select="title"/>
