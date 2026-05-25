@@ -14,8 +14,8 @@
     <atom:link href="https://datojulien.github.io/GTRSS/only_remaining_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Mon, 25 May 2026 05:49:32 GMT</lastBuildDate>
-    <pubDate>Mon, 25 May 2026 05:49:32 GMT</pubDate>
+    <lastBuildDate>Mon, 25 May 2026 10:48:24 GMT</lastBuildDate>
+    <pubDate>Mon, 25 May 2026 10:48:24 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -45,6 +45,43 @@
     <ns3:category text="Comedy" />
     <ns4:person role="host">RTL</ns4:person>
     <ns4:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns4:txt>
+    <item>
+      <title>LE MEILLEUR DE RUQUIER - Un bègue vit un moment de malaise avec sa belle-mère...  L'histoire drôle de Laurent Ruquier</title>
+      <guid isPermaLink="false">4f94ab1d-1161-400a-bdd5-613d447dfc33</guid>
+      <description>Un bègue qui propose un challenge osé à sa belle-mère, l'histoire d'un ménage à plusieurs dans un zoo et le petit garçon qui demande à son papa la définition d'un alcoolique... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+&amp;nbsp;
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns5:encoded>Un bègue qui propose un challenge osé à sa belle-mère, l'histoire d'un ménage à plusieurs dans un zoo et le petit garçon qui demande à son papa la définition d'un alcoolique... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+&amp;nbsp;
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
+      <pubDate>Mon, 25 May 2026 09:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/4f94ab1d-1161-400a-bdd5-613d447dfc33.mp3?_=1779458581" length="2885971" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Un bègue qui propose un challenge osé à sa belle-mère, l'histoire d'un ménage à plusieurs dans un zoo et le petit garçon qui demande à son papa la définition d'un alcoolique... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
+      <ns3:description>Un bègue qui propose un challenge osé à sa belle-mère, l'histoire d'un ménage à plusieurs dans un zoo et le petit garçon qui demande à son papa la définition d'un alcoolique... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Un bègue qui propose un challenge osé à sa belle-mère, l'histoire d'un ménage à plusieurs dans un zoo et le petit garçon qui demande à son papa la définition d'un alcoolique... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laur...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>03:00</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/07a0a0d9-3e53-468d-9287-62ae4f2d0737.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/07a0a0d9-3e53-468d-9287-62ae4f2d0737.jpg" />
+      <ns4:person role="host">Laurent Ruquier</ns4:person>
+      <ns4:txt purpose="smartlink">https://audmns.com/yBYLMkv</ns4:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>COUPE DU MONDE DES GROSSES TÊTES - Alexis Le Rossignol affronte Karina Marimon !</title>
       <guid isPermaLink="false">5912fc7c-d2a8-44dc-8b64-a4746475d0da</guid>
