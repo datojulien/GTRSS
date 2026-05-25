@@ -15,6 +15,7 @@ ROOT = Path(__file__).resolve().parents[1]
 FEED_FILES = [
     "feed.xml",
     "francois-rollin-feed.xml",
+    "roselyne-bachelot-feed.xml",
     "only_integrale_feed.xml",
     "only_best_feed.xml",
     "only_remaining_feed.xml",
@@ -22,6 +23,7 @@ FEED_FILES = [
 XSL_FILES = [
     "feed-style.xsl",
     "francois-rollin-style.xsl",
+    "roselyne-bachelot-style.xsl",
     "grosses-tetes-style.xsl",
 ]
 NS = {
@@ -73,6 +75,7 @@ def test_radiofrance_archives_match_generated_feeds():
     pairs = [
         ("episodes.json", "feed.xml"),
         ("francois-rollin-episodes.json", "francois-rollin-feed.xml"),
+        ("roselyne-bachelot-episodes.json", "roselyne-bachelot-feed.xml"),
     ]
 
     for archive_path, feed_path in pairs:

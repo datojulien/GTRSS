@@ -35,7 +35,7 @@ jobs:
 
       - name: Run offline tests
         run: |
-          python -m py_compile build_feed.py build_rollin_feed.py keep_integrale.py
+          python -m py_compile build_feed.py build_rollin_feed.py build_bachelot_feed.py keep_integrale.py
           pytest
 
       - name: Build France Culture feed
@@ -43,6 +43,9 @@ jobs:
 
       - name: Build France Inter Rollin feed
         run: python build_rollin_feed.py
+
+      - name: Build France Musique Bachelot feed
+        run: python build_bachelot_feed.py
 
       - name: Build Grosses Têtes feeds
         run: python keep_integrale.py
@@ -54,11 +57,13 @@ jobs:
           for path in [
               "feed.xml",
               "francois-rollin-feed.xml",
+              "roselyne-bachelot-feed.xml",
               "only_integrale_feed.xml",
               "only_best_feed.xml",
               "only_remaining_feed.xml",
               "feed-style.xsl",
               "francois-rollin-style.xsl",
+              "roselyne-bachelot-style.xsl",
               "grosses-tetes-style.xsl",
           ]:
               ET.parse(path)
@@ -66,6 +71,7 @@ jobs:
           PY
           xsltproc feed-style.xsl feed.xml >/tmp/cours-histoire.html
           xsltproc francois-rollin-style.xsl francois-rollin-feed.xml >/tmp/francois-rollin.html
+          xsltproc roselyne-bachelot-style.xsl roselyne-bachelot-feed.xml >/tmp/roselyne-bachelot.html
           xsltproc grosses-tetes-style.xsl only_integrale_feed.xml >/tmp/grosses-tetes-integrale.html
           xsltproc grosses-tetes-style.xsl only_best_feed.xml >/tmp/grosses-tetes-best.html
           xsltproc grosses-tetes-style.xsl only_remaining_feed.xml >/tmp/grosses-tetes-remaining.html
@@ -77,6 +83,7 @@ jobs:
           git add \
             feed.xml feed-style.xsl episodes.json \
             francois-rollin-feed.xml francois-rollin-style.xsl francois-rollin-episodes.json \
+            roselyne-bachelot-feed.xml roselyne-bachelot-style.xsl roselyne-bachelot-episodes.json \
             only_integrale_feed.xml only_best_feed.xml only_remaining_feed.xml \
             grosses-tetes-style.xsl
           if git diff --cached --quiet; then

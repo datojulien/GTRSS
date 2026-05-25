@@ -3,13 +3,16 @@ import pytest
 from build_feed import (
     FRANCE_CULTURE_CONFIG,
     RadioFranceFeedConfig,
+    extract_episode_links_from_soup,
     parse_duration_to_seconds,
     parse_iso_date,
     public_file_url,
     seconds_to_itunes_duration,
     validate_archive,
 )
+from build_bachelot_feed import BACHELOT_CONFIG
 from build_rollin_feed import ROLLIN_CONFIG
+from bs4 import BeautifulSoup
 
 
 def test_duration_helpers():
@@ -59,6 +62,32 @@ def test_feed_configs_are_explicit():
     assert ROLLIN_CONFIG.output_file == "francois-rollin-feed.xml"
     assert ROLLIN_CONFIG.follow_pagination is True
     assert ROLLIN_CONFIG.min_published_date == "2025-08-01T00:00:00+00:00"
+    assert BACHELOT_CONFIG.output_file == "roselyne-bachelot-feed.xml"
+    assert BACHELOT_CONFIG.follow_pagination is True
+    assert BACHELOT_CONFIG.itunes_author == "France Musique"
+
+
+def test_radiofrance_link_extraction_accepts_legacy_episode_slugs():
+    soup = BeautifulSoup(
+        """
+        <a href="/francemusique/podcasts/la-chronique-de-roselyne-bachelot">show</a>
+        <a href="/francemusique/podcasts/la-chronique-de-roselyne-bachelot?p=2">page 2</a>
+        <a href="/francemusique/podcasts/la-chronique-de-roselyne-bachelot/champagne-ardent-3491601">new slug</a>
+        <a href="/francemusique/podcasts/la-chronique-de-roselyne-bachelot-cheikha-remitti-reine-du-rai-1064980">legacy slug</a>
+        """,
+        "html.parser",
+    )
+
+    assert extract_episode_links_from_soup(soup, BACHELOT_CONFIG) == [
+        (
+            "https://www.radiofrance.fr/francemusique/podcasts/"
+            "la-chronique-de-roselyne-bachelot/champagne-ardent-3491601"
+        ),
+        (
+            "https://www.radiofrance.fr/francemusique/podcasts/"
+            "la-chronique-de-roselyne-bachelot-cheikha-remitti-reine-du-rai-1064980"
+        ),
+    ]
 
 
 def test_public_file_url_defaults_to_github_pages(monkeypatch):

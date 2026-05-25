@@ -261,14 +261,22 @@ def extract_episode_links_from_soup(
     config: RadioFranceFeedConfig,
 ) -> list[str]:
     links = []
+    show_path = config.show_path.rstrip("/")
 
     for anchor in soup.find_all("a", href=True):
         href = anchor["href"]
 
-        if config.show_path not in href:
+        full_url = urljoin(BASE_URL, href)
+        parsed_url = urlparse(full_url)
+
+        if parsed_url.path == show_path:
             continue
 
-        full_url = urljoin(BASE_URL, href)
+        if not (
+            parsed_url.path.startswith(show_path + "/")
+            or parsed_url.path.startswith(show_path + "-")
+        ):
+            continue
 
         if full_url == config.show_url:
             continue

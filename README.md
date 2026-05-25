@@ -1,9 +1,10 @@
 # Personal Podcast RSS Feeds
 
-This repository publishes personal RSS feeds for three separate podcasts:
+This repository publishes personal RSS feeds for four separate podcasts:
 
 - **France Culture / Le Cours de l'histoire**: a fresh-feed bridge built from Radio France episode pages.
 - **France Inter / Le billet de François Rollin**: a fresh-feed bridge built from Radio France episode pages.
+- **France Musique / La chronique de Roselyne Bachelot**: a fresh-feed bridge built from Radio France episode pages.
 - **RTL / Les Grosses Têtes**: a splitter that turns the official Audiomeans feed into three smaller themed feeds.
 
 The generated XML files live at the repository root on purpose so existing feed URLs stay stable.
@@ -14,6 +15,7 @@ The generated XML files live at the repository root on purpose so existing feed 
 | --- | --- | --- | --- |
 | Le Cours de l'histoire | `feed.xml` | `build_feed.py` | `feed-style.xsl` |
 | Le billet de François Rollin | `francois-rollin-feed.xml` | `build_rollin_feed.py` | `francois-rollin-style.xsl` |
+| La chronique de Roselyne Bachelot | `roselyne-bachelot-feed.xml` | `build_bachelot_feed.py` | `roselyne-bachelot-style.xsl` |
 | Les Grosses Têtes, intégrales | `only_integrale_feed.xml` | `keep_integrale.py` | `grosses-tetes-style.xsl` |
 | Les Grosses Têtes, extras / best-of | `only_best_feed.xml` | `keep_integrale.py` | `grosses-tetes-style.xsl` |
 | Les Grosses Têtes, other episodes | `only_remaining_feed.xml` | `keep_integrale.py` | `grosses-tetes-style.xsl` |
@@ -30,6 +32,10 @@ The generated XML files live at the repository root on purpose so existing feed 
 ├── francois-rollin-feed.xml      # Generated France Inter / François Rollin feed
 ├── francois-rollin-style.xsl     # Browser view for francois-rollin-feed.xml
 ├── francois-rollin-episodes.json # France Inter / François Rollin archive/state
+├── build_bachelot_feed.py        # France Musique / Roselyne Bachelot feed builder
+├── roselyne-bachelot-feed.xml    # Generated France Musique / Roselyne Bachelot feed
+├── roselyne-bachelot-style.xsl   # Browser view for roselyne-bachelot-feed.xml
+├── roselyne-bachelot-episodes.json # France Musique / Roselyne Bachelot archive/state
 ├── keep_integrale.py             # Grosses Têtes feed splitter
 ├── only_integrale_feed.xml       # Generated Grosses Têtes intégrale feed
 ├── only_best_feed.xml            # Generated Grosses Têtes extras/best-of feed
@@ -86,6 +92,14 @@ python3 build_rollin_feed.py
 
 This reuses the Radio France builder, merges new entries into `francois-rollin-episodes.json`, validates the archive, and regenerates `francois-rollin-feed.xml`.
 
+Build only the France Musique / Roselyne Bachelot feed:
+
+```bash
+python3 build_bachelot_feed.py
+```
+
+This reuses the Radio France builder, merges new entries into `roselyne-bachelot-episodes.json`, validates the archive, and regenerates `roselyne-bachelot-feed.xml`.
+
 Build only the Grosses Têtes feeds:
 
 ```bash
@@ -106,7 +120,7 @@ This fetches the official Audiomeans source feed and regenerates:
 
 1. Install dependencies from `requirements-dev.txt`.
 2. Run offline tests.
-3. Run `build_feed.py`, `build_rollin_feed.py`, and `keep_integrale.py`.
+3. Run `build_feed.py`, `build_rollin_feed.py`, `build_bachelot_feed.py`, and `keep_integrale.py`.
 4. Validate XML and XSLT rendering.
 5. Commit only the known generated feed, style, and archive files if anything changed.
 
@@ -124,11 +138,13 @@ import xml.etree.ElementTree as ET
 for path in [
     "feed.xml",
     "francois-rollin-feed.xml",
+    "roselyne-bachelot-feed.xml",
     "only_integrale_feed.xml",
     "only_best_feed.xml",
     "only_remaining_feed.xml",
     "feed-style.xsl",
     "francois-rollin-style.xsl",
+    "roselyne-bachelot-style.xsl",
     "grosses-tetes-style.xsl",
 ]:
     ET.parse(path)
@@ -136,6 +152,7 @@ for path in [
 PY
 xsltproc feed-style.xsl feed.xml >/tmp/cours-histoire.html
 xsltproc francois-rollin-style.xsl francois-rollin-feed.xml >/tmp/francois-rollin.html
+xsltproc roselyne-bachelot-style.xsl roselyne-bachelot-feed.xml >/tmp/roselyne-bachelot.html
 xsltproc grosses-tetes-style.xsl only_integrale_feed.xml >/tmp/grosses-tetes-integrale.html
 xsltproc grosses-tetes-style.xsl only_best_feed.xml >/tmp/grosses-tetes-best.html
 xsltproc grosses-tetes-style.xsl only_remaining_feed.xml >/tmp/grosses-tetes-remaining.html
@@ -153,6 +170,7 @@ GTRSS_RUN_NETWORK_TESTS=1 pytest
 - The public base URL defaults to `https://datojulien.github.io/GTRSS/`; override with `GTRSS_PUBLIC_BASE_URL` only when intentionally publishing somewhere else.
 - `episodes.json` belongs to the France Culture feed only.
 - `francois-rollin-episodes.json` belongs to the France Inter / François Rollin feed only.
+- `roselyne-bachelot-episodes.json` belongs to the France Musique / Roselyne Bachelot feed only.
 - The three cover images belong to the Grosses Têtes split feeds only.
 - The debug/test helper scripts are for Radio France scraping experiments and are not part of the regular build path.
 

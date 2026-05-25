@@ -1,0 +1,768 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="roselyne-bachelot-style.xsl"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>La chronique de Roselyne Bachelot — Flux frais</title>
+    <link>https://datojulien.github.io/GTRSS/roselyne-bachelot-feed.xml</link>
+    <description>Un flux RSS personnel qui récupère les épisodes depuis le site web de France Musique lorsque le flux officiel n’est pas encore à jour.</description>
+    <atom:link href="https://datojulien.github.io/GTRSS/roselyne-bachelot-feed.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <image>
+      <url>https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/1200x680</url>
+      <title>La chronique de Roselyne Bachelot — Flux frais</title>
+      <link>https://datojulien.github.io/GTRSS/roselyne-bachelot-feed.xml</link>
+    </image>
+    <language>fr</language>
+    <lastBuildDate>Mon, 25 May 2026 09:45:15 +0000</lastBuildDate>
+    <itunes:author>France Musique</itunes:author>
+    <itunes:category text="Music"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>Personal RSS Bridge</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:subtitle>Flux personnel généré depuis le site Radio France</itunes:subtitle>
+    <itunes:summary>Un flux RSS personnel qui récupère les épisodes depuis le site web de France Musique lorsque le flux officiel n’est pas encore à jour.</itunes:summary>
+    <item>
+      <title>Son Tour de France lyrique</title>
+      <link>https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/son-tour-de-france-lyrique-1191855</link>
+      <description>Alors que les maisons lyriques annoncent leur saison 2026/2027, Roselyne Bachelot en épluche les programmes pour nous dévoiler ses coups de cœur : de Lyon à Marseille, en passant par Nantes, Angers et Toulouse, elle célèbre des choix audacieux et alerte sur les restrictions budgétaires.</description>
+      <content:encoded><![CDATA[
+        <p>Alors que les maisons lyriques annoncent leur saison 2026/2027, Roselyne Bachelot en épluche les programmes pour nous dévoiler ses coups de cœur : de Lyon à Marseille, en passant par Nantes, Angers et Toulouse, elle célèbre des choix audacieux et alerte sur les restrictions budgétaires.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/son-tour-de-france-lyrique-1191855">France Musique</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/1200x680" alt="Son Tour de France lyrique" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/son-tour-de-france-lyrique-1191855</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26865-22.05.2026-ITEMA_24522102-2026M26307S0142-NET_MFM_3C98727F-1EE1-4EEB-8975-2156A786D580-25-ba23b3cff2833891badf883734de36dd.m4a" length="9430395" type="audio/mp4"/>
+      <pubDate>Fri, 22 May 2026 06:07:00 +0000</pubDate>
+      <itunes:author>France Musique</itunes:author>
+      <itunes:duration>6:29</itunes:duration>
+      <itunes:subtitle>Alors que les maisons lyriques annoncent leur saison 2026/2027, Roselyne Bachelot en épluche les programmes pour nous dévoiler ses coups de cœur : de Lyon à Marseille, en passant par Nantes, Angers et Toulouse, elle célèbre des choix audacieux et alerte s</itunes:subtitle>
+      <itunes:summary>Alors que les maisons lyriques annoncent leur saison 2026/2027, Roselyne Bachelot en épluche les programmes pour nous dévoiler ses coups de cœur : de Lyon à Marseille, en passant par Nantes, Angers et Toulouse, elle célèbre des choix audacieux et alerte sur les restrictions budgétaires.</itunes:summary>
+    </item>
+    <item>
+      <title>Champagne ardent</title>
+      <link>https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/champagne-ardent-3491601</link>
+      <description>Cette semaine, Roselyne Bachelot se promène en Champagne et nous raconte le fabuleux destin du "Voyage à Reims", opéra-bouffe oublié de Gioachino Rossini. Composée en 1825 pour le sacre de Charles X, la pièce sera jouée en mai à Salzbourg à l'occasion du Festival de Pentecôte.</description>
+      <content:encoded><![CDATA[
+        <p>Cette semaine, Roselyne Bachelot se promène en Champagne et nous raconte le fabuleux destin du &quot;Voyage à Reims&quot;, opéra-bouffe oublié de Gioachino Rossini. Composée en 1825 pour le sacre de Charles X, la pièce sera jouée en mai à Salzbourg à l&#x27;occasion du Festival de Pentecôte.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/champagne-ardent-3491601">France Musique</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/1200x680" alt="Champagne ardent" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/champagne-ardent-3491601</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26865-15.05.2026-ITEMA_24513247-2026M26307S0135-NET_MFM_2962E74E-277A-44B8-A766-534FF1377384-25-e794eb3326644d891cd4dec49fa07ef5.m4a" length="12230946" type="audio/mp4"/>
+      <pubDate>Fri, 15 May 2026 06:07:00 +0000</pubDate>
+      <itunes:author>France Musique</itunes:author>
+      <itunes:duration>8:25</itunes:duration>
+      <itunes:subtitle>Cette semaine, Roselyne Bachelot se promène en Champagne et nous raconte le fabuleux destin du "Voyage à Reims", opéra-bouffe oublié de Gioachino Rossini. Composée en 1825 pour le sacre de Charles X, la pièce sera jouée en mai à Salzbourg à l'occasion du </itunes:subtitle>
+      <itunes:summary>Cette semaine, Roselyne Bachelot se promène en Champagne et nous raconte le fabuleux destin du "Voyage à Reims", opéra-bouffe oublié de Gioachino Rossini. Composée en 1825 pour le sacre de Charles X, la pièce sera jouée en mai à Salzbourg à l'occasion du Festival de Pentecôte.</itunes:summary>
+    </item>
+    <item>
+      <title>Cheikha Remitti, reine du raï</title>
+      <link>https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot-cheikha-remitti-reine-du-rai-1064980</link>
+      <description>Roselyne Bachelot déclare son amour au raï à travers Cheikha Remitti, pionnière rebelle et libre de ce genre musical algérien, disparue il y a vingt ans et dont la voix crue et audacieuse a bouleversé les codes et marqué des générations.</description>
+      <content:encoded><![CDATA[
+        <p>Roselyne Bachelot déclare son amour au raï à travers Cheikha Remitti, pionnière rebelle et libre de ce genre musical algérien, disparue il y a vingt ans et dont la voix crue et audacieuse a bouleversé les codes et marqué des générations.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot-cheikha-remitti-reine-du-rai-1064980">France Musique</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/4a9c389e-98cd-499d-b1f0-7d7d42799883/1200x680" alt="Cheikha Remitti, reine du raï" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot-cheikha-remitti-reine-du-rai-1064980</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26865-08.05.2026-ITEMA_24504729-2026M26307S0128-NET_MFM_76E5A52A-B6CB-42A1-813E-0F3033CAB973-25-f6a22bb383f3c9786e67111c58f653f8.m4a" length="10160249" type="audio/mp4"/>
+      <pubDate>Fri, 08 May 2026 06:07:00 +0000</pubDate>
+      <itunes:author>France Musique</itunes:author>
+      <itunes:duration>6:59</itunes:duration>
+      <itunes:subtitle>Roselyne Bachelot déclare son amour au raï à travers Cheikha Remitti, pionnière rebelle et libre de ce genre musical algérien, disparue il y a vingt ans et dont la voix crue et audacieuse a bouleversé les codes et marqué des générations.</itunes:subtitle>
+      <itunes:summary>Roselyne Bachelot déclare son amour au raï à travers Cheikha Remitti, pionnière rebelle et libre de ce genre musical algérien, disparue il y a vingt ans et dont la voix crue et audacieuse a bouleversé les codes et marqué des générations.</itunes:summary>
+    </item>
+    <item>
+      <title>Quand Lucia rencontre Lucie</title>
+      <link>https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/quand-lucia-rencontre-lucie-2572888</link>
+      <description>À l'occasion de la nouvelle production de "Lucie de Lammermoor", une version francisée de l'opéra de Gaetano Donizetti présentée à l'Opéra-Comique à Paris, Roselyne Bachelot revient sur l'histoire de ce chef-d'œuvre du bel canto adapté dans la langue de Molière.</description>
+      <content:encoded><![CDATA[
+        <p>À l&#x27;occasion de la nouvelle production de &quot;Lucie de Lammermoor&quot;, une version francisée de l&#x27;opéra de Gaetano Donizetti présentée à l&#x27;Opéra-Comique à Paris, Roselyne Bachelot revient sur l&#x27;histoire de ce chef-d&#x27;œuvre du bel canto adapté dans la langue de Molière.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/quand-lucia-rencontre-lucie-2572888">France Musique</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/1200x680" alt="Quand Lucia rencontre Lucie" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/quand-lucia-rencontre-lucie-2572888</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26865-01.05.2026-ITEMA_24496354-2026M26307S0121-NET_MFM_0D7A7736-6B7B-4B78-AA18-E1AEF34161C2-25-9f4ceaeccc62780490b43bc0fe50d844.m4a" length="11425821" type="audio/mp4"/>
+      <pubDate>Fri, 01 May 2026 06:07:00 +0000</pubDate>
+      <itunes:author>France Musique</itunes:author>
+      <itunes:duration>7:51</itunes:duration>
+      <itunes:subtitle>À l'occasion de la nouvelle production de "Lucie de Lammermoor", une version francisée de l'opéra de Gaetano Donizetti présentée à l'Opéra-Comique à Paris, Roselyne Bachelot revient sur l'histoire de ce chef-d'œuvre du bel canto adapté dans la langue de M</itunes:subtitle>
+      <itunes:summary>À l'occasion de la nouvelle production de "Lucie de Lammermoor", une version francisée de l'opéra de Gaetano Donizetti présentée à l'Opéra-Comique à Paris, Roselyne Bachelot revient sur l'histoire de ce chef-d'œuvre du bel canto adapté dans la langue de Molière.</itunes:summary>
+    </item>
+    <item>
+      <title>Gustave Moreau, la musique en toile de fond</title>
+      <link>https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/gustave-moreau-un-peintre-qui-avait-la-musique-en-toile-de-fond-9517508</link>
+      <description>À l'occasion du bicentenaire de la naissance du peintre Gustave Moreau, Roselyne Bachelot explore le lien intime que celui-ci entretenait avec la musique. Portrait d'un ami de George Bizet et de Charles Gounod, qui chantait et jouait lui-même du piano.</description>
+      <content:encoded><![CDATA[
+        <p>À l&#x27;occasion du bicentenaire de la naissance du peintre Gustave Moreau, Roselyne Bachelot explore le lien intime que celui-ci entretenait avec la musique. Portrait d&#x27;un ami de George Bizet et de Charles Gounod, qui chantait et jouait lui-même du piano.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/gustave-moreau-un-peintre-qui-avait-la-musique-en-toile-de-fond-9517508">France Musique</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/1200x680" alt="Gustave Moreau, la musique en toile de fond" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/gustave-moreau-un-peintre-qui-avait-la-musique-en-toile-de-fond-9517508</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26865-24.04.2026-ITEMA_24488098-2026M26307S0114-NET_MFM_89D1E29C-9569-4275-A7D6-7EEB6D75A846-25-881a203552d3a0a79c982c994cee0e16.m4a" length="16336248" type="audio/mp4"/>
+      <pubDate>Fri, 24 Apr 2026 06:07:00 +0000</pubDate>
+      <itunes:author>France Musique</itunes:author>
+      <itunes:duration>11:14</itunes:duration>
+      <itunes:subtitle>À l'occasion du bicentenaire de la naissance du peintre Gustave Moreau, Roselyne Bachelot explore le lien intime que celui-ci entretenait avec la musique. Portrait d'un ami de George Bizet et de Charles Gounod, qui chantait et jouait lui-même du piano.</itunes:subtitle>
+      <itunes:summary>À l'occasion du bicentenaire de la naissance du peintre Gustave Moreau, Roselyne Bachelot explore le lien intime que celui-ci entretenait avec la musique. Portrait d'un ami de George Bizet et de Charles Gounod, qui chantait et jouait lui-même du piano.</itunes:summary>
+    </item>
+    <item>
+      <title>Tambour battant !</title>
+      <link>https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/tambour-battant-2026-7990340</link>
+      <description>Du Cid à Aya Nakamura, le tambour traverse l’histoire de la musique militaire. Roselyne Bachelot en explore les usages, du champ de bataille aux défilés, entre transmission des ordres, rythmes martiaux et héritage toujours vivant.</description>
+      <content:encoded><![CDATA[
+        <p>Du Cid à Aya Nakamura, le tambour traverse l’histoire de la musique militaire. Roselyne Bachelot en explore les usages, du champ de bataille aux défilés, entre transmission des ordres, rythmes martiaux et héritage toujours vivant.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/tambour-battant-2026-7990340">France Musique</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/1200x680" alt="Tambour battant !" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/tambour-battant-2026-7990340</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26865-17.04.2026-ITEMA_24479791-2026M26307S0107-NET_MFM_7C16435C-20F1-47E1-B751-A750C232D4FD-25-4fb28af69071795e5e96ded52956c1dc.m4a" length="10284888" type="audio/mp4"/>
+      <pubDate>Fri, 17 Apr 2026 06:07:00 +0000</pubDate>
+      <itunes:author>France Musique</itunes:author>
+      <itunes:duration>7:04</itunes:duration>
+      <itunes:subtitle>Du Cid à Aya Nakamura, le tambour traverse l’histoire de la musique militaire. Roselyne Bachelot en explore les usages, du champ de bataille aux défilés, entre transmission des ordres, rythmes martiaux et héritage toujours vivant.</itunes:subtitle>
+      <itunes:summary>Du Cid à Aya Nakamura, le tambour traverse l’histoire de la musique militaire. Roselyne Bachelot en explore les usages, du champ de bataille aux défilés, entre transmission des ordres, rythmes martiaux et héritage toujours vivant.</itunes:summary>
+    </item>
+    <item>
+      <title>La Voix du silence : hommage à André Malraux</title>
+      <link>https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-10-avril-2026-3031684</link>
+      <description>Cinquante ans après la disparition d'André Malraux, Roselyne Bachelot revient sur la figure mythique de son illustre prédécesseur, pour bousculer une légende tenace : celle d'un ministre de la Culture qui aurait été tout à fait indifférent à la musique…</description>
+      <content:encoded><![CDATA[
+        <p>Cinquante ans après la disparition d&#x27;André Malraux, Roselyne Bachelot revient sur la figure mythique de son illustre prédécesseur, pour bousculer une légende tenace : celle d&#x27;un ministre de la Culture qui aurait été tout à fait indifférent à la musique…</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-10-avril-2026-3031684">France Musique</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/1200x680" alt="La Voix du silence : hommage à André Malraux" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-10-avril-2026-3031684</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26865-10.04.2026-ITEMA_24471668-2026M26307S0100-NET_MFM_BBE64853-B93B-440F-B7C9-722DE0164180-25-7ea331684c108f6fca2670a1cb0b318d.m4a" length="11532605" type="audio/mp4"/>
+      <pubDate>Fri, 10 Apr 2026 06:07:00 +0000</pubDate>
+      <itunes:author>France Musique</itunes:author>
+      <itunes:duration>7:56</itunes:duration>
+      <itunes:subtitle>Cinquante ans après la disparition d'André Malraux, Roselyne Bachelot revient sur la figure mythique de son illustre prédécesseur, pour bousculer une légende tenace : celle d'un ministre de la Culture qui aurait été tout à fait indifférent à la musique…</itunes:subtitle>
+      <itunes:summary>Cinquante ans après la disparition d'André Malraux, Roselyne Bachelot revient sur la figure mythique de son illustre prédécesseur, pour bousculer une légende tenace : celle d'un ministre de la Culture qui aurait été tout à fait indifférent à la musique…</itunes:summary>
+    </item>
+    <item>
+      <title>La mémoire musicale de l'Iran</title>
+      <link>https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-03-avril-2026-7474670</link>
+      <description>Alors que le pays est au cœur de l'actualité, Roselyne Bachelot rend hommage à la culture et à la musique iraniennes, de Serge Rezvani à la compositrice Golfam Khayam en passant par l’artiste électro Ash Koosha</description>
+      <content:encoded><![CDATA[
+        <p>Alors que le pays est au cœur de l&#x27;actualité, Roselyne Bachelot rend hommage à la culture et à la musique iraniennes, de Serge Rezvani à la compositrice Golfam Khayam en passant par l’artiste électro Ash Koosha</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-03-avril-2026-7474670">France Musique</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/1200x680" alt="La mémoire musicale de l&#x27;Iran" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-03-avril-2026-7474670</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26865-03.04.2026-ITEMA_24463750-2026M26307S0093-NET_MFM_8958BF92-9C95-45F6-89DB-BB3241BE1097-25-0002b62a7e44e7efbacdd9e369e5cead.m4a" length="11621226" type="audio/mp4"/>
+      <pubDate>Fri, 03 Apr 2026 06:07:00 +0000</pubDate>
+      <itunes:author>France Musique</itunes:author>
+      <itunes:duration>7:59</itunes:duration>
+      <itunes:subtitle>Alors que le pays est au cœur de l'actualité, Roselyne Bachelot rend hommage à la culture et à la musique iraniennes, de Serge Rezvani à la compositrice Golfam Khayam en passant par l’artiste électro Ash Koosha</itunes:subtitle>
+      <itunes:summary>Alors que le pays est au cœur de l'actualité, Roselyne Bachelot rend hommage à la culture et à la musique iraniennes, de Serge Rezvani à la compositrice Golfam Khayam en passant par l’artiste électro Ash Koosha</itunes:summary>
+    </item>
+    <item>
+      <title>Rule, Britten !</title>
+      <link>https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-27-mars-2026-3468150</link>
+      <description>Pour commémorer les cinquante ans de la mort de Benjamin Britten, Roselyne Bachelot célèbre le répertoire britannique, du baryton-basse gallois Bryn Terfel à John Dowland, en passant par les chefs-d’œuvre lyriques du compositeur de "Billy Budd".</description>
+      <content:encoded><![CDATA[
+        <p>Pour commémorer les cinquante ans de la mort de Benjamin Britten, Roselyne Bachelot célèbre le répertoire britannique, du baryton-basse gallois Bryn Terfel à John Dowland, en passant par les chefs-d’œuvre lyriques du compositeur de &quot;Billy Budd&quot;.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-27-mars-2026-3468150">France Musique</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/1200x680" alt="Rule, Britten !" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-27-mars-2026-3468150</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/21713-27.03.2026-ITEMA_24430966-2026M26307S0086-NET_MFM_9FD99484-1B2F-4FE1-90A2-F2822C1F8D5D-21-da6d3ad7876e9a2ef20bc7c277197818.mp3" length="6448807" type="audio/mpeg"/>
+      <pubDate>Fri, 27 Mar 2026 07:07:00 +0000</pubDate>
+      <itunes:author>France Musique</itunes:author>
+      <itunes:duration>6:41</itunes:duration>
+      <itunes:subtitle>Pour commémorer les cinquante ans de la mort de Benjamin Britten, Roselyne Bachelot célèbre le répertoire britannique, du baryton-basse gallois Bryn Terfel à John Dowland, en passant par les chefs-d’œuvre lyriques du compositeur de "Billy Budd".</itunes:subtitle>
+      <itunes:summary>Pour commémorer les cinquante ans de la mort de Benjamin Britten, Roselyne Bachelot célèbre le répertoire britannique, du baryton-basse gallois Bryn Terfel à John Dowland, en passant par les chefs-d’œuvre lyriques du compositeur de "Billy Budd".</itunes:summary>
+    </item>
+    <item>
+      <title>Quand la musique crève l'écran</title>
+      <link>https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/quand-la-musique-creve-l-ecran-2625170</link>
+      <description>Lorsque le cinéma puise dans les airs les plus célèbres de la musique classique, celle-ci lui vole souvent la vedette ! À l'approche des Oscars, Roselyne Bachelot revient sur ces œuvres devenues de vrais personnages principaux, de "La Grande vadrouille" aux frères Taviani en passant par Coppola.</description>
+      <content:encoded><![CDATA[
+        <p>Lorsque le cinéma puise dans les airs les plus célèbres de la musique classique, celle-ci lui vole souvent la vedette ! À l&#x27;approche des Oscars, Roselyne Bachelot revient sur ces œuvres devenues de vrais personnages principaux, de &quot;La Grande vadrouille&quot; aux frères Taviani en passant par Coppola.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/quand-la-musique-creve-l-ecran-2625170">France Musique</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/1200x680" alt="Quand la musique crève l&#x27;écran" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/quand-la-musique-creve-l-ecran-2625170</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/16405-13.03.2026-ITEMA_24439662-2026M26307S0072-NET_MFM_62DFDB4A-A8BD-4691-8C4E-FBE9F918EAF7-21-85284a8bf0b54d0b0fb7090f3e73b338.mp3" length="7919175" type="audio/mpeg"/>
+      <pubDate>Fri, 13 Mar 2026 07:07:00 +0000</pubDate>
+      <itunes:author>France Musique</itunes:author>
+      <itunes:duration>8:13</itunes:duration>
+      <itunes:subtitle>Lorsque le cinéma puise dans les airs les plus célèbres de la musique classique, celle-ci lui vole souvent la vedette ! À l'approche des Oscars, Roselyne Bachelot revient sur ces œuvres devenues de vrais personnages principaux, de "La Grande vadrouille" a</itunes:subtitle>
+      <itunes:summary>Lorsque le cinéma puise dans les airs les plus célèbres de la musique classique, celle-ci lui vole souvent la vedette ! À l'approche des Oscars, Roselyne Bachelot revient sur ces œuvres devenues de vrais personnages principaux, de "La Grande vadrouille" aux frères Taviani en passant par Coppola.</itunes:summary>
+    </item>
+    <item>
+      <title>8 mars : dans le monde de la musique et ailleurs, le combat continue !</title>
+      <link>https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-06-mars-2026-8052290</link>
+      <description>À l'avant-veille de la Journée internationale des droits des femmes, Roselyne Bachelot analyse la place des femmes dans la musique et ailleurs. Et si c'était à l’opéra que le processus d’asservissement patriarcal et les rapports de pouvoir entre hommes et femmes étaient le mieux décrits ?</description>
+      <content:encoded><![CDATA[
+        <p>À l&#x27;avant-veille de la Journée internationale des droits des femmes, Roselyne Bachelot analyse la place des femmes dans la musique et ailleurs. Et si c&#x27;était à l’opéra que le processus d’asservissement patriarcal et les rapports de pouvoir entre hommes et femmes étaient le mieux décrits ?</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-06-mars-2026-8052290">France Musique</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/1200x680" alt="8 mars : dans le monde de la musique et ailleurs, le combat continue !" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-06-mars-2026-8052290</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/16405-06.03.2026-ITEMA_24431656-2026M26307S0065-NET_MFM_F7535DFD-4624-4E11-9516-7933F2649F6D-21-685fd067cefd8b67db84eabf989d5b16.mp3" length="7512564" type="audio/mpeg"/>
+      <pubDate>Fri, 06 Mar 2026 07:07:00 +0000</pubDate>
+      <itunes:author>France Musique</itunes:author>
+      <itunes:duration>7:48</itunes:duration>
+      <itunes:subtitle>À l'avant-veille de la Journée internationale des droits des femmes, Roselyne Bachelot analyse la place des femmes dans la musique et ailleurs. Et si c'était à l’opéra que le processus d’asservissement patriarcal et les rapports de pouvoir entre hommes et</itunes:subtitle>
+      <itunes:summary>À l'avant-veille de la Journée internationale des droits des femmes, Roselyne Bachelot analyse la place des femmes dans la musique et ailleurs. Et si c'était à l’opéra que le processus d’asservissement patriarcal et les rapports de pouvoir entre hommes et femmes étaient le mieux décrits ?</itunes:summary>
+    </item>
+    <item>
+      <title>O Breizh, ma bro !</title>
+      <link>https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/o-breizh-ma-bro-2317618</link>
+      <description>Qui sont les musiciens classiques bretons ? De Julie de Marigny à Paul Ladmirault en passant par Guy Ropartz et Rita Strohl, Roselyne Bachelot évoque la Bretagne, terre de traditions musicales qui a aussi vu naître des compositrices et compositeurs classiques au style singulier.</description>
+      <content:encoded><![CDATA[
+        <p>Qui sont les musiciens classiques bretons ? De Julie de Marigny à Paul Ladmirault en passant par Guy Ropartz et Rita Strohl, Roselyne Bachelot évoque la Bretagne, terre de traditions musicales qui a aussi vu naître des compositrices et compositeurs classiques au style singulier.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/o-breizh-ma-bro-2317618">France Musique</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/1200x680" alt="O Breizh, ma bro !" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/o-breizh-ma-bro-2317618</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/21713-27.02.2026-ITEMA_24416531-2026M26307S0058-NET_MFM_FFDC3E0D-716C-46D7-9D0F-29BCF4FBEC30-21-5589b958b7b096261338e7e558682369.mp3" length="8225623" type="audio/mpeg"/>
+      <pubDate>Fri, 27 Feb 2026 07:07:00 +0000</pubDate>
+      <itunes:author>France Musique</itunes:author>
+      <itunes:duration>8:32</itunes:duration>
+      <itunes:subtitle>Qui sont les musiciens classiques bretons ? De Julie de Marigny à Paul Ladmirault en passant par Guy Ropartz et Rita Strohl, Roselyne Bachelot évoque la Bretagne, terre de traditions musicales qui a aussi vu naître des compositrices et compositeurs classi</itunes:subtitle>
+      <itunes:summary>Qui sont les musiciens classiques bretons ? De Julie de Marigny à Paul Ladmirault en passant par Guy Ropartz et Rita Strohl, Roselyne Bachelot évoque la Bretagne, terre de traditions musicales qui a aussi vu naître des compositrices et compositeurs classiques au style singulier.</itunes:summary>
+    </item>
+    <item>
+      <title>Hommage à José van Dam, le maître de musique</title>
+      <link>https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/hommage-a-jose-van-dam-le-maitre-de-musique-4968398</link>
+      <description>Alors que nous venons d'apprendre la disparition du baryton-basse belge José van Dam, Roselyne Bachelot rend hommage à cette légende du chant lyrique, notamment connu pour son implication à la Chapelle Musicale Reine Elisabeth à Bruxelles.</description>
+      <content:encoded><![CDATA[
+        <p>Alors que nous venons d&#x27;apprendre la disparition du baryton-basse belge José van Dam, Roselyne Bachelot rend hommage à cette légende du chant lyrique, notamment connu pour son implication à la Chapelle Musicale Reine Elisabeth à Bruxelles.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/hommage-a-jose-van-dam-le-maitre-de-musique-4968398">France Musique</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/1200x680" alt="Hommage à José van Dam, le maître de musique" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/hommage-a-jose-van-dam-le-maitre-de-musique-4968398</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/16405-20.02.2026-ITEMA_24415946-2026M26307S0051-NET_MFM_5ECCC003-411A-4B4C-BE9D-04BD2BA6D1A6-21-ca1749bc6b1ce86b8f3e6e3828b7a00a.mp3" length="8788860" type="audio/mpeg"/>
+      <pubDate>Fri, 20 Feb 2026 07:07:00 +0000</pubDate>
+      <itunes:author>France Musique</itunes:author>
+      <itunes:duration>9:07</itunes:duration>
+      <itunes:subtitle>Alors que nous venons d'apprendre la disparition du baryton-basse belge José van Dam, Roselyne Bachelot rend hommage à cette légende du chant lyrique, notamment connu pour son implication à la Chapelle Musicale Reine Elisabeth à Bruxelles.</itunes:subtitle>
+      <itunes:summary>Alors que nous venons d'apprendre la disparition du baryton-basse belge José van Dam, Roselyne Bachelot rend hommage à cette légende du chant lyrique, notamment connu pour son implication à la Chapelle Musicale Reine Elisabeth à Bruxelles.</itunes:summary>
+    </item>
+    <item>
+      <title>Renée Fleming, diva et citoyenne</title>
+      <link>https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-13-fevrier-2026-9225740</link>
+      <description>Ce vendredi, Roselyne Bachelot évoque Renée Fleming, à l'affiche de l'Opéra de Paris dans "Nixon in China" de John Adams, la soprano américaine ayant récemment fait parler d'elle en démissionnant de son poste de conseillère artistique du Kennedy-Trump Center.</description>
+      <content:encoded><![CDATA[
+        <p>Ce vendredi, Roselyne Bachelot évoque Renée Fleming, à l&#x27;affiche de l&#x27;Opéra de Paris dans &quot;Nixon in China&quot; de John Adams, la soprano américaine ayant récemment fait parler d&#x27;elle en démissionnant de son poste de conseillère artistique du Kennedy-Trump Center.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-13-fevrier-2026-9225740">France Musique</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/1200x680" alt="Renée Fleming, diva et citoyenne" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-13-fevrier-2026-9225740</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/16405-13.02.2026-ITEMA_24407921-2026M26307S0044-NET_MFM_3B7135F2-904F-4F58-984B-63E69C0F01A0-21-30b4bd2318f1262bc9d63d5c40d7fc76.mp3" length="5761179" type="audio/mpeg"/>
+      <pubDate>Fri, 13 Feb 2026 07:07:00 +0000</pubDate>
+      <itunes:author>France Musique</itunes:author>
+      <itunes:duration>5:58</itunes:duration>
+      <itunes:subtitle>Ce vendredi, Roselyne Bachelot évoque Renée Fleming, à l'affiche de l'Opéra de Paris dans "Nixon in China" de John Adams, la soprano américaine ayant récemment fait parler d'elle en démissionnant de son poste de conseillère artistique du Kennedy-Trump Cen</itunes:subtitle>
+      <itunes:summary>Ce vendredi, Roselyne Bachelot évoque Renée Fleming, à l'affiche de l'Opéra de Paris dans "Nixon in China" de John Adams, la soprano américaine ayant récemment fait parler d'elle en démissionnant de son poste de conseillère artistique du Kennedy-Trump Center.</itunes:summary>
+    </item>
+    <item>
+      <title>Rhumes, malaises, accidents... les maux des chanteurs</title>
+      <link>https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-rhumes-malaises-accidents-les-maux-des-chanteurs-4173215</link>
+      <description>Les chanteurs lyriques sont-ils des êtres fragiles ? Roselyne Bachelot ouvre le débat après le remplacement au pied levé de Roberto Alagna la semaine dernière, en pleine représentation de "Turandot" au Royal Opera House de Londres.</description>
+      <content:encoded><![CDATA[
+        <p>Les chanteurs lyriques sont-ils des êtres fragiles ? Roselyne Bachelot ouvre le débat après le remplacement au pied levé de Roberto Alagna la semaine dernière, en pleine représentation de &quot;Turandot&quot; au Royal Opera House de Londres.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-rhumes-malaises-accidents-les-maux-des-chanteurs-4173215">France Musique</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/1200x680" alt="Rhumes, malaises, accidents... les maux des chanteurs" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-rhumes-malaises-accidents-les-maux-des-chanteurs-4173215</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/16405-06.02.2026-ITEMA_24399705-2026M26307S0037-NET_MFM_E2F3792E-79BB-41CC-B4EA-6E20D79DDE73-21-e881f384757f85192b6627d71ead637c.mp3" length="7127839" type="audio/mpeg"/>
+      <pubDate>Fri, 06 Feb 2026 07:07:00 +0000</pubDate>
+      <itunes:author>France Musique</itunes:author>
+      <itunes:duration>7:24</itunes:duration>
+      <itunes:subtitle>Les chanteurs lyriques sont-ils des êtres fragiles ? Roselyne Bachelot ouvre le débat après le remplacement au pied levé de Roberto Alagna la semaine dernière, en pleine représentation de "Turandot" au Royal Opera House de Londres.</itunes:subtitle>
+      <itunes:summary>Les chanteurs lyriques sont-ils des êtres fragiles ? Roselyne Bachelot ouvre le débat après le remplacement au pied levé de Roberto Alagna la semaine dernière, en pleine représentation de "Turandot" au Royal Opera House de Londres.</itunes:summary>
+    </item>
+    <item>
+      <title>Si Wagner m'était conté</title>
+      <link>https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-23-janvier-2026-8288081</link>
+      <description>À l'occasion de la programmation de "Siegfried" à l'Opéra Bastille jusqu'au 31 janvier, Roselyne Bachelot évoque l'histoire et la complexité redoutable de ce chef-d'œuvre wagnérien, troisième opus de la Tétralogie, ainsi que la puissance du rôle-titre, campé par le ténor autrichien Andreas Schager.</description>
+      <content:encoded><![CDATA[
+        <p>À l&#x27;occasion de la programmation de &quot;Siegfried&quot; à l&#x27;Opéra Bastille jusqu&#x27;au 31 janvier, Roselyne Bachelot évoque l&#x27;histoire et la complexité redoutable de ce chef-d&#x27;œuvre wagnérien, troisième opus de la Tétralogie, ainsi que la puissance du rôle-titre, campé par le ténor autrichien Andreas Schager.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-23-janvier-2026-8288081">France Musique</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/1200x680" alt="Si Wagner m&#x27;était conté" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-23-janvier-2026-8288081</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/16405-23.01.2026-ITEMA_24383611-2026M26307S0023-NET_MFM_FFCE76C8-FA98-4ACD-833B-C6BF09BFC865-21-b6044061ab5e4031b1900352c0e92ff6.mp3" length="6872669" type="audio/mpeg"/>
+      <pubDate>Fri, 23 Jan 2026 07:07:00 +0000</pubDate>
+      <itunes:author>France Musique</itunes:author>
+      <itunes:duration>7:08</itunes:duration>
+      <itunes:subtitle>À l'occasion de la programmation de "Siegfried" à l'Opéra Bastille jusqu'au 31 janvier, Roselyne Bachelot évoque l'histoire et la complexité redoutable de ce chef-d'œuvre wagnérien, troisième opus de la Tétralogie, ainsi que la puissance du rôle-titre, ca</itunes:subtitle>
+      <itunes:summary>À l'occasion de la programmation de "Siegfried" à l'Opéra Bastille jusqu'au 31 janvier, Roselyne Bachelot évoque l'histoire et la complexité redoutable de ce chef-d'œuvre wagnérien, troisième opus de la Tétralogie, ainsi que la puissance du rôle-titre, campé par le ténor autrichien Andreas Schager.</itunes:summary>
+    </item>
+    <item>
+      <title>Quels anniversaires en 2026 ?</title>
+      <link>https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-16-janvier-2026-8337803</link>
+      <description>Qui dit nouvelle année dit aussi anniversaires, centenaires et autres commémorations. Ce matin, Roselyne Bachelot évoque les grands noms de 2026 : Benjamin Britten, Léo Delibes mais aussi la compositrice Betsy Jolas, dont on fêtera le centenaire de la naissance le 5 août prochain.</description>
+      <content:encoded><![CDATA[
+        <p>Qui dit nouvelle année dit aussi anniversaires, centenaires et autres commémorations. Ce matin, Roselyne Bachelot évoque les grands noms de 2026 : Benjamin Britten, Léo Delibes mais aussi la compositrice Betsy Jolas, dont on fêtera le centenaire de la naissance le 5 août prochain.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-16-janvier-2026-8337803">France Musique</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/1200x680" alt="Quels anniversaires en 2026 ?" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-16-janvier-2026-8337803</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/16405-16.01.2026-ITEMA_24376117-2026M26307S0016-NET_MFM_781981A7-F14F-4628-BDA8-D63D101B570B-21-1931d32c4d628aeb2ec86d4266c42803.mp3" length="8907686" type="audio/mpeg"/>
+      <pubDate>Fri, 16 Jan 2026 07:07:00 +0000</pubDate>
+      <itunes:author>France Musique</itunes:author>
+      <itunes:duration>9:15</itunes:duration>
+      <itunes:subtitle>Qui dit nouvelle année dit aussi anniversaires, centenaires et autres commémorations. Ce matin, Roselyne Bachelot évoque les grands noms de 2026 : Benjamin Britten, Léo Delibes mais aussi la compositrice Betsy Jolas, dont on fêtera le centenaire de la nai</itunes:subtitle>
+      <itunes:summary>Qui dit nouvelle année dit aussi anniversaires, centenaires et autres commémorations. Ce matin, Roselyne Bachelot évoque les grands noms de 2026 : Benjamin Britten, Léo Delibes mais aussi la compositrice Betsy Jolas, dont on fêtera le centenaire de la naissance le 5 août prochain.</itunes:summary>
+    </item>
+    <item>
+      <title>La statue de l'Opéra</title>
+      <link>https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-09-janvier-2026-4214756</link>
+      <description>Dans sa chronique du vendredi, Roselyne Bachelot raconte l'histoire rocambolesque du "Drame Lyrique", une statue allégorique d'Alexandre Falguière qui retrouve sa place originelle à l'Opéra Comique, après une odyssée longue de 133 ans passant par Paris, Angers et Berlin.</description>
+      <content:encoded><![CDATA[
+        <p>Dans sa chronique du vendredi, Roselyne Bachelot raconte l&#x27;histoire rocambolesque du &quot;Drame Lyrique&quot;, une statue allégorique d&#x27;Alexandre Falguière qui retrouve sa place originelle à l&#x27;Opéra Comique, après une odyssée longue de 133 ans passant par Paris, Angers et Berlin.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-09-janvier-2026-4214756">France Musique</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/1200x680" alt="La statue de l&#x27;Opéra" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-09-janvier-2026-4214756</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/16405-09.01.2026-ITEMA_24368436-2026M26307S0009-NET_MFM_4B8A0E5A-8967-4012-9094-276E5954BE60-21-809e294748afe91a984bf6b42e236785.mp3" length="9119555" type="audio/mpeg"/>
+      <pubDate>Fri, 09 Jan 2026 07:07:00 +0000</pubDate>
+      <itunes:author>France Musique</itunes:author>
+      <itunes:duration>9:28</itunes:duration>
+      <itunes:subtitle>Dans sa chronique du vendredi, Roselyne Bachelot raconte l'histoire rocambolesque du "Drame Lyrique", une statue allégorique d'Alexandre Falguière qui retrouve sa place originelle à l'Opéra Comique, après une odyssée longue de 133 ans passant par Paris, A</itunes:subtitle>
+      <itunes:summary>Dans sa chronique du vendredi, Roselyne Bachelot raconte l'histoire rocambolesque du "Drame Lyrique", une statue allégorique d'Alexandre Falguière qui retrouve sa place originelle à l'Opéra Comique, après une odyssée longue de 133 ans passant par Paris, Angers et Berlin.</itunes:summary>
+    </item>
+    <item>
+      <title>La culture, grande oubliée des élections municipales ?</title>
+      <link>https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-02-janvier-2026-4251887</link>
+      <description>Avec l’entrée dans l’année 2026, les élections municipales de mars approchent à grand pas. Dans un contexte de restrictions budgétaires quasi-généralisé et de crise profonde du spectacle vivant, les communes vont-elles pouvoir maintenir à flot leurs investissements dans la culture ?</description>
+      <content:encoded><![CDATA[
+        <p>Avec l’entrée dans l’année 2026, les élections municipales de mars approchent à grand pas. Dans un contexte de restrictions budgétaires quasi-généralisé et de crise profonde du spectacle vivant, les communes vont-elles pouvoir maintenir à flot leurs investissements dans la culture ?</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-02-janvier-2026-4251887">France Musique</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/1200x680" alt="La culture, grande oubliée des élections municipales ?" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-02-janvier-2026-4251887</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/16405-02.01.2026-ITEMA_24360858-2026M26307S0002-NET_MFM_248E5858-BF08-4071-A209-431B5F5BF907-21-883018917a45f16c9b2dea05839220e0.mp3" length="7994845" type="audio/mpeg"/>
+      <pubDate>Fri, 02 Jan 2026 07:07:00 +0000</pubDate>
+      <itunes:author>France Musique</itunes:author>
+      <itunes:duration>8:18</itunes:duration>
+      <itunes:subtitle>Avec l’entrée dans l’année 2026, les élections municipales de mars approchent à grand pas. Dans un contexte de restrictions budgétaires quasi-généralisé et de crise profonde du spectacle vivant, les communes vont-elles pouvoir maintenir à flot leurs inves</itunes:subtitle>
+      <itunes:summary>Avec l’entrée dans l’année 2026, les élections municipales de mars approchent à grand pas. Dans un contexte de restrictions budgétaires quasi-généralisé et de crise profonde du spectacle vivant, les communes vont-elles pouvoir maintenir à flot leurs investissements dans la culture ?</itunes:summary>
+    </item>
+    <item>
+      <title>2025 en musique</title>
+      <link>https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-2025-en-musique-6179140</link>
+      <description>Pour cette dernière chronique de l'année 2025, Roselyne Bachelot égrène ses '"tops et flops" de l'année 2025 : on en retient la belle floraison des talents lyriques français ou francophones ainsi que le succès de la Philharmonie de Paris qui fêtait ses 10 ans cette année.</description>
+      <content:encoded><![CDATA[
+        <p>Pour cette dernière chronique de l&#x27;année 2025, Roselyne Bachelot égrène ses &#x27;&quot;tops et flops&quot; de l&#x27;année 2025 : on en retient la belle floraison des talents lyriques français ou francophones ainsi que le succès de la Philharmonie de Paris qui fêtait ses 10 ans cette année.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-2025-en-musique-6179140">France Musique</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/1200x680" alt="2025 en musique" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-2025-en-musique-6179140</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/16405-26.12.2025-ITEMA_24354907-2025M26307S0360-NET_MFM_38F28112-83C8-402F-94AF-8DC9551D518F-21-0e49e03305010475571c5ec0c705f905.mp3" length="8142775" type="audio/mpeg"/>
+      <pubDate>Fri, 26 Dec 2025 07:07:00 +0000</pubDate>
+      <itunes:author>France Musique</itunes:author>
+      <itunes:duration>8:27</itunes:duration>
+      <itunes:subtitle>Pour cette dernière chronique de l'année 2025, Roselyne Bachelot égrène ses '"tops et flops" de l'année 2025 : on en retient la belle floraison des talents lyriques français ou francophones ainsi que le succès de la Philharmonie de Paris qui fêtait ses 10</itunes:subtitle>
+      <itunes:summary>Pour cette dernière chronique de l'année 2025, Roselyne Bachelot égrène ses '"tops et flops" de l'année 2025 : on en retient la belle floraison des talents lyriques français ou francophones ainsi que le succès de la Philharmonie de Paris qui fêtait ses 10 ans cette année.</itunes:summary>
+    </item>
+    <item>
+      <title>Noël farceur</title>
+      <link>https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-19-decembre-2025-3080952</link>
+      <description>A l'approche de Noël, Roselyne Bachelot nous parle des Messes de Minuit mais aussi des facéties cachées dans certains cantiques catholiques de la Nativité : contre toute attente, "Les Trois anges" d’Augusta Holmès et "Minuit Chrétiens" d'Adolphe Adam se révèlent être assez transgressifs...</description>
+      <content:encoded><![CDATA[
+        <p>A l&#x27;approche de Noël, Roselyne Bachelot nous parle des Messes de Minuit mais aussi des facéties cachées dans certains cantiques catholiques de la Nativité : contre toute attente, &quot;Les Trois anges&quot; d’Augusta Holmès et &quot;Minuit Chrétiens&quot; d&#x27;Adolphe Adam se révèlent être assez transgressifs...</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-19-decembre-2025-3080952">France Musique</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/1200x680" alt="Noël farceur" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-19-decembre-2025-3080952</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/16405-19.12.2025-ITEMA_24348440-2025M26307S0353-NET_MFM_54175010-DB8E-4B19-8015-19B31739E6EB-21-d3e1fd33f1d1a68d3d9e1561574181da.mp3" length="7093309" type="audio/mpeg"/>
+      <pubDate>Fri, 19 Dec 2025 07:07:00 +0000</pubDate>
+      <itunes:author>France Musique</itunes:author>
+      <itunes:duration>7:22</itunes:duration>
+      <itunes:subtitle>A l'approche de Noël, Roselyne Bachelot nous parle des Messes de Minuit mais aussi des facéties cachées dans certains cantiques catholiques de la Nativité : contre toute attente, "Les Trois anges" d’Augusta Holmès et "Minuit Chrétiens" d'Adolphe Adam se r</itunes:subtitle>
+      <itunes:summary>A l'approche de Noël, Roselyne Bachelot nous parle des Messes de Minuit mais aussi des facéties cachées dans certains cantiques catholiques de la Nativité : contre toute attente, "Les Trois anges" d’Augusta Holmès et "Minuit Chrétiens" d'Adolphe Adam se révèlent être assez transgressifs...</itunes:summary>
+    </item>
+    <item>
+      <title>Tristes fêtes pour l'opéra en région</title>
+      <link>https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-tristes-fetes-pour-l-opera-en-region-8021000</link>
+      <description>Pour sa chronique du vendredi, Roselyne Bachelot fait le point sur les productions des opéras en région pour Noël, et alerte sur le contexte de crise budgétaire qui met en péril les levers de rideau.</description>
+      <content:encoded><![CDATA[
+        <p>Pour sa chronique du vendredi, Roselyne Bachelot fait le point sur les productions des opéras en région pour Noël, et alerte sur le contexte de crise budgétaire qui met en péril les levers de rideau.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-tristes-fetes-pour-l-opera-en-region-8021000">France Musique</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/1200x680" alt="Tristes fêtes pour l&#x27;opéra en région" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-tristes-fetes-pour-l-opera-en-region-8021000</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/16405-12.12.2025-ITEMA_24340736-2025M26307S0346-NET_MFM_54F6B99B-F9B2-4CAF-A8A2-089D3AAA6D73-21-b4731f2700257edae1d26064d0f6d298.mp3" length="8504207" type="audio/mpeg"/>
+      <pubDate>Fri, 12 Dec 2025 07:07:00 +0000</pubDate>
+      <itunes:author>France Musique</itunes:author>
+      <itunes:duration>8:50</itunes:duration>
+      <itunes:subtitle>Pour sa chronique du vendredi, Roselyne Bachelot fait le point sur les productions des opéras en région pour Noël, et alerte sur le contexte de crise budgétaire qui met en péril les levers de rideau.</itunes:subtitle>
+      <itunes:summary>Pour sa chronique du vendredi, Roselyne Bachelot fait le point sur les productions des opéras en région pour Noël, et alerte sur le contexte de crise budgétaire qui met en péril les levers de rideau.</itunes:summary>
+    </item>
+    <item>
+      <title>Wagner et les ténors français</title>
+      <link>https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-05-decembre-2025-1772460</link>
+      <description>C'était le mois dernier : Stanislas de Barbeyrac était Siegmund dans "La Walkyrie" de Wagner à l'Opéra Bastille. L'occasion pour Roselyne Bachelot de nous parler de la place des ténors français dans les opéras du maître de Bayreuth.</description>
+      <content:encoded><![CDATA[
+        <p>C&#x27;était le mois dernier : Stanislas de Barbeyrac était Siegmund dans &quot;La Walkyrie&quot; de Wagner à l&#x27;Opéra Bastille. L&#x27;occasion pour Roselyne Bachelot de nous parler de la place des ténors français dans les opéras du maître de Bayreuth.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-05-decembre-2025-1772460">France Musique</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/1200x680" alt="Wagner et les ténors français" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-05-decembre-2025-1772460</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/16405-05.12.2025-ITEMA_24333361-2025M26307S0339-NET_MFM_C1EA03D8-12EE-415C-A579-4E7FC7CB3E36-21-cf57430daf956ffbb7da3d038fb15ec6.mp3" length="8607075" type="audio/mpeg"/>
+      <pubDate>Fri, 05 Dec 2025 07:07:00 +0000</pubDate>
+      <itunes:author>France Musique</itunes:author>
+      <itunes:duration>8:56</itunes:duration>
+      <itunes:subtitle>C'était le mois dernier : Stanislas de Barbeyrac était Siegmund dans "La Walkyrie" de Wagner à l'Opéra Bastille. L'occasion pour Roselyne Bachelot de nous parler de la place des ténors français dans les opéras du maître de Bayreuth.</itunes:subtitle>
+      <itunes:summary>C'était le mois dernier : Stanislas de Barbeyrac était Siegmund dans "La Walkyrie" de Wagner à l'Opéra Bastille. L'occasion pour Roselyne Bachelot de nous parler de la place des ténors français dans les opéras du maître de Bayreuth.</itunes:summary>
+    </item>
+    <item>
+      <title>Le triomphe de la culture musicale sud-coréenne</title>
+      <link>https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-28-novembre-2025-6724304</link>
+      <description>Cette semaine, Roselyne Bachelot met à l'honneur le talent des musiciens sud-coréens, à l'instar du pianiste Saehyun Kim, prodige d'à peine 18 ans déjà couronné de succès. Des interprètes classiques à Psy -du tube "Gangnam Style"-, comment la culture musicale sud-coréenne connaît-elle un tel essor ?</description>
+      <content:encoded><![CDATA[
+        <p>Cette semaine, Roselyne Bachelot met à l&#x27;honneur le talent des musiciens sud-coréens, à l&#x27;instar du pianiste Saehyun Kim, prodige d&#x27;à peine 18 ans déjà couronné de succès. Des interprètes classiques à Psy -du tube &quot;Gangnam Style&quot;-, comment la culture musicale sud-coréenne connaît-elle un tel essor ?</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-28-novembre-2025-6724304">France Musique</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/1200x680" alt="Le triomphe de la culture musicale sud-coréenne" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-28-novembre-2025-6724304</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/16405-28.11.2025-ITEMA_24325962-2025M26307S0332-NET_MFM_BCB74409-E0E5-4FFB-BAF2-E794EA79C3AC-21-0a478e97466be07a899650853d3e740f.mp3" length="8850916" type="audio/mpeg"/>
+      <pubDate>Fri, 28 Nov 2025 07:07:00 +0000</pubDate>
+      <itunes:author>France Musique</itunes:author>
+      <itunes:duration>9:11</itunes:duration>
+      <itunes:subtitle>Cette semaine, Roselyne Bachelot met à l'honneur le talent des musiciens sud-coréens, à l'instar du pianiste Saehyun Kim, prodige d'à peine 18 ans déjà couronné de succès. Des interprètes classiques à Psy -du tube "Gangnam Style"-, comment la culture musi</itunes:subtitle>
+      <itunes:summary>Cette semaine, Roselyne Bachelot met à l'honneur le talent des musiciens sud-coréens, à l'instar du pianiste Saehyun Kim, prodige d'à peine 18 ans déjà couronné de succès. Des interprètes classiques à Psy -du tube "Gangnam Style"-, comment la culture musicale sud-coréenne connaît-elle un tel essor ?</itunes:summary>
+    </item>
+    <item>
+      <title>Le chant de la terre</title>
+      <link>https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-le-chant-de-la-terre-3578053</link>
+      <description>Isolation des bâtiments, éclairage, consommation d'eau mais aussi transports, décors et costumes : alors que s'achève aujourd'hui la COP30 à Belém, Roselyne Bachelot évoque les enjeux environnementaux auxquels le spectacle vivant doit faire face dans le contexte de la transition écologique.</description>
+      <content:encoded><![CDATA[
+        <p>Isolation des bâtiments, éclairage, consommation d&#x27;eau mais aussi transports, décors et costumes : alors que s&#x27;achève aujourd&#x27;hui la COP30 à Belém, Roselyne Bachelot évoque les enjeux environnementaux auxquels le spectacle vivant doit faire face dans le contexte de la transition écologique.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-le-chant-de-la-terre-3578053">France Musique</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/1200x680" alt="Le chant de la terre" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-le-chant-de-la-terre-3578053</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/16405-21.11.2025-ITEMA_24318625-2025M26307S0325-NET_MFM_EFE5C9DD-9EEF-40C9-9461-B8B14AC71C51-21-c7a60dcf2d209d8e3a0798e8e54a1706.mp3" length="7196145" type="audio/mpeg"/>
+      <pubDate>Fri, 21 Nov 2025 07:07:00 +0000</pubDate>
+      <itunes:author>France Musique</itunes:author>
+      <itunes:duration>7:28</itunes:duration>
+      <itunes:subtitle>Isolation des bâtiments, éclairage, consommation d'eau mais aussi transports, décors et costumes : alors que s'achève aujourd'hui la COP30 à Belém, Roselyne Bachelot évoque les enjeux environnementaux auxquels le spectacle vivant doit faire face dans le c</itunes:subtitle>
+      <itunes:summary>Isolation des bâtiments, éclairage, consommation d'eau mais aussi transports, décors et costumes : alors que s'achève aujourd'hui la COP30 à Belém, Roselyne Bachelot évoque les enjeux environnementaux auxquels le spectacle vivant doit faire face dans le contexte de la transition écologique.</itunes:summary>
+    </item>
+    <item>
+      <title>"La Esmeralda" de Louise Bertin, un opéra (presque) oublié</title>
+      <link>https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-14-novembre-2025-9554159</link>
+      <description>Ce vendredi, Roselyne Bachelot célèbre les 189 ans de la création de l'opéra "La Esmeralda" composé par Louise Bertin sur un livret de Victor Hugo. Handicapée et méprisée comme l'étaient nombre des compositrices en son temps, Louise Bertin tombe dans l'oubli, jusqu'au début de notre siècle.</description>
+      <content:encoded><![CDATA[
+        <p>Ce vendredi, Roselyne Bachelot célèbre les 189 ans de la création de l&#x27;opéra &quot;La Esmeralda&quot; composé par Louise Bertin sur un livret de Victor Hugo. Handicapée et méprisée comme l&#x27;étaient nombre des compositrices en son temps, Louise Bertin tombe dans l&#x27;oubli, jusqu&#x27;au début de notre siècle.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-14-novembre-2025-9554159">France Musique</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/1200x680" alt="&quot;La Esmeralda&quot; de Louise Bertin, un opéra (presque) oublié" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-14-novembre-2025-9554159</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/16405-14.11.2025-ITEMA_24311271-2025M26307S0318-NET_MFM_7563F056-8C3A-4E74-8B4A-0C14566B5417-21-8f26ee1e83a4e4c8bcee98ba5e0111d8.mp3" length="8380300" type="audio/mpeg"/>
+      <pubDate>Fri, 14 Nov 2025 07:07:00 +0000</pubDate>
+      <itunes:author>France Musique</itunes:author>
+      <itunes:duration>8:42</itunes:duration>
+      <itunes:subtitle>Ce vendredi, Roselyne Bachelot célèbre les 189 ans de la création de l'opéra "La Esmeralda" composé par Louise Bertin sur un livret de Victor Hugo. Handicapée et méprisée comme l'étaient nombre des compositrices en son temps, Louise Bertin tombe dans l'ou</itunes:subtitle>
+      <itunes:summary>Ce vendredi, Roselyne Bachelot célèbre les 189 ans de la création de l'opéra "La Esmeralda" composé par Louise Bertin sur un livret de Victor Hugo. Handicapée et méprisée comme l'étaient nombre des compositrices en son temps, Louise Bertin tombe dans l'oubli, jusqu'au début de notre siècle.</itunes:summary>
+    </item>
+    <item>
+      <title>Victor Maurel, le plus truculent des marseillais</title>
+      <link>https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/victor-maurel-le-plus-truculent-des-marseillais-2025-8444330</link>
+      <description>À l'occasion de la production de "Falstaff" de Verdi à l'Opéra de Marseille, dirigée par Michele Spotti dans une mise en scène de Denis Podalydès, Roselyne Bachelot part à la rencontre du baryton Victor Maurel, présent sur la scène de la Scala de Milan en 1893 lors de la création de l'œuvre.</description>
+      <content:encoded><![CDATA[
+        <p>À l&#x27;occasion de la production de &quot;Falstaff&quot; de Verdi à l&#x27;Opéra de Marseille, dirigée par Michele Spotti dans une mise en scène de Denis Podalydès, Roselyne Bachelot part à la rencontre du baryton Victor Maurel, présent sur la scène de la Scala de Milan en 1893 lors de la création de l&#x27;œuvre.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/victor-maurel-le-plus-truculent-des-marseillais-2025-8444330">France Musique</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/1200x680" alt="Victor Maurel, le plus truculent des marseillais" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/victor-maurel-le-plus-truculent-des-marseillais-2025-8444330</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/16405-07.11.2025-ITEMA_24304067-2025M26307S0311-NET_MFM_26F3EBB0-9118-4C51-9407-05F32E2253FF-21-edc24571ed008bbb107c5fd9760cbbc1.mp3" length="5209229" type="audio/mpeg"/>
+      <pubDate>Fri, 07 Nov 2025 07:07:00 +0000</pubDate>
+      <itunes:author>France Musique</itunes:author>
+      <itunes:duration>5:24</itunes:duration>
+      <itunes:subtitle>À l'occasion de la production de "Falstaff" de Verdi à l'Opéra de Marseille, dirigée par Michele Spotti dans une mise en scène de Denis Podalydès, Roselyne Bachelot part à la rencontre du baryton Victor Maurel, présent sur la scène de la Scala de Milan en</itunes:subtitle>
+      <itunes:summary>À l'occasion de la production de "Falstaff" de Verdi à l'Opéra de Marseille, dirigée par Michele Spotti dans une mise en scène de Denis Podalydès, Roselyne Bachelot part à la rencontre du baryton Victor Maurel, présent sur la scène de la Scala de Milan en 1893 lors de la création de l'œuvre.</itunes:summary>
+    </item>
+    <item>
+      <title>Avant la Première</title>
+      <link>https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-film-documentaire-la-force-du-destin-6101099</link>
+      <description>Décors, costumes, musique, mais aussi lumières, et technique : Roselyne Bachelot nous ouvre les coulisses d'une production d'opéra avec le documentaire "La force du destin" d'Anissa Bonnefont, en salle dimanche, qui retrace les étapes précédant la "prima" de cet opéra de Verdi à la Scala de Milan.</description>
+      <content:encoded><![CDATA[
+        <p>Décors, costumes, musique, mais aussi lumières, et technique : Roselyne Bachelot nous ouvre les coulisses d&#x27;une production d&#x27;opéra avec le documentaire &quot;La force du destin&quot; d&#x27;Anissa Bonnefont, en salle dimanche, qui retrace les étapes précédant la &quot;prima&quot; de cet opéra de Verdi à la Scala de Milan.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-film-documentaire-la-force-du-destin-6101099">France Musique</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/1200x680" alt="Avant la Première" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-film-documentaire-la-force-du-destin-6101099</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/16405-31.10.2025-ITEMA_24296810-2025M26307S0304-NET_MFM_C940DE01-2F8E-4EED-AFA9-1AE02EF14F0D-21-d98273440e6e3d6f4798d716707f7701.mp3" length="6885610" type="audio/mpeg"/>
+      <pubDate>Fri, 31 Oct 2025 07:07:00 +0000</pubDate>
+      <itunes:author>France Musique</itunes:author>
+      <itunes:duration>7:09</itunes:duration>
+      <itunes:subtitle>Décors, costumes, musique, mais aussi lumières, et technique : Roselyne Bachelot nous ouvre les coulisses d'une production d'opéra avec le documentaire "La force du destin" d'Anissa Bonnefont, en salle dimanche, qui retrace les étapes précédant la "prima"</itunes:subtitle>
+      <itunes:summary>Décors, costumes, musique, mais aussi lumières, et technique : Roselyne Bachelot nous ouvre les coulisses d'une production d'opéra avec le documentaire "La force du destin" d'Anissa Bonnefont, en salle dimanche, qui retrace les étapes précédant la "prima" de cet opéra de Verdi à la Scala de Milan.</itunes:summary>
+    </item>
+    <item>
+      <title>Trinquons !</title>
+      <link>https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-24-octobre-2025-9512929</link>
+      <description>Quand le vin est tiré, il faut le boire, dit le proverbe ! C'est l'automne, les vendanges sont finies et Roselyne Bachelot nous parle des chansons à boire à l'opéra. Entre le célèbre "Brindisi" de La Traviata, Hamlet, Cavalleria Rusticana ou La Périchole, à l'opéra, le vin coule à flots.</description>
+      <content:encoded><![CDATA[
+        <p>Quand le vin est tiré, il faut le boire, dit le proverbe ! C&#x27;est l&#x27;automne, les vendanges sont finies et Roselyne Bachelot nous parle des chansons à boire à l&#x27;opéra. Entre le célèbre &quot;Brindisi&quot; de La Traviata, Hamlet, Cavalleria Rusticana ou La Périchole, à l&#x27;opéra, le vin coule à flots.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-24-octobre-2025-9512929">France Musique</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/1200x680" alt="Trinquons !" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-24-octobre-2025-9512929</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/16405-24.10.2025-ITEMA_24289286-2025M26307S0297-NET_MFM_B2219D3B-9716-420F-8162-B23D12208313-21-883f34db4e09e032a4eb4a23d2a44606.mp3" length="7104172" type="audio/mpeg"/>
+      <pubDate>Fri, 24 Oct 2025 06:07:00 +0000</pubDate>
+      <itunes:author>France Musique</itunes:author>
+      <itunes:duration>7:22</itunes:duration>
+      <itunes:subtitle>Quand le vin est tiré, il faut le boire, dit le proverbe ! C'est l'automne, les vendanges sont finies et Roselyne Bachelot nous parle des chansons à boire à l'opéra. Entre le célèbre "Brindisi" de La Traviata, Hamlet, Cavalleria Rusticana ou La Périchole,</itunes:subtitle>
+      <itunes:summary>Quand le vin est tiré, il faut le boire, dit le proverbe ! C'est l'automne, les vendanges sont finies et Roselyne Bachelot nous parle des chansons à boire à l'opéra. Entre le célèbre "Brindisi" de La Traviata, Hamlet, Cavalleria Rusticana ou La Périchole, à l'opéra, le vin coule à flots.</itunes:summary>
+    </item>
+    <item>
+      <title>Molière et Lully, une amitié qui finit mal</title>
+      <link>https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-moliere-et-lully-une-histoire-d-amitie-qui-finit-mal-6433260</link>
+      <description>Alors que la Comédie Française donne ces jours-ci "Le Mariage forcé", une comédie-ballet inventée par le duo formé par Molière et Lully, Roselyne Bachelot nous raconte l'histoire d'une amitié aussi féconde qu'explosive.</description>
+      <content:encoded><![CDATA[
+        <p>Alors que la Comédie Française donne ces jours-ci &quot;Le Mariage forcé&quot;, une comédie-ballet inventée par le duo formé par Molière et Lully, Roselyne Bachelot nous raconte l&#x27;histoire d&#x27;une amitié aussi féconde qu&#x27;explosive.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-moliere-et-lully-une-histoire-d-amitie-qui-finit-mal-6433260">France Musique</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/1200x680" alt="Molière et Lully, une amitié qui finit mal" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-moliere-et-lully-une-histoire-d-amitie-qui-finit-mal-6433260</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/16405-17.10.2025-ITEMA_24282085-2025M26307S0290-NET_MFM_8C66C931-B47F-41AF-AEF8-BDA50063AE77-21-bac13bbe55aad33c1462110b7aea6f14.mp3" length="4985041" type="audio/mpeg"/>
+      <pubDate>Fri, 17 Oct 2025 06:07:00 +0000</pubDate>
+      <itunes:author>France Musique</itunes:author>
+      <itunes:duration>5:10</itunes:duration>
+      <itunes:subtitle>Alors que la Comédie Française donne ces jours-ci "Le Mariage forcé", une comédie-ballet inventée par le duo formé par Molière et Lully, Roselyne Bachelot nous raconte l'histoire d'une amitié aussi féconde qu'explosive.</itunes:subtitle>
+      <itunes:summary>Alors que la Comédie Française donne ces jours-ci "Le Mariage forcé", une comédie-ballet inventée par le duo formé par Molière et Lully, Roselyne Bachelot nous raconte l'histoire d'une amitié aussi féconde qu'explosive.</itunes:summary>
+    </item>
+    <item>
+      <title>Quand la musique raconte le monde</title>
+      <link>https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-10-octobre-2025-4731865</link>
+      <description>Ce vendredi, Roselyne Bachelot nous invite à lire : entre fantaisies, histoire et mémoire, trois livres musicaux parus récemment pour explorer l’esprit fantasque d’Erik Satie, mettre en lumière les musiciennes du Moyen Âge ou découvrir les musiques issues de l’esclavage.</description>
+      <content:encoded><![CDATA[
+        <p>Ce vendredi, Roselyne Bachelot nous invite à lire : entre fantaisies, histoire et mémoire, trois livres musicaux parus récemment pour explorer l’esprit fantasque d’Erik Satie, mettre en lumière les musiciennes du Moyen Âge ou découvrir les musiques issues de l’esclavage.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-10-octobre-2025-4731865">France Musique</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/1200x680" alt="Quand la musique raconte le monde" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-10-octobre-2025-4731865</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/16405-10.10.2025-ITEMA_24274704-2025M26307S0283-NET_MFM_AD213DC9-3ED8-4174-9EB3-E2CE791E29ED-21-70318be34c0e649b68dd01874223fbab.mp3" length="10453705" type="audio/mpeg"/>
+      <pubDate>Fri, 10 Oct 2025 06:07:00 +0000</pubDate>
+      <itunes:author>France Musique</itunes:author>
+      <itunes:duration>10:52</itunes:duration>
+      <itunes:subtitle>Ce vendredi, Roselyne Bachelot nous invite à lire : entre fantaisies, histoire et mémoire, trois livres musicaux parus récemment pour explorer l’esprit fantasque d’Erik Satie, mettre en lumière les musiciennes du Moyen Âge ou découvrir les musiques issues</itunes:subtitle>
+      <itunes:summary>Ce vendredi, Roselyne Bachelot nous invite à lire : entre fantaisies, histoire et mémoire, trois livres musicaux parus récemment pour explorer l’esprit fantasque d’Erik Satie, mettre en lumière les musiciennes du Moyen Âge ou découvrir les musiques issues de l’esclavage.</itunes:summary>
+    </item>
+    <item>
+      <title>La réalité virtuelle au secours de l'opéra ?</title>
+      <link>https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-03-octobre-2025-1590531</link>
+      <description>Pour sa chronique du vendredi, Roselyne Bachelot s'intéresse aux réalités virtuelles et augmentées. À l'image du spectacle "Un bal à Paris" de Blanca Li, ces projets qui proposent d'enrichir par la technologie l'expérience du spectateur parviendront-ils à conquérir un nouveau public ?</description>
+      <content:encoded><![CDATA[
+        <p>Pour sa chronique du vendredi, Roselyne Bachelot s&#x27;intéresse aux réalités virtuelles et augmentées. À l&#x27;image du spectacle &quot;Un bal à Paris&quot; de Blanca Li, ces projets qui proposent d&#x27;enrichir par la technologie l&#x27;expérience du spectateur parviendront-ils à conquérir un nouveau public ?</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-03-octobre-2025-1590531">France Musique</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/1200x680" alt="La réalité virtuelle au secours de l&#x27;opéra ?" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-03-octobre-2025-1590531</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/16405-03.10.2025-ITEMA_24267230-2025M26307S0276-NET_MFM_108E915B-B3B7-4C2C-BE92-BFA07105E8F3-21-74a660aab0a076e30ee008e20912f677.mp3" length="7151046" type="audio/mpeg"/>
+      <pubDate>Fri, 03 Oct 2025 06:07:00 +0000</pubDate>
+      <itunes:author>France Musique</itunes:author>
+      <itunes:duration>7:25</itunes:duration>
+      <itunes:subtitle>Pour sa chronique du vendredi, Roselyne Bachelot s'intéresse aux réalités virtuelles et augmentées. À l'image du spectacle "Un bal à Paris" de Blanca Li, ces projets qui proposent d'enrichir par la technologie l'expérience du spectateur parviendront-ils à</itunes:subtitle>
+      <itunes:summary>Pour sa chronique du vendredi, Roselyne Bachelot s'intéresse aux réalités virtuelles et augmentées. À l'image du spectacle "Un bal à Paris" de Blanca Li, ces projets qui proposent d'enrichir par la technologie l'expérience du spectateur parviendront-ils à conquérir un nouveau public ?</itunes:summary>
+    </item>
+    <item>
+      <title>Le phénomène Zaho de Sagazan</title>
+      <link>https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-26-septembre-2025-7834161</link>
+      <description>Ce vendredi, Roselyne Bachelot évoque sa découverte de l'album "La symphonie des éclairs" (Orchestral Odyssey) de Zaho de Sagazan avec l'Orchestre national de Lyon : un équilibre entre facture classique, musique électronique, amour des mots et originalité vocale.</description>
+      <content:encoded><![CDATA[
+        <p>Ce vendredi, Roselyne Bachelot évoque sa découverte de l&#x27;album &quot;La symphonie des éclairs&quot; (Orchestral Odyssey) de Zaho de Sagazan avec l&#x27;Orchestre national de Lyon : un équilibre entre facture classique, musique électronique, amour des mots et originalité vocale.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-26-septembre-2025-7834161">France Musique</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/1200x680" alt="Le phénomène Zaho de Sagazan" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-26-septembre-2025-7834161</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/16405-26.09.2025-ITEMA_24259800-2025M26307S0269-NET_MFM_B1B40392-361C-4463-A1F7-33996EC37701-21.mp3" length="8638044" type="audio/mpeg"/>
+      <pubDate>Fri, 26 Sep 2025 06:07:00 +0000</pubDate>
+      <itunes:author>France Musique</itunes:author>
+      <itunes:duration>8:58</itunes:duration>
+      <itunes:subtitle>Ce vendredi, Roselyne Bachelot évoque sa découverte de l'album "La symphonie des éclairs" (Orchestral Odyssey) de Zaho de Sagazan avec l'Orchestre national de Lyon : un équilibre entre facture classique, musique électronique, amour des mots et originalité</itunes:subtitle>
+      <itunes:summary>Ce vendredi, Roselyne Bachelot évoque sa découverte de l'album "La symphonie des éclairs" (Orchestral Odyssey) de Zaho de Sagazan avec l'Orchestre national de Lyon : un équilibre entre facture classique, musique électronique, amour des mots et originalité vocale.</itunes:summary>
+    </item>
+    <item>
+      <title>Jonas Kaufmann hier et aujourd'hui</title>
+      <link>https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-19-septembre-2025-2692039</link>
+      <description>Pour sa chronique du vendredi matin, Roselyne Bachelot écoute le nouvel album "Doppelgänger" de Jonas Kaufmann : l'occasion d'évoquer son admiration pour le ténor mais aussi de comparer l'évolution de sa voix au cours des années.</description>
+      <content:encoded><![CDATA[
+        <p>Pour sa chronique du vendredi matin, Roselyne Bachelot écoute le nouvel album &quot;Doppelgänger&quot; de Jonas Kaufmann : l&#x27;occasion d&#x27;évoquer son admiration pour le ténor mais aussi de comparer l&#x27;évolution de sa voix au cours des années.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-19-septembre-2025-2692039">France Musique</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/1200x680" alt="Jonas Kaufmann hier et aujourd&#x27;hui" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-19-septembre-2025-2692039</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/16405-19.09.2025-ITEMA_24252309-2025M26307S0262-NET_MFM_27926444-00A5-440F-A1F6-6C86A3EC347C-21.mp3" length="7751937" type="audio/mpeg"/>
+      <pubDate>Fri, 19 Sep 2025 06:07:00 +0000</pubDate>
+      <itunes:author>France Musique</itunes:author>
+      <itunes:duration>8:03</itunes:duration>
+      <itunes:subtitle>Pour sa chronique du vendredi matin, Roselyne Bachelot écoute le nouvel album "Doppelgänger" de Jonas Kaufmann : l'occasion d'évoquer son admiration pour le ténor mais aussi de comparer l'évolution de sa voix au cours des années.</itunes:subtitle>
+      <itunes:summary>Pour sa chronique du vendredi matin, Roselyne Bachelot écoute le nouvel album "Doppelgänger" de Jonas Kaufmann : l'occasion d'évoquer son admiration pour le ténor mais aussi de comparer l'évolution de sa voix au cours des années.</itunes:summary>
+    </item>
+    <item>
+      <title>Bayreuth, le chant du cygne ?</title>
+      <link>https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-12-septembre-2025-6945108</link>
+      <description>Dans sa chronique du vendredi, Roselyne Bachelot fait la liste des menaces qui pèsent sur l'un des plus anciens festivals d'opéra au monde : celui de Bayreuth, dans le théâtre conçu par Wagner lui-même. Intempérie passagère ou tempête durable ?</description>
+      <content:encoded><![CDATA[
+        <p>Dans sa chronique du vendredi, Roselyne Bachelot fait la liste des menaces qui pèsent sur l&#x27;un des plus anciens festivals d&#x27;opéra au monde : celui de Bayreuth, dans le théâtre conçu par Wagner lui-même. Intempérie passagère ou tempête durable ?</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-12-septembre-2025-6945108">France Musique</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/1200x680" alt="Bayreuth, le chant du cygne ?" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-12-septembre-2025-6945108</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/16405-12.09.2025-ITEMA_24244589-2025M26307S0255-NET_MFM_1461CD82-7A2A-442F-865C-D4AFD903E90C-21.mp3" length="4085199" type="audio/mpeg"/>
+      <pubDate>Fri, 12 Sep 2025 06:07:00 +0000</pubDate>
+      <itunes:author>France Musique</itunes:author>
+      <itunes:duration>4:14</itunes:duration>
+      <itunes:subtitle>Dans sa chronique du vendredi, Roselyne Bachelot fait la liste des menaces qui pèsent sur l'un des plus anciens festivals d'opéra au monde : celui de Bayreuth, dans le théâtre conçu par Wagner lui-même. Intempérie passagère ou tempête durable ?</itunes:subtitle>
+      <itunes:summary>Dans sa chronique du vendredi, Roselyne Bachelot fait la liste des menaces qui pèsent sur l'un des plus anciens festivals d'opéra au monde : celui de Bayreuth, dans le théâtre conçu par Wagner lui-même. Intempérie passagère ou tempête durable ?</itunes:summary>
+    </item>
+    <item>
+      <title>Classique, jazz, pop : les festivals en péril ?</title>
+      <link>https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-05-septembre-2025-6367306</link>
+      <description>Alors que l'été se termine, Roselyne Bachelot s'interroge sur la santé financière des festivals de musique en France. Déficit, réductions budgétaires ou contraintes réglementaires : le public a beau répondre présent, les nouvelles ne sont pas bonnes.</description>
+      <content:encoded><![CDATA[
+        <p>Alors que l&#x27;été se termine, Roselyne Bachelot s&#x27;interroge sur la santé financière des festivals de musique en France. Déficit, réductions budgétaires ou contraintes réglementaires : le public a beau répondre présent, les nouvelles ne sont pas bonnes.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-05-septembre-2025-6367306">France Musique</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/1200x680" alt="Classique, jazz, pop : les festivals en péril ?" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-05-septembre-2025-6367306</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/16405-05.09.2025-ITEMA_24236975-2025M26307S0248-NET_MFM_EE986841-C467-4F74-806E-C3E34F2A4106-21.mp3" length="9482704" type="audio/mpeg"/>
+      <pubDate>Fri, 05 Sep 2025 06:07:00 +0000</pubDate>
+      <itunes:author>France Musique</itunes:author>
+      <itunes:duration>9:51</itunes:duration>
+      <itunes:subtitle>Alors que l'été se termine, Roselyne Bachelot s'interroge sur la santé financière des festivals de musique en France. Déficit, réductions budgétaires ou contraintes réglementaires : le public a beau répondre présent, les nouvelles ne sont pas bonnes.</itunes:subtitle>
+      <itunes:summary>Alors que l'été se termine, Roselyne Bachelot s'interroge sur la santé financière des festivals de musique en France. Déficit, réductions budgétaires ou contraintes réglementaires : le public a beau répondre présent, les nouvelles ne sont pas bonnes.</itunes:summary>
+    </item>
+    <item>
+      <title>Opéra : à la folie !</title>
+      <link>https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-29-aout-2025-9774117</link>
+      <description>A l'occasion d'un hommage à Béatrice Uria-Monzon disparue cet été, Roselyne Bachelot explore dans sa chronique la folie des personnages d'opéra. Hamlet, Lucie de Lammermoor, Orlando... toutes et tous perdent la raison et chantent leurs tourments.</description>
+      <content:encoded><![CDATA[
+        <p>A l&#x27;occasion d&#x27;un hommage à Béatrice Uria-Monzon disparue cet été, Roselyne Bachelot explore dans sa chronique la folie des personnages d&#x27;opéra. Hamlet, Lucie de Lammermoor, Orlando... toutes et tous perdent la raison et chantent leurs tourments.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-29-aout-2025-9774117">France Musique</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/a462fc50-13bc-4c97-b18d-abdac355ecff/1200x680" alt="Opéra : à la folie !" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-29-aout-2025-9774117</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/16405-29.08.2025-ITEMA_24229368-2025M26307S0241-NET_MFM_F916349F-EE0A-41DA-8E5A-36C9BD119BC0-21.mp3" length="8141825" type="audio/mpeg"/>
+      <pubDate>Fri, 29 Aug 2025 06:07:00 +0000</pubDate>
+      <itunes:author>France Musique</itunes:author>
+      <itunes:duration>8:27</itunes:duration>
+      <itunes:subtitle>A l'occasion d'un hommage à Béatrice Uria-Monzon disparue cet été, Roselyne Bachelot explore dans sa chronique la folie des personnages d'opéra. Hamlet, Lucie de Lammermoor, Orlando... toutes et tous perdent la raison et chantent leurs tourments.</itunes:subtitle>
+      <itunes:summary>A l'occasion d'un hommage à Béatrice Uria-Monzon disparue cet été, Roselyne Bachelot explore dans sa chronique la folie des personnages d'opéra. Hamlet, Lucie de Lammermoor, Orlando... toutes et tous perdent la raison et chantent leurs tourments.</itunes:summary>
+    </item>
+  </channel>
+</rss>
