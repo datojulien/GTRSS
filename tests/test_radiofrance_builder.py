@@ -8,6 +8,7 @@ from build_feed import (
     parse_iso_date,
     public_file_url,
     seconds_to_itunes_duration,
+    square_radiofrance_image_url,
     validate_archive,
 )
 from build_bachelot_feed import BACHELOT_CONFIG
@@ -54,6 +55,26 @@ def test_archive_validation_requires_unique_urls_and_valid_audio():
     invalid = dict(episode, audio_url="not-a-url")
     with pytest.raises(ValueError, match="invalid audio_url"):
         validate_archive([invalid])
+
+
+def test_square_radiofrance_image_url_uses_square_preset():
+    assert square_radiofrance_image_url(
+        "https://www.radiofrance.fr/pikapi/images/"
+        "951b7b95-d363-43f8-9fda-e162b17396fc/1200x680"
+    ) == (
+        "https://www.radiofrance.fr/pikapi/images/"
+        "951b7b95-d363-43f8-9fda-e162b17396fc/300x300"
+    )
+    assert square_radiofrance_image_url(
+        "https://www.radiofrance.fr/pikapi/images/"
+        "951b7b95-d363-43f8-9fda-e162b17396fc"
+    ) == (
+        "https://www.radiofrance.fr/pikapi/images/"
+        "951b7b95-d363-43f8-9fda-e162b17396fc/300x300"
+    )
+    assert square_radiofrance_image_url("https://example.com/image/1200x680") == (
+        "https://example.com/image/1200x680"
+    )
 
 
 def test_feed_configs_are_explicit():

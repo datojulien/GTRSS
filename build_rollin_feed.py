@@ -26,7 +26,7 @@ ROLLIN_CONFIG = RadioFranceFeedConfig(
     ),
     feed_image=(
         "https://www.radiofrance.fr/pikapi/images/"
-        "b66e4080-2221-4df9-9205-35e13f450bdd/1200x680"
+        "b66e4080-2221-4df9-9205-35e13f450bdd/300x300"
     ),
     feed_author_name="Radio France / France Inter",
     itunes_author="France Inter",

@@ -13,7 +13,7 @@ from datetime import datetime, timezone
 from email.utils import parsedate_to_datetime
 from pathlib import Path
 from typing import Iterable
-from urllib.parse import urljoin, urlparse
+from urllib.parse import urljoin, urlparse, urlunparse
 
 import requests
 from bs4 import BeautifulSoup
@@ -256,6 +256,39 @@ def is_http_url(value: str) -> bool:
     return parsed.scheme in {"http", "https"} and bool(parsed.netloc)
 
 
+def is_radiofrance_pikapi_image_url(url: str | None) -> bool:
+    if not url:
+        return False
+
+    parsed = urlparse(url)
+    path_parts = parsed.path.strip("/").split("/")
+
+    try:
+        pikapi_index = path_parts.index("pikapi")
+    except ValueError:
+        return False
+
+    return (
+        parsed.netloc == "www.radiofrance.fr"
+        and len(path_parts) > pikapi_index + 2
+        and path_parts[pikapi_index + 1] == "images"
+    )
+
+
+def square_radiofrance_image_url(url: str | None, size: str = "300x300") -> str | None:
+    if not url:
+        return url
+
+    if not is_radiofrance_pikapi_image_url(url):
+        return url
+
+    parsed = urlparse(url)
+    path_parts = parsed.path.strip("/").split("/")
+    pikapi_index = path_parts.index("pikapi")
+    square_path = "/" + "/".join(path_parts[: pikapi_index + 3] + [size])
+    return urlunparse(parsed._replace(path=square_path, query="", fragment=""))
+
+
 def extract_episode_links_from_soup(
     soup: BeautifulSoup,
     config: RadioFranceFeedConfig,
@@ -418,7 +451,9 @@ def extract_episode_data(
         or ""
     )
 
-    image_url = image.get("url") or metadata.get("og_image") or None
+    image_url = square_radiofrance_image_url(
+        image.get("url") or metadata.get("og_image") or None
+    )
     published = (
         episode.get("dateCreated")
         or metadata.get("published")
@@ -450,6 +485,7 @@ def normalize_archive_episode(episode: dict, index: int) -> dict:
     normalized = dict(episode)
     for key in ARCHIVE_OPTIONAL_FIELDS:
         normalized.setdefault(key, None)
+    normalized["image"] = square_radiofrance_image_url(normalized.get("image"))
     normalized["audio_length"] = int(normalized.get("audio_length") or 0)
     validate_episode(normalized, index=index)
     return normalized
@@ -631,6 +667,7 @@ def add_stylesheet_instruction(rss: bytes, style_file: str) -> bytes:
 def build_rss(config: RadioFranceFeedConfig, episodes: list[dict]) -> bytes:
     episodes = sort_episodes_newest_first(validate_archive(episodes))
     feed_url = public_file_url(config.output_file)
+    feed_image = square_radiofrance_image_url(config.feed_image) or config.feed_image
 
     fg = FeedGenerator()
     fg.load_extension("podcast")
@@ -643,7 +680,7 @@ def build_rss(config: RadioFranceFeedConfig, episodes: list[dict]) -> bytes:
     fg.link(href=feed_url, rel="alternate")
     fg.link(href=feed_url, rel="self")
     fg.author({"name": config.feed_author_name})
-    fg.logo(config.feed_image)
+    fg.logo(feed_image)
     fg.updated(datetime.now(timezone.utc))
 
     fg.podcast.itunes_author(config.itunes_author)
@@ -656,12 +693,13 @@ def build_rss(config: RadioFranceFeedConfig, episodes: list[dict]) -> bytes:
     fg.podcast.itunes_explicit("no")
     fg.podcast.itunes_category(config.itunes_category)
 
-    if is_itunes_safe_image(config.feed_image):
-        fg.podcast.itunes_image(config.feed_image)
+    if is_itunes_safe_image(feed_image):
+        fg.podcast.itunes_image(feed_image)
 
     for episode in episodes:
         published_dt = archive_to_date(episode.get("published"))
         description = episode_description_for_feed(episode)
+        episode_image = square_radiofrance_image_url(episode.get("image"))
 
         fe = fg.add_entry()
 
@@ -677,10 +715,10 @@ def build_rss(config: RadioFranceFeedConfig, episodes: list[dict]) -> bytes:
         <p><strong>Source:</strong> <a href="{episode["url"]}">{config.source_label}</a></p>
         """
 
-        if episode.get("image"):
+        if episode_image:
             rich_description += f"""
             <p>
-              <img src="{episode["image"]}" alt="{html.escape(episode["title"])}" />
+              <img src="{episode_image}" alt="{html.escape(episode["title"])}" />
             </p>
             """
 
@@ -699,8 +737,8 @@ def build_rss(config: RadioFranceFeedConfig, episodes: list[dict]) -> bytes:
         if episode.get("duration_itunes"):
             fe.podcast.itunes_duration(episode["duration_itunes"])
 
-        if is_itunes_safe_image(episode.get("image")):
-            fe.podcast.itunes_image(episode["image"])
+        if is_itunes_safe_image(episode_image):
+            fe.podcast.itunes_image(episode_image)
 
     rss = sort_rss_items_newest_first(fg.rss_str(pretty=True))
     return add_stylesheet_instruction(rss, config.style_file)

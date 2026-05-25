@@ -9,12 +9,12 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <image>
-      <url>https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/1200x680</url>
+      <url>https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/300x300</url>
       <title>La chronique de Roselyne Bachelot — Flux frais</title>
       <link>https://datojulien.github.io/GTRSS/roselyne-bachelot-feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Mon, 25 May 2026 09:45:15 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 10:11:43 +0000</lastBuildDate>
     <itunes:author>France Musique</itunes:author>
     <itunes:category text="Music"/>
     <itunes:explicit>no</itunes:explicit>
@@ -33,7 +33,7 @@
         <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/son-tour-de-france-lyrique-1191855">France Musique</a></p>
         
             <p>
-              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/1200x680" alt="Son Tour de France lyrique" />
+              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/300x300" alt="Son Tour de France lyrique" />
             </p>
             ]]></content:encoded>
       <guid isPermaLink="true">https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/son-tour-de-france-lyrique-1191855</guid>
@@ -53,7 +53,7 @@
         <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/champagne-ardent-3491601">France Musique</a></p>
         
             <p>
-              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/1200x680" alt="Champagne ardent" />
+              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/300x300" alt="Champagne ardent" />
             </p>
             ]]></content:encoded>
       <guid isPermaLink="true">https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/champagne-ardent-3491601</guid>
@@ -73,7 +73,7 @@
         <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot-cheikha-remitti-reine-du-rai-1064980">France Musique</a></p>
         
             <p>
-              <img src="https://www.radiofrance.fr/pikapi/images/4a9c389e-98cd-499d-b1f0-7d7d42799883/1200x680" alt="Cheikha Remitti, reine du raï" />
+              <img src="https://www.radiofrance.fr/pikapi/images/4a9c389e-98cd-499d-b1f0-7d7d42799883/300x300" alt="Cheikha Remitti, reine du raï" />
             </p>
             ]]></content:encoded>
       <guid isPermaLink="true">https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot-cheikha-remitti-reine-du-rai-1064980</guid>
@@ -93,7 +93,7 @@
         <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/quand-lucia-rencontre-lucie-2572888">France Musique</a></p>
         
             <p>
-              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/1200x680" alt="Quand Lucia rencontre Lucie" />
+              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/300x300" alt="Quand Lucia rencontre Lucie" />
             </p>
             ]]></content:encoded>
       <guid isPermaLink="true">https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/quand-lucia-rencontre-lucie-2572888</guid>
@@ -113,7 +113,7 @@
         <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/gustave-moreau-un-peintre-qui-avait-la-musique-en-toile-de-fond-9517508">France Musique</a></p>
         
             <p>
-              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/1200x680" alt="Gustave Moreau, la musique en toile de fond" />
+              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/300x300" alt="Gustave Moreau, la musique en toile de fond" />
             </p>
             ]]></content:encoded>
       <guid isPermaLink="true">https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/gustave-moreau-un-peintre-qui-avait-la-musique-en-toile-de-fond-9517508</guid>
@@ -133,7 +133,7 @@
         <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/tambour-battant-2026-7990340">France Musique</a></p>
         
             <p>
-              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/1200x680" alt="Tambour battant !" />
+              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/300x300" alt="Tambour battant !" />
             </p>
             ]]></content:encoded>
       <guid isPermaLink="true">https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/tambour-battant-2026-7990340</guid>
@@ -153,7 +153,7 @@
         <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-10-avril-2026-3031684">France Musique</a></p>
         
             <p>
-              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/1200x680" alt="La Voix du silence : hommage à André Malraux" />
+              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/300x300" alt="La Voix du silence : hommage à André Malraux" />
             </p>
             ]]></content:encoded>
       <guid isPermaLink="true">https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-10-avril-2026-3031684</guid>
@@ -173,7 +173,7 @@
         <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-03-avril-2026-7474670">France Musique</a></p>
         
             <p>
-              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/1200x680" alt="La mémoire musicale de l&#x27;Iran" />
+              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/300x300" alt="La mémoire musicale de l&#x27;Iran" />
             </p>
             ]]></content:encoded>
       <guid isPermaLink="true">https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-03-avril-2026-7474670</guid>
@@ -193,7 +193,7 @@
         <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-27-mars-2026-3468150">France Musique</a></p>
         
             <p>
-              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/1200x680" alt="Rule, Britten !" />
+              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/300x300" alt="Rule, Britten !" />
             </p>
             ]]></content:encoded>
       <guid isPermaLink="true">https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-27-mars-2026-3468150</guid>
@@ -213,7 +213,7 @@
         <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/quand-la-musique-creve-l-ecran-2625170">France Musique</a></p>
         
             <p>
-              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/1200x680" alt="Quand la musique crève l&#x27;écran" />
+              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/300x300" alt="Quand la musique crève l&#x27;écran" />
             </p>
             ]]></content:encoded>
       <guid isPermaLink="true">https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/quand-la-musique-creve-l-ecran-2625170</guid>
@@ -233,7 +233,7 @@
         <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-06-mars-2026-8052290">France Musique</a></p>
         
             <p>
-              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/1200x680" alt="8 mars : dans le monde de la musique et ailleurs, le combat continue !" />
+              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/300x300" alt="8 mars : dans le monde de la musique et ailleurs, le combat continue !" />
             </p>
             ]]></content:encoded>
       <guid isPermaLink="true">https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-06-mars-2026-8052290</guid>
@@ -253,7 +253,7 @@
         <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/o-breizh-ma-bro-2317618">France Musique</a></p>
         
             <p>
-              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/1200x680" alt="O Breizh, ma bro !" />
+              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/300x300" alt="O Breizh, ma bro !" />
             </p>
             ]]></content:encoded>
       <guid isPermaLink="true">https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/o-breizh-ma-bro-2317618</guid>
@@ -273,7 +273,7 @@
         <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/hommage-a-jose-van-dam-le-maitre-de-musique-4968398">France Musique</a></p>
         
             <p>
-              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/1200x680" alt="Hommage à José van Dam, le maître de musique" />
+              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/300x300" alt="Hommage à José van Dam, le maître de musique" />
             </p>
             ]]></content:encoded>
       <guid isPermaLink="true">https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/hommage-a-jose-van-dam-le-maitre-de-musique-4968398</guid>
@@ -293,7 +293,7 @@
         <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-13-fevrier-2026-9225740">France Musique</a></p>
         
             <p>
-              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/1200x680" alt="Renée Fleming, diva et citoyenne" />
+              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/300x300" alt="Renée Fleming, diva et citoyenne" />
             </p>
             ]]></content:encoded>
       <guid isPermaLink="true">https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-13-fevrier-2026-9225740</guid>
@@ -313,7 +313,7 @@
         <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-rhumes-malaises-accidents-les-maux-des-chanteurs-4173215">France Musique</a></p>
         
             <p>
-              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/1200x680" alt="Rhumes, malaises, accidents... les maux des chanteurs" />
+              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/300x300" alt="Rhumes, malaises, accidents... les maux des chanteurs" />
             </p>
             ]]></content:encoded>
       <guid isPermaLink="true">https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-rhumes-malaises-accidents-les-maux-des-chanteurs-4173215</guid>
@@ -333,7 +333,7 @@
         <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-23-janvier-2026-8288081">France Musique</a></p>
         
             <p>
-              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/1200x680" alt="Si Wagner m&#x27;était conté" />
+              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/300x300" alt="Si Wagner m&#x27;était conté" />
             </p>
             ]]></content:encoded>
       <guid isPermaLink="true">https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-23-janvier-2026-8288081</guid>
@@ -353,7 +353,7 @@
         <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-16-janvier-2026-8337803">France Musique</a></p>
         
             <p>
-              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/1200x680" alt="Quels anniversaires en 2026 ?" />
+              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/300x300" alt="Quels anniversaires en 2026 ?" />
             </p>
             ]]></content:encoded>
       <guid isPermaLink="true">https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-16-janvier-2026-8337803</guid>
@@ -373,7 +373,7 @@
         <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-09-janvier-2026-4214756">France Musique</a></p>
         
             <p>
-              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/1200x680" alt="La statue de l&#x27;Opéra" />
+              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/300x300" alt="La statue de l&#x27;Opéra" />
             </p>
             ]]></content:encoded>
       <guid isPermaLink="true">https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-09-janvier-2026-4214756</guid>
@@ -393,7 +393,7 @@
         <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-02-janvier-2026-4251887">France Musique</a></p>
         
             <p>
-              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/1200x680" alt="La culture, grande oubliée des élections municipales ?" />
+              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/300x300" alt="La culture, grande oubliée des élections municipales ?" />
             </p>
             ]]></content:encoded>
       <guid isPermaLink="true">https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-02-janvier-2026-4251887</guid>
@@ -413,7 +413,7 @@
         <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-2025-en-musique-6179140">France Musique</a></p>
         
             <p>
-              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/1200x680" alt="2025 en musique" />
+              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/300x300" alt="2025 en musique" />
             </p>
             ]]></content:encoded>
       <guid isPermaLink="true">https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-2025-en-musique-6179140</guid>
@@ -433,7 +433,7 @@
         <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-19-decembre-2025-3080952">France Musique</a></p>
         
             <p>
-              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/1200x680" alt="Noël farceur" />
+              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/300x300" alt="Noël farceur" />
             </p>
             ]]></content:encoded>
       <guid isPermaLink="true">https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-19-decembre-2025-3080952</guid>
@@ -453,7 +453,7 @@
         <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-tristes-fetes-pour-l-opera-en-region-8021000">France Musique</a></p>
         
             <p>
-              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/1200x680" alt="Tristes fêtes pour l&#x27;opéra en région" />
+              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/300x300" alt="Tristes fêtes pour l&#x27;opéra en région" />
             </p>
             ]]></content:encoded>
       <guid isPermaLink="true">https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-tristes-fetes-pour-l-opera-en-region-8021000</guid>
@@ -473,7 +473,7 @@
         <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-05-decembre-2025-1772460">France Musique</a></p>
         
             <p>
-              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/1200x680" alt="Wagner et les ténors français" />
+              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/300x300" alt="Wagner et les ténors français" />
             </p>
             ]]></content:encoded>
       <guid isPermaLink="true">https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-05-decembre-2025-1772460</guid>
@@ -493,7 +493,7 @@
         <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-28-novembre-2025-6724304">France Musique</a></p>
         
             <p>
-              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/1200x680" alt="Le triomphe de la culture musicale sud-coréenne" />
+              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/300x300" alt="Le triomphe de la culture musicale sud-coréenne" />
             </p>
             ]]></content:encoded>
       <guid isPermaLink="true">https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-28-novembre-2025-6724304</guid>
@@ -513,7 +513,7 @@
         <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-le-chant-de-la-terre-3578053">France Musique</a></p>
         
             <p>
-              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/1200x680" alt="Le chant de la terre" />
+              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/300x300" alt="Le chant de la terre" />
             </p>
             ]]></content:encoded>
       <guid isPermaLink="true">https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-le-chant-de-la-terre-3578053</guid>
@@ -533,7 +533,7 @@
         <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-14-novembre-2025-9554159">France Musique</a></p>
         
             <p>
-              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/1200x680" alt="&quot;La Esmeralda&quot; de Louise Bertin, un opéra (presque) oublié" />
+              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/300x300" alt="&quot;La Esmeralda&quot; de Louise Bertin, un opéra (presque) oublié" />
             </p>
             ]]></content:encoded>
       <guid isPermaLink="true">https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-14-novembre-2025-9554159</guid>
@@ -553,7 +553,7 @@
         <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/victor-maurel-le-plus-truculent-des-marseillais-2025-8444330">France Musique</a></p>
         
             <p>
-              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/1200x680" alt="Victor Maurel, le plus truculent des marseillais" />
+              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/300x300" alt="Victor Maurel, le plus truculent des marseillais" />
             </p>
             ]]></content:encoded>
       <guid isPermaLink="true">https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/victor-maurel-le-plus-truculent-des-marseillais-2025-8444330</guid>
@@ -573,7 +573,7 @@
         <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-film-documentaire-la-force-du-destin-6101099">France Musique</a></p>
         
             <p>
-              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/1200x680" alt="Avant la Première" />
+              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/300x300" alt="Avant la Première" />
             </p>
             ]]></content:encoded>
       <guid isPermaLink="true">https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-film-documentaire-la-force-du-destin-6101099</guid>
@@ -593,7 +593,7 @@
         <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-24-octobre-2025-9512929">France Musique</a></p>
         
             <p>
-              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/1200x680" alt="Trinquons !" />
+              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/300x300" alt="Trinquons !" />
             </p>
             ]]></content:encoded>
       <guid isPermaLink="true">https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-24-octobre-2025-9512929</guid>
@@ -613,7 +613,7 @@
         <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-moliere-et-lully-une-histoire-d-amitie-qui-finit-mal-6433260">France Musique</a></p>
         
             <p>
-              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/1200x680" alt="Molière et Lully, une amitié qui finit mal" />
+              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/300x300" alt="Molière et Lully, une amitié qui finit mal" />
             </p>
             ]]></content:encoded>
       <guid isPermaLink="true">https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-moliere-et-lully-une-histoire-d-amitie-qui-finit-mal-6433260</guid>
@@ -633,7 +633,7 @@
         <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-10-octobre-2025-4731865">France Musique</a></p>
         
             <p>
-              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/1200x680" alt="Quand la musique raconte le monde" />
+              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/300x300" alt="Quand la musique raconte le monde" />
             </p>
             ]]></content:encoded>
       <guid isPermaLink="true">https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-10-octobre-2025-4731865</guid>
@@ -653,7 +653,7 @@
         <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-03-octobre-2025-1590531">France Musique</a></p>
         
             <p>
-              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/1200x680" alt="La réalité virtuelle au secours de l&#x27;opéra ?" />
+              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/300x300" alt="La réalité virtuelle au secours de l&#x27;opéra ?" />
             </p>
             ]]></content:encoded>
       <guid isPermaLink="true">https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-03-octobre-2025-1590531</guid>
@@ -673,7 +673,7 @@
         <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-26-septembre-2025-7834161">France Musique</a></p>
         
             <p>
-              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/1200x680" alt="Le phénomène Zaho de Sagazan" />
+              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/300x300" alt="Le phénomène Zaho de Sagazan" />
             </p>
             ]]></content:encoded>
       <guid isPermaLink="true">https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-26-septembre-2025-7834161</guid>
@@ -693,7 +693,7 @@
         <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-19-septembre-2025-2692039">France Musique</a></p>
         
             <p>
-              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/1200x680" alt="Jonas Kaufmann hier et aujourd&#x27;hui" />
+              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/300x300" alt="Jonas Kaufmann hier et aujourd&#x27;hui" />
             </p>
             ]]></content:encoded>
       <guid isPermaLink="true">https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-19-septembre-2025-2692039</guid>
@@ -713,7 +713,7 @@
         <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-12-septembre-2025-6945108">France Musique</a></p>
         
             <p>
-              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/1200x680" alt="Bayreuth, le chant du cygne ?" />
+              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/300x300" alt="Bayreuth, le chant du cygne ?" />
             </p>
             ]]></content:encoded>
       <guid isPermaLink="true">https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-12-septembre-2025-6945108</guid>
@@ -733,7 +733,7 @@
         <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-05-septembre-2025-6367306">France Musique</a></p>
         
             <p>
-              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/1200x680" alt="Classique, jazz, pop : les festivals en péril ?" />
+              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/300x300" alt="Classique, jazz, pop : les festivals en péril ?" />
             </p>
             ]]></content:encoded>
       <guid isPermaLink="true">https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-05-septembre-2025-6367306</guid>
@@ -753,7 +753,7 @@
         <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-29-aout-2025-9774117">France Musique</a></p>
         
             <p>
-              <img src="https://www.radiofrance.fr/pikapi/images/a462fc50-13bc-4c97-b18d-abdac355ecff/1200x680" alt="Opéra : à la folie !" />
+              <img src="https://www.radiofrance.fr/pikapi/images/a462fc50-13bc-4c97-b18d-abdac355ecff/300x300" alt="Opéra : à la folie !" />
             </p>
             ]]></content:encoded>
       <guid isPermaLink="true">https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-chronique-de-roselyne-bachelot-du-vendredi-29-aout-2025-9774117</guid>

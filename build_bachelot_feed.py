@@ -26,7 +26,7 @@ BACHELOT_CONFIG = RadioFranceFeedConfig(
     ),
     feed_image=(
         "https://www.radiofrance.fr/pikapi/images/"
-        "951b7b95-d363-43f8-9fda-e162b17396fc/1200x680"
+        "951b7b95-d363-43f8-9fda-e162b17396fc/300x300"
     ),
     feed_author_name="Radio France / France Musique",
     itunes_author="France Musique",
