@@ -14,8 +14,8 @@
     <atom:link href="https://datojulien.github.io/GTRSS/only_remaining_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Mon, 25 May 2026 00:15:42 GMT</lastBuildDate>
-    <pubDate>Mon, 25 May 2026 00:15:42 GMT</pubDate>
+    <lastBuildDate>Mon, 25 May 2026 05:49:32 GMT</lastBuildDate>
+    <pubDate>Mon, 25 May 2026 05:49:32 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -45,6 +45,31 @@
     <ns3:category text="Comedy" />
     <ns4:person role="host">RTL</ns4:person>
     <ns4:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns4:txt>
+    <item>
+      <title>COUPE DU MONDE DES GROSSES TÊTES - Alexis Le Rossignol affronte Karina Marimon !</title>
+      <guid isPermaLink="false">5912fc7c-d2a8-44dc-8b64-a4746475d0da</guid>
+      <description>À l'occasion de la Coupe du monde 2026 de football, les Grosses Têtes vous proposent leur propre compétition ! Au micro de Sara Kemacha, l'équipe de Laurent Ruquier s'affrontent dans des matchs à élimination directe ! Au programme des questions avec de la culture générale, du football, mais aussi un retour sur l'histoire de l'émission mythique de RTL ! Pour le dernier match de poules, Alexis Le Rossignol défie Karina Marimon !&amp;nbsp;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns5:encoded>À l'occasion de la Coupe du monde 2026 de football, les Grosses Têtes vous proposent leur propre compétition ! Au micro de Sara Kemacha, l'équipe de Laurent Ruquier s'affrontent dans des matchs à élimination directe ! Au programme des questions avec de la culture générale, du football, mais aussi un retour sur l'histoire de l'émission mythique de RTL ! Pour le dernier match de poules, Alexis Le Rossignol défie Karina Marimon !&amp;nbsp;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
+      <pubDate>Mon, 25 May 2026 05:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/5912fc7c-d2a8-44dc-8b64-a4746475d0da.mp3?_=1777565884" length="6389286" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>À l'occasion de la Coupe du monde 2026 de football, les Grosses Têtes vous proposent leur propre compétition ! Au micro de Sara Kemacha, l'équipe de Laurent Ruquier s'affrontent dans des matchs à élimination directe ! Au programme des questions avec de la culture générale, du football, mais aussi un retour sur l'histoire de l'émission mythique de RTL ! Pour le dernier match de poules, Alexis Le Rossignol défie Karina Marimon !
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
+      <ns3:description>À l'occasion de la Coupe du monde 2026 de football, les Grosses Têtes vous proposent leur propre compétition ! Au micro de Sara Kemacha, l'équipe de Laurent Ruquier s'affrontent dans des matchs à élimination directe ! Au programme des questions avec de la culture générale, du football, mais aussi un retour sur l'histoire de l'émission mythique de RTL ! Pour le dernier match de poules, Alexis Le Rossignol défie Karina Marimon !
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
+      <itunes:author>Sara Kemacha</itunes:author>
+      <author>Sara Kemacha</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>À l'occasion de la Coupe du monde 2026 de football, les Grosses Têtes vous proposent leur propre compétition ! Au micro de Sara Kemacha, l'équipe de Laurent Ruquier s'affrontent dans des matchs à élimination directe ! Au programme des questions avec de la culture g...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>06:39</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/f2b695cd-52bd-4e10-ac85-6ea2549ec584.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/f2b695cd-52bd-4e10-ac85-6ea2549ec584.jpg" />
+      <ns4:person role="host">Sara Kemacha</ns4:person>
+      <ns4:txt purpose="smartlink">https://audmns.com/lanwgrO</ns4:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>LE MEILLEUR DE BOUVARD - La blague de Carlos</title>
       <guid isPermaLink="false">97c25e6e-b9da-44d3-b54a-353362cbf5bc</guid>
@@ -2577,36 +2602,6 @@ Hébergé par Audiomeans. Visitez</itunes:subtitle>
       <ns3:image href="https://static.audiomeans.fr/img/episode/424da6f4-f54a-4857-a2a8-1dfd23c1f301.jpg" />
       <ns4:person role="host">Laurent Ruquier</ns4:person>
       <ns4:txt purpose="smartlink">https://audmns.com/tEjzrUS</ns4:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>LES IMMANQUABLES - Le meilleur de l'émission du 12 mai 2026</title>
-      <guid isPermaLink="false">253667ea-de28-4caf-a3b5-8264689d35e1</guid>
-      <description>Les folles anecdotes de Philippe Manœuvre, invité spécial de l'émission, l'anglais approximatif de JeanFi Janssens ou encore les questions toujours pertinentes de Valérie Mairesse... Retrouvez dans ce podcast le meilleur de l'émission du mardi 12 mai 2026.
-&lt;i&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns5:encoded>Les folles anecdotes de Philippe Manœuvre, invité spécial de l'émission, l'anglais approximatif de JeanFi Janssens ou encore les questions toujours pertinentes de Valérie Mairesse... Retrouvez dans ce podcast le meilleur de l'émission du mardi 12 mai 2026.
-&lt;i&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
-      <pubDate>Tue, 12 May 2026 15:59:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/253667ea-de28-4caf-a3b5-8264689d35e1.mp3?_=1778595182" length="16390036" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Les folles anecdotes de Philippe Manœuvre, invité spécial de l'émission, l'anglais approximatif de JeanFi Janssens ou encore les questions toujours pertinentes de Valérie Mairesse... Retrouvez dans ce podcast le meilleur de l'émission du mardi 12 mai 2026.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns3:description>Les folles anecdotes de Philippe Manœuvre, invité spécial de l'émission, l'anglais approximatif de JeanFi Janssens ou encore les questions toujours pertinentes de Valérie Mairesse... Retrouvez dans ce podcast le meilleur de l'émission du mardi 12 mai 2026.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Les folles anecdotes de Philippe Manœuvre, invité spécial de l'émission, l'anglais approximatif de JeanFi Janssens ou encore les questions toujours pertinentes de Valérie Mairesse... Retrouvez dans ce podcast le meilleur de l'émission du mardi 12 mai 2026.
-Retr...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>17:04</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/35e70de4-dbd1-4bc7-bcce-3f8b7322cd02.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/35e70de4-dbd1-4bc7-bcce-3f8b7322cd02.jpg" />
-      <ns4:person role="host">Laurent Ruquier</ns4:person>
-      <ns4:txt purpose="smartlink">https://audmns.com/EXLwRDR</ns4:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
