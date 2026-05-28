@@ -14,7 +14,7 @@
       <link>https://datojulien.github.io/GTRSS/feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Thu, 28 May 2026 04:39:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 08:53:35 +0000</lastBuildDate>
     <itunes:author>France Culture</itunes:author>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -24,6 +24,26 @@
     </itunes:owner>
     <itunes:subtitle>Flux personnel généré depuis le site Radio France</itunes:subtitle>
     <itunes:summary>Un flux RSS personnel qui récupère les épisodes depuis le site web de France Culture lorsque le flux officiel n’est pas encore à jour.</itunes:summary>
+    <item>
+      <title>Porcelaine de Limoges, la fabrique d’une image de marque : épisode du podcast Les mondes de la porcelaine | France Culture</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/porcelaine-de-limoges-la-fabrique-d-une-image-de-marque-9137423</link>
+      <description>AUDIO Les mondes de la porcelaine, épisode : Porcelaine de Limoges, la fabrique d’une image de marque. Une série inédite proposée par France Culture. Écoutez Porcelaine de Limoges, la fabrique d’une image de marque, et découvrez nos podcasts en ligne.</description>
+      <content:encoded><![CDATA[
+        <p>AUDIO Les mondes de la porcelaine, épisode : Porcelaine de Limoges, la fabrique d’une image de marque. Une série inédite proposée par France Culture. Écoutez Porcelaine de Limoges, la fabrique d’une image de marque, et découvrez nos podcasts en ligne.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/porcelaine-de-limoges-la-fabrique-d-une-image-de-marque-9137423">France Culture</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/80d4fba4-6d24-4264-b20a-14c35cf678ec/300x300" alt="Porcelaine de Limoges, la fabrique d’une image de marque : épisode du podcast Les mondes de la porcelaine | France Culture" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/porcelaine-de-limoges-la-fabrique-d-une-image-de-marque-9137423</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26625-28.05.2026-ITEMA_24529310-2026C36128S0148-NET_MFC_E4CA66C4-101E-47F7-B8F3-7C64DAB3991F-25-bb2dbaf79ae5a92e8730888c6879940b.m4a" length="84948430" type="audio/mp4"/>
+      <pubDate>Thu, 28 May 2026 07:00:00 +0000</pubDate>
+      <itunes:author>France Culture</itunes:author>
+      <itunes:duration>58:31</itunes:duration>
+      <itunes:subtitle>AUDIO Les mondes de la porcelaine, épisode : Porcelaine de Limoges, la fabrique d’une image de marque. Une série inédite proposée par France Culture. Écoutez Porcelaine de Limoges, la fabrique d’une image de marque, et découvrez nos podcasts en ligne.</itunes:subtitle>
+      <itunes:summary>AUDIO Les mondes de la porcelaine, épisode : Porcelaine de Limoges, la fabrique d’une image de marque. Une série inédite proposée par France Culture. Écoutez Porcelaine de Limoges, la fabrique d’une image de marque, et découvrez nos podcasts en ligne.</itunes:summary>
+    </item>
     <item>
       <title>Collection et apparat, la porcelaine au service du prestige : épisode du podcast Les mondes de la porcelaine | France Culture</title>
       <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/collection-et-apparat-la-porcelaine-au-service-du-prestige-9275438</link>
