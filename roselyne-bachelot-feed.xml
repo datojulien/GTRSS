@@ -14,7 +14,7 @@
       <link>https://datojulien.github.io/GTRSS/roselyne-bachelot-feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Fri, 29 May 2026 04:42:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 08:52:14 +0000</lastBuildDate>
     <itunes:author>France Musique</itunes:author>
     <itunes:category text="Music"/>
     <itunes:explicit>no</itunes:explicit>
@@ -24,6 +24,26 @@
     </itunes:owner>
     <itunes:subtitle>Flux personnel généré depuis le site Radio France</itunes:subtitle>
     <itunes:summary>Un flux RSS personnel qui récupère les épisodes depuis le site web de France Musique lorsque le flux officiel n’est pas encore à jour.</itunes:summary>
+    <item>
+      <title>Opéra "bouffe" ?</title>
+      <link>https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/opera-bouffe-8102191</link>
+      <description>C'est un voyage culinaire et lyrique que nous propose cette semaine Roselyne Bachelot. Comment passer des "pâtes à la Norma" à l'opéra de Vincenzo Bellini ? Du vin que l'on boit à table à la Traviata ou à Béatrice et Bénédict ? Roselyne Bachelot nous emmène dans un voyage culinaire et musical.</description>
+      <content:encoded><![CDATA[
+        <p>C&#x27;est un voyage culinaire et lyrique que nous propose cette semaine Roselyne Bachelot. Comment passer des &quot;pâtes à la Norma&quot; à l&#x27;opéra de Vincenzo Bellini ? Du vin que l&#x27;on boit à table à la Traviata ou à Béatrice et Bénédict ? Roselyne Bachelot nous emmène dans un voyage culinaire et musical.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/opera-bouffe-8102191">France Musique</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/300x300" alt="Opéra &quot;bouffe&quot; ?" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/opera-bouffe-8102191</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26865-29.05.2026-ITEMA_24531010-2026M26307S0149-NET_MFM_2F4952AD-AEB8-490F-A3EB-FB8ED8E2E106-25-c0a0daa8b601914d13033fe6abb1c662.m4a" length="12152611" type="audio/mp4"/>
+      <pubDate>Fri, 29 May 2026 06:07:00 +0000</pubDate>
+      <itunes:author>France Musique</itunes:author>
+      <itunes:duration>8:21</itunes:duration>
+      <itunes:subtitle>C'est un voyage culinaire et lyrique que nous propose cette semaine Roselyne Bachelot. Comment passer des "pâtes à la Norma" à l'opéra de Vincenzo Bellini ? Du vin que l'on boit à table à la Traviata ou à Béatrice et Bénédict ? Roselyne Bachelot nous emmè</itunes:subtitle>
+      <itunes:summary>C'est un voyage culinaire et lyrique que nous propose cette semaine Roselyne Bachelot. Comment passer des "pâtes à la Norma" à l'opéra de Vincenzo Bellini ? Du vin que l'on boit à table à la Traviata ou à Béatrice et Bénédict ? Roselyne Bachelot nous emmène dans un voyage culinaire et musical.</itunes:summary>
+    </item>
     <item>
       <title>Son Tour de France lyrique</title>
       <link>https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/son-tour-de-france-lyrique-1191855</link>

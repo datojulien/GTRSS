@@ -14,7 +14,7 @@
       <link>https://datojulien.github.io/GTRSS/feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Fri, 29 May 2026 04:42:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 08:52:05 +0000</lastBuildDate>
     <itunes:author>France Culture</itunes:author>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -24,6 +24,26 @@
     </itunes:owner>
     <itunes:subtitle>Flux personnel généré depuis le site Radio France</itunes:subtitle>
     <itunes:summary>Un flux RSS personnel qui récupère les épisodes depuis le site web de France Culture lorsque le flux officiel n’est pas encore à jour.</itunes:summary>
+    <item>
+      <title>Ernest Pignon-Ernest, l’artiste, la rue et l’histoire : épisode du podcast Fou d'histoire | France Culture</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/ernest-pignon-ernest-l-artiste-la-rue-et-l-histoire-3753910</link>
+      <description>AUDIO Fou d'histoire, épisode : Ernest Pignon-Ernest, l’artiste, la rue et l’histoire. Une série inédite proposée par France Culture. Écoutez Ernest Pignon-Ernest, l’artiste, la rue et l’histoire, et découvrez nos podcasts en ligne.</description>
+      <content:encoded><![CDATA[
+        <p>AUDIO Fou d&#x27;histoire, épisode : Ernest Pignon-Ernest, l’artiste, la rue et l’histoire. Une série inédite proposée par France Culture. Écoutez Ernest Pignon-Ernest, l’artiste, la rue et l’histoire, et découvrez nos podcasts en ligne.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/ernest-pignon-ernest-l-artiste-la-rue-et-l-histoire-3753910">France Culture</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/eded8dae-4251-4741-8cc8-b13a95501516/300x300" alt="Ernest Pignon-Ernest, l’artiste, la rue et l’histoire : épisode du podcast Fou d&#x27;histoire | France Culture" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/ernest-pignon-ernest-l-artiste-la-rue-et-l-histoire-3753910</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26625-29.05.2026-ITEMA_24530959-2026C36128S0149-NET_MFC_6D15371A-7DEC-4BBF-A125-2DD4487C463F-25-779dcc7b76705e97aab535b68b40ffc6.m4a" length="84597577" type="audio/mp4"/>
+      <pubDate>Fri, 29 May 2026 07:00:00 +0000</pubDate>
+      <itunes:author>France Culture</itunes:author>
+      <itunes:duration>58:16</itunes:duration>
+      <itunes:subtitle>AUDIO Fou d'histoire, épisode : Ernest Pignon-Ernest, l’artiste, la rue et l’histoire. Une série inédite proposée par France Culture. Écoutez Ernest Pignon-Ernest, l’artiste, la rue et l’histoire, et découvrez nos podcasts en ligne.</itunes:subtitle>
+      <itunes:summary>AUDIO Fou d'histoire, épisode : Ernest Pignon-Ernest, l’artiste, la rue et l’histoire. Une série inédite proposée par France Culture. Écoutez Ernest Pignon-Ernest, l’artiste, la rue et l’histoire, et découvrez nos podcasts en ligne.</itunes:summary>
+    </item>
     <item>
       <title>Porcelaine de Limoges, la fabrique d’une image de marque : épisode du podcast Les mondes de la porcelaine | France Culture</title>
       <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/porcelaine-de-limoges-la-fabrique-d-une-image-de-marque-9137423</link>
