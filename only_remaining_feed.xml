@@ -14,8 +14,8 @@
     <atom:link href="https://datojulien.github.io/GTRSS/only_remaining_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Fri, 29 May 2026 23:42:14 GMT</lastBuildDate>
-    <pubDate>Fri, 29 May 2026 23:42:14 GMT</pubDate>
+    <lastBuildDate>Sat, 30 May 2026 04:17:37 GMT</lastBuildDate>
+    <pubDate>Sat, 30 May 2026 04:17:37 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -45,6 +45,32 @@
     <ns3:category text="Comedy" />
     <ns4:person role="host">RTL</ns4:person>
     <ns4:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns4:txt>
+    <item>
+      <title>LE MEILLEUR DE BOUVARD - La blague de Vincent Perrot et Macha Méril</title>
+      <guid isPermaLink="false">deddd5ac-3b9f-42d8-8f24-3cc54adfdb31</guid>
+      <description>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns5:encoded>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
+      <pubDate>Sat, 30 May 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/deddd5ac-3b9f-42d8-8f24-3cc54adfdb31.mp3?_=1779184393" length="1407171" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
+      <ns3:description>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !
+Hébergé par Audiomeans. Visitez</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>01:27</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/5c6cd146-1009-46df-b66b-3cb8e5ffb4f6.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/5c6cd146-1009-46df-b66b-3cb8e5ffb4f6.jpg" />
+      <ns4:person role="host">Laurent Ruquier</ns4:person>
+      <ns4:txt purpose="smartlink">https://audmns.com/OLEifIp</ns4:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>LES IMMANQUABLES - Le meilleur de l'émission du 29 mai 2026</title>
       <guid isPermaLink="false">c70850b0-e923-42a1-b415-1428661acf05</guid>
@@ -2756,31 +2782,6 @@ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pou
       <ns3:image href="https://static.audiomeans.fr/img/episode/aec1d96a-a70e-4206-af8f-6ca15f8203d5.jpg" />
       <ns4:person role="host">Laurent Ruquier</ns4:person>
       <ns4:txt purpose="smartlink">https://audmns.com/QGaDQJM</ns4:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>COUPE DU MONDE DES GROSSES TÊTES - Paul El Kharrat affronte Olivier Bellamy !</title>
-      <guid isPermaLink="false">29e97ade-259c-4f60-a03c-26da9b4a1436</guid>
-      <description>À l'occasion de la Coupe du monde 2026 de football, les Grosses Têtes vous proposent leur propre compétition ! Au micro de Sara Kemacha, l'équipe de Laurent Ruquier s'affrontent dans des matchs à élimination directe ! Au programme des questions avec de la culture générale, du football, mais aussi un retour sur l'histoire de l'émission mythique de RTL ! Pour ce nouveau match de poules, Paul El Kharrat défie Olivier Bellamy !&amp;nbsp;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns5:encoded>À l'occasion de la Coupe du monde 2026 de football, les Grosses Têtes vous proposent leur propre compétition ! Au micro de Sara Kemacha, l'équipe de Laurent Ruquier s'affrontent dans des matchs à élimination directe ! Au programme des questions avec de la culture générale, du football, mais aussi un retour sur l'histoire de l'émission mythique de RTL ! Pour ce nouveau match de poules, Paul El Kharrat défie Olivier Bellamy !&amp;nbsp;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
-      <pubDate>Tue, 19 May 2026 05:00:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/29e97ade-259c-4f60-a03c-26da9b4a1436.mp3?_=1777565271" length="8267582" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>À l'occasion de la Coupe du monde 2026 de football, les Grosses Têtes vous proposent leur propre compétition ! Au micro de Sara Kemacha, l'équipe de Laurent Ruquier s'affrontent dans des matchs à élimination directe ! Au programme des questions avec de la culture générale, du football, mais aussi un retour sur l'histoire de l'émission mythique de RTL ! Pour ce nouveau match de poules, Paul El Kharrat défie Olivier Bellamy !
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns3:description>À l'occasion de la Coupe du monde 2026 de football, les Grosses Têtes vous proposent leur propre compétition ! Au micro de Sara Kemacha, l'équipe de Laurent Ruquier s'affrontent dans des matchs à élimination directe ! Au programme des questions avec de la culture générale, du football, mais aussi un retour sur l'histoire de l'émission mythique de RTL ! Pour ce nouveau match de poules, Paul El Kharrat défie Olivier Bellamy !
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
-      <itunes:author>Sara Kemacha</itunes:author>
-      <author>Sara Kemacha</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>À l'occasion de la Coupe du monde 2026 de football, les Grosses Têtes vous proposent leur propre compétition ! Au micro de Sara Kemacha, l'équipe de Laurent Ruquier s'affrontent dans des matchs à élimination directe ! Au programme des questions avec de la culture g...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>08:36</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/c426b17c-39af-401f-b9cb-b6c38c2fca55.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/c426b17c-39af-401f-b9cb-b6c38c2fca55.jpg" />
-      <ns4:person role="host">Sara Kemacha</ns4:person>
-      <ns4:txt purpose="smartlink">https://audmns.com/CHBMcuw</ns4:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
