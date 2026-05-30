@@ -14,8 +14,8 @@
     <atom:link href="https://datojulien.github.io/GTRSS/only_remaining_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Sat, 30 May 2026 07:51:12 GMT</lastBuildDate>
-    <pubDate>Sat, 30 May 2026 07:51:12 GMT</pubDate>
+    <lastBuildDate>Sat, 30 May 2026 10:17:25 GMT</lastBuildDate>
+    <pubDate>Sat, 30 May 2026 10:17:25 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -45,6 +45,43 @@
     <ns3:category text="Comedy" />
     <ns4:person role="host">RTL</ns4:person>
     <ns4:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns4:txt>
+    <item>
+      <title>LE MEILLEUR DE RUQUIER - Un homme persuadé d'être trompé par sa femme... L'histoire drôle de Jean-Marie Bigard</title>
+      <guid isPermaLink="false">97d1965c-ee23-453b-955a-34a8af124696</guid>
+      <description>Un homme qui est persuadé d'être trompé par sa femme engage un détective privé, un couple qui se retrouve au paradis et deux gendarmes qui se retrouvent devant une vieille maison corse...&amp;nbsp; Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+&amp;nbsp;
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns5:encoded>Un homme qui est persuadé d'être trompé par sa femme engage un détective privé, un couple qui se retrouve au paradis et deux gendarmes qui se retrouvent devant une vieille maison corse...&amp;nbsp; Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+&amp;nbsp;
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
+      <pubDate>Sat, 30 May 2026 09:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/97d1965c-ee23-453b-955a-34a8af124696.mp3?_=1779459481" length="1986125" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Un homme qui est persuadé d'être trompé par sa femme engage un détective privé, un couple qui se retrouve au paradis et deux gendarmes qui se retrouvent devant une vieille maison corse... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
+      <ns3:description>Un homme qui est persuadé d'être trompé par sa femme engage un détective privé, un couple qui se retrouve au paradis et deux gendarmes qui se retrouvent devant une vieille maison corse... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Un homme qui est persuadé d'être trompé par sa femme engage un détective privé, un couple qui se retrouve au paradis et deux gendarmes qui se retrouvent devant une vieille maison corse... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Gros...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>02:04</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/e0a32ca2-cf00-4e0b-bb0a-3b7f3dbf6dbd.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/e0a32ca2-cf00-4e0b-bb0a-3b7f3dbf6dbd.jpg" />
+      <ns4:person role="host">Laurent Ruquier</ns4:person>
+      <ns4:txt purpose="smartlink">https://audmns.com/VSWZyvN</ns4:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>LE MEILLEUR DE BOUVARD - La blague de Vincent Perrot et Macha Méril</title>
       <guid isPermaLink="false">deddd5ac-3b9f-42d8-8f24-3cc54adfdb31</guid>
@@ -2725,63 +2762,6 @@ Hébergé par Audiomeans. Visitez</itunes:subtitle>
       <ns3:image href="https://static.audiomeans.fr/img/episode/5f2dc724-10f4-4fc2-ae77-d29e4379e57f.jpg" />
       <ns4:person role="host">Laurent Ruquier</ns4:person>
       <ns4:txt purpose="smartlink">https://audmns.com/TlrqTjd</ns4:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>LE MEILLEUR DE RUQUIER - Un nain milliardaire joue au foot avec ses copains... L'histoire drôle racontée par Éric Thomas</title>
-      <guid isPermaLink="false">eebb4f1e-cc44-4aa9-bcfd-6c533b5af71c</guid>
-      <description>Un nain milliardaire qui propose à ses copains de jouer au foot, un père qui découvre pour la première fois à quoi ressemble son enfant et une vieille dame qui s'inquiète de ne jamais guérir de la grippe. Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
-
-Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
-&amp;nbsp;
-
-
-
-
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns5:encoded>Un nain milliardaire qui propose à ses copains de jouer au foot, un père qui découvre pour la première fois à quoi ressemble son enfant et une vieille dame qui s'inquiète de ne jamais guérir de la grippe. Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
-
-Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
-&amp;nbsp;
-
-
-
-
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
-      <pubDate>Tue, 19 May 2026 09:00:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/eebb4f1e-cc44-4aa9-bcfd-6c533b5af71c.mp3?_=1778676781" length="2930335" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Un nain milliardaire qui propose à ses copains de jouer au foot, un père qui découvre pour la première fois à quoi ressemble son enfant et une vieille dame qui s'inquiète de ne jamais guérir de la grippe. Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
-
-Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
-
-
-
-
-
-
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns3:description>Un nain milliardaire qui propose à ses copains de jouer au foot, un père qui découvre pour la première fois à quoi ressemble son enfant et une vieille dame qui s'inquiète de ne jamais guérir de la grippe. Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
-
-Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
-
-
-
-
-
-
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Un nain milliardaire qui propose à ses copains de jouer au foot, un père qui découvre pour la première fois à quoi ressemble son enfant et une vieille dame qui s'inquiète de ne jamais guérir de la grippe. Écoutez dans ce podcast 3 des meilleures blagues racontées p...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>03:03</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/aec1d96a-a70e-4206-af8f-6ca15f8203d5.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/aec1d96a-a70e-4206-af8f-6ca15f8203d5.jpg" />
-      <ns4:person role="host">Laurent Ruquier</ns4:person>
-      <ns4:txt purpose="smartlink">https://audmns.com/QGaDQJM</ns4:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
