@@ -14,8 +14,8 @@
     <atom:link href="https://datojulien.github.io/GTRSS/only_remaining_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Tue, 02 Jun 2026 06:57:20 GMT</lastBuildDate>
-    <pubDate>Tue, 02 Jun 2026 06:57:20 GMT</pubDate>
+    <lastBuildDate>Tue, 02 Jun 2026 11:42:56 GMT</lastBuildDate>
+    <pubDate>Tue, 02 Jun 2026 11:42:56 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -45,6 +45,43 @@
     <ns3:category text="Comedy" />
     <ns4:person role="host">RTL</ns4:person>
     <ns4:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns4:txt>
+    <item>
+      <title>LE MEILLEUR DE RUQUIER - Les trois petits cochons de nouveau confronté au grand méchant loup... L'histoire drôle de Chantal Ladesou</title>
+      <guid isPermaLink="false">661ed2ed-c607-49ec-b0ca-d6e7176e79d0</guid>
+      <description>Le grand méchant loup qui réapparaît devant les trois petits cochons, une femme qui découvre des cheveux de femme sur les vêtements de son mari et un perroquet extrêmement vulgaire... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+&amp;nbsp;
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns5:encoded>Le grand méchant loup qui réapparaît devant les trois petits cochons, une femme qui découvre des cheveux de femme sur les vêtements de son mari et un perroquet extrêmement vulgaire... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+&amp;nbsp;
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
+      <pubDate>Tue, 02 Jun 2026 09:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/661ed2ed-c607-49ec-b0ca-d6e7176e79d0.mp3?_=1779985100" length="1755015" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Le grand méchant loup qui réapparaît devant les trois petits cochons, une femme qui découvre des cheveux de femme sur les vêtements de son mari et un perroquet extrêmement vulgaire... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
+      <ns3:description>Le grand méchant loup qui réapparaît devant les trois petits cochons, une femme qui découvre des cheveux de femme sur les vêtements de son mari et un perroquet extrêmement vulgaire... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Le grand méchant loup qui réapparaît devant les trois petits cochons, une femme qui découvre des cheveux de femme sur les vêtements de son mari et un perroquet extrêmement vulgaire... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes ...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>01:49</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/c38dc939-e7f4-49cb-95a1-8a63f528b993.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/c38dc939-e7f4-49cb-95a1-8a63f528b993.jpg" />
+      <ns4:person role="host">Laurent Ruquier</ns4:person>
+      <ns4:txt purpose="smartlink">https://audmns.com/GusEmsd</ns4:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>COUPE DU MONDE DES GROSSES TÊTES - Christophe Beaugrand affronte Laurence Boccolini (8e)</title>
       <guid isPermaLink="false">bed43cd9-51e8-45f1-b328-346c8c101807</guid>
@@ -2684,36 +2721,6 @@ Hébergé par Audiomeans. Visitez</itunes:subtitle>
       <ns3:image href="https://static.audiomeans.fr/img/episode/2a63e96f-612a-48e2-abd8-8935cbf55da8.jpg" />
       <ns4:person role="host">Laurent Ruquier</ns4:person>
       <ns4:txt purpose="smartlink">https://audmns.com/tUxRkSH</ns4:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>LES IMMANQUABLES - Le meilleur de l'émission du 20 mai 2026</title>
-      <guid isPermaLink="false">37793a75-d7cc-436d-963c-4b3c0277bb91</guid>
-      <description>Charlotte de Turckheim qui tient tête à Sébastien Thoen, Olivier Bellamy qui ne donne pas les bonnes informations, les jeux de mots de Philippe Bouvard... Retrouvez dans ce podcast le meilleur de l'émission du mercredi 20 mai 2026.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns5:encoded>Charlotte de Turckheim qui tient tête à Sébastien Thoen, Olivier Bellamy qui ne donne pas les bonnes informations, les jeux de mots de Philippe Bouvard... Retrouvez dans ce podcast le meilleur de l'émission du mercredi 20 mai 2026.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
-      <pubDate>Wed, 20 May 2026 15:59:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/37793a75-d7cc-436d-963c-4b3c0277bb91.mp3?_=1779287283" length="17704886" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Charlotte de Turckheim qui tient tête à Sébastien Thoen, Olivier Bellamy qui ne donne pas les bonnes informations, les jeux de mots de Philippe Bouvard... Retrouvez dans ce podcast le meilleur de l'émission du mercredi 20 mai 2026.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns3:description>Charlotte de Turckheim qui tient tête à Sébastien Thoen, Olivier Bellamy qui ne donne pas les bonnes informations, les jeux de mots de Philippe Bouvard... Retrouvez dans ce podcast le meilleur de l'émission du mercredi 20 mai 2026.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Charlotte de Turckheim qui tient tête à Sébastien Thoen, Olivier Bellamy qui ne donne pas les bonnes informations, les jeux de mots de Philippe Bouvard... Retrouvez dans ce podcast le meilleur de l'émission du mercredi 20 mai 2026.
-Retrouvez tous les jours le meil...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>18:26</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/54271f6a-1c51-47bc-b7c7-be005b5e8427.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/54271f6a-1c51-47bc-b7c7-be005b5e8427.jpg" />
-      <ns4:person role="host">Laurent Ruquier</ns4:person>
-      <ns4:txt purpose="smartlink">https://audmns.com/URnnrIJ</ns4:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
