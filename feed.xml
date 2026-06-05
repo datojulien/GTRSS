@@ -14,7 +14,7 @@
       <link>https://datojulien.github.io/GTRSS/feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Fri, 05 Jun 2026 04:46:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 08:52:38 +0000</lastBuildDate>
     <itunes:author>France Culture</itunes:author>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -24,6 +24,26 @@
     </itunes:owner>
     <itunes:subtitle>Flux personnel généré depuis le site Radio France</itunes:subtitle>
     <itunes:summary>Un flux RSS personnel qui récupère les épisodes depuis le site web de France Culture lorsque le flux officiel n’est pas encore à jour.</itunes:summary>
+    <item>
+      <title>L’IA pour l’histoire : succès, promesses, écueils</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/l-ia-pour-l-histoire-succes-promesses-ecueils-8808890</link>
+      <description>Numériser les archives, déchiffrer les manuscrits, constituer des bases de données… Les récents développements de l’intelligence artificielle et d’autres outils technologiques accompagnent la recherche scientifique historique. En quoi questionnent-ils aussi les principes mêmes de la recherche ?</description>
+      <content:encoded><![CDATA[
+        <p>Numériser les archives, déchiffrer les manuscrits, constituer des bases de données… Les récents développements de l’intelligence artificielle et d’autres outils technologiques accompagnent la recherche scientifique historique. En quoi questionnent-ils aussi les principes mêmes de la recherche ?</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/l-ia-pour-l-histoire-succes-promesses-ecueils-8808890">France Culture</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/f4d56193-8110-4421-82ca-b779d65aa5cd/300x300" alt="L’IA pour l’histoire : succès, promesses, écueils" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/l-ia-pour-l-histoire-succes-promesses-ecueils-8808890</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26625-05.06.2026-ITEMA_24540091-2026C36128S0156-NET_MFC_210E8CE2-A304-47AD-AB03-0FCDD29B0808-25-bc2dd5cfb2400861124f0c3d00db30f2.m4a" length="85682224" type="audio/mp4"/>
+      <pubDate>Fri, 05 Jun 2026 07:00:00 +0000</pubDate>
+      <itunes:author>France Culture</itunes:author>
+      <itunes:duration>59:01</itunes:duration>
+      <itunes:subtitle>Numériser les archives, déchiffrer les manuscrits, constituer des bases de données… Les récents développements de l’intelligence artificielle et d’autres outils technologiques accompagnent la recherche scientifique historique. En quoi questionnent-ils aus</itunes:subtitle>
+      <itunes:summary>Numériser les archives, déchiffrer les manuscrits, constituer des bases de données… Les récents développements de l’intelligence artificielle et d’autres outils technologiques accompagnent la recherche scientifique historique. En quoi questionnent-ils aussi les principes mêmes de la recherche ?</itunes:summary>
+    </item>
     <item>
       <title>Enfants de la Guyane et de La Réunion, "mission protectrice" et violences coloniales : épisode du podcast Enfants à protéger, histoires de secours et de violences | France Culture</title>
       <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/enfants-de-la-guyane-et-de-la-reunion-mission-protectrice-et-violences-coloniales-2037607</link>

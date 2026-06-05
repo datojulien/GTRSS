@@ -14,7 +14,7 @@
       <link>https://datojulien.github.io/GTRSS/roselyne-bachelot-feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Fri, 05 Jun 2026 04:46:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 08:52:47 +0000</lastBuildDate>
     <itunes:author>France Musique</itunes:author>
     <itunes:category text="Music"/>
     <itunes:explicit>no</itunes:explicit>
@@ -24,6 +24,26 @@
     </itunes:owner>
     <itunes:subtitle>Flux personnel généré depuis le site Radio France</itunes:subtitle>
     <itunes:summary>Un flux RSS personnel qui récupère les épisodes depuis le site web de France Musique lorsque le flux officiel n’est pas encore à jour.</itunes:summary>
+    <item>
+      <title>Quand sport et opéra font bon ménage</title>
+      <link>https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/quand-sport-et-opera-font-bon-menage-7244280</link>
+      <description>L'opéra n'a pas fini de transpirer en cette période riche en évènements sportifs ! Roselyne Bachelot raconte comment l'escrime, la lutte ou l'équitation s'immiscent sur les scènes lyriques. Et les rapprochements ne s'arrêtent pas là : le chanteur, comme l'athlète, travaille son corps et son souffle.</description>
+      <content:encoded><![CDATA[
+        <p>L&#x27;opéra n&#x27;a pas fini de transpirer en cette période riche en évènements sportifs ! Roselyne Bachelot raconte comment l&#x27;escrime, la lutte ou l&#x27;équitation s&#x27;immiscent sur les scènes lyriques. Et les rapprochements ne s&#x27;arrêtent pas là : le chanteur, comme l&#x27;athlète, travaille son corps et son souffle.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/quand-sport-et-opera-font-bon-menage-7244280">France Musique</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/300x300" alt="Quand sport et opéra font bon ménage" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/quand-sport-et-opera-font-bon-menage-7244280</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26865-05.06.2026-ITEMA_24540142-2026M26307S0156-NET_MFM_840F2B2E-12CE-4A2E-BD97-37C1A6E5E1B5-25-a477304a3b789915dbd906c1d85dbc33.m4a" length="11772322" type="audio/mp4"/>
+      <pubDate>Fri, 05 Jun 2026 06:07:00 +0000</pubDate>
+      <itunes:author>France Musique</itunes:author>
+      <itunes:duration>8:06</itunes:duration>
+      <itunes:subtitle>L'opéra n'a pas fini de transpirer en cette période riche en évènements sportifs ! Roselyne Bachelot raconte comment l'escrime, la lutte ou l'équitation s'immiscent sur les scènes lyriques. Et les rapprochements ne s'arrêtent pas là : le chanteur, comme l</itunes:subtitle>
+      <itunes:summary>L'opéra n'a pas fini de transpirer en cette période riche en évènements sportifs ! Roselyne Bachelot raconte comment l'escrime, la lutte ou l'équitation s'immiscent sur les scènes lyriques. Et les rapprochements ne s'arrêtent pas là : le chanteur, comme l'athlète, travaille son corps et son souffle.</itunes:summary>
+    </item>
     <item>
       <title>Opéra "bouffe" ?</title>
       <link>https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/opera-bouffe-8102191</link>
