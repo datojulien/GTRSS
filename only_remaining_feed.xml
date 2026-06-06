@@ -14,8 +14,8 @@
     <atom:link href="https://datojulien.github.io/GTRSS/only_remaining_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Sat, 06 Jun 2026 14:53:35 GMT</lastBuildDate>
-    <pubDate>Sat, 06 Jun 2026 14:53:35 GMT</pubDate>
+    <lastBuildDate>Sat, 06 Jun 2026 16:19:26 GMT</lastBuildDate>
+    <pubDate>Sat, 06 Jun 2026 16:19:26 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -2717,47 +2717,6 @@ H...</itunes:subtitle>
       <ns3:image href="https://static.audiomeans.fr/img/episode/ec6fe674-e5a7-4b40-95f6-b721bcd350a7.jpg" />
       <ns4:person role="host">Laurent Ruquier</ns4:person>
       <ns4:txt purpose="smartlink">https://audmns.com/lpQtONM</ns4:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>IMITATIONS - Montfort, Noah, Lang... L'actualité vue par Marc-Antoine Le Bret</title>
-      <guid isPermaLink="false">5754500a-3ced-4de9-bb99-eb7078e90454</guid>
-      <description>Dans l'émission du 26 mai 2026, Marc-Antoine Le Bret a imité Nelson Montfort, Yannick Noah, Jack Lang, Jeff Tuche et Julien Lepers.
-
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns5:encoded>Dans l'émission du 26 mai 2026, Marc-Antoine Le Bret a imité Nelson Montfort, Yannick Noah, Jack Lang, Jeff Tuche et Julien Lepers.
-
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
-      <pubDate>Tue, 26 May 2026 15:57:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/5754500a-3ced-4de9-bb99-eb7078e90454.mp3?_=1779805381" length="4191687" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Dans l'émission du 26 mai 2026, Marc-Antoine Le Bret a imité Nelson Montfort, Yannick Noah, Jack Lang, Jeff Tuche et Julien Lepers.
-
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns3:description>Dans l'émission du 26 mai 2026, Marc-Antoine Le Bret a imité Nelson Montfort, Yannick Noah, Jack Lang, Jeff Tuche et Julien Lepers.
-
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Dans l'émission du 26 mai 2026, Marc-Antoine Le Bret a imité Nelson Montfort, Yannick Noah, Jack Lang, Jeff Tuche et Julien Lepers.
-
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-Hébergé par Audiomeans....</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>04:21</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/b56e04c3-edcc-426c-90c1-79a869c12c12.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/b56e04c3-edcc-426c-90c1-79a869c12c12.jpg" />
-      <ns4:person role="host">Laurent Ruquier</ns4:person>
-      <ns4:txt purpose="smartlink">https://audmns.com/yWbcxRI</ns4:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
