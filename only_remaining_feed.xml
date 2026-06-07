@@ -14,8 +14,8 @@
     <atom:link href="https://datojulien.github.io/GTRSS/only_remaining_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Sun, 07 Jun 2026 12:02:18 GMT</lastBuildDate>
-    <pubDate>Sun, 07 Jun 2026 12:02:18 GMT</pubDate>
+    <lastBuildDate>Sun, 07 Jun 2026 14:20:00 GMT</lastBuildDate>
+    <pubDate>Sun, 07 Jun 2026 14:20:00 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -45,6 +45,32 @@
     <ns3:category text="Comedy" />
     <ns4:person role="host">RTL</ns4:person>
     <ns4:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns4:txt>
+    <item>
+      <title>BEST OF - Les 10 meilleures blagues du dimanche 7 mai 2026</title>
+      <guid isPermaLink="false">b14ad76c-9695-47b0-8377-b174de9cf344</guid>
+      <description>Chaque dimanche, retrouvez les meilleures blagues de vos Grosses Têtes préférées. Laurent Ruquier, Caroline Diament, Isabelle Mergault... Découvrez dans ce podcast 10 des meilleures blagues passées à l'antenne et racontées par les Grosses Têtes.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns5:encoded>Chaque dimanche, retrouvez les meilleures blagues de vos Grosses Têtes préférées. Laurent Ruquier, Caroline Diament, Isabelle Mergault... Découvrez dans ce podcast 10 des meilleures blagues passées à l'antenne et racontées par les Grosses Têtes.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
+      <pubDate>Sun, 07 Jun 2026 13:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/b14ad76c-9695-47b0-8377-b174de9cf344.mp3?_=1780567082" length="5210599" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Chaque dimanche, retrouvez les meilleures blagues de vos Grosses Têtes préférées. Laurent Ruquier, Caroline Diament, Isabelle Mergault... Découvrez dans ce podcast 10 des meilleures blagues passées à l'antenne et racontées par les Grosses Têtes.
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
+      <ns3:description>Chaque dimanche, retrouvez les meilleures blagues de vos Grosses Têtes préférées. Laurent Ruquier, Caroline Diament, Isabelle Mergault... Découvrez dans ce podcast 10 des meilleures blagues passées à l'antenne et racontées par les Grosses Têtes.
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Chaque dimanche, retrouvez les meilleures blagues de vos Grosses Têtes préférées. Laurent Ruquier, Caroline Diament, Isabelle Mergault... Découvrez dans ce podcast 10 des meilleures blagues passées à l'antenne et racontées par les Grosses Têtes.
+Hébergé pa...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>05:25</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/0708bf2d-7149-445a-a942-157edf8dfa07.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/0708bf2d-7149-445a-a942-157edf8dfa07.jpg" />
+      <ns4:person role="host">Laurent Ruquier</ns4:person>
+      <ns4:txt purpose="smartlink">https://audmns.com/fbvLDRk</ns4:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>BEST OF - Le meilleur de la semaine du 1er au 5 juin 2026 (2/2)</title>
       <guid isPermaLink="false">89f3a46a-c243-4607-87b6-2c575323d527</guid>
@@ -2666,42 +2692,6 @@ Hébergé par Audiomeans. Visitez</itunes:subtitle>
       <ns3:image href="https://static.audiomeans.fr/img/episode/5975851e-0b87-4670-813a-89208f9c3e42.jpg" />
       <ns4:person role="host">Laurent Ruquier</ns4:person>
       <ns4:txt purpose="smartlink">https://audmns.com/yMwgKuc</ns4:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>LES IMMANQUABLES - Le meilleur de l'émission du mardi 26 mai 2026</title>
-      <guid isPermaLink="false">fee75c74-158d-4b99-bc39-3dd9aaf3d6e3</guid>
-      <description>Une mystérieuse actrice, des auditeurs en forme... Retrouvez dans ce podcast le meilleur de l'émission du mardi 26 mai 2026.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns5:encoded>Une mystérieuse actrice, des auditeurs en forme... Retrouvez dans ce podcast le meilleur de l'émission du mardi 26 mai 2026.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
-      <pubDate>Tue, 26 May 2026 15:59:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/fee75c74-158d-4b99-bc39-3dd9aaf3d6e3.mp3?_=1779807789" length="14578349" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Une mystérieuse actrice, des auditeurs en forme... Retrouvez dans ce podcast le meilleur de l'émission du mardi 26 mai 2026.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns3:description>Une mystérieuse actrice, des auditeurs en forme... Retrouvez dans ce podcast le meilleur de l'émission du mardi 26 mai 2026.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Une mystérieuse actrice, des auditeurs en forme... Retrouvez dans ce podcast le meilleur de l'émission du mardi 26 mai 2026.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL
-Hébergé par Audiomeans. Visitez ...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>15:11</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/c150c496-715b-432d-8347-0685ab4d293d.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/c150c496-715b-432d-8347-0685ab4d293d.jpg" />
-      <ns4:person role="host">Laurent Ruquier</ns4:person>
-      <ns4:txt purpose="smartlink">https://audmns.com/cSvZQII</ns4:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
