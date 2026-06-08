@@ -1,4 +1,4 @@
-beautifulsoup4==4.13.4
+beautifulsoup4==4.15.0
 feedgen==1.0.0
 lxml==5.4.0
 python-dateutil==2.9.0.post0
