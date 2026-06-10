@@ -14,8 +14,8 @@
     <atom:link href="https://datojulien.github.io/GTRSS/only_remaining_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Wed, 10 Jun 2026 06:42:45 GMT</lastBuildDate>
-    <pubDate>Wed, 10 Jun 2026 06:42:45 GMT</pubDate>
+    <lastBuildDate>Wed, 10 Jun 2026 11:04:06 GMT</lastBuildDate>
+    <pubDate>Wed, 10 Jun 2026 11:04:06 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -45,6 +45,51 @@
     <ns3:category text="Comedy" />
     <ns4:person role="host">RTL</ns4:person>
     <ns4:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns4:txt>
+    <item>
+      <title>LE MEILLEUR DE RUQUIER - Deux personnes âgées se draguent dans un EPHAD... L'histoire drôle de Laurent Baffie</title>
+      <guid isPermaLink="false">36ff124c-40ec-4adc-9035-de8ba630b318</guid>
+      <description>Une vieille dame qui drague un membre de l'EPHAD, la différence entre un rappeur et un campeur, et homme qui avait une chance sur deux d'embrasser Brigitte Bardot... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+
+
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns5:encoded>Une vieille dame qui drague un membre de l'EPHAD, la différence entre un rappeur et un campeur, et homme qui avait une chance sur deux d'embrasser Brigitte Bardot... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+
+
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
+      <pubDate>Wed, 10 Jun 2026 09:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/36ff124c-40ec-4adc-9035-de8ba630b318.mp3?_=1780670887" length="1789610" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Une vieille dame qui drague un membre de l'EPHAD, la différence entre un rappeur et un campeur, et homme qui avait une chance sur deux d'embrasser Brigitte Bardot... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+
+
+
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
+      <ns3:description>Une vieille dame qui drague un membre de l'EPHAD, la différence entre un rappeur et un campeur, et homme qui avait une chance sur deux d'embrasser Brigitte Bardot... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+
+
+
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Une vieille dame qui drague un membre de l'EPHAD, la différence entre un rappeur et un campeur, et homme qui avait une chance sur deux d'embrasser Brigitte Bardot... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>01:51</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/8147df15-c252-4da3-a8e1-a7201b2f5f77.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/8147df15-c252-4da3-a8e1-a7201b2f5f77.jpg" />
+      <ns4:person role="host">Laurent Ruquier</ns4:person>
+      <ns4:txt purpose="smartlink">https://audmns.com/iAgRimq</ns4:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>COUPE DU MONDE DES GROSSES TÊTES - Alex Vizorek affronte Sébastien Thoen (¼ de finale)</title>
       <guid isPermaLink="false">8f933bfe-286f-4ec8-a4ed-a57d2828efdf</guid>
@@ -2673,31 +2718,6 @@ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pou
       <ns3:image href="https://static.audiomeans.fr/img/episode/bf990837-5d32-4766-95ab-58709a61cb3b.jpg" />
       <ns4:person role="host">Laurent Ruquier</ns4:person>
       <ns4:txt purpose="smartlink">https://audmns.com/KHPQurG</ns4:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>COUPE DU MONDE DES GROSSES TÊTES - Sébastien Thoen affronte Alex Vizorek (⅛ de finale)</title>
-      <guid isPermaLink="false">e24aa521-faa8-4e6b-9685-22546974dd86</guid>
-      <description>À l'occasion de la Coupe du monde 2026 de football, les Grosses Têtes vous proposent leur propre compétition ! Au micro de Sara Kemacha, l'équipe de Laurent Ruquier s'affrontent dans des matchs à élimination directe ! Au programme des questions avec de la culture générale, du football, mais aussi un retour sur l'histoire de l'émission mythique de RTL ! Pour ce quatrième match des 8e de finale, Sébastien Thoe défie Alex Vizorek !&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns5:encoded>À l'occasion de la Coupe du monde 2026 de football, les Grosses Têtes vous proposent leur propre compétition ! Au micro de Sara Kemacha, l'équipe de Laurent Ruquier s'affrontent dans des matchs à élimination directe ! Au programme des questions avec de la culture générale, du football, mais aussi un retour sur l'histoire de l'émission mythique de RTL ! Pour ce quatrième match des 8e de finale, Sébastien Thoe défie Alex Vizorek !&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
-      <pubDate>Fri, 29 May 2026 05:00:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/e24aa521-faa8-4e6b-9685-22546974dd86.mp3?_=1779445683" length="10891951" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>À l'occasion de la Coupe du monde 2026 de football, les Grosses Têtes vous proposent leur propre compétition ! Au micro de Sara Kemacha, l'équipe de Laurent Ruquier s'affrontent dans des matchs à élimination directe ! Au programme des questions avec de la culture générale, du football, mais aussi un retour sur l'histoire de l'émission mythique de RTL ! Pour ce quatrième match des 8e de finale, Sébastien Thoe défie Alex Vizorek !
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns3:description>À l'occasion de la Coupe du monde 2026 de football, les Grosses Têtes vous proposent leur propre compétition ! Au micro de Sara Kemacha, l'équipe de Laurent Ruquier s'affrontent dans des matchs à élimination directe ! Au programme des questions avec de la culture générale, du football, mais aussi un retour sur l'histoire de l'émission mythique de RTL ! Pour ce quatrième match des 8e de finale, Sébastien Thoe défie Alex Vizorek !
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
-      <itunes:author>Sara Kemacha</itunes:author>
-      <author>Sara Kemacha</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>À l'occasion de la Coupe du monde 2026 de football, les Grosses Têtes vous proposent leur propre compétition ! Au micro de Sara Kemacha, l'équipe de Laurent Ruquier s'affrontent dans des matchs à élimination directe ! Au programme des questions avec de la culture g...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>11:20</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/a32a772f-26d5-4200-b5d6-de360456a88a.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/a32a772f-26d5-4200-b5d6-de360456a88a.jpg" />
-      <ns4:person role="host">Sara Kemacha</ns4:person>
-      <ns4:txt purpose="smartlink">https://audmns.com/bxmnlBK</ns4:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
