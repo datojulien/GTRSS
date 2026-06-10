@@ -14,8 +14,8 @@
     <atom:link href="https://datojulien.github.io/GTRSS/only_remaining_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Wed, 10 Jun 2026 11:04:06 GMT</lastBuildDate>
-    <pubDate>Wed, 10 Jun 2026 11:04:06 GMT</pubDate>
+    <lastBuildDate>Wed, 10 Jun 2026 14:29:29 GMT</lastBuildDate>
+    <pubDate>Wed, 10 Jun 2026 14:29:29 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -45,6 +45,41 @@
     <ns3:category text="Comedy" />
     <ns4:person role="host">RTL</ns4:person>
     <ns4:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns4:txt>
+    <item>
+      <title>INÉDIT - Côté coulisses : "Je ne suis pas très douée pour l'amour", Anaïs se confie avant l'émission</title>
+      <guid isPermaLink="false">d6a6024c-429a-466a-bdd1-df8a99686b8e</guid>
+      <description>Dans ce podcast inédit, Anaïs se confie au micro de RTL avant son passage dans l'émission ! L'occasion d'en apprendre un peu plus sur elle, sur ses projets et sur ses souvenirs de l'émission "Les Grosses Têtes".
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns5:encoded>Dans ce podcast inédit, Anaïs se confie au micro de RTL avant son passage dans l'émission ! L'occasion d'en apprendre un peu plus sur elle, sur ses projets et sur ses souvenirs de l'émission "Les Grosses Têtes".
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
+      <pubDate>Wed, 10 Jun 2026 12:30:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/d6a6024c-429a-466a-bdd1-df8a99686b8e.mp3?_=1781095981" length="5339582" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Dans ce podcast inédit, Anaïs se confie au micro de RTL avant son passage dans l'émission ! L'occasion d'en apprendre un peu plus sur elle, sur ses projets et sur ses souvenirs de l'émission "Les Grosses Têtes".
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
+      <ns3:description>Dans ce podcast inédit, Anaïs se confie au micro de RTL avant son passage dans l'émission ! L'occasion d'en apprendre un peu plus sur elle, sur ses projets et sur ses souvenirs de l'émission "Les Grosses Têtes".
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
+      <itunes:author>Julien Bonneau</itunes:author>
+      <author>Julien Bonneau</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Dans ce podcast inédit, Anaïs se confie au micro de RTL avant son passage dans l'émission ! L'occasion d'en apprendre un peu plus sur elle, sur ses projets et sur ses souvenirs de l'émission "Les Grosses Têtes".
+
+Retrouvez tous les jours le meilleur des Grosses Têt...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>05:33</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/c1850aa5-9ce3-4a28-b2cf-4fc663f09e56.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/c1850aa5-9ce3-4a28-b2cf-4fc663f09e56.jpg" />
+      <ns4:person role="host">Julien Bonneau</ns4:person>
+      <ns4:txt purpose="smartlink">https://audmns.com/YBMjJqn</ns4:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>LE MEILLEUR DE RUQUIER - Deux personnes âgées se draguent dans un EPHAD... L'histoire drôle de Laurent Baffie</title>
       <guid isPermaLink="false">36ff124c-40ec-4adc-9035-de8ba630b318</guid>
@@ -274,7 +309,7 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
-      <title>FAKE NEWS - Bruel, CNews, Coupe du monde... Quelle Grosse Tête dit vraie ?</title>
+      <title>FAKE NEWS - Bruel, CNews, Coupe du monde... Quelle Grosse Tête dit vrai ?</title>
       <guid isPermaLink="false">f33340b5-95c2-4fe2-bc0c-4453af566c02</guid>
       <description>Et vous, saurez-vous démêler le vrai du faux ?
 Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
@@ -298,8 +333,8 @@ Hébergé par Audiomeans. Visitez audiomeans.f...</itunes:subtitle>
       <itunes:block>no</itunes:block>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>06:38</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/47d18930-584f-404b-8dee-73a43aad9ab3.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/47d18930-584f-404b-8dee-73a43aad9ab3.jpg" />
+      <itunes:image href="https://static.audiomeans.fr/img/episode/09ec7fd4-1ce5-402f-bdce-804943b2264c.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/09ec7fd4-1ce5-402f-bdce-804943b2264c.jpg" />
       <ns4:person role="host">Laurent Ruquier</ns4:person>
       <ns4:txt purpose="smartlink">https://audmns.com/bzQhAhv</ns4:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
@@ -2681,43 +2716,6 @@ Hébergé par Audiomeans. Visitez...</itunes:subtitle>
       <ns3:image href="https://static.audiomeans.fr/img/episode/48cc8acd-4240-4738-9286-db6ecd2a8341.jpg" />
       <ns4:person role="host">Laurent Ruquier</ns4:person>
       <ns4:txt purpose="smartlink">https://audmns.com/CTYhUBT</ns4:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>LE MEILLEUR DE RUQUIER - Un enfant demande à ses parents s'il a été adopté... L'histoire drôle racontée par Jérémy Ferrari</title>
-      <guid isPermaLink="false">4a42930c-d632-4494-8053-036f282ddd55</guid>
-      <description>Un enfant qui demande à ses parents s'il a été adopté, un homme qui vient signaler la disparition de sa femme au commissariat, et une femme qui monte dans un bus bondé... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
-
-&amp;nbsp;
-Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns5:encoded>Un enfant qui demande à ses parents s'il a été adopté, un homme qui vient signaler la disparition de sa femme au commissariat, et une femme qui monte dans un bus bondé... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
-
-&amp;nbsp;
-Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
-      <pubDate>Fri, 29 May 2026 09:00:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/4a42930c-d632-4494-8053-036f282ddd55.mp3?_=1779459184" length="1767928" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Un enfant qui demande à ses parents s'il a été adopté, un homme qui vient signaler la disparition de sa femme au commissariat, et une femme qui monte dans un bus bondé... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
-
-
-Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns3:description>Un enfant qui demande à ses parents s'il a été adopté, un homme qui vient signaler la disparition de sa femme au commissariat, et une femme qui monte dans un bus bondé... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
-
-
-Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Un enfant qui demande à ses parents s'il a été adopté, un homme qui vient signaler la disparition de sa femme au commissariat, et une femme qui monte dans un bus bondé... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ru...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>01:50</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/bf990837-5d32-4766-95ab-58709a61cb3b.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/bf990837-5d32-4766-95ab-58709a61cb3b.jpg" />
-      <ns4:person role="host">Laurent Ruquier</ns4:person>
-      <ns4:txt purpose="smartlink">https://audmns.com/KHPQurG</ns4:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
