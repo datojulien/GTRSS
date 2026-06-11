@@ -14,7 +14,7 @@
       <link>https://datojulien.github.io/GTRSS/feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Thu, 11 Jun 2026 01:39:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 11:48:05 +0000</lastBuildDate>
     <itunes:author>France Culture</itunes:author>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -24,6 +24,26 @@
     </itunes:owner>
     <itunes:subtitle>Flux personnel généré depuis le site Radio France</itunes:subtitle>
     <itunes:summary>Un flux RSS personnel qui récupère les épisodes depuis le site web de France Culture lorsque le flux officiel n’est pas encore à jour.</itunes:summary>
+    <item>
+      <title>George Sand au siècle des révolutions, engagements d’une femme de lettres : épisode du podcast George Sand, histoire de ses vies | France Culture</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/george-sand-au-siecle-des-revolutions-engagements-d-une-femme-de-lettres-5553250</link>
+      <description>AUDIO George Sand, histoire de ses vies, épisode : George Sand au siècle des révolutions, engagements d’une femme de lettres. Une série inédite proposée par France Culture. Écoutez George Sand au siècle des révolutions, engagements d’une femme de lettres, et découvrez nos podcasts en ligne.</description>
+      <content:encoded><![CDATA[
+        <p>AUDIO George Sand, histoire de ses vies, épisode : George Sand au siècle des révolutions, engagements d’une femme de lettres. Une série inédite proposée par France Culture. Écoutez George Sand au siècle des révolutions, engagements d’une femme de lettres, et découvrez nos podcasts en ligne.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/george-sand-au-siecle-des-revolutions-engagements-d-une-femme-de-lettres-5553250">France Culture</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/9ea29b29-7938-4bd1-bb8a-70b324a04401/300x300" alt="George Sand au siècle des révolutions, engagements d’une femme de lettres : épisode du podcast George Sand, histoire de ses vies | France Culture" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/george-sand-au-siecle-des-revolutions-engagements-d-une-femme-de-lettres-5553250</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26625-11.06.2026-ITEMA_24547678-2026C36128S0162-NET_MFC_1ABD5A75-BCDB-4BFD-927E-C20011479DC2-25-66f9dd978e7ff556ebbae89ee8117439.m4a" length="85433647" type="audio/mp4"/>
+      <pubDate>Thu, 11 Jun 2026 07:00:00 +0000</pubDate>
+      <itunes:author>France Culture</itunes:author>
+      <itunes:duration>58:51</itunes:duration>
+      <itunes:subtitle>AUDIO George Sand, histoire de ses vies, épisode : George Sand au siècle des révolutions, engagements d’une femme de lettres. Une série inédite proposée par France Culture. Écoutez George Sand au siècle des révolutions, engagements d’une femme de lettres,</itunes:subtitle>
+      <itunes:summary>AUDIO George Sand, histoire de ses vies, épisode : George Sand au siècle des révolutions, engagements d’une femme de lettres. Une série inédite proposée par France Culture. Écoutez George Sand au siècle des révolutions, engagements d’une femme de lettres, et découvrez nos podcasts en ligne.</itunes:summary>
+    </item>
     <item>
       <title>George Sand, à l’écoute des mares et des forêts : épisode du podcast George Sand, histoire de ses vies | France Culture</title>
       <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/george-sand-a-l-ecoute-des-mares-et-des-forets-1501037</link>

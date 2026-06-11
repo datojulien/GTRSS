@@ -14,8 +14,8 @@
     <atom:link href="https://datojulien.github.io/GTRSS/only_best_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Thu, 11 Jun 2026 01:39:17 GMT</lastBuildDate>
-    <pubDate>Thu, 11 Jun 2026 01:39:17 GMT</pubDate>
+    <lastBuildDate>Thu, 11 Jun 2026 11:48:19 GMT</lastBuildDate>
+    <pubDate>Thu, 11 Jun 2026 11:48:19 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -136,37 +136,6 @@ Hébergé par Audiomeans. Visitez</itunes:subtitle>
       <ns3:image href="https://static.audiomeans.fr/img/episode/6450935e-a56b-40b5-bace-552f9133b929.jpg" />
       <ns4:person role="host">Laurent Ruquier</ns4:person>
       <ns4:txt purpose="smartlink">https://audmns.com/EZcGeGG</ns4:txt>
-      <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>L'INTÉGRALE - Le Best of du samedi 30 mai 2026</title>
-      <guid isPermaLink="false">9e17323a-c11f-4041-89f1-7b03811785a9</guid>
-      <description>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du samedi 30 mai 2026.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns5:encoded>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du samedi 30 mai 2026.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
-      <pubDate>Sat, 30 May 2026 15:45:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/9e17323a-c11f-4041-89f1-7b03811785a9.mp3?_=1779985091" length="95546578" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du samedi 30 mai 2026.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns3:description>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du samedi 30 mai 2026.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du samedi 30 mai 2026.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-Hébergé par Audiomeans. Visitez</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>01:39:31</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/c5261cf2-e7f6-44ed-a2fa-641f0743e1fa.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/c5261cf2-e7f6-44ed-a2fa-641f0743e1fa.jpg" />
-      <ns4:person role="host">Laurent Ruquier</ns4:person>
-      <ns4:txt purpose="smartlink">https://audmns.com/cSXtRAt</ns4:txt>
       <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
   </channel>
