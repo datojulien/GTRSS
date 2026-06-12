@@ -14,7 +14,7 @@
       <link>https://datojulien.github.io/GTRSS/francois-rollin-feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Fri, 12 Jun 2026 14:15:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 17:42:21 +0000</lastBuildDate>
     <itunes:author>France Inter</itunes:author>
     <itunes:category text="Comedy"/>
     <itunes:explicit>no</itunes:explicit>
@@ -24,6 +24,26 @@
     </itunes:owner>
     <itunes:subtitle>Flux personnel généré depuis le site Radio France</itunes:subtitle>
     <itunes:summary>Un flux RSS personnel qui récupère les épisodes depuis le site web de France Inter lorsque le flux officiel n’est pas encore à jour.</itunes:summary>
+    <item>
+      <title>François Rollin : moi ce que j'en dis du vendredi 12 juin 2026</title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/le-billet-de-francois-rollin/francois-rollin-moi-ce-que-j-en-dis-du-vendredi-12-juin-2026-9466736</link>
+      <description>François Rollin : moi ce que j'en dis du vendredi 12 juin 2026</description>
+      <content:encoded><![CDATA[
+        <p>François Rollin : moi ce que j&#x27;en dis du vendredi 12 juin 2026</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceinter/podcasts/le-billet-de-francois-rollin/francois-rollin-moi-ce-que-j-en-dis-du-vendredi-12-juin-2026-9466736">France Inter</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/b66e4080-2221-4df9-9205-35e13f450bdd/300x300" alt="François Rollin : moi ce que j&#x27;en dis du vendredi 12 juin 2026" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceinter/podcasts/le-billet-de-francois-rollin/francois-rollin-moi-ce-que-j-en-dis-du-vendredi-12-juin-2026-9466736</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26803-12.06.2026-ITEMA_24549313-2026F22864S0163-NET_MFI_1AF7CB74-6BD3-4D79-A760-E2011A277823-27-f7aa849266ea34a1e13c224a8a13085a.m4a" length="4682618" type="audio/mp4"/>
+      <pubDate>Fri, 12 Jun 2026 14:55:00 +0000</pubDate>
+      <itunes:author>France Inter</itunes:author>
+      <itunes:duration>3:13</itunes:duration>
+      <itunes:subtitle>François Rollin : moi ce que j'en dis du vendredi 12 juin 2026</itunes:subtitle>
+      <itunes:summary>François Rollin : moi ce que j'en dis du vendredi 12 juin 2026</itunes:summary>
+    </item>
     <item>
       <title>Pas focus du tout</title>
       <link>https://www.radiofrance.fr/franceinter/podcasts/le-billet-de-francois-rollin/francois-rollin-moi-ce-que-j-en-dis-du-vendredi-05-juin-2026-1981290</link>
