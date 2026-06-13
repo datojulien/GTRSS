@@ -14,8 +14,8 @@
     <atom:link href="https://datojulien.github.io/GTRSS/only_remaining_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Sat, 13 Jun 2026 06:32:32 GMT</lastBuildDate>
-    <pubDate>Sat, 13 Jun 2026 06:32:32 GMT</pubDate>
+    <lastBuildDate>Sat, 13 Jun 2026 10:07:54 GMT</lastBuildDate>
+    <pubDate>Sat, 13 Jun 2026 10:07:54 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -45,6 +45,41 @@
     <ns3:category text="Comedy" />
     <ns4:person role="host">RTL</ns4:person>
     <ns4:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns4:txt>
+    <item>
+      <title>LE MEILLEUR DE RUQUIER - Une dame tente de commander un burger dans une bibliothèque... L'histoire drôle d'Isabelle Mergault</title>
+      <guid isPermaLink="false">e971e610-b830-43a9-ad95-97848f308eec</guid>
+      <description>Une blonde qui demande un burger dans une bibliothèque, un perroquet spécial et un homme qui souhaite absolument divorcer... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+&lt;i&gt;Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns5:encoded>Une blonde qui demande un burger dans une bibliothèque, un perroquet spécial et un homme qui souhaite absolument divorcer... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+&lt;i&gt;Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
+      <pubDate>Sat, 13 Jun 2026 09:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/e971e610-b830-43a9-ad95-97848f308eec.mp3?_=1780933983" length="1519974" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Une blonde qui demande un burger dans une bibliothèque, un perroquet spécial et un homme qui souhaite absolument divorcer... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
+      <ns3:description>Une blonde qui demande un burger dans une bibliothèque, un perroquet spécial et un homme qui souhaite absolument divorcer... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Une blonde qui demande un burger dans une bibliothèque, un perroquet spécial et un homme qui souhaite absolument divorcer... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+Tous les jours, en podcast, retrouv...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>01:34</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/dafd9830-be3d-4b3f-9f02-a648a5bfbd24.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/dafd9830-be3d-4b3f-9f02-a648a5bfbd24.jpg" />
+      <ns4:person role="host">Laurent Ruquier</ns4:person>
+      <ns4:txt purpose="smartlink">https://audmns.com/ULUMjsL</ns4:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>LE MEILLEUR DE BOUVARD - La blague de Pierre Bellemare</title>
       <guid isPermaLink="false">478aa8ae-e38b-4828-a876-ab6a1e7c56b9</guid>
@@ -2648,47 +2683,6 @@ Retrouvez tous les jours le meille...</itunes:subtitle>
       <ns3:image href="https://static.audiomeans.fr/img/episode/320ec6be-4322-4153-b0a4-06543c60405a.jpg" />
       <ns4:person role="host">Laurent Ruquier</ns4:person>
       <ns4:txt purpose="smartlink">https://audmns.com/UwwNFzo</ns4:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>PÉPITE - Richard Orlinski prépare un voyage dans l'espace</title>
-      <guid isPermaLink="false">6cb9efd9-522f-4302-8137-6ab34b3dea06</guid>
-      <description>En 2027, Richard Orlinski a réservé un voyage dans l'espace ! Et les Grosses Têtes semblent totalement scotchées...
-
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns5:encoded>En 2027, Richard Orlinski a réservé un voyage dans l'espace ! Et les Grosses Têtes semblent totalement scotchées...
-
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
-      <pubDate>Tue, 02 Jun 2026 15:58:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/6cb9efd9-522f-4302-8137-6ab34b3dea06.mp3?_=1780409581" length="5058879" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>En 2027, Richard Orlinski a réservé un voyage dans l'espace ! Et les Grosses Têtes semblent totalement scotchées...
-
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns3:description>En 2027, Richard Orlinski a réservé un voyage dans l'espace ! Et les Grosses Têtes semblent totalement scotchées...
-
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>En 2027, Richard Orlinski a réservé un voyage dans l'espace ! Et les Grosses Têtes semblent totalement scotchées...
-
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL
-Hébergé par Audiomeans. Visitez</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>05:16</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/63f0a663-2e4c-4366-9b93-975860a0dbbc.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/63f0a663-2e4c-4366-9b93-975860a0dbbc.jpg" />
-      <ns4:person role="host">Laurent Ruquier</ns4:person>
-      <ns4:txt purpose="smartlink">https://audmns.com/jSwsZFd</ns4:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
