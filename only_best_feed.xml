@@ -14,8 +14,8 @@
     <atom:link href="https://datojulien.github.io/GTRSS/only_best_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Sun, 14 Jun 2026 14:32:57 GMT</lastBuildDate>
-    <pubDate>Sun, 14 Jun 2026 14:32:57 GMT</pubDate>
+    <lastBuildDate>Sun, 14 Jun 2026 16:46:49 GMT</lastBuildDate>
+    <pubDate>Sun, 14 Jun 2026 16:46:49 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -45,6 +45,37 @@
     <ns3:category text="Comedy" />
     <ns4:person role="host">RTL</ns4:person>
     <ns4:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns4:txt>
+    <item>
+      <title>L'INTÉGRALE - Le Best of du dimanche 14 juin 2026</title>
+      <guid isPermaLink="false">276720e8-5598-42c6-913a-9a5aa30cebcf</guid>
+      <description>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du dimanche 14 juin 2026.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns5:encoded>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du dimanche 14 juin 2026.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
+      <pubDate>Sun, 14 Jun 2026 16:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/276720e8-5598-42c6-913a-9a5aa30cebcf.mp3?_=1781374389" length="96521689" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du dimanche 14 juin 2026.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
+      <ns3:description>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du dimanche 14 juin 2026.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Écoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du dimanche 14 juin 2026.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+Hébergé par Audiomeans. Visitez</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>01:40:32</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/38f51367-6661-4865-9381-757c51563104.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/38f51367-6661-4865-9381-757c51563104.jpg" />
+      <ns4:person role="host">Laurent Ruquier</ns4:person>
+      <ns4:txt purpose="smartlink">https://audmns.com/oPiyiNM</ns4:txt>
+      <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>L'INTÉGRALE - Le Best of du samedi 13 juin 2026</title>
       <guid isPermaLink="false">7a81c557-8983-4512-8bd8-7c245340b441</guid>
