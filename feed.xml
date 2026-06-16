@@ -14,7 +14,7 @@
       <link>https://datojulien.github.io/GTRSS/feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Tue, 16 Jun 2026 05:32:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 11:34:11 +0000</lastBuildDate>
     <itunes:author>France Culture</itunes:author>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -24,6 +24,26 @@
     </itunes:owner>
     <itunes:subtitle>Flux personnel généré depuis le site Radio France</itunes:subtitle>
     <itunes:summary>Un flux RSS personnel qui récupère les épisodes depuis le site web de France Culture lorsque le flux officiel n’est pas encore à jour.</itunes:summary>
+    <item>
+      <title>1776, la Grande-Bretagne et le syndrome des colons irrités : épisode du podcast 1776, l’indépendance de treize États unis | France Culture</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/1776-la-grande-bretagne-et-le-syndrome-des-colons-irrites-8538282</link>
+      <description>AUDIO 1776, l’indépendance de treize États unis, épisode : 1776, la Grande-Bretagne et le syndrome des colons irrités. Une série inédite proposée par France Culture. Écoutez 1776, la Grande-Bretagne et le syndrome des colons irrités, et découvrez nos podcasts en ligne.</description>
+      <content:encoded><![CDATA[
+        <p>AUDIO 1776, l’indépendance de treize États unis, épisode : 1776, la Grande-Bretagne et le syndrome des colons irrités. Une série inédite proposée par France Culture. Écoutez 1776, la Grande-Bretagne et le syndrome des colons irrités, et découvrez nos podcasts en ligne.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/1776-la-grande-bretagne-et-le-syndrome-des-colons-irrites-8538282">France Culture</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/b72113dc-bad0-44cd-bf5e-fe93bccff874/300x300" alt="1776, la Grande-Bretagne et le syndrome des colons irrités : épisode du podcast 1776, l’indépendance de treize États unis | France Culture" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/1776-la-grande-bretagne-et-le-syndrome-des-colons-irrites-8538282</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26625-16.06.2026-ITEMA_24554679-2026C36128S0167-NET_MFC_AE9A9CC0-5039-4941-9DFC-CF526BAA0B89-25-df621a9ee75084adafb9cb22047c6d70.m4a" length="85538482" type="audio/mp4"/>
+      <pubDate>Tue, 16 Jun 2026 07:00:00 +0000</pubDate>
+      <itunes:author>France Culture</itunes:author>
+      <itunes:duration>58:55</itunes:duration>
+      <itunes:subtitle>AUDIO 1776, l’indépendance de treize États unis, épisode : 1776, la Grande-Bretagne et le syndrome des colons irrités. Une série inédite proposée par France Culture. Écoutez 1776, la Grande-Bretagne et le syndrome des colons irrités, et découvrez nos podc</itunes:subtitle>
+      <itunes:summary>AUDIO 1776, l’indépendance de treize États unis, épisode : 1776, la Grande-Bretagne et le syndrome des colons irrités. Une série inédite proposée par France Culture. Écoutez 1776, la Grande-Bretagne et le syndrome des colons irrités, et découvrez nos podcasts en ligne.</itunes:summary>
+    </item>
     <item>
       <title>1776, les États-Unis poussent un grand cri d’indépendance : épisode du podcast 1776, l’indépendance de treize États unis | France Culture</title>
       <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/1776-les-etats-unis-poussent-un-grand-cri-d-independance-3829173</link>
