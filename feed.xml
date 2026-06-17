@@ -14,7 +14,7 @@
       <link>https://datojulien.github.io/GTRSS/feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Wed, 17 Jun 2026 05:16:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 11:17:10 +0000</lastBuildDate>
     <itunes:author>France Culture</itunes:author>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -24,6 +24,26 @@
     </itunes:owner>
     <itunes:subtitle>Flux personnel généré depuis le site Radio France</itunes:subtitle>
     <itunes:summary>Un flux RSS personnel qui récupère les épisodes depuis le site web de France Culture lorsque le flux officiel n’est pas encore à jour.</itunes:summary>
+    <item>
+      <title>Populations esclavisées et autochtones, les exclues de la liberté américaine : épisode du podcast 1776, l’indépendance de treize États unis | France Culture</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/populations-esclavisees-et-autochtones-les-exclues-de-la-liberte-americaine-3883293</link>
+      <description>AUDIO 1776, l’indépendance de treize États unis, épisode : Populations esclavisées et autochtones, les exclues de la liberté américaine. Une série inédite proposée par France Culture. Écoutez Populations esclavisées et autochtones, les exclues de la liberté américaine, et découvrez nos podcasts en ligne.</description>
+      <content:encoded><![CDATA[
+        <p>AUDIO 1776, l’indépendance de treize États unis, épisode : Populations esclavisées et autochtones, les exclues de la liberté américaine. Une série inédite proposée par France Culture. Écoutez Populations esclavisées et autochtones, les exclues de la liberté américaine, et découvrez nos podcasts en ligne.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/populations-esclavisees-et-autochtones-les-exclues-de-la-liberte-americaine-3883293">France Culture</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/8324f5b0-52a7-4720-a947-5c0152181f97/300x300" alt="Populations esclavisées et autochtones, les exclues de la liberté américaine : épisode du podcast 1776, l’indépendance de treize États unis | France Culture" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/populations-esclavisees-et-autochtones-les-exclues-de-la-liberte-americaine-3883293</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26625-17.06.2026-ITEMA_24556463-2026C36128S0168-NET_MFC_D0D8E8AE-E5C6-4DB0-A274-62E8A50375B6-25-5a2708312bbeb7e837e91f2a9a582172.m4a" length="85514465" type="audio/mp4"/>
+      <pubDate>Wed, 17 Jun 2026 07:00:00 +0000</pubDate>
+      <itunes:author>France Culture</itunes:author>
+      <itunes:duration>58:54</itunes:duration>
+      <itunes:subtitle>AUDIO 1776, l’indépendance de treize États unis, épisode : Populations esclavisées et autochtones, les exclues de la liberté américaine. Une série inédite proposée par France Culture. Écoutez Populations esclavisées et autochtones, les exclues de la liber</itunes:subtitle>
+      <itunes:summary>AUDIO 1776, l’indépendance de treize États unis, épisode : Populations esclavisées et autochtones, les exclues de la liberté américaine. Une série inédite proposée par France Culture. Écoutez Populations esclavisées et autochtones, les exclues de la liberté américaine, et découvrez nos podcasts en ligne.</itunes:summary>
+    </item>
     <item>
       <title>1776, la Grande-Bretagne et le syndrome des colons irrités : épisode du podcast 1776, l’indépendance de treize États unis | France Culture</title>
       <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/1776-la-grande-bretagne-et-le-syndrome-des-colons-irrites-8538282</link>

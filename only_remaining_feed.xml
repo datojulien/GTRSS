@@ -14,8 +14,8 @@
     <atom:link href="https://datojulien.github.io/GTRSS/only_remaining_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Wed, 17 Jun 2026 05:16:22 GMT</lastBuildDate>
-    <pubDate>Wed, 17 Jun 2026 05:16:22 GMT</pubDate>
+    <lastBuildDate>Wed, 17 Jun 2026 11:17:23 GMT</lastBuildDate>
+    <pubDate>Wed, 17 Jun 2026 11:17:23 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -45,6 +45,43 @@
     <ns3:category text="Comedy" />
     <ns4:person role="host">RTL</ns4:person>
     <ns4:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns4:txt>
+    <item>
+      <title>LE MEILLEUR DE RUQUIER - Deux prisonniers belges tentent d'escalader un poteau... L'histoire drôle de Jeanfi Jeanssens</title>
+      <guid isPermaLink="false">f1bb5aeb-4f7a-41c6-b1fc-5ad4a02441f0</guid>
+      <description>Deux prisonniers belges qui tentent de mesurer un poteau électrique, un arabe poursuivi par un militant zemmouriste, et une blonde qui se rend dans un commissariat pour déposer plainte... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+&amp;nbsp;
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns5:encoded>Deux prisonniers belges qui tentent de mesurer un poteau électrique, un arabe poursuivi par un militant zemmouriste, et une blonde qui se rend dans un commissariat pour déposer plainte... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+&amp;nbsp;
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
+      <pubDate>Wed, 17 Jun 2026 09:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/f1bb5aeb-4f7a-41c6-b1fc-5ad4a02441f0.mp3?_=1780934881" length="1798047" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Deux prisonniers belges qui tentent de mesurer un poteau électrique, un arabe poursuivi par un militant zemmouriste, et une blonde qui se rend dans un commissariat pour déposer plainte... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
+      <ns3:description>Deux prisonniers belges qui tentent de mesurer un poteau électrique, un arabe poursuivi par un militant zemmouriste, et une blonde qui se rend dans un commissariat pour déposer plainte... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Deux prisonniers belges qui tentent de mesurer un poteau électrique, un arabe poursuivi par un militant zemmouriste, et une blonde qui se rend dans un commissariat pour déposer plainte... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Tê...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>01:52</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/39cddb5b-fd20-4483-be18-80c618db2864.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/39cddb5b-fd20-4483-be18-80c618db2864.jpg" />
+      <ns4:person role="host">Laurent Ruquier</ns4:person>
+      <ns4:txt purpose="smartlink">https://audmns.com/eMcQDal</ns4:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>LE MEILLEUR DE BOUVARD - La blague d'Amanda Lear</title>
       <guid isPermaLink="false">0bfbde27-43bc-4d70-82b1-a7b43cc6039c</guid>
@@ -2644,37 +2681,6 @@ Hébergé par Audiomeans. Visitez audiomeans.f...</itunes:subtitle>
       <ns3:image href="https://static.audiomeans.fr/img/episode/269213a3-13d7-4de2-8ca1-38c235c19834.jpg" />
       <ns4:person role="host">Laurent Ruquier</ns4:person>
       <ns4:txt purpose="smartlink">https://audmns.com/CRJTSTY</ns4:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>IMITATIONS - Attal, Le Pen, Dombasle... L'actualité vue par Marc-Antoine Le Bret</title>
-      <guid isPermaLink="false">a20534d1-a97b-406c-ac9b-ba335a8fe28a</guid>
-      <description>Dans l'émission du 5 juin 2026, Marc-Antoine Le Bret a imité Gabriel Attal, Marine Le Pen, Paul Mirabel et Arielle Dombasle.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns5:encoded>Dans l'émission du 5 juin 2026, Marc-Antoine Le Bret a imité Gabriel Attal, Marine Le Pen, Paul Mirabel et Arielle Dombasle.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
-      <pubDate>Fri, 05 Jun 2026 15:52:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/a20534d1-a97b-406c-ac9b-ba335a8fe28a.mp3?_=1780668781" length="3805065" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Dans l'émission du 5 juin 2026, Marc-Antoine Le Bret a imité Gabriel Attal, Marine Le Pen, Paul Mirabel et Arielle Dombasle.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns3:description>Dans l'émission du 5 juin 2026, Marc-Antoine Le Bret a imité Gabriel Attal, Marine Le Pen, Paul Mirabel et Arielle Dombasle.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Dans l'émission du 5 juin 2026, Marc-Antoine Le Bret a imité Gabriel Attal, Marine Le Pen, Paul Mirabel et Arielle Dombasle.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-Hébergé par Audiomeans. Visitez...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>03:57</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/9992a594-03a3-4042-94c6-a6ed4d9cb324.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/9992a594-03a3-4042-94c6-a6ed4d9cb324.jpg" />
-      <ns4:person role="host">Laurent Ruquier</ns4:person>
-      <ns4:txt purpose="smartlink">https://audmns.com/qCqvdnj</ns4:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
