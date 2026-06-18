@@ -14,7 +14,7 @@
       <link>https://datojulien.github.io/GTRSS/feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Thu, 18 Jun 2026 05:01:49 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 13:42:53 +0000</lastBuildDate>
     <itunes:author>France Culture</itunes:author>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -24,6 +24,26 @@
     </itunes:owner>
     <itunes:subtitle>Flux personnel généré depuis le site Radio France</itunes:subtitle>
     <itunes:summary>Un flux RSS personnel qui récupère les épisodes depuis le site web de France Culture lorsque le flux officiel n’est pas encore à jour.</itunes:summary>
+    <item>
+      <title>La France dans la révolution américaine, tout pour enquiquiner l'Angleterre ! : épisode du podcast 1776, l’indépendance de treize États unis | France Culture</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/la-france-dans-la-revolution-americaine-tout-pour-enquiquiner-l-angleterre-9292578</link>
+      <description>AUDIO 1776, l’indépendance de treize États unis, épisode : La France dans la révolution américaine, tout pour enquiquiner l'Angleterre !. Une série inédite proposée par France Culture. Écoutez La France dans la révolution américaine, tout pour enquiquiner l'Angleterre !, et découvrez nos podcasts en ligne.</description>
+      <content:encoded><![CDATA[
+        <p>AUDIO 1776, l’indépendance de treize États unis, épisode : La France dans la révolution américaine, tout pour enquiquiner l&#x27;Angleterre !. Une série inédite proposée par France Culture. Écoutez La France dans la révolution américaine, tout pour enquiquiner l&#x27;Angleterre !, et découvrez nos podcasts en ligne.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/la-france-dans-la-revolution-americaine-tout-pour-enquiquiner-l-angleterre-9292578">France Culture</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/b4db0e7a-518a-4d88-bfd0-a7bbceefb11c/300x300" alt="La France dans la révolution américaine, tout pour enquiquiner l&#x27;Angleterre ! : épisode du podcast 1776, l’indépendance de treize États unis | France Culture" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/la-france-dans-la-revolution-americaine-tout-pour-enquiquiner-l-angleterre-9292578</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26625-18.06.2026-ITEMA_24558129-2026C36128S0169-NET_MFC_883C9DEC-4920-430B-8FD8-B085C8CE50A8-25-90fdb0550b2fc67097621dae3f5f460b.m4a" length="85763490" type="audio/mp4"/>
+      <pubDate>Thu, 18 Jun 2026 07:00:00 +0000</pubDate>
+      <itunes:author>France Culture</itunes:author>
+      <itunes:duration>59:05</itunes:duration>
+      <itunes:subtitle>AUDIO 1776, l’indépendance de treize États unis, épisode : La France dans la révolution américaine, tout pour enquiquiner l'Angleterre !. Une série inédite proposée par France Culture. Écoutez La France dans la révolution américaine, tout pour enquiquiner</itunes:subtitle>
+      <itunes:summary>AUDIO 1776, l’indépendance de treize États unis, épisode : La France dans la révolution américaine, tout pour enquiquiner l'Angleterre !. Une série inédite proposée par France Culture. Écoutez La France dans la révolution américaine, tout pour enquiquiner l'Angleterre !, et découvrez nos podcasts en ligne.</itunes:summary>
+    </item>
     <item>
       <title>Populations esclavisées et autochtones, les exclues de la liberté américaine : épisode du podcast 1776, l’indépendance de treize États unis | France Culture</title>
       <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/populations-esclavisees-et-autochtones-les-exclues-de-la-liberte-americaine-3883293</link>
