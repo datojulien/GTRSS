@@ -14,8 +14,8 @@
     <atom:link href="https://datojulien.github.io/GTRSS/only_integrale_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Thu, 18 Jun 2026 13:43:04 GMT</lastBuildDate>
-    <pubDate>Thu, 18 Jun 2026 13:43:04 GMT</pubDate>
+    <lastBuildDate>Thu, 18 Jun 2026 17:29:47 GMT</lastBuildDate>
+    <pubDate>Thu, 18 Jun 2026 17:29:47 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -45,6 +45,37 @@
     <ns3:category text="Comedy" />
     <ns4:person role="host">RTL</ns4:person>
     <ns4:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns4:txt>
+    <item>
+      <title>L'INTÉGRALE - Émission du jeudi 18 juin 2026</title>
+      <guid isPermaLink="false">e4bcf45e-0ba4-435c-b1b4-2d790b351c2a</guid>
+      <description>Avec Charlotte de Turkheim, Roselyne Bachelot, Guillaume Gomez, Valérie Mairesse, Alexis le Rossignol et Titoff !
+&lt;i&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns5:encoded>Avec Charlotte de Turkheim, Roselyne Bachelot, Guillaume Gomez, Valérie Mairesse, Alexis le Rossignol et Titoff !
+&lt;i&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
+      <pubDate>Thu, 18 Jun 2026 16:01:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/e4bcf45e-0ba4-435c-b1b4-2d790b351c2a.mp3?_=1781794689" length="93393266" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Avec Charlotte de Turkheim, Roselyne Bachelot, Guillaume Gomez, Valérie Mairesse, Alexis le Rossignol et Titoff !
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
+      <ns3:description>Avec Charlotte de Turkheim, Roselyne Bachelot, Guillaume Gomez, Valérie Mairesse, Alexis le Rossignol et Titoff !
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Avec Charlotte de Turkheim, Roselyne Bachelot, Guillaume Gomez, Valérie Mairesse, Alexis le Rossignol et Titoff !
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+Hébergé par Audiomeans. Visitez</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>01:37:17</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/184cfb8b-4085-4b00-980c-04e273bd4aa5.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/184cfb8b-4085-4b00-980c-04e273bd4aa5.jpg" />
+      <ns4:person role="host">Laurent Ruquier</ns4:person>
+      <ns4:txt purpose="smartlink">https://audmns.com/PvJUDLO</ns4:txt>
+      <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>L'INTÉGRALE - Émission du mercredi 17 juin 2026</title>
       <guid isPermaLink="false">1c569934-8889-4767-b9b3-53bbb9fb1011</guid>
