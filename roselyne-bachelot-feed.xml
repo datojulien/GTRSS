@@ -14,7 +14,7 @@
       <link>https://datojulien.github.io/GTRSS/roselyne-bachelot-feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Fri, 19 Jun 2026 02:05:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 12:17:54 +0000</lastBuildDate>
     <itunes:author>France Musique</itunes:author>
     <itunes:category text="Music"/>
     <itunes:explicit>no</itunes:explicit>
@@ -24,6 +24,26 @@
     </itunes:owner>
     <itunes:subtitle>Flux personnel généré depuis le site Radio France</itunes:subtitle>
     <itunes:summary>Un flux RSS personnel qui récupère les épisodes depuis le site web de France Musique lorsque le flux officiel n’est pas encore à jour.</itunes:summary>
+    <item>
+      <title>Qui va piano</title>
+      <link>https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/qui-va-piano-3586984</link>
+      <description>Passionnée par le piano depuis son enfance, Roselyne Bachelot évoque le rapport qu'elle entretient avec cet instrument, entre souvenirs et coups de cœur, alors que vient de reparaître une série d'émissions de France Musique signée Anne-Charlotte Rémond : "Le piano, roi des instruments".</description>
+      <content:encoded><![CDATA[
+        <p>Passionnée par le piano depuis son enfance, Roselyne Bachelot évoque le rapport qu&#x27;elle entretient avec cet instrument, entre souvenirs et coups de cœur, alors que vient de reparaître une série d&#x27;émissions de France Musique signée Anne-Charlotte Rémond : &quot;Le piano, roi des instruments&quot;.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/qui-va-piano-3586984">France Musique</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/300x300" alt="Qui va piano" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/qui-va-piano-3586984</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26865-19.06.2026-ITEMA_24560054-2026M26307S0170-NET_MFM_BD2BDA9D-C6E2-43BF-8BF4-A4FE1F6D85B1-25-bb50dd34c2f3134284f8312d407deeed.m4a" length="14128604" type="audio/mp4"/>
+      <pubDate>Fri, 19 Jun 2026 06:07:00 +0000</pubDate>
+      <itunes:author>France Musique</itunes:author>
+      <itunes:duration>9:43</itunes:duration>
+      <itunes:subtitle>Passionnée par le piano depuis son enfance, Roselyne Bachelot évoque le rapport qu'elle entretient avec cet instrument, entre souvenirs et coups de cœur, alors que vient de reparaître une série d'émissions de France Musique signée Anne-Charlotte Rémond : </itunes:subtitle>
+      <itunes:summary>Passionnée par le piano depuis son enfance, Roselyne Bachelot évoque le rapport qu'elle entretient avec cet instrument, entre souvenirs et coups de cœur, alors que vient de reparaître une série d'émissions de France Musique signée Anne-Charlotte Rémond : "Le piano, roi des instruments".</itunes:summary>
+    </item>
     <item>
       <title>Quand sport et opéra font bon ménage</title>
       <link>https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/quand-sport-et-opera-font-bon-menage-7244280</link>

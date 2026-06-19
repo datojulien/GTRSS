@@ -14,7 +14,7 @@
       <link>https://datojulien.github.io/GTRSS/feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Fri, 19 Jun 2026 02:05:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 12:17:40 +0000</lastBuildDate>
     <itunes:author>France Culture</itunes:author>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -24,6 +24,26 @@
     </itunes:owner>
     <itunes:subtitle>Flux personnel généré depuis le site Radio France</itunes:subtitle>
     <itunes:summary>Un flux RSS personnel qui récupère les épisodes depuis le site web de France Culture lorsque le flux officiel n’est pas encore à jour.</itunes:summary>
+    <item>
+      <title>Marc Bloch et Carlo Ginzburg, des vies pour l'histoire : hommages croisés</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/marc-bloch-et-carlo-ginzburg-des-vies-pour-l-histoire-hommages-croises-3192872</link>
+      <description>Le 23 juin 2026, l'historien et résistant Marc Bloch et sa femme Simonne Vidal entrent au Panthéon. L'historien italien Carlo Ginzburg, entre autres spécialiste de l'œuvre de Marc Bloch, est mort quelques jours avant à 87 ans. Hommages croisés.</description>
+      <content:encoded><![CDATA[
+        <p>Le 23 juin 2026, l&#x27;historien et résistant Marc Bloch et sa femme Simonne Vidal entrent au Panthéon. L&#x27;historien italien Carlo Ginzburg, entre autres spécialiste de l&#x27;œuvre de Marc Bloch, est mort quelques jours avant à 87 ans. Hommages croisés.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/marc-bloch-et-carlo-ginzburg-des-vies-pour-l-histoire-hommages-croises-3192872">France Culture</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/e3221da4-f6c1-4534-bee7-b29258f87c59/300x300" alt="Marc Bloch et Carlo Ginzburg, des vies pour l&#x27;histoire : hommages croisés" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/marc-bloch-et-carlo-ginzburg-des-vies-pour-l-histoire-hommages-croises-3192872</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26625-19.06.2026-ITEMA_24560004-2026C36128S0170-NET_MFC_0809DA4A-6441-415D-AEDD-B32D707E08D2-25-af4996e79bde1e9c6d24b23bfd30e734.m4a" length="84754035" type="audio/mp4"/>
+      <pubDate>Fri, 19 Jun 2026 07:00:00 +0000</pubDate>
+      <itunes:author>France Culture</itunes:author>
+      <itunes:duration>58:23</itunes:duration>
+      <itunes:subtitle>Le 23 juin 2026, l'historien et résistant Marc Bloch et sa femme Simonne Vidal entrent au Panthéon. L'historien italien Carlo Ginzburg, entre autres spécialiste de l'œuvre de Marc Bloch, est mort quelques jours avant à 87 ans. Hommages croisés.</itunes:subtitle>
+      <itunes:summary>Le 23 juin 2026, l'historien et résistant Marc Bloch et sa femme Simonne Vidal entrent au Panthéon. L'historien italien Carlo Ginzburg, entre autres spécialiste de l'œuvre de Marc Bloch, est mort quelques jours avant à 87 ans. Hommages croisés.</itunes:summary>
+    </item>
     <item>
       <title>La France dans la révolution américaine, tout pour enquiquiner l'Angleterre ! : épisode du podcast 1776, l’indépendance de treize États unis | France Culture</title>
       <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/la-france-dans-la-revolution-americaine-tout-pour-enquiquiner-l-angleterre-9292578</link>
