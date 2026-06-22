@@ -771,7 +771,8 @@ def build_feed(config: RadioFranceFeedConfig = FRANCE_CULTURE_CONFIG) -> None:
         data = extract_episode_data(session, link)
 
         if not data:
-            raise RuntimeError(f"No valid episode data found at {link}")
+            print(f"  -> skipped, no valid episode data found at {link}")
+            continue
 
         if config.min_published_date:
             published_dt = archive_to_date(data.get("published"))
