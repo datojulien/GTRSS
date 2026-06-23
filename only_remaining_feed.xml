@@ -14,8 +14,8 @@
     <atom:link href="https://datojulien.github.io/GTRSS/only_remaining_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Tue, 23 Jun 2026 08:40:09 GMT</lastBuildDate>
-    <pubDate>Tue, 23 Jun 2026 08:40:09 GMT</pubDate>
+    <lastBuildDate>Tue, 23 Jun 2026 12:15:37 GMT</lastBuildDate>
+    <pubDate>Tue, 23 Jun 2026 12:15:37 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -45,6 +45,46 @@
     <ns3:category text="Comedy" />
     <ns4:person role="host">RTL</ns4:person>
     <ns4:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns4:txt>
+    <item>
+      <title>LE MEILLEUR DE RUQUIER - Un Belge va voir son médecin... L'histoire drôle racontée par Laurent Baffie</title>
+      <guid isPermaLink="false">c780387e-7b88-4bd1-8924-3da302f287c4</guid>
+      <description>Un belge qui reçoit une annonce particulière de la part de son médecin, l'histoire de trois prisonniers et un vol Paris-New York qui ne se passe pas très bien... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns5:encoded>Un belge qui reçoit une annonce particulière de la part de son médecin, l'histoire de trois prisonniers et un vol Paris-New York qui ne se passe pas très bien... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
+      <pubDate>Tue, 23 Jun 2026 09:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/c780387e-7b88-4bd1-8924-3da302f287c4.mp3?_=1781799481" length="2415691" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Un belge qui reçoit une annonce particulière de la part de son médecin, l'histoire de trois prisonniers et un vol Paris-New York qui ne se passe pas très bien... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
+      <ns3:description>Un belge qui reçoit une annonce particulière de la part de son médecin, l'histoire de trois prisonniers et un vol Paris-New York qui ne se passe pas très bien... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Un belge qui reçoit une annonce particulière de la part de son médecin, l'histoire de trois prisonniers et un vol Paris-New York qui ne se passe pas très bien... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+
+...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>02:30</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/6dd51058-2f07-415f-b10b-bf18c1637983.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/6dd51058-2f07-415f-b10b-bf18c1637983.jpg" />
+      <ns4:person role="host">Laurent Ruquier</ns4:person>
+      <ns4:txt purpose="smartlink">https://audmns.com/hyZxlVC</ns4:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>COUPE DU MONDE DES GROSSES TÊTES - JeanFi Janssens affronte Paul El Kharrat en finale !</title>
       <guid isPermaLink="false">0625450c-4ae3-40f0-94ab-11bebfdf71c4</guid>
