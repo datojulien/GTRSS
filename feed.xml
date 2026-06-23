@@ -14,7 +14,7 @@
       <link>https://datojulien.github.io/GTRSS/feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Tue, 23 Jun 2026 05:14:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 08:39:52 +0000</lastBuildDate>
     <itunes:author>France Culture</itunes:author>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -24,6 +24,26 @@
     </itunes:owner>
     <itunes:subtitle>Flux personnel généré depuis le site Radio France</itunes:subtitle>
     <itunes:summary>Un flux RSS personnel qui récupère les épisodes depuis le site web de France Culture lorsque le flux officiel n’est pas encore à jour.</itunes:summary>
+    <item>
+      <title>L’or sacré des Incas, Cuzco c'est beau ! : épisode du podcast Il est l’or ! Ruée vers l’histoire | France Culture</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/l-or-sacre-des-incas-cuzco-c-est-beau-2406855</link>
+      <description>AUDIO Il est l’or ! Ruée vers l’histoire, épisode : L’or sacré des Incas, Cuzco c'est beau !. Une série inédite proposée par France Culture. Écoutez L’or sacré des Incas, Cuzco c'est beau !, et découvrez nos podcasts en ligne.</description>
+      <content:encoded><![CDATA[
+        <p>AUDIO Il est l’or ! Ruée vers l’histoire, épisode : L’or sacré des Incas, Cuzco c&#x27;est beau !. Une série inédite proposée par France Culture. Écoutez L’or sacré des Incas, Cuzco c&#x27;est beau !, et découvrez nos podcasts en ligne.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/l-or-sacre-des-incas-cuzco-c-est-beau-2406855">France Culture</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/26f626cb-634f-4717-a257-1d5c1b917b24/300x300" alt="L’or sacré des Incas, Cuzco c&#x27;est beau ! : épisode du podcast Il est l’or ! Ruée vers l’histoire | France Culture" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/l-or-sacre-des-incas-cuzco-c-est-beau-2406855</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26625-23.06.2026-ITEMA_24565216-2026C36128S0174-NET_MFC_233602BD-992E-4AA9-89F0-B664FD39F0EF-25-a8c3e583bd272b6e3850cf4e032c9089.m4a" length="85509044" type="audio/mp4"/>
+      <pubDate>Tue, 23 Jun 2026 07:00:00 +0000</pubDate>
+      <itunes:author>France Culture</itunes:author>
+      <itunes:duration>58:54</itunes:duration>
+      <itunes:subtitle>AUDIO Il est l’or ! Ruée vers l’histoire, épisode : L’or sacré des Incas, Cuzco c'est beau !. Une série inédite proposée par France Culture. Écoutez L’or sacré des Incas, Cuzco c'est beau !, et découvrez nos podcasts en ligne.</itunes:subtitle>
+      <itunes:summary>AUDIO Il est l’or ! Ruée vers l’histoire, épisode : L’or sacré des Incas, Cuzco c'est beau !. Une série inédite proposée par France Culture. Écoutez L’or sacré des Incas, Cuzco c'est beau !, et découvrez nos podcasts en ligne.</itunes:summary>
+    </item>
     <item>
       <title>Marc Bloch et Carlo Ginzburg, des vies pour l'histoire : hommages croisés</title>
       <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/marc-bloch-et-carlo-ginzburg-des-vies-pour-l-histoire-hommages-croises-3192872</link>
