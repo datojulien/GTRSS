@@ -14,8 +14,8 @@
     <atom:link href="https://datojulien.github.io/GTRSS/only_integrale_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Wed, 24 Jun 2026 04:36:18 GMT</lastBuildDate>
-    <pubDate>Wed, 24 Jun 2026 04:36:18 GMT</pubDate>
+    <lastBuildDate>Wed, 24 Jun 2026 08:33:28 GMT</lastBuildDate>
+    <pubDate>Wed, 24 Jun 2026 08:33:28 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -491,41 +491,6 @@ Hébergé par Audiomeans. Visitez</itunes:subtitle>
       <ns4:person role="host">Laurent Ruquier</ns4:person>
       <ns4:txt purpose="smartlink">https://audmns.com/mOKyYRr</ns4:txt>
       <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>DÉBRIEF - "J'adore les nouvelles têtes", Yoann Riou donne son avis sur les derniers sociétaires de la saison</title>
-      <guid isPermaLink="false">ea81a23b-8f4a-40de-9ae4-4dc14389fc8e</guid>
-      <description>À la fin de chaque émission, retrouvez en exclusivité sur les plateformes de podcast le débrief des 2h30 d'antenne qui viennent de s'écouler, en compagnie d'une des Grosses Têtes du jour... Ce 11 juin 2026,  Yoann Riou se confie au micro de Rachel Azria.
-
-&lt;i&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns5:encoded>À la fin de chaque émission, retrouvez en exclusivité sur les plateformes de podcast le débrief des 2h30 d'antenne qui viennent de s'écouler, en compagnie d'une des Grosses Têtes du jour... Ce 11 juin 2026,  Yoann Riou se confie au micro de Rachel Azria.
-
-&lt;i&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
-      <pubDate>Thu, 11 Jun 2026 16:00:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/ea81a23b-8f4a-40de-9ae4-4dc14389fc8e.mp3?_=1781191366" length="7039106" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>À la fin de chaque émission, retrouvez en exclusivité sur les plateformes de podcast le débrief des 2h30 d'antenne qui viennent de s'écouler, en compagnie d'une des Grosses Têtes du jour... Ce 11 juin 2026,  Yoann Riou se confie au micro de Rachel Azria.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns3:description>À la fin de chaque émission, retrouvez en exclusivité sur les plateformes de podcast le débrief des 2h30 d'antenne qui viennent de s'écouler, en compagnie d'une des Grosses Têtes du jour... Ce 11 juin 2026,  Yoann Riou se confie au micro de Rachel Azria.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
-      <itunes:author>Rachel Azria</itunes:author>
-      <author>Rachel Azria</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>À la fin de chaque émission, retrouvez en exclusivité sur les plateformes de podcast le débrief des 2h30 d'antenne qui viennent de s'écouler, en compagnie d'une des Grosses Têtes du jour... Ce 11 juin 2026,  Yoann Riou se confie au micro de Rachel Azria.
-
-Retro...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>07:19</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/4fec453b-93e8-4343-bed8-b84564c10d71.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/4fec453b-93e8-4343-bed8-b84564c10d71.jpg" />
-      <ns4:person role="host">Rachel Azria</ns4:person>
-      <ns4:txt purpose="smartlink">https://audmns.com/bAblkdD</ns4:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
   </channel>
 </rss>
