@@ -14,8 +14,8 @@
     <atom:link href="https://datojulien.github.io/GTRSS/only_integrale_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Wed, 24 Jun 2026 15:07:13 GMT</lastBuildDate>
-    <pubDate>Wed, 24 Jun 2026 15:07:13 GMT</pubDate>
+    <lastBuildDate>Wed, 24 Jun 2026 17:18:03 GMT</lastBuildDate>
+    <pubDate>Wed, 24 Jun 2026 17:18:03 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -45,6 +45,44 @@
     <ns3:category text="Comedy" />
     <ns4:person role="host">RTL</ns4:person>
     <ns4:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns4:txt>
+    <item>
+      <title>L'INTÉGRALE - Émission du mercredi 24 juin 2026</title>
+      <guid isPermaLink="false">f0ec017e-d3bb-4921-b03c-bafd6d9bf7c7</guid>
+      <description>Avec Max Boublil, Christophe Barbier, Sylvie Tellier, Karina Marimon, Florian Gazan et Joyce Jonathan !
+&lt;i&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+&lt;/i&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns5:encoded>Avec Max Boublil, Christophe Barbier, Sylvie Tellier, Karina Marimon, Florian Gazan et Joyce Jonathan !
+&lt;i&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+&lt;/i&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
+      <pubDate>Wed, 24 Jun 2026 16:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/f0ec017e-d3bb-4921-b03c-bafd6d9bf7c7.mp3?_=1782311889" length="98761938" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Avec Max Boublil, Christophe Barbier, Sylvie Tellier, Karina Marimon, Florian Gazan et Joyce Jonathan !
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
+      <ns3:description>Avec Max Boublil, Christophe Barbier, Sylvie Tellier, Karina Marimon, Florian Gazan et Joyce Jonathan !
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Avec Max Boublil, Christophe Barbier, Sylvie Tellier, Karina Marimon, Florian Gazan et Joyce Jonathan !
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+
+Hébergé par Audiomeans. Visitez</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>01:42:52</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/88c8d12c-49ce-4047-a084-573848911ebe.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/88c8d12c-49ce-4047-a084-573848911ebe.jpg" />
+      <ns4:person role="host">Laurent Ruquier</ns4:person>
+      <ns4:txt purpose="smartlink">https://audmns.com/fMUTfGj</ns4:txt>
+      <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>L'INTÉGRALE - Émission du mardi 23 juin 2026</title>
       <guid isPermaLink="false">a2743e7a-c682-4962-868b-ee7d40fe4e83</guid>
