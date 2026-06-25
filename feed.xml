@@ -14,7 +14,7 @@
       <link>https://datojulien.github.io/GTRSS/feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Thu, 25 Jun 2026 04:33:55 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 08:31:23 +0000</lastBuildDate>
     <itunes:author>France Culture</itunes:author>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -24,6 +24,26 @@
     </itunes:owner>
     <itunes:subtitle>Flux personnel généré depuis le site Radio France</itunes:subtitle>
     <itunes:summary>Un flux RSS personnel qui récupère les épisodes depuis le site web de France Culture lorsque le flux officiel n’est pas encore à jour.</itunes:summary>
+    <item>
+      <title>Le pactole des banques centrales, avoir sa monnaie dans l’étalon-or : épisode du podcast Il est l’or ! Ruée vers l’histoire | France Culture</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/le-pactole-des-banques-centrales-avoir-sa-monnaie-dans-l-etalon-or-6824996</link>
+      <description>AUDIO Il est l’or ! Ruée vers l’histoire, épisode : Le pactole des banques centrales, avoir sa monnaie dans l’étalon-or. Une série inédite proposée par France Culture. Écoutez Le pactole des banques centrales, avoir sa monnaie dans l’étalon-or, et découvrez nos podcasts en ligne.</description>
+      <content:encoded><![CDATA[
+        <p>AUDIO Il est l’or ! Ruée vers l’histoire, épisode : Le pactole des banques centrales, avoir sa monnaie dans l’étalon-or. Une série inédite proposée par France Culture. Écoutez Le pactole des banques centrales, avoir sa monnaie dans l’étalon-or, et découvrez nos podcasts en ligne.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/le-pactole-des-banques-centrales-avoir-sa-monnaie-dans-l-etalon-or-6824996">France Culture</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/7a5eed22-de63-414a-924c-40857ab845f7/300x300" alt="Le pactole des banques centrales, avoir sa monnaie dans l’étalon-or : épisode du podcast Il est l’or ! Ruée vers l’histoire | France Culture" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/le-pactole-des-banques-centrales-avoir-sa-monnaie-dans-l-etalon-or-6824996</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26625-25.06.2026-ITEMA_24568643-2026C36128S0176-NET_MFC_36B6E6B2-837D-42B7-8020-A6E695FEE6E2-25-3afc6dcd9841d1071940231db77b6fca.m4a" length="84983635" type="audio/mp4"/>
+      <pubDate>Thu, 25 Jun 2026 07:00:00 +0000</pubDate>
+      <itunes:author>France Culture</itunes:author>
+      <itunes:duration>58:32</itunes:duration>
+      <itunes:subtitle>AUDIO Il est l’or ! Ruée vers l’histoire, épisode : Le pactole des banques centrales, avoir sa monnaie dans l’étalon-or. Une série inédite proposée par France Culture. Écoutez Le pactole des banques centrales, avoir sa monnaie dans l’étalon-or, et découvr</itunes:subtitle>
+      <itunes:summary>AUDIO Il est l’or ! Ruée vers l’histoire, épisode : Le pactole des banques centrales, avoir sa monnaie dans l’étalon-or. Une série inédite proposée par France Culture. Écoutez Le pactole des banques centrales, avoir sa monnaie dans l’étalon-or, et découvrez nos podcasts en ligne.</itunes:summary>
+    </item>
     <item>
       <title>Pour quelques pépites de plus, l'or des Amériques : épisode du podcast Il est l’or ! Ruée vers l’histoire | France Culture</title>
       <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/pour-quelques-pepites-de-plus-l-or-des-ameriques-3931241</link>
