@@ -1,5 +1,53 @@
 [
   {
+    "title": "L’appel ! : épisode du podcast Preuves d'humanité, sauvegarder le patrimoine | France Culture",
+    "description": "AUDIO Preuves d'humanité, sauvegarder le patrimoine, épisode : L’appel !. Une série inédite proposée par France Culture. Écoutez L’appel !, et découvrez nos podcasts en ligne.",
+    "audio_url": "https://media.radiofrance-podcast.net/podcast09/26625-25.06.2026-ITEMA_24568643-2026C36128E0010-ITE_00160211_RSCE-25-e825a97f8c1c189a5ba41a38dc12c133.m4a",
+    "audio_type": "audio/mp4",
+    "duration_seconds": 854,
+    "duration_itunes": "14:14",
+    "published": "2026-06-25T13:03:00+00:00",
+    "image": "https://www.radiofrance.fr/pikapi/images/66cff661-b94c-478b-a7c4-5c6c0a016611/300x300",
+    "url": "https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/l-appel-3999190",
+    "audio_length": 20680057
+  },
+  {
+    "title": "La fraternité internationale : épisode du podcast Preuves d'humanité, sauvegarder le patrimoine | France Culture",
+    "description": "AUDIO Preuves d'humanité, sauvegarder le patrimoine, épisode : La fraternité internationale. Une série inédite proposée par France Culture. Écoutez La fraternité internationale, et découvrez nos podcasts en ligne.",
+    "audio_url": "https://media.radiofrance-podcast.net/podcast09/26625-25.06.2026-ITEMA_24568643-2026C36128E0011-ITE_00160212_RSCE-25-77bdb55ffe581cc400f12574f0148dc5.m4a",
+    "audio_type": "audio/mp4",
+    "duration_seconds": 924,
+    "duration_itunes": "15:24",
+    "published": "2026-06-25T13:02:00+00:00",
+    "image": "https://www.radiofrance.fr/pikapi/images/ad6dc154-ae00-4bc7-88d5-0ee49b66281d/300x300",
+    "url": "https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/la-fraternite-internationale-5848799",
+    "audio_length": 22378778
+  },
+  {
+    "title": "Le défi ! : épisode du podcast Preuves d'humanité, sauvegarder le patrimoine | France Culture",
+    "description": "AUDIO Preuves d'humanité, sauvegarder le patrimoine, épisode : Le défi !. Une série inédite proposée par France Culture. Écoutez Le défi !, et découvrez nos podcasts en ligne.",
+    "audio_url": "https://media.radiofrance-podcast.net/podcast09/26625-25.06.2026-ITEMA_24568643-2026C36128E0012-ITE_00160213_RSCE-25-8789a50d0fd9b6db55a7eda69a34596d.m4a",
+    "audio_type": "audio/mp4",
+    "duration_seconds": 891,
+    "duration_itunes": "14:51",
+    "published": "2026-06-25T13:01:00+00:00",
+    "image": "https://www.radiofrance.fr/pikapi/images/de136b82-291a-4bdd-aa36-6072b29d1d31/300x300",
+    "url": "https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/le-defi-9775566",
+    "audio_length": 21586613
+  },
+  {
+    "title": "Après la Nubie : épisode du podcast Preuves d'humanité, sauvegarder le patrimoine | France Culture",
+    "description": "AUDIO Preuves d'humanité, sauvegarder le patrimoine, épisode : Après la Nubie. Une série inédite proposée par France Culture. Écoutez Après la Nubie, et découvrez nos podcasts en ligne.",
+    "audio_url": "https://media.radiofrance-podcast.net/podcast09/26625-25.06.2026-ITEMA_24568643-2026C36128E0013-ITE_00160214_RSCE-25-03b63f0d71c8c3e391445b3fc1e99167.m4a",
+    "audio_type": "audio/mp4",
+    "duration_seconds": 856,
+    "duration_itunes": "14:16",
+    "published": "2026-06-25T13:00:00+00:00",
+    "image": "https://www.radiofrance.fr/pikapi/images/006c356c-0ae9-40d7-8ff3-d671d6138028/300x300",
+    "url": "https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/apres-la-nubie-2766318",
+    "audio_length": 20736775
+  },
+  {
     "title": "Le pactole des banques centrales, avoir sa monnaie dans l’étalon-or : épisode du podcast Il est l’or ! Ruée vers l’histoire | France Culture",
     "description": "AUDIO Il est l’or ! Ruée vers l’histoire, épisode : Le pactole des banques centrales, avoir sa monnaie dans l’étalon-or. Une série inédite proposée par France Culture. Écoutez Le pactole des banques centrales, avoir sa monnaie dans l’étalon-or, et découvrez nos podcasts en ligne.",
     "audio_url": "https://media.radiofrance-podcast.net/podcast09/26625-25.06.2026-ITEMA_24568643-2026C36128S0176-NET_MFC_36B6E6B2-837D-42B7-8020-A6E695FEE6E2-25-3afc6dcd9841d1071940231db77b6fca.m4a",

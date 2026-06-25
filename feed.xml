@@ -14,7 +14,7 @@
       <link>https://datojulien.github.io/GTRSS/feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Thu, 25 Jun 2026 08:31:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 11:49:44 +0000</lastBuildDate>
     <itunes:author>France Culture</itunes:author>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -24,6 +24,86 @@
     </itunes:owner>
     <itunes:subtitle>Flux personnel généré depuis le site Radio France</itunes:subtitle>
     <itunes:summary>Un flux RSS personnel qui récupère les épisodes depuis le site web de France Culture lorsque le flux officiel n’est pas encore à jour.</itunes:summary>
+    <item>
+      <title>L’appel ! : épisode du podcast Preuves d'humanité, sauvegarder le patrimoine | France Culture</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/l-appel-3999190</link>
+      <description>AUDIO Preuves d'humanité, sauvegarder le patrimoine, épisode : L’appel !. Une série inédite proposée par France Culture. Écoutez L’appel !, et découvrez nos podcasts en ligne.</description>
+      <content:encoded><![CDATA[
+        <p>AUDIO Preuves d&#x27;humanité, sauvegarder le patrimoine, épisode : L’appel !. Une série inédite proposée par France Culture. Écoutez L’appel !, et découvrez nos podcasts en ligne.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/l-appel-3999190">France Culture</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/66cff661-b94c-478b-a7c4-5c6c0a016611/300x300" alt="L’appel ! : épisode du podcast Preuves d&#x27;humanité, sauvegarder le patrimoine | France Culture" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/l-appel-3999190</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26625-25.06.2026-ITEMA_24568643-2026C36128E0010-ITE_00160211_RSCE-25-e825a97f8c1c189a5ba41a38dc12c133.m4a" length="20680057" type="audio/mp4"/>
+      <pubDate>Thu, 25 Jun 2026 13:03:00 +0000</pubDate>
+      <itunes:author>France Culture</itunes:author>
+      <itunes:duration>14:14</itunes:duration>
+      <itunes:subtitle>AUDIO Preuves d'humanité, sauvegarder le patrimoine, épisode : L’appel !. Une série inédite proposée par France Culture. Écoutez L’appel !, et découvrez nos podcasts en ligne.</itunes:subtitle>
+      <itunes:summary>AUDIO Preuves d'humanité, sauvegarder le patrimoine, épisode : L’appel !. Une série inédite proposée par France Culture. Écoutez L’appel !, et découvrez nos podcasts en ligne.</itunes:summary>
+    </item>
+    <item>
+      <title>La fraternité internationale : épisode du podcast Preuves d'humanité, sauvegarder le patrimoine | France Culture</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/la-fraternite-internationale-5848799</link>
+      <description>AUDIO Preuves d'humanité, sauvegarder le patrimoine, épisode : La fraternité internationale. Une série inédite proposée par France Culture. Écoutez La fraternité internationale, et découvrez nos podcasts en ligne.</description>
+      <content:encoded><![CDATA[
+        <p>AUDIO Preuves d&#x27;humanité, sauvegarder le patrimoine, épisode : La fraternité internationale. Une série inédite proposée par France Culture. Écoutez La fraternité internationale, et découvrez nos podcasts en ligne.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/la-fraternite-internationale-5848799">France Culture</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/ad6dc154-ae00-4bc7-88d5-0ee49b66281d/300x300" alt="La fraternité internationale : épisode du podcast Preuves d&#x27;humanité, sauvegarder le patrimoine | France Culture" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/la-fraternite-internationale-5848799</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26625-25.06.2026-ITEMA_24568643-2026C36128E0011-ITE_00160212_RSCE-25-77bdb55ffe581cc400f12574f0148dc5.m4a" length="22378778" type="audio/mp4"/>
+      <pubDate>Thu, 25 Jun 2026 13:02:00 +0000</pubDate>
+      <itunes:author>France Culture</itunes:author>
+      <itunes:duration>15:24</itunes:duration>
+      <itunes:subtitle>AUDIO Preuves d'humanité, sauvegarder le patrimoine, épisode : La fraternité internationale. Une série inédite proposée par France Culture. Écoutez La fraternité internationale, et découvrez nos podcasts en ligne.</itunes:subtitle>
+      <itunes:summary>AUDIO Preuves d'humanité, sauvegarder le patrimoine, épisode : La fraternité internationale. Une série inédite proposée par France Culture. Écoutez La fraternité internationale, et découvrez nos podcasts en ligne.</itunes:summary>
+    </item>
+    <item>
+      <title>Le défi ! : épisode du podcast Preuves d'humanité, sauvegarder le patrimoine | France Culture</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/le-defi-9775566</link>
+      <description>AUDIO Preuves d'humanité, sauvegarder le patrimoine, épisode : Le défi !. Une série inédite proposée par France Culture. Écoutez Le défi !, et découvrez nos podcasts en ligne.</description>
+      <content:encoded><![CDATA[
+        <p>AUDIO Preuves d&#x27;humanité, sauvegarder le patrimoine, épisode : Le défi !. Une série inédite proposée par France Culture. Écoutez Le défi !, et découvrez nos podcasts en ligne.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/le-defi-9775566">France Culture</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/de136b82-291a-4bdd-aa36-6072b29d1d31/300x300" alt="Le défi ! : épisode du podcast Preuves d&#x27;humanité, sauvegarder le patrimoine | France Culture" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/le-defi-9775566</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26625-25.06.2026-ITEMA_24568643-2026C36128E0012-ITE_00160213_RSCE-25-8789a50d0fd9b6db55a7eda69a34596d.m4a" length="21586613" type="audio/mp4"/>
+      <pubDate>Thu, 25 Jun 2026 13:01:00 +0000</pubDate>
+      <itunes:author>France Culture</itunes:author>
+      <itunes:duration>14:51</itunes:duration>
+      <itunes:subtitle>AUDIO Preuves d'humanité, sauvegarder le patrimoine, épisode : Le défi !. Une série inédite proposée par France Culture. Écoutez Le défi !, et découvrez nos podcasts en ligne.</itunes:subtitle>
+      <itunes:summary>AUDIO Preuves d'humanité, sauvegarder le patrimoine, épisode : Le défi !. Une série inédite proposée par France Culture. Écoutez Le défi !, et découvrez nos podcasts en ligne.</itunes:summary>
+    </item>
+    <item>
+      <title>Après la Nubie : épisode du podcast Preuves d'humanité, sauvegarder le patrimoine | France Culture</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/apres-la-nubie-2766318</link>
+      <description>AUDIO Preuves d'humanité, sauvegarder le patrimoine, épisode : Après la Nubie. Une série inédite proposée par France Culture. Écoutez Après la Nubie, et découvrez nos podcasts en ligne.</description>
+      <content:encoded><![CDATA[
+        <p>AUDIO Preuves d&#x27;humanité, sauvegarder le patrimoine, épisode : Après la Nubie. Une série inédite proposée par France Culture. Écoutez Après la Nubie, et découvrez nos podcasts en ligne.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/apres-la-nubie-2766318">France Culture</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/006c356c-0ae9-40d7-8ff3-d671d6138028/300x300" alt="Après la Nubie : épisode du podcast Preuves d&#x27;humanité, sauvegarder le patrimoine | France Culture" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/apres-la-nubie-2766318</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26625-25.06.2026-ITEMA_24568643-2026C36128E0013-ITE_00160214_RSCE-25-03b63f0d71c8c3e391445b3fc1e99167.m4a" length="20736775" type="audio/mp4"/>
+      <pubDate>Thu, 25 Jun 2026 13:00:00 +0000</pubDate>
+      <itunes:author>France Culture</itunes:author>
+      <itunes:duration>14:16</itunes:duration>
+      <itunes:subtitle>AUDIO Preuves d'humanité, sauvegarder le patrimoine, épisode : Après la Nubie. Une série inédite proposée par France Culture. Écoutez Après la Nubie, et découvrez nos podcasts en ligne.</itunes:subtitle>
+      <itunes:summary>AUDIO Preuves d'humanité, sauvegarder le patrimoine, épisode : Après la Nubie. Une série inédite proposée par France Culture. Écoutez Après la Nubie, et découvrez nos podcasts en ligne.</itunes:summary>
+    </item>
     <item>
       <title>Le pactole des banques centrales, avoir sa monnaie dans l’étalon-or : épisode du podcast Il est l’or ! Ruée vers l’histoire | France Culture</title>
       <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/le-pactole-des-banques-centrales-avoir-sa-monnaie-dans-l-etalon-or-6824996</link>
