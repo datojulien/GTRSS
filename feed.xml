@@ -14,7 +14,7 @@
       <link>https://datojulien.github.io/GTRSS/feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Fri, 26 Jun 2026 06:20:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 10:28:25 +0000</lastBuildDate>
     <itunes:author>France Culture</itunes:author>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -24,6 +24,26 @@
     </itunes:owner>
     <itunes:subtitle>Flux personnel généré depuis le site Radio France</itunes:subtitle>
     <itunes:summary>Un flux RSS personnel qui récupère les épisodes depuis le site web de France Culture lorsque le flux officiel n’est pas encore à jour.</itunes:summary>
+    <item>
+      <title>L’Aveyron à Paris, l’histoire est dans la limonade</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/l-aveyron-a-paris-l-histoire-est-dans-la-limonade-1199558</link>
+      <description>À partir du 19ᵉ siècle, des personnes originaires du département de l'Aveyron s'installent à Paris pour travailler dans les commerces de débits de boissons. Comment ont-elles participé à la construction de la limonade parisienne et permis son maintien ?</description>
+      <content:encoded><![CDATA[
+        <p>À partir du 19ᵉ siècle, des personnes originaires du département de l&#x27;Aveyron s&#x27;installent à Paris pour travailler dans les commerces de débits de boissons. Comment ont-elles participé à la construction de la limonade parisienne et permis son maintien ?</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/l-aveyron-a-paris-l-histoire-est-dans-la-limonade-1199558">France Culture</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/58eb8dce-ba68-4a5d-a466-2d117ac1c8a2/300x300" alt="L’Aveyron à Paris, l’histoire est dans la limonade" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/l-aveyron-a-paris-l-histoire-est-dans-la-limonade-1199558</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26625-26.06.2026-ITEMA_24570552-2026C36128S0177-NET_MFC_FAADECB4-3F54-4F49-B99A-4D2066243628-25-9d56fbc45e6e3800657b970845655530.m4a" length="85221507" type="audio/mp4"/>
+      <pubDate>Fri, 26 Jun 2026 07:00:00 +0000</pubDate>
+      <itunes:author>France Culture</itunes:author>
+      <itunes:duration>58:42</itunes:duration>
+      <itunes:subtitle>À partir du 19ᵉ siècle, des personnes originaires du département de l'Aveyron s'installent à Paris pour travailler dans les commerces de débits de boissons. Comment ont-elles participé à la construction de la limonade parisienne et permis son maintien ?</itunes:subtitle>
+      <itunes:summary>À partir du 19ᵉ siècle, des personnes originaires du département de l'Aveyron s'installent à Paris pour travailler dans les commerces de débits de boissons. Comment ont-elles participé à la construction de la limonade parisienne et permis son maintien ?</itunes:summary>
+    </item>
     <item>
       <title>L’appel ! : épisode du podcast Preuves d'humanité, sauvegarder le patrimoine | France Culture</title>
       <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/l-appel-3999190</link>

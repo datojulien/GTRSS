@@ -14,7 +14,7 @@
       <link>https://datojulien.github.io/GTRSS/roselyne-bachelot-feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Fri, 26 Jun 2026 06:20:57 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 10:28:37 +0000</lastBuildDate>
     <itunes:author>France Musique</itunes:author>
     <itunes:category text="Music"/>
     <itunes:explicit>no</itunes:explicit>
@@ -24,6 +24,26 @@
     </itunes:owner>
     <itunes:subtitle>Flux personnel généré depuis le site Radio France</itunes:subtitle>
     <itunes:summary>Un flux RSS personnel qui récupère les épisodes depuis le site web de France Musique lorsque le flux officiel n’est pas encore à jour.</itunes:summary>
+    <item>
+      <title>À la recherche du Mozart perdu</title>
+      <link>https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/a-la-recherche-du-mozart-perdu-7244710</link>
+      <description>Alors que vient d'être découvert un manuscrit inédit de Mozart à la BnF, Roselyne Bachelot évoque les séjours parisiens du compositeur entre 1763 et 1778, de la cour de Versailles à la rue de Varenne où il donna des leçons à la fille du duc de Guînes, dans un hôtel particulier qu'elle connaît bien.</description>
+      <content:encoded><![CDATA[
+        <p>Alors que vient d&#x27;être découvert un manuscrit inédit de Mozart à la BnF, Roselyne Bachelot évoque les séjours parisiens du compositeur entre 1763 et 1778, de la cour de Versailles à la rue de Varenne où il donna des leçons à la fille du duc de Guînes, dans un hôtel particulier qu&#x27;elle connaît bien.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/a-la-recherche-du-mozart-perdu-7244710">France Musique</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/300x300" alt="À la recherche du Mozart perdu" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/a-la-recherche-du-mozart-perdu-7244710</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26865-26.06.2026-ITEMA_24570603-2026M26307S0177-NET_MFM_808AF040-607C-4738-BA39-ED1445D9C81E-25-0a2570b17b4e91860b68d1dd74dda0d5.m4a" length="11517250" type="audio/mp4"/>
+      <pubDate>Fri, 26 Jun 2026 06:07:00 +0000</pubDate>
+      <itunes:author>France Musique</itunes:author>
+      <itunes:duration>7:55</itunes:duration>
+      <itunes:subtitle>Alors que vient d'être découvert un manuscrit inédit de Mozart à la BnF, Roselyne Bachelot évoque les séjours parisiens du compositeur entre 1763 et 1778, de la cour de Versailles à la rue de Varenne où il donna des leçons à la fille du duc de Guînes, dan</itunes:subtitle>
+      <itunes:summary>Alors que vient d'être découvert un manuscrit inédit de Mozart à la BnF, Roselyne Bachelot évoque les séjours parisiens du compositeur entre 1763 et 1778, de la cour de Versailles à la rue de Varenne où il donna des leçons à la fille du duc de Guînes, dans un hôtel particulier qu'elle connaît bien.</itunes:summary>
+    </item>
     <item>
       <title>Qui va piano</title>
       <link>https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/qui-va-piano-3586984</link>
