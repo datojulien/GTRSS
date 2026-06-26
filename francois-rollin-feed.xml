@@ -14,7 +14,7 @@
       <link>https://datojulien.github.io/GTRSS/francois-rollin-feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Fri, 26 Jun 2026 13:19:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 16:27:56 +0000</lastBuildDate>
     <itunes:author>France Inter</itunes:author>
     <itunes:category text="Comedy"/>
     <itunes:explicit>no</itunes:explicit>
@@ -24,6 +24,26 @@
     </itunes:owner>
     <itunes:subtitle>Flux personnel généré depuis le site Radio France</itunes:subtitle>
     <itunes:summary>Un flux RSS personnel qui récupère les épisodes depuis le site web de France Inter lorsque le flux officiel n’est pas encore à jour.</itunes:summary>
+    <item>
+      <title>Coup de grâce</title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/le-billet-de-francois-rollin/francois-rollin-moi-ce-que-j-en-dis-du-vendredi-26-juin-2026-5046789</link>
+      <description>Coup de grâce</description>
+      <content:encoded><![CDATA[
+        <p>Coup de grâce</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceinter/podcasts/le-billet-de-francois-rollin/francois-rollin-moi-ce-que-j-en-dis-du-vendredi-26-juin-2026-5046789">France Inter</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/b66e4080-2221-4df9-9205-35e13f450bdd/300x300" alt="Coup de grâce" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceinter/podcasts/le-billet-de-francois-rollin/francois-rollin-moi-ce-que-j-en-dis-du-vendredi-26-juin-2026-5046789</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26803-26.06.2026-ITEMA_24570345-2026F22864S0177-NET_MFI_BDB9D24E-8394-4AFC-B8EF-9EDB808D40C4-27-8373b3b92aaee2b41d86d5bca8320ede.m4a" length="5660628" type="audio/mp4"/>
+      <pubDate>Fri, 26 Jun 2026 14:55:00 +0000</pubDate>
+      <itunes:author>France Inter</itunes:author>
+      <itunes:duration>3:53</itunes:duration>
+      <itunes:subtitle>Coup de grâce</itunes:subtitle>
+      <itunes:summary>Coup de grâce</itunes:summary>
+    </item>
     <item>
       <title>François Rollin : moi ce que j'en dis du vendredi 12 juin 2026</title>
       <link>https://www.radiofrance.fr/franceinter/podcasts/le-billet-de-francois-rollin/francois-rollin-moi-ce-que-j-en-dis-du-vendredi-12-juin-2026-9466736</link>

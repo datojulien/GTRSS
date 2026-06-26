@@ -1,5 +1,17 @@
 [
   {
+    "title": "Coup de grâce",
+    "description": ".",
+    "audio_url": "https://media.radiofrance-podcast.net/podcast09/26803-26.06.2026-ITEMA_24570345-2026F22864S0177-NET_MFI_BDB9D24E-8394-4AFC-B8EF-9EDB808D40C4-27-8373b3b92aaee2b41d86d5bca8320ede.m4a",
+    "audio_type": "audio/mp4",
+    "duration_seconds": 233,
+    "duration_itunes": "3:53",
+    "published": "2026-06-26T14:55:00+00:00",
+    "image": "https://www.radiofrance.fr/pikapi/images/b66e4080-2221-4df9-9205-35e13f450bdd/300x300",
+    "url": "https://www.radiofrance.fr/franceinter/podcasts/le-billet-de-francois-rollin/francois-rollin-moi-ce-que-j-en-dis-du-vendredi-26-juin-2026-5046789",
+    "audio_length": 5660628
+  },
+  {
     "title": "François Rollin : moi ce que j'en dis du vendredi 12 juin 2026",
     "description": "",
     "audio_url": "https://media.radiofrance-podcast.net/podcast09/26803-12.06.2026-ITEMA_24549313-2026F22864S0163-NET_MFI_1AF7CB74-6BD3-4D79-A760-E2011A277823-27-f7aa849266ea34a1e13c224a8a13085a.m4a",
