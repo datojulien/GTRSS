@@ -14,8 +14,8 @@
     <atom:link href="https://datojulien.github.io/GTRSS/only_remaining_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Sat, 27 Jun 2026 08:06:19 GMT</lastBuildDate>
-    <pubDate>Sat, 27 Jun 2026 08:06:19 GMT</pubDate>
+    <lastBuildDate>Sat, 27 Jun 2026 10:23:13 GMT</lastBuildDate>
+    <pubDate>Sat, 27 Jun 2026 10:23:13 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -45,6 +45,43 @@
     <ns3:category text="Comedy" />
     <ns4:person role="host">RTL</ns4:person>
     <ns4:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns4:txt>
+    <item>
+      <title>LE MEILLEUR DE RUQUIER - Deux personnes âgées dans un EPHAD qui se rappellent de leur enfance... L'histoire drôle d'Éric Thomas</title>
+      <guid isPermaLink="false">24b3ab1c-c8e0-4e27-8aa9-a06689369c9a</guid>
+      <description>Deux vieux hommes qui se rappellent des souvenirs de leur enfance, la différence subtile entre un pastis 51 et un 69, et deux vieux copains se demandent ce qu'ils préfèrent avoir entre Alzheimer et parkinson... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns5:encoded>Deux vieux hommes qui se rappellent des souvenirs de leur enfance, la différence subtile entre un pastis 51 et un 69, et deux vieux copains se demandent ce qu'ils préfèrent avoir entre Alzheimer et parkinson... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
+      <pubDate>Sat, 27 Jun 2026 09:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/24b3ab1c-c8e0-4e27-8aa9-a06689369c9a.mp3?_=1782296282" length="1456622" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Deux vieux hommes qui se rappellent des souvenirs de leur enfance, la différence subtile entre un pastis 51 et un 69, et deux vieux copains se demandent ce qu'ils préfèrent avoir entre Alzheimer et parkinson... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
+      <ns3:description>Deux vieux hommes qui se rappellent des souvenirs de leur enfance, la différence subtile entre un pastis 51 et un 69, et deux vieux copains se demandent ce qu'ils préfèrent avoir entre Alzheimer et parkinson... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Deux vieux hommes qui se rappellent des souvenirs de leur enfance, la différence subtile entre un pastis 51 et un 69, et deux vieux copains se demandent ce qu'ils préfèrent avoir entre Alzheimer et parkinson... Écoutez dans ce podcast 3 des meilleures blagues racon...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>01:30</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/794ab42e-bbf0-43f9-993e-ca7eb79deadb.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/794ab42e-bbf0-43f9-993e-ca7eb79deadb.jpg" />
+      <ns4:person role="host">Laurent Ruquier</ns4:person>
+      <ns4:txt purpose="smartlink">https://audmns.com/qvTVAxa</ns4:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>LE MEILLEUR DE BOUVARD - La blague de Phillippe Chevallier</title>
       <guid isPermaLink="false">d99ebace-331c-4c0c-98ce-130db5361449</guid>
@@ -2644,41 +2681,6 @@ Hébe...</itunes:subtitle>
       <ns3:image href="https://static.audiomeans.fr/img/episode/99d63b4b-35e3-41bf-b9e1-2229670dce7d.jpg" />
       <ns4:person role="host">Laurent Ruquier</ns4:person>
       <ns4:txt purpose="smartlink">https://audmns.com/zbXldfH</ns4:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>LES IMMANQUABLES - Le meilleur de l'émission du 15 juin 2026</title>
-      <guid isPermaLink="false">d101fbb7-457f-479c-a1d2-762ed392d274</guid>
-      <description>Les compétences de Vincent Cespedes questionnées, l'alcoolémie de Roselyne Bachelot ou encore&amp;nbsp;la propreté de certaines Grosses Têtes remise en cause par Laurent Ruquier... Retrouvez dans ce podcast le meilleur de l'émission du lundi 15 juin 2026.
-
-&lt;i&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns5:encoded>Les compétences de Vincent Cespedes questionnées, l'alcoolémie de Roselyne Bachelot ou encore&amp;nbsp;la propreté de certaines Grosses Têtes remise en cause par Laurent Ruquier... Retrouvez dans ce podcast le meilleur de l'émission du lundi 15 juin 2026.
-
-&lt;i&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
-      <pubDate>Mon, 15 Jun 2026 15:58:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/d101fbb7-457f-479c-a1d2-762ed392d274.mp3?_=1781532783" length="17881726" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Les compétences de Vincent Cespedes questionnées, l'alcoolémie de Roselyne Bachelot ou encore la propreté de certaines Grosses Têtes remise en cause par Laurent Ruquier... Retrouvez dans ce podcast le meilleur de l'émission du lundi 15 juin 2026.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns3:description>Les compétences de Vincent Cespedes questionnées, l'alcoolémie de Roselyne Bachelot ou encore la propreté de certaines Grosses Têtes remise en cause par Laurent Ruquier... Retrouvez dans ce podcast le meilleur de l'émission du lundi 15 juin 2026.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Les compétences de Vincent Cespedes questionnées, l'alcoolémie de Roselyne Bachelot ou encore la propreté de certaines Grosses Têtes remise en cause par Laurent Ruquier... Retrouvez dans ce podcast le meilleur de l'émission du lundi 15 juin 2026.
-
-Retrouvez...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>18:37</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/e57700cd-0724-4f1c-9311-94fe04f847b3.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/e57700cd-0724-4f1c-9311-94fe04f847b3.jpg" />
-      <ns4:person role="host">Laurent Ruquier</ns4:person>
-      <ns4:txt purpose="smartlink">https://audmns.com/nyDWphw</ns4:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
