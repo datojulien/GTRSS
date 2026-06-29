@@ -14,8 +14,8 @@
     <atom:link href="https://datojulien.github.io/GTRSS/only_remaining_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Mon, 29 Jun 2026 17:47:47 GMT</lastBuildDate>
-    <pubDate>Mon, 29 Jun 2026 17:47:47 GMT</pubDate>
+    <lastBuildDate>Mon, 29 Jun 2026 20:16:03 GMT</lastBuildDate>
+    <pubDate>Mon, 29 Jun 2026 20:16:03 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -119,6 +119,7 @@ Hébergé par Au...</itunes:subtitle>
       <itunes:image href="https://static.audiomeans.fr/img/episode/512d077b-799f-4eb5-b9db-5d1b645ce5e7.jpg" />
       <ns3:image href="https://static.audiomeans.fr/img/episode/512d077b-799f-4eb5-b9db-5d1b645ce5e7.jpg" />
       <ns4:person role="host">Laurent Ruquier</ns4:person>
+      <ns4:txt purpose="smartlink">https://audmns.com/XgGEFax</ns4:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
