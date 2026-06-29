@@ -14,8 +14,8 @@
     <atom:link href="https://datojulien.github.io/GTRSS/only_remaining_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Mon, 29 Jun 2026 04:59:24 GMT</lastBuildDate>
-    <pubDate>Mon, 29 Jun 2026 04:59:24 GMT</pubDate>
+    <lastBuildDate>Mon, 29 Jun 2026 09:58:46 GMT</lastBuildDate>
+    <pubDate>Mon, 29 Jun 2026 09:58:46 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -45,6 +45,42 @@
     <ns3:category text="Comedy" />
     <ns4:person role="host">RTL</ns4:person>
     <ns4:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns4:txt>
+    <item>
+      <title>LE MEILLEUR DE RUQUIER - Deux blondes tombent nez à nez avec des chevaux dans un champ... L'histoire drôle de Caroline Diament</title>
+      <guid isPermaLink="false">e6a4b889-2316-4226-8bb8-d3f1152700ee</guid>
+      <description>Deux blondes qui se retrouvent face à deux chevaux, un sondage sur DSK auprès des françaises et une femme qui veut absolument se faire mordre les seins par son mari...&amp;nbsp; Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns5:encoded>Deux blondes qui se retrouvent face à deux chevaux, un sondage sur DSK auprès des françaises et une femme qui veut absolument se faire mordre les seins par son mari...&amp;nbsp; Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
+      <pubDate>Mon, 29 Jun 2026 09:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/e6a4b889-2316-4226-8bb8-d3f1152700ee.mp3?_=1782296881" length="1831429" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Deux blondes qui se retrouvent face à deux chevaux, un sondage sur DSK auprès des françaises et une femme qui veut absolument se faire mordre les seins par son mari... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
+      <ns3:description>Deux blondes qui se retrouvent face à deux chevaux, un sondage sur DSK auprès des françaises et une femme qui veut absolument se faire mordre les seins par son mari... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
+      <itunes:author>RTL</itunes:author>
+      <author>RTL</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Deux blondes qui se retrouvent face à deux chevaux, un sondage sur DSK auprès des françaises et une femme qui veut absolument se faire mordre les seins par son mari... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>01:54</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/8f216aa8-e7fd-4404-b36b-0f953b71b0ad.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/8f216aa8-e7fd-4404-b36b-0f953b71b0ad.jpg" />
+      <ns4:txt purpose="smartlink">https://audmns.com/gVUtizv</ns4:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>LE MEILLEUR DE BOUVARD - La blague de Macha Meril et Vincent Perrot</title>
       <guid isPermaLink="false">4240d3ac-6e00-4a3f-a79f-4b845734cf6b</guid>
@@ -2597,37 +2633,6 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL....</
       <ns3:image href="https://static.audiomeans.fr/img/episode/c2d0d6bc-d313-41d6-8b83-a200f15c7867.jpg" />
       <ns4:person role="host">Laurent Ruquier</ns4:person>
       <ns4:txt purpose="smartlink">https://audmns.com/GTjMBHG</ns4:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>FAKE NEWS - Pont Neuf, canicule, Trump... Quelle Grosse Tête dit vrai ?</title>
-      <guid isPermaLink="false">1c50791b-3fe2-48ce-aab9-f825e4fec850</guid>
-      <description>Et vous, saurez-vous démêler le vrai du faux ?
-&lt;i&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns5:encoded>Et vous, saurez-vous démêler le vrai du faux ?
-&lt;i&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
-      <pubDate>Tue, 16 Jun 2026 15:55:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/1c50791b-3fe2-48ce-aab9-f825e4fec850.mp3?_=1781617982" length="9976056" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Et vous, saurez-vous démêler le vrai du faux ?
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns3:description>Et vous, saurez-vous démêler le vrai du faux ?
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Et vous, saurez-vous démêler le vrai du faux ?
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-Hébergé par Audiomeans. Visitez audiom...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>10:23</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/4e1dfd22-6b6a-4352-aad7-74a9c4cc4e46.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/4e1dfd22-6b6a-4352-aad7-74a9c4cc4e46.jpg" />
-      <ns4:person role="host">Laurent Ruquier</ns4:person>
-      <ns4:txt purpose="smartlink">https://audmns.com/SSCePbA</ns4:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
