@@ -14,8 +14,8 @@
     <atom:link href="https://datojulien.github.io/GTRSS/only_remaining_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Mon, 29 Jun 2026 14:19:18 GMT</lastBuildDate>
-    <pubDate>Mon, 29 Jun 2026 14:19:18 GMT</pubDate>
+    <lastBuildDate>Mon, 29 Jun 2026 17:47:47 GMT</lastBuildDate>
+    <pubDate>Mon, 29 Jun 2026 17:47:47 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -79,6 +79,46 @@ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pou
       <itunes:image href="https://static.audiomeans.fr/img/episode/8f216aa8-e7fd-4404-b36b-0f953b71b0ad.jpg" />
       <ns3:image href="https://static.audiomeans.fr/img/episode/8f216aa8-e7fd-4404-b36b-0f953b71b0ad.jpg" />
       <ns4:txt purpose="smartlink">https://audmns.com/gVUtizv</ns4:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
+    <item>
+      <title>PÉPITE - Que cache le carnet secret de Sylvie Tellier ?</title>
+      <guid isPermaLink="false">cbecfac9-dbee-455b-be19-0c6a07c03527</guid>
+      <description>REDIFF - Pendant l'émission, Sylvie Tellier a toujours un carnet avec elle. Mais que cache-t-il vraiment ?
+
+
+&lt;i&gt;Fous rires, réponses inattendues, nouvelles rencontres, redécouvrez cet été les meilleurs moments de cette saison 2025-2026 !&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns5:encoded>REDIFF - Pendant l'émission, Sylvie Tellier a toujours un carnet avec elle. Mais que cache-t-il vraiment ?
+
+
+&lt;i&gt;Fous rires, réponses inattendues, nouvelles rencontres, redécouvrez cet été les meilleurs moments de cette saison 2025-2026 !&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
+      <pubDate>Mon, 29 Jun 2026 06:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/cbecfac9-dbee-455b-be19-0c6a07c03527.mp3?_=1782748680" length="2388153" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>REDIFF - Pendant l'émission, Sylvie Tellier a toujours un carnet avec elle. Mais que cache-t-il vraiment ?
+
+
+Fous rires, réponses inattendues, nouvelles rencontres, redécouvrez cet été les meilleurs moments de cette saison 2025-2026 !
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
+      <ns3:description>REDIFF - Pendant l'émission, Sylvie Tellier a toujours un carnet avec elle. Mais que cache-t-il vraiment ?
+
+
+Fous rires, réponses inattendues, nouvelles rencontres, redécouvrez cet été les meilleurs moments de cette saison 2025-2026 !
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>REDIFF - Pendant l'émission, Sylvie Tellier a toujours un carnet avec elle. Mais que cache-t-il vraiment ?
+
+
+Fous rires, réponses inattendues, nouvelles rencontres, redécouvrez cet été les meilleurs moments de cette saison 2025-2026 !
+Hébergé par Au...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>02:29</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/512d077b-799f-4eb5-b9db-5d1b645ce5e7.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/512d077b-799f-4eb5-b9db-5d1b645ce5e7.jpg" />
+      <ns4:person role="host">Laurent Ruquier</ns4:person>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
@@ -2568,71 +2608,6 @@ Hébergé par Audiomeans. Visitez</itunes:subtitle>
       <ns3:image href="https://static.audiomeans.fr/img/episode/680328ff-4507-402f-abbf-e840329a3a25.jpg" />
       <ns4:person role="host">Laurent Ruquier</ns4:person>
       <ns4:txt purpose="smartlink">https://audmns.com/FYRBGnW</ns4:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>LES IMMANQUABLES - Le meilleur de l'émission du 16 juin 2026</title>
-      <guid isPermaLink="false">cfec1b28-6962-40d9-9075-6de57da80b6b</guid>
-      <description>Les questions toujours très pertinentes de Sylvie Tellier, le débat autour de la caverne du Pont Neuf ou encore les plus beaux souvenirs de Coupe du monde de foot de Laurent Ruquier... Retrouvez dans ce podcast le meilleur de l'émission du mardi 16 juin 2026.
-&lt;i&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns5:encoded>Les questions toujours très pertinentes de Sylvie Tellier, le débat autour de la caverne du Pont Neuf ou encore les plus beaux souvenirs de Coupe du monde de foot de Laurent Ruquier... Retrouvez dans ce podcast le meilleur de l'émission du mardi 16 juin 2026.
-&lt;i&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
-      <pubDate>Tue, 16 Jun 2026 15:59:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/cfec1b28-6962-40d9-9075-6de57da80b6b.mp3?_=1781620983" length="21010581" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Les questions toujours très pertinentes de Sylvie Tellier, le débat autour de la caverne du Pont Neuf ou encore les plus beaux souvenirs de Coupe du monde de foot de Laurent Ruquier... Retrouvez dans ce podcast le meilleur de l'émission du mardi 16 juin 2026.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns3:description>Les questions toujours très pertinentes de Sylvie Tellier, le débat autour de la caverne du Pont Neuf ou encore les plus beaux souvenirs de Coupe du monde de foot de Laurent Ruquier... Retrouvez dans ce podcast le meilleur de l'émission du mardi 16 juin 2026.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Les questions toujours très pertinentes de Sylvie Tellier, le débat autour de la caverne du Pont Neuf ou encore les plus beaux souvenirs de Coupe du monde de foot de Laurent Ruquier... Retrouvez dans ce podcast le meilleur de l'émission du mardi 16 juin 2026.
-Re...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>21:53</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/d42565ed-a408-42e6-98c1-f799488ed82e.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/d42565ed-a408-42e6-98c1-f799488ed82e.jpg" />
-      <ns4:person role="host">Laurent Ruquier</ns4:person>
-      <ns4:txt purpose="smartlink">https://audmns.com/UwMTFHr</ns4:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>PÉPITE - Laurent Ruquier chambre GuiHome avec les diables rouges</title>
-      <guid isPermaLink="false">4bfb502b-a868-4dcd-a832-ac03df4a5807</guid>
-      <description>Lundi soir la sélection belge a fait match nul face aux égyptiens alors quand GuiHome ose taquiner ses camarades pour le match des bleus ce soir, Laurent Ruquier monte au créneau !&amp;nbsp;
-
-&lt;i&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns5:encoded>Lundi soir la sélection belge a fait match nul face aux égyptiens alors quand GuiHome ose taquiner ses camarades pour le match des bleus ce soir, Laurent Ruquier monte au créneau !&amp;nbsp;
-
-&lt;i&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
-      <pubDate>Tue, 16 Jun 2026 15:58:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/4bfb502b-a868-4dcd-a832-ac03df4a5807.mp3?_=1781622181" length="2560055" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Lundi soir la sélection belge a fait match nul face aux égyptiens alors quand GuiHome ose taquiner ses camarades pour le match des bleus ce soir, Laurent Ruquier monte au créneau !
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns3:description>Lundi soir la sélection belge a fait match nul face aux égyptiens alors quand GuiHome ose taquiner ses camarades pour le match des bleus ce soir, Laurent Ruquier monte au créneau !
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Lundi soir la sélection belge a fait match nul face aux égyptiens alors quand GuiHome ose taquiner ses camarades pour le match des bleus ce soir, Laurent Ruquier monte au créneau !
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL....</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>02:39</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/c2d0d6bc-d313-41d6-8b83-a200f15c7867.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/c2d0d6bc-d313-41d6-8b83-a200f15c7867.jpg" />
-      <ns4:person role="host">Laurent Ruquier</ns4:person>
-      <ns4:txt purpose="smartlink">https://audmns.com/GTjMBHG</ns4:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
