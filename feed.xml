@@ -14,7 +14,7 @@
       <link>https://datojulien.github.io/GTRSS/feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Wed, 01 Jul 2026 10:13:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 12:48:43 +0000</lastBuildDate>
     <itunes:author>France Culture</itunes:author>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -24,6 +24,26 @@
     </itunes:owner>
     <itunes:subtitle>Flux personnel généré depuis le site Radio France</itunes:subtitle>
     <itunes:summary>Un flux RSS personnel qui récupère les épisodes depuis le site web de France Culture lorsque le flux officiel n’est pas encore à jour.</itunes:summary>
+    <item>
+      <title>Marais et rivières, le pouvoir royal face aux défis hydrauliques : épisode du podcast Plouf ! Vivre avec l’eau | France Culture</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/marais-et-rivieres-le-pouvoir-royal-face-aux-defis-hydrauliques-3660126</link>
+      <description>AUDIO Plouf ! Vivre avec l’eau, épisode : Marais et rivières, le pouvoir royal face aux défis hydrauliques. Une série inédite proposée par France Culture. Écoutez Marais et rivières, le pouvoir royal face aux défis hydrauliques, et découvrez nos podcasts en ligne.</description>
+      <content:encoded><![CDATA[
+        <p>AUDIO Plouf ! Vivre avec l’eau, épisode : Marais et rivières, le pouvoir royal face aux défis hydrauliques. Une série inédite proposée par France Culture. Écoutez Marais et rivières, le pouvoir royal face aux défis hydrauliques, et découvrez nos podcasts en ligne.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/marais-et-rivieres-le-pouvoir-royal-face-aux-defis-hydrauliques-3660126">France Culture</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/a9b62fcd-5573-41a4-bb35-1c8ccffb0f7b/300x300" alt="Marais et rivières, le pouvoir royal face aux défis hydrauliques : épisode du podcast Plouf ! Vivre avec l’eau | France Culture" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/marais-et-rivieres-le-pouvoir-royal-face-aux-defis-hydrauliques-3660126</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26625-01.07.2026-ITEMA_24577687-2026C36128S0182-NET_MFC_70F48631-6690-4DAA-ADC9-066348A3353E-25-8b9d27c0519f47b7d90587bc21c41fb7.m4a" length="85569192" type="audio/mp4"/>
+      <pubDate>Wed, 01 Jul 2026 07:00:00 +0000</pubDate>
+      <itunes:author>France Culture</itunes:author>
+      <itunes:duration>58:57</itunes:duration>
+      <itunes:subtitle>AUDIO Plouf ! Vivre avec l’eau, épisode : Marais et rivières, le pouvoir royal face aux défis hydrauliques. Une série inédite proposée par France Culture. Écoutez Marais et rivières, le pouvoir royal face aux défis hydrauliques, et découvrez nos podcasts </itunes:subtitle>
+      <itunes:summary>AUDIO Plouf ! Vivre avec l’eau, épisode : Marais et rivières, le pouvoir royal face aux défis hydrauliques. Une série inédite proposée par France Culture. Écoutez Marais et rivières, le pouvoir royal face aux défis hydrauliques, et découvrez nos podcasts en ligne.</itunes:summary>
+    </item>
     <item>
       <title>Venise à vau-l’eau, histoire d’une ville bien trempée : épisode du podcast Plouf ! Vivre avec l’eau | France Culture</title>
       <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/venise-a-vau-l-eau-histoire-d-une-ville-bien-trempee-3047298</link>
