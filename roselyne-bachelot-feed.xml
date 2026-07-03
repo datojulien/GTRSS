@@ -14,7 +14,7 @@
       <link>https://datojulien.github.io/GTRSS/roselyne-bachelot-feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Fri, 03 Jul 2026 04:56:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 08:28:00 +0000</lastBuildDate>
     <itunes:author>France Musique</itunes:author>
     <itunes:category text="Music"/>
     <itunes:explicit>no</itunes:explicit>
@@ -24,6 +24,26 @@
     </itunes:owner>
     <itunes:subtitle>Flux personnel généré depuis le site Radio France</itunes:subtitle>
     <itunes:summary>Un flux RSS personnel qui récupère les épisodes depuis le site web de France Musique lorsque le flux officiel n’est pas encore à jour.</itunes:summary>
+    <item>
+      <title>Comment se dire adieu ?</title>
+      <link>https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/comment-se-dire-adieu-7149184</link>
+      <description>Pour sa dernière chronique avant l’été, Roselyne Bachelot revient sur les adieux les plus bouleversants du répertoire lyrique, de Violetta chez Verdi à Brünnhilde chez Wagner... avant une pirouette finale du côté de l’opérette !</description>
+      <content:encoded><![CDATA[
+        <p>Pour sa dernière chronique avant l’été, Roselyne Bachelot revient sur les adieux les plus bouleversants du répertoire lyrique, de Violetta chez Verdi à Brünnhilde chez Wagner... avant une pirouette finale du côté de l’opérette !</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/comment-se-dire-adieu-7149184">France Musique</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/300x300" alt="Comment se dire adieu ?" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/comment-se-dire-adieu-7149184</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26865-03.07.2026-ITEMA_24581203-2026M26307S0184-NET_MFM_F3E9C00A-82A8-4E75-BBF8-095130688D90-25-7c5d11273614537ccabc755cf9f7db8f.m4a" length="9859000" type="audio/mp4"/>
+      <pubDate>Fri, 03 Jul 2026 06:07:00 +0000</pubDate>
+      <itunes:author>France Musique</itunes:author>
+      <itunes:duration>6:47</itunes:duration>
+      <itunes:subtitle>Pour sa dernière chronique avant l’été, Roselyne Bachelot revient sur les adieux les plus bouleversants du répertoire lyrique, de Violetta chez Verdi à Brünnhilde chez Wagner... avant une pirouette finale du côté de l’opérette !</itunes:subtitle>
+      <itunes:summary>Pour sa dernière chronique avant l’été, Roselyne Bachelot revient sur les adieux les plus bouleversants du répertoire lyrique, de Violetta chez Verdi à Brünnhilde chez Wagner... avant une pirouette finale du côté de l’opérette !</itunes:summary>
+    </item>
     <item>
       <title>À la recherche du Mozart perdu</title>
       <link>https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/a-la-recherche-du-mozart-perdu-7244710</link>
