@@ -14,8 +14,8 @@
     <atom:link href="https://datojulien.github.io/GTRSS/only_remaining_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Sun, 05 Jul 2026 12:42:21 GMT</lastBuildDate>
-    <pubDate>Sun, 05 Jul 2026 12:42:21 GMT</pubDate>
+    <lastBuildDate>Sun, 05 Jul 2026 14:52:41 GMT</lastBuildDate>
+    <pubDate>Sun, 05 Jul 2026 14:52:41 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -45,6 +45,32 @@
     <ns3:category text="Comedy" />
     <ns4:person role="host">RTL</ns4:person>
     <ns4:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns4:txt>
+    <item>
+      <title>BEST OF - Les 10 meilleures blagues du dimanche 5 juillet 2026</title>
+      <guid isPermaLink="false">6f22d0b0-77c3-4a1f-8013-5d327cee0e3e</guid>
+      <description>Chaque dimanche, retrouvez les meilleures blagues de vos Grosses Têtes préférées. Laurent Ruquier, Caroline Diament, Isabelle Mergault... Découvrez dans ce podcast 10 des meilleures blagues passées à l'antenne et racontées par les Grosses Têtes.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns5:encoded>Chaque dimanche, retrouvez les meilleures blagues de vos Grosses Têtes préférées. Laurent Ruquier, Caroline Diament, Isabelle Mergault... Découvrez dans ce podcast 10 des meilleures blagues passées à l'antenne et racontées par les Grosses Têtes.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
+      <pubDate>Sun, 05 Jul 2026 13:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/6f22d0b0-77c3-4a1f-8013-5d327cee0e3e.mp3?_=1782985982" length="10139177" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Chaque dimanche, retrouvez les meilleures blagues de vos Grosses Têtes préférées. Laurent Ruquier, Caroline Diament, Isabelle Mergault... Découvrez dans ce podcast 10 des meilleures blagues passées à l'antenne et racontées par les Grosses Têtes.
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
+      <ns3:description>Chaque dimanche, retrouvez les meilleures blagues de vos Grosses Têtes préférées. Laurent Ruquier, Caroline Diament, Isabelle Mergault... Découvrez dans ce podcast 10 des meilleures blagues passées à l'antenne et racontées par les Grosses Têtes.
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Chaque dimanche, retrouvez les meilleures blagues de vos Grosses Têtes préférées. Laurent Ruquier, Caroline Diament, Isabelle Mergault... Découvrez dans ce podcast 10 des meilleures blagues passées à l'antenne et racontées par les Grosses Têtes.
+Hébergé pa...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>10:33</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/d95b658d-1e6e-4a65-9569-2d16f19da9b9.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/d95b658d-1e6e-4a65-9569-2d16f19da9b9.jpg" />
+      <ns4:person role="host">Laurent Ruquier</ns4:person>
+      <ns4:txt purpose="smartlink">https://audmns.com/aoAoFKT</ns4:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>LE MEILLEUR DE BOUVARD - Les blagues de Macha Meril et Bernard Mabille</title>
       <guid isPermaLink="false">2115eb6e-a366-4c77-8938-a6dd15f79c7b</guid>
@@ -2562,43 +2588,6 @@ Retrouvez tous les jours le meilleur des Gros...</itunes:subtitle>
       <ns3:image href="https://static.audiomeans.fr/img/episode/9f1c53a6-fbcf-4e17-9047-0be0693629ff.jpg" />
       <ns4:person role="host">Julien Bonneau</ns4:person>
       <ns4:txt purpose="smartlink">https://audmns.com/GliFagh</ns4:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>LE MEILLEUR DE RUQUIER - Un maire souhaite faire ravaler la façade d'un bâtiment... L'histoire drôle de Bernard Mabille</title>
-      <guid isPermaLink="false">7ff58594-38ef-486f-8ede-6b808cc35f1c</guid>
-      <description>Un maire qui fait appel à plusieurs entreprises pour faire ravaler la façade d'un bâtiment municipal, une blonde qui réalise s'être fait cambriolée et un couple qui se retrouve au paradis...&amp;nbsp; Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
-
-&amp;nbsp;
-Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns5:encoded>Un maire qui fait appel à plusieurs entreprises pour faire ravaler la façade d'un bâtiment municipal, une blonde qui réalise s'être fait cambriolée et un couple qui se retrouve au paradis...&amp;nbsp; Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
-
-&amp;nbsp;
-Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
-      <pubDate>Fri, 19 Jun 2026 09:00:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/7ff58594-38ef-486f-8ede-6b808cc35f1c.mp3?_=1780935182" length="2093982" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Un maire qui fait appel à plusieurs entreprises pour faire ravaler la façade d'un bâtiment municipal, une blonde qui réalise s'être fait cambriolée et un couple qui se retrouve au paradis... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
-
-
-Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns3:description>Un maire qui fait appel à plusieurs entreprises pour faire ravaler la façade d'un bâtiment municipal, une blonde qui réalise s'être fait cambriolée et un couple qui se retrouve au paradis... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
-
-
-Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Un maire qui fait appel à plusieurs entreprises pour faire ravaler la façade d'un bâtiment municipal, une blonde qui réalise s'être fait cambriolée et un couple qui se retrouve au paradis... Écoutez dans ce podcast 3 des meilleures blagues racontées par les G...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>02:10</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/0fcb475f-d515-4990-9c7a-a8f5cba13311.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/0fcb475f-d515-4990-9c7a-a8f5cba13311.jpg" />
-      <ns4:person role="host">Laurent Ruquier</ns4:person>
-      <ns4:txt purpose="smartlink">https://audmns.com/TUMVCrS</ns4:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
