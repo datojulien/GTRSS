@@ -14,8 +14,8 @@
     <atom:link href="https://datojulien.github.io/GTRSS/only_remaining_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Sun, 05 Jul 2026 04:32:23 GMT</lastBuildDate>
-    <pubDate>Sun, 05 Jul 2026 04:32:23 GMT</pubDate>
+    <lastBuildDate>Sun, 05 Jul 2026 08:16:45 GMT</lastBuildDate>
+    <pubDate>Sun, 05 Jul 2026 08:16:45 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -45,6 +45,42 @@
     <ns3:category text="Comedy" />
     <ns4:person role="host">RTL</ns4:person>
     <ns4:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns4:txt>
+    <item>
+      <title>LE MEILLEUR DE LA SAISON - Laurent Ruquier veut son urne dans le studio des Grosses Têtes</title>
+      <guid isPermaLink="false">11699154-eb8b-412b-9f10-77eac96fca99</guid>
+      <description>REDIFF- Après avoir longtemps rêvé d'être enterré dans le cimetière marin de Venise, Laurent Ruquier a changé d'avis...
+
+&lt;i&gt;Fous rires, réponses inattendues, nouvelles rencontres, redécouvrez cet été les meilleurs moments de cette saison 2025-2026 !&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns5:encoded>REDIFF- Après avoir longtemps rêvé d'être enterré dans le cimetière marin de Venise, Laurent Ruquier a changé d'avis...
+
+&lt;i&gt;Fous rires, réponses inattendues, nouvelles rencontres, redécouvrez cet été les meilleurs moments de cette saison 2025-2026 !&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
+      <pubDate>Sun, 05 Jul 2026 06:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/11699154-eb8b-412b-9f10-77eac96fca99.mp3?_=1782922382" length="3662185" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>REDIFF- Après avoir longtemps rêvé d'être enterré dans le cimetière marin de Venise, Laurent Ruquier a changé d'avis...
+
+Fous rires, réponses inattendues, nouvelles rencontres, redécouvrez cet été les meilleurs moments de cette saison 2025-2026 !
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
+      <ns3:description>REDIFF- Après avoir longtemps rêvé d'être enterré dans le cimetière marin de Venise, Laurent Ruquier a changé d'avis...
+
+Fous rires, réponses inattendues, nouvelles rencontres, redécouvrez cet été les meilleurs moments de cette saison 2025-2026 !
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>REDIFF- Après avoir longtemps rêvé d'être enterré dans le cimetière marin de Venise, Laurent Ruquier a changé d'avis...
+
+Fous rires, réponses inattendues, nouvelles rencontres, redécouvrez cet été les meilleurs moments de cette saison 2025-2026 !
+Hé...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>03:48</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/e077fb5a-32c2-4576-adf2-5d8acf17c644.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/e077fb5a-32c2-4576-adf2-5d8acf17c644.jpg" />
+      <ns4:person role="host">Laurent Ruquier</ns4:person>
+      <ns4:txt purpose="smartlink">https://audmns.com/MzZwGHH</ns4:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>LE MEILLEUR DE RUQUIER - Une mamie donne ses économies avant de partir... L'histoire drôle de Cristina Cordula</title>
       <guid isPermaLink="false">7a6a4900-ec5a-4c47-8a54-1c7dc9fb1ebc</guid>
