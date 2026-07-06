@@ -14,7 +14,7 @@
       <link>https://datojulien.github.io/GTRSS/feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Mon, 06 Jul 2026 04:38:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 09:10:05 +0000</lastBuildDate>
     <itunes:author>France Culture</itunes:author>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -1303,6 +1303,26 @@
       <itunes:duration>58:33</itunes:duration>
       <itunes:subtitle>AUDIO Fou d'histoire, épisode : Jennifer Richard : "Je réfléchis au temps, notre pire adversaire, qui dirige toute notre vie". Une série inédite proposée par France Culture. Écoutez Jennifer Richard : "Je réfléchis au temps, notre pire adversaire, qui dir</itunes:subtitle>
       <itunes:summary>AUDIO Fou d'histoire, épisode : Jennifer Richard : "Je réfléchis au temps, notre pire adversaire, qui dirige toute notre vie". Une série inédite proposée par France Culture. Écoutez Jennifer Richard : "Je réfléchis au temps, notre pire adversaire, qui dirige toute notre vie", et découvrez nos podcasts en ligne.</itunes:summary>
+    </item>
+    <item>
+      <title>Bas-reliefs ou papyrus, en Mésopotamie ou en Égypte, la bande dessinée se profile : épisode du podcast Enluminures, BD, mangas, quand le dessin raconte | France Culture</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/bas-reliefs-ou-papyrus-dans-l-egypte-ancienne-la-bande-dessinee-se-profile-5114472</link>
+      <description>AUDIO Enluminures, BD, mangas, quand le dessin raconte, épisode : Bas-reliefs ou papyrus, en Mésopotamie ou en Égypte, la bande dessinée se profile. Une série inédite proposée par France Culture. Écoutez Bas-reliefs ou papyrus, en Mésopotamie ou en Égypte, la bande dessinée se profile, et découvrez nos podcasts en ligne.</description>
+      <content:encoded><![CDATA[
+        <p>AUDIO Enluminures, BD, mangas, quand le dessin raconte, épisode : Bas-reliefs ou papyrus, en Mésopotamie ou en Égypte, la bande dessinée se profile. Une série inédite proposée par France Culture. Écoutez Bas-reliefs ou papyrus, en Mésopotamie ou en Égypte, la bande dessinée se profile, et découvrez nos podcasts en ligne.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/bas-reliefs-ou-papyrus-dans-l-egypte-ancienne-la-bande-dessinee-se-profile-5114472">France Culture</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/be50abbc-be8c-41e7-9b9f-67c8d55257fc/300x300" alt="Bas-reliefs ou papyrus, en Mésopotamie ou en Égypte, la bande dessinée se profile : épisode du podcast Enluminures, BD, mangas, quand le dessin raconte | France Culture" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/bas-reliefs-ou-papyrus-dans-l-egypte-ancienne-la-bande-dessinee-se-profile-5114472</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26625-06.07.2026-ITEMA_24584351-2024C36128S0134-NET_MFC_79E07B3A-7485-4A97-8191-8072D71A2A6E-25-8cb00240c528385f667b5bdb246bef6b.m4a" length="84756673" type="audio/mp4"/>
+      <pubDate>Mon, 13 May 2024 07:00:00 +0000</pubDate>
+      <itunes:author>France Culture</itunes:author>
+      <itunes:duration>58:23</itunes:duration>
+      <itunes:subtitle>AUDIO Enluminures, BD, mangas, quand le dessin raconte, épisode : Bas-reliefs ou papyrus, en Mésopotamie ou en Égypte, la bande dessinée se profile. Une série inédite proposée par France Culture. Écoutez Bas-reliefs ou papyrus, en Mésopotamie ou en Égypte</itunes:subtitle>
+      <itunes:summary>AUDIO Enluminures, BD, mangas, quand le dessin raconte, épisode : Bas-reliefs ou papyrus, en Mésopotamie ou en Égypte, la bande dessinée se profile. Une série inédite proposée par France Culture. Écoutez Bas-reliefs ou papyrus, en Mésopotamie ou en Égypte, la bande dessinée se profile, et découvrez nos podcasts en ligne.</itunes:summary>
     </item>
   </channel>
 </rss>
