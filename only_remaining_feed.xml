@@ -14,8 +14,8 @@
     <atom:link href="https://datojulien.github.io/GTRSS/only_remaining_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Tue, 07 Jul 2026 08:41:45 GMT</lastBuildDate>
-    <pubDate>Tue, 07 Jul 2026 08:41:45 GMT</pubDate>
+    <lastBuildDate>Tue, 07 Jul 2026 12:09:17 GMT</lastBuildDate>
+    <pubDate>Tue, 07 Jul 2026 12:09:17 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -45,6 +45,43 @@
     <ns3:category text="Comedy" />
     <ns4:person role="host">RTL</ns4:person>
     <ns4:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns4:txt>
+    <item>
+      <title>LE MEILLEUR DE RUQUIER - Une dame avec une forte odeur dans l'entrejambe... L'histoire drôle de Sophie Davant</title>
+      <guid isPermaLink="false">9389a766-3d83-4b2e-b9b2-670b1865d429</guid>
+      <description>L'histoire de la dame dont l'entrejambe sentait l'oignon, une blonde qui demande un déodorant dans une pharmacie et deux alpinistes qui se retrouvent en haut du Mont Cervin... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns5:encoded>L'histoire de la dame dont l'entrejambe sentait l'oignon, une blonde qui demande un déodorant dans une pharmacie et deux alpinistes qui se retrouvent en haut du Mont Cervin... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
+      <pubDate>Tue, 07 Jul 2026 09:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/9389a766-3d83-4b2e-b9b2-670b1865d429.mp3?_=1782720480" length="3257921" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>L'histoire de la dame dont l'entrejambe sentait l'oignon, une blonde qui demande un déodorant dans une pharmacie et deux alpinistes qui se retrouvent en haut du Mont Cervin... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
+      <ns3:description>L'histoire de la dame dont l'entrejambe sentait l'oignon, une blonde qui demande un déodorant dans une pharmacie et deux alpinistes qui se retrouvent en haut du Mont Cervin... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>L'histoire de la dame dont l'entrejambe sentait l'oignon, une blonde qui demande un déodorant dans une pharmacie et deux alpinistes qui se retrouvent en haut du Mont Cervin... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laure...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>03:23</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/9896cbee-792b-487a-ac72-0e11c56d9bbe.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/9896cbee-792b-487a-ac72-0e11c56d9bbe.jpg" />
+      <ns4:person role="host">Laurent Ruquier</ns4:person>
+      <ns4:txt purpose="smartlink">https://audmns.com/RqyNYbh</ns4:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>LE MEILLEUR DE LA SAISON - Le voyage en Orient-Express de Laurent Ruquier et Joyce Jonathan</title>
       <guid isPermaLink="false">b4956e0e-6e91-406d-bfba-36ea3ec2c7c9</guid>
