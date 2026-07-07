@@ -14,8 +14,8 @@
     <atom:link href="https://datojulien.github.io/GTRSS/only_remaining_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Mon, 06 Jul 2026 22:37:37 GMT</lastBuildDate>
-    <pubDate>Mon, 06 Jul 2026 22:37:37 GMT</pubDate>
+    <lastBuildDate>Tue, 07 Jul 2026 00:19:50 GMT</lastBuildDate>
+    <pubDate>Tue, 07 Jul 2026 00:19:50 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -45,6 +45,31 @@
     <ns3:category text="Comedy" />
     <ns4:person role="host">RTL</ns4:person>
     <ns4:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns4:txt>
+    <item>
+      <title>LE MEILLEUR DE BOUVARD - La blague de Jean-Jacques Peroni</title>
+      <guid isPermaLink="false">479f6b3b-d6e2-4a21-aa7e-4decefb40dd1</guid>
+      <description>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns5:encoded>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
+      <pubDate>Tue, 07 Jul 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/479f6b3b-d6e2-4a21-aa7e-4decefb40dd1.mp3?_=1782313682" length="1002062" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
+      <ns3:description>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
+      <itunes:author>RTL</itunes:author>
+      <author>RTL</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !
+Hébergé par Audiomeans. Visitez</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>01:02</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/af334570-ac27-4019-8e10-31b187f01b49.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/af334570-ac27-4019-8e10-31b187f01b49.jpg" />
+      <ns4:txt purpose="smartlink">https://audmns.com/Vmrrbrr</ns4:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>LE MEILLEUR DE RUQUIER - Un homme qui souhaite s'acheter un bidet dans un supermarché... L'histoire drôle de Jean-Jacques Peroni</title>
       <guid isPermaLink="false">911d863a-4206-49f3-a789-2f77fff21fbd</guid>
@@ -2491,36 +2516,6 @@ Hébergé par Audiomeans. Visitez</itunes:subtitle>
       <ns3:image href="https://static.audiomeans.fr/img/episode/22be54f4-6433-4667-b194-8a75b678e338.jpg" />
       <ns4:person role="host">Laurent Ruquier</ns4:person>
       <ns4:txt purpose="smartlink">https://audmns.com/HcgFwRV</ns4:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>LES IMMANQUABLES - Le meilleur de l'émission du 19 juin 2026</title>
-      <guid isPermaLink="false">5b50a688-e7d0-43c3-883c-c4925a505f14</guid>
-      <description>Les anagrammes de Bertrand Beyern, la folie d'Arielle Dombasle, Elie Semoun de retour... Retrouvez dans ce podcast le meilleur de l'émission du vendredi 19 juin 2026.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns5:encoded>Les anagrammes de Bertrand Beyern, la folie d'Arielle Dombasle, Elie Semoun de retour... Retrouvez dans ce podcast le meilleur de l'émission du vendredi 19 juin 2026.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
-      <pubDate>Fri, 19 Jun 2026 15:59:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/5b50a688-e7d0-43c3-883c-c4925a505f14.mp3?_=1781881684" length="21214361" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Les anagrammes de Bertrand Beyern, la folie d'Arielle Dombasle, Elie Semoun de retour... Retrouvez dans ce podcast le meilleur de l'émission du vendredi 19 juin 2026.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns3:description>Les anagrammes de Bertrand Beyern, la folie d'Arielle Dombasle, Elie Semoun de retour... Retrouvez dans ce podcast le meilleur de l'émission du vendredi 19 juin 2026.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Les anagrammes de Bertrand Beyern, la folie d'Arielle Dombasle, Elie Semoun de retour... Retrouvez dans ce podcast le meilleur de l'émission du vendredi 19 juin 2026.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>22:05</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/7d80a02a-dcc8-464c-ba82-0da2999890ae.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/7d80a02a-dcc8-464c-ba82-0da2999890ae.jpg" />
-      <ns4:person role="host">Laurent Ruquier</ns4:person>
-      <ns4:txt purpose="smartlink">https://audmns.com/oGTTldF</ns4:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
