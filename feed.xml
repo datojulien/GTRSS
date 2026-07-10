@@ -14,7 +14,7 @@
       <link>https://datojulien.github.io/GTRSS/feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Fri, 10 Jul 2026 04:13:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 07:53:19 +0000</lastBuildDate>
     <itunes:author>France Culture</itunes:author>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -1463,6 +1463,26 @@
       <itunes:duration>58:23</itunes:duration>
       <itunes:subtitle>AUDIO Enluminures, BD, mangas, quand le dessin raconte, épisode : Bas-reliefs ou papyrus, en Mésopotamie ou en Égypte, la bande dessinée se profile. Une série inédite proposée par France Culture. Écoutez Bas-reliefs ou papyrus, en Mésopotamie ou en Égypte</itunes:subtitle>
       <itunes:summary>AUDIO Enluminures, BD, mangas, quand le dessin raconte, épisode : Bas-reliefs ou papyrus, en Mésopotamie ou en Égypte, la bande dessinée se profile. Une série inédite proposée par France Culture. Écoutez Bas-reliefs ou papyrus, en Mésopotamie ou en Égypte, la bande dessinée se profile, et découvrez nos podcasts en ligne.</itunes:summary>
+    </item>
+    <item>
+      <title>Passés recomposés. Avec des "si", on met l’histoire en bouteille : épisode du podcast Et si… des histoires parallèles | France Culture</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/passes-recomposes-avec-des-si-on-met-l-histoire-en-bouteille-9777761</link>
+      <description>AUDIO Et si… des histoires parallèles, épisode : Passés recomposés. Avec des "si", on met l’histoire en bouteille. Une série inédite proposée par France Culture. Écoutez Passés recomposés. Avec des "si", on met l’histoire en bouteille, et découvrez nos podcasts en ligne.</description>
+      <content:encoded><![CDATA[
+        <p>AUDIO Et si… des histoires parallèles, épisode : Passés recomposés. Avec des &quot;si&quot;, on met l’histoire en bouteille. Une série inédite proposée par France Culture. Écoutez Passés recomposés. Avec des &quot;si&quot;, on met l’histoire en bouteille, et découvrez nos podcasts en ligne.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/passes-recomposes-avec-des-si-on-met-l-histoire-en-bouteille-9777761">France Culture</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/23e60b80-c9f9-4569-bc1a-4c9c7d8d09ca/300x300" alt="Passés recomposés. Avec des &quot;si&quot;, on met l’histoire en bouteille : épisode du podcast Et si… des histoires parallèles | France Culture" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/passes-recomposes-avec-des-si-on-met-l-histoire-en-bouteille-9777761</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26625-10.07.2026-ITEMA_24590264-2023C36128S0123-NET_MFC_83E8990F-B672-43CF-8E58-F5E282399D79-25-b44a351731707b76357b945386ca3e71.m4a" length="84835112" type="audio/mp4"/>
+      <pubDate>Wed, 03 May 2023 07:00:00 +0000</pubDate>
+      <itunes:author>France Culture</itunes:author>
+      <itunes:duration>58:26</itunes:duration>
+      <itunes:subtitle>AUDIO Et si… des histoires parallèles, épisode : Passés recomposés. Avec des "si", on met l’histoire en bouteille. Une série inédite proposée par France Culture. Écoutez Passés recomposés. Avec des "si", on met l’histoire en bouteille, et découvrez nos po</itunes:subtitle>
+      <itunes:summary>AUDIO Et si… des histoires parallèles, épisode : Passés recomposés. Avec des "si", on met l’histoire en bouteille. Une série inédite proposée par France Culture. Écoutez Passés recomposés. Avec des "si", on met l’histoire en bouteille, et découvrez nos podcasts en ligne.</itunes:summary>
     </item>
   </channel>
 </rss>
