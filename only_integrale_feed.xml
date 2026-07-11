@@ -14,8 +14,8 @@
     <atom:link href="https://datojulien.github.io/GTRSS/only_integrale_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Sat, 11 Jul 2026 06:26:02 GMT</lastBuildDate>
-    <pubDate>Sat, 11 Jul 2026 06:26:02 GMT</pubDate>
+    <lastBuildDate>Sat, 11 Jul 2026 08:59:00 GMT</lastBuildDate>
+    <pubDate>Sat, 11 Jul 2026 08:59:00 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -271,42 +271,6 @@ Retro...</itunes:subtitle>
       <ns4:person role="host">Rachel Azria</ns4:person>
       <ns4:txt purpose="smartlink">https://audmns.com/FNiZRlg</ns4:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>L'INTÉGRALE - Émission du lundi 22 juin 2026</title>
-      <guid isPermaLink="false">fc8cbca5-e6e3-4ff1-a097-dbbad2c41c7b</guid>
-      <description>Avec Michel Boujenah, Liane Foly, Anggun, Paul El Kharrat, Sébastien Thoen, Jeanfi Janssens et Valérie Mairesse.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns5:encoded>Avec Michel Boujenah, Liane Foly, Anggun, Paul El Kharrat, Sébastien Thoen, Jeanfi Janssens et Valérie Mairesse.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
-      <pubDate>Mon, 22 Jun 2026 16:02:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/fc8cbca5-e6e3-4ff1-a097-dbbad2c41c7b.mp3?_=1782137590" length="100371929" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Avec Michel Boujenah, Liane Foly, Anggun, Paul El Kharrat, Sébastien Thoen, Jeanfi Janssens et Valérie Mairesse.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns3:description>Avec Michel Boujenah, Liane Foly, Anggun, Paul El Kharrat, Sébastien Thoen, Jeanfi Janssens et Valérie Mairesse.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Avec Michel Boujenah, Liane Foly, Anggun, Paul El Kharrat, Sébastien Thoen, Jeanfi Janssens et Valérie Mairesse.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL
-Hébergé par Audiomeans. Visitez</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>01:44:33</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/6c743cbf-fd09-4c9b-89da-ba02cf3f0f60.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/6c743cbf-fd09-4c9b-89da-ba02cf3f0f60.jpg" />
-      <ns4:person role="host">Laurent Ruquier</ns4:person>
-      <ns4:txt purpose="smartlink">https://audmns.com/VorOegb</ns4:txt>
-      <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
   </channel>
 </rss>
