@@ -14,8 +14,8 @@
     <atom:link href="https://datojulien.github.io/GTRSS/only_remaining_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Mon, 13 Jul 2026 15:11:04 GMT</lastBuildDate>
-    <pubDate>Mon, 13 Jul 2026 15:11:04 GMT</pubDate>
+    <lastBuildDate>Mon, 13 Jul 2026 17:23:05 GMT</lastBuildDate>
+    <pubDate>Mon, 13 Jul 2026 17:23:05 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -2484,37 +2484,6 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <ns3:image href="https://static.audiomeans.fr/img/episode/1e8d83d6-9473-4e3f-923c-cd67cc82a426.jpg" />
       <ns4:person role="host">Laurent Ruquier</ns4:person>
       <ns4:txt purpose="smartlink">https://audmns.com/ERJavYj</ns4:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>PÉPITE - Chantal Ladesou se pose de grandes questions</title>
-      <guid isPermaLink="false">6ada175a-fdaa-4457-aef1-3f6888bccdaa</guid>
-      <description>Après une question historique, l'émission a dérivé sur un sujet un peu plus funeste avec Chantal Ladesou et Laurent Ruquier !&amp;nbsp;
-&lt;i&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns5:encoded>Après une question historique, l'émission a dérivé sur un sujet un peu plus funeste avec Chantal Ladesou et Laurent Ruquier !&amp;nbsp;
-&lt;i&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
-      <pubDate>Tue, 23 Jun 2026 15:58:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/6ada175a-fdaa-4457-aef1-3f6888bccdaa.mp3?_=1782225787" length="3709728" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Après une question historique, l'émission a dérivé sur un sujet un peu plus funeste avec Chantal Ladesou et Laurent Ruquier !
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns3:description>Après une question historique, l'émission a dérivé sur un sujet un peu plus funeste avec Chantal Ladesou et Laurent Ruquier !
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Après une question historique, l'émission a dérivé sur un sujet un peu plus funeste avec Chantal Ladesou et Laurent Ruquier !
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-Hébergé par Audiom...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>03:51</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/dd6cfe36-42c9-4585-be0a-c3a15c7cad8e.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/dd6cfe36-42c9-4585-be0a-c3a15c7cad8e.jpg" />
-      <ns4:person role="host">Laurent Ruquier</ns4:person>
-      <ns4:txt purpose="smartlink">https://audmns.com/mfGRcTa</ns4:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
