@@ -14,8 +14,8 @@
     <atom:link href="https://datojulien.github.io/GTRSS/only_remaining_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Wed, 15 Jul 2026 03:33:19 GMT</lastBuildDate>
-    <pubDate>Wed, 15 Jul 2026 03:33:19 GMT</pubDate>
+    <lastBuildDate>Wed, 15 Jul 2026 06:27:45 GMT</lastBuildDate>
+    <pubDate>Wed, 15 Jul 2026 06:27:45 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -45,6 +45,47 @@
     <ns3:category text="Comedy" />
     <ns4:person role="host">RTL</ns4:person>
     <ns4:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns4:txt>
+    <item>
+      <title>LE MEILLEUR DE LA SAISON - Douche, télé, lavabos... Az et les chambres d'hôtels</title>
+      <guid isPermaLink="false">4171479d-1f97-4731-a088-df38224f7d87</guid>
+      <description>REDIFF - Az semble avoir quelques difficultés avec les douches, les télévisions et les lavabos des chambres d'hôtel...
+
+
+&lt;i&gt;Fous rires, réponses inattendues, nouvelles rencontres, redécouvrez cet été les meilleurs moments de cette saison 2025-2026 !&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns5:encoded>REDIFF - Az semble avoir quelques difficultés avec les douches, les télévisions et les lavabos des chambres d'hôtel...
+
+
+&lt;i&gt;Fous rires, réponses inattendues, nouvelles rencontres, redécouvrez cet été les meilleurs moments de cette saison 2025-2026 !&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
+      <pubDate>Wed, 15 Jul 2026 06:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/4171479d-1f97-4731-a088-df38224f7d87.mp3?_=1782983599" length="5128366" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>REDIFF - Az semble avoir quelques difficultés avec les douches, les télévisions et les lavabos des chambres d'hôtel...
+
+
+Fous rires, réponses inattendues, nouvelles rencontres, redécouvrez cet été les meilleurs moments de cette saison 2025-2026 !
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
+      <ns3:description>REDIFF - Az semble avoir quelques difficultés avec les douches, les télévisions et les lavabos des chambres d'hôtel...
+
+
+Fous rires, réponses inattendues, nouvelles rencontres, redécouvrez cet été les meilleurs moments de cette saison 2025-2026 !
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>REDIFF - Az semble avoir quelques difficultés avec les douches, les télévisions et les lavabos des chambres d'hôtel...
+
+
+Fous rires, réponses inattendues, nouvelles rencontres, redécouvrez cet été les meilleurs moments de cette saison 2025-2026 !
+Hé...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>05:20</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/359837bf-e31d-4b1b-ad62-22d08b9c73dd.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/359837bf-e31d-4b1b-ad62-22d08b9c73dd.jpg" />
+      <ns4:person role="host">Laurent Ruquier</ns4:person>
+      <ns4:txt purpose="smartlink">https://audmns.com/nUFajeR</ns4:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>LE MEILLEUR DE BOUVARD - La blague de Jean-Jacques Peroni</title>
       <guid isPermaLink="false">c8a9b28a-dbb8-44ac-ba85-a64ea943a005</guid>
@@ -2480,47 +2521,6 @@ Retrouvez tous les jours le meilleur des Gro...</itunes:subtitle>
       <ns3:image href="https://static.audiomeans.fr/img/episode/a75c59f5-5a72-44d5-9b7c-d908446ccf5f.jpg" />
       <ns4:person role="host">Julien Bonneau</ns4:person>
       <ns4:txt purpose="smartlink">https://audmns.com/UjGEmnG</ns4:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>LE MEILLEUR DE RUQUIER - Trois célébrités qui arrivent au paradis... L'histoire drôle de Liane Foly</title>
-      <guid isPermaLink="false">d3f54956-1238-4443-9d91-487db4b79f5c</guid>
-      <description>Trois célébrités qui se retrouvent devant Saint Pierre, Rémi qui cuisine du lapin pour ses enfants, et une femme qui tente de camoufler son amant à l'arrivée de son mari... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
-
-Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
-
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns5:encoded>Trois célébrités qui se retrouvent devant Saint Pierre, Rémi qui cuisine du lapin pour ses enfants, et une femme qui tente de camoufler son amant à l'arrivée de son mari... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
-
-Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
-
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
-      <pubDate>Wed, 24 Jun 2026 09:00:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/d3f54956-1238-4443-9d91-487db4b79f5c.mp3?_=1782231481" length="2806905" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Trois célébrités qui se retrouvent devant Saint Pierre, Rémi qui cuisine du lapin pour ses enfants, et une femme qui tente de camoufler son amant à l'arrivée de son mari... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
-
-Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
-
-
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns3:description>Trois célébrités qui se retrouvent devant Saint Pierre, Rémi qui cuisine du lapin pour ses enfants, et une femme qui tente de camoufler son amant à l'arrivée de son mari... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
-
-Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
-
-
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Trois célébrités qui se retrouvent devant Saint Pierre, Rémi qui cuisine du lapin pour ses enfants, et une femme qui tente de camoufler son amant à l'arrivée de son mari... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent ...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>02:55</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/804515b9-82a7-4103-8126-6c423b3bf336.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/804515b9-82a7-4103-8126-6c423b3bf336.jpg" />
-      <ns4:person role="host">Laurent Ruquier</ns4:person>
-      <ns4:txt purpose="smartlink">https://audmns.com/nISsATj</ns4:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
