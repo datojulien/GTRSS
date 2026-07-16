@@ -14,8 +14,8 @@
     <atom:link href="https://datojulien.github.io/GTRSS/only_remaining_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Thu, 16 Jul 2026 09:27:22 GMT</lastBuildDate>
-    <pubDate>Thu, 16 Jul 2026 09:27:22 GMT</pubDate>
+    <lastBuildDate>Thu, 16 Jul 2026 11:54:02 GMT</lastBuildDate>
+    <pubDate>Thu, 16 Jul 2026 11:54:02 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -143,32 +143,6 @@ Hébergé par Audiomeans. Visitez</itunes:subtitle>
       <ns3:image href="https://static.audiomeans.fr/img/episode/60b60113-5694-498c-9621-8f03a655c081.jpg" />
       <ns4:txt purpose="smartlink">https://audmns.com/DaiWPse</ns4:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>Le Best of de l'été des Grosses Têtes du mercredi 15 juillet 2026</title>
-      <guid isPermaLink="false">7aac3ec5-5201-40da-85c6-25a7365d0e98</guid>
-      <description>REPLAY - Écoutez ou réécoutez le Best of de l'été des Grosses Têtes de Laurent Ruquier du mercredi 15 juillet 2026.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns5:encoded>REPLAY - Écoutez ou réécoutez le Best of de l'été des Grosses Têtes de Laurent Ruquier du mercredi 15 juillet 2026.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
-      <pubDate>Wed, 15 Jul 2026 16:00:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/7aac3ec5-5201-40da-85c6-25a7365d0e98.mp3?_=1784126882" length="94279606" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>REPLAY - Écoutez ou réécoutez le Best of de l'été des Grosses Têtes de Laurent Ruquier du mercredi 15 juillet 2026.
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns3:description>REPLAY - Écoutez ou réécoutez le Best of de l'été des Grosses Têtes de Laurent Ruquier du mercredi 15 juillet 2026.
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>REPLAY - Écoutez ou réécoutez le Best of de l'été des Grosses Têtes de Laurent Ruquier du mercredi 15 juillet 2026.
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>01:38:12</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/2da6d0a8-aa12-4aba-b3f6-b280e7e603e2.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/2da6d0a8-aa12-4aba-b3f6-b280e7e603e2.jpg" />
-      <ns4:person role="host">Laurent Ruquier</ns4:person>
-      <ns4:txt purpose="smartlink">https://audmns.com/NnuoyDq</ns4:txt>
-      <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
       <title>LE MEILLEUR DE RUQUIER - Un homme qui tente d'éviter toutes les personnes qui l'appellent... L'histoire drôle de Christine Bravo</title>
