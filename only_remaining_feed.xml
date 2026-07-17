@@ -14,8 +14,8 @@
     <atom:link href="https://datojulien.github.io/GTRSS/only_remaining_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Fri, 17 Jul 2026 15:38:51 GMT</lastBuildDate>
-    <pubDate>Fri, 17 Jul 2026 15:38:51 GMT</pubDate>
+    <lastBuildDate>Fri, 17 Jul 2026 17:30:25 GMT</lastBuildDate>
+    <pubDate>Fri, 17 Jul 2026 17:30:25 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -2455,37 +2455,6 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <ns3:image href="https://static.audiomeans.fr/img/episode/f3210617-a691-4b6d-b582-3e5ebfda5d4d.jpg" />
       <ns4:person role="host">Laurent Ruquier</ns4:person>
       <ns4:txt purpose="smartlink">https://audmns.com/VOwnQZK</ns4:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>IMITATIONS - Mika et Jean-Alphonse Richard suivent la Coupe du monde</title>
-      <guid isPermaLink="false">396248ab-7ca7-476b-91a1-9613a27e0e38</guid>
-      <description>Dans l'émission du 25 juin 2026, Marc-Antoine Le Bret a imité Jean-Alphonse Richard et le chanteur Mika !
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns5:encoded>Dans l'émission du 25 juin 2026, Marc-Antoine Le Bret a imité Jean-Alphonse Richard et le chanteur Mika !
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
-      <pubDate>Thu, 25 Jun 2026 15:52:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/396248ab-7ca7-476b-91a1-9613a27e0e38.mp3?_=1782393181" length="2734959" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Dans l'émission du 25 juin 2026, Marc-Antoine Le Bret a imité Jean-Alphonse Richard et le chanteur Mika !
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns3:description>Dans l'émission du 25 juin 2026, Marc-Antoine Le Bret a imité Jean-Alphonse Richard et le chanteur Mika !
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Dans l'émission du 25 juin 2026, Marc-Antoine Le Bret a imité Jean-Alphonse Richard et le chanteur Mika !
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-Hébergé par Audiomeans. Visitez</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>02:50</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/c6f1d6a8-7a87-4e58-969d-45b305dd90ec.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/c6f1d6a8-7a87-4e58-969d-45b305dd90ec.jpg" />
-      <ns4:person role="host">Laurent Ruquier</ns4:person>
-      <ns4:txt purpose="smartlink">https://audmns.com/bxmHCIB</ns4:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
