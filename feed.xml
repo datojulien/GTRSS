@@ -14,7 +14,7 @@
       <link>https://datojulien.github.io/GTRSS/feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Sat, 18 Jul 2026 21:05:37 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 22:06:34 +0000</lastBuildDate>
     <itunes:author>France Culture</itunes:author>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -1603,6 +1603,26 @@
       <itunes:duration>58:26</itunes:duration>
       <itunes:subtitle>AUDIO Et si… des histoires parallèles, épisode : Passés recomposés. Avec des "si", on met l’histoire en bouteille. Une série inédite proposée par France Culture. Écoutez Passés recomposés. Avec des "si", on met l’histoire en bouteille, et découvrez nos po</itunes:subtitle>
       <itunes:summary>AUDIO Et si… des histoires parallèles, épisode : Passés recomposés. Avec des "si", on met l’histoire en bouteille. Une série inédite proposée par France Culture. Écoutez Passés recomposés. Avec des "si", on met l’histoire en bouteille, et découvrez nos podcasts en ligne.</itunes:summary>
+    </item>
+    <item>
+      <title>Aux racines des Landes, un pin c’est tout ! : épisode du podcast Histoires de forêts | France Culture</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/aux-racines-des-landes-un-pin-c-est-tout-4471954</link>
+      <description>AUDIO Histoires de forêts, épisode : Aux racines des Landes, un pin c’est tout !. Une série inédite proposée par France Culture. Écoutez Aux racines des Landes, un pin c’est tout !, et découvrez nos podcasts en ligne.</description>
+      <content:encoded><![CDATA[
+        <p>AUDIO Histoires de forêts, épisode : Aux racines des Landes, un pin c’est tout !. Une série inédite proposée par France Culture. Écoutez Aux racines des Landes, un pin c’est tout !, et découvrez nos podcasts en ligne.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/aux-racines-des-landes-un-pin-c-est-tout-4471954">France Culture</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/522afbcd-0b72-4a39-82dd-0eed6082e856/300x300" alt="Aux racines des Landes, un pin c’est tout ! : épisode du podcast Histoires de forêts | France Culture" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/aux-racines-des-landes-un-pin-c-est-tout-4471954</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26625-30.08.2022-ITEMA_24596430-2022C36128S0242-NET_MFC_7E59A98F-46DA-41A0-B44F-2C6BFF1B1C29-25-51c2048d0d3764b3949ffa409c9ec032.m4a" length="86041930" type="audio/mp4"/>
+      <pubDate>Tue, 30 Aug 2022 07:00:00 +0000</pubDate>
+      <itunes:author>France Culture</itunes:author>
+      <itunes:duration>59:16</itunes:duration>
+      <itunes:subtitle>AUDIO Histoires de forêts, épisode : Aux racines des Landes, un pin c’est tout !. Une série inédite proposée par France Culture. Écoutez Aux racines des Landes, un pin c’est tout !, et découvrez nos podcasts en ligne.</itunes:subtitle>
+      <itunes:summary>AUDIO Histoires de forêts, épisode : Aux racines des Landes, un pin c’est tout !. Une série inédite proposée par France Culture. Écoutez Aux racines des Landes, un pin c’est tout !, et découvrez nos podcasts en ligne.</itunes:summary>
     </item>
   </channel>
 </rss>
