@@ -14,7 +14,7 @@
       <link>https://datojulien.github.io/GTRSS/feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Sat, 18 Jul 2026 03:30:16 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 06:17:52 +0000</lastBuildDate>
     <itunes:author>France Culture</itunes:author>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -1263,6 +1263,26 @@
       <itunes:duration>58:38</itunes:duration>
       <itunes:subtitle>AUDIO Quoi de neuf en Grèce antique ?, épisode : Œdipe a-t-il vraiment tué son père ? Contre-enquête sur des tragédies antiques. Une série inédite proposée par France Culture. Écoutez Œdipe a-t-il vraiment tué son père ? Contre-enquête sur des tragédies a</itunes:subtitle>
       <itunes:summary>AUDIO Quoi de neuf en Grèce antique ?, épisode : Œdipe a-t-il vraiment tué son père ? Contre-enquête sur des tragédies antiques. Une série inédite proposée par France Culture. Écoutez Œdipe a-t-il vraiment tué son père ? Contre-enquête sur des tragédies antiques, et découvrez nos podcasts en ligne.</itunes:summary>
+    </item>
+    <item>
+      <title>Sorj Chalandon, le grand reporter, l'écrivain et l’histoire : épisode du podcast Fou d'histoire | France Culture</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/sorj-chalandon-le-grand-reporter-et-l-histoire-8064269</link>
+      <description>AUDIO Fou d'histoire, épisode : Sorj Chalandon, le grand reporter, l'écrivain et l’histoire. Une série inédite proposée par France Culture. Écoutez Sorj Chalandon, le grand reporter, l'écrivain et l’histoire, et découvrez nos podcasts en ligne.</description>
+      <content:encoded><![CDATA[
+        <p>AUDIO Fou d&#x27;histoire, épisode : Sorj Chalandon, le grand reporter, l&#x27;écrivain et l’histoire. Une série inédite proposée par France Culture. Écoutez Sorj Chalandon, le grand reporter, l&#x27;écrivain et l’histoire, et découvrez nos podcasts en ligne.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/sorj-chalandon-le-grand-reporter-et-l-histoire-8064269">France Culture</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/48e8ca9c-171d-4a14-b98f-ec30f7570954/300x300" alt="Sorj Chalandon, le grand reporter, l&#x27;écrivain et l’histoire : épisode du podcast Fou d&#x27;histoire | France Culture" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/sorj-chalandon-le-grand-reporter-et-l-histoire-8064269</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26625-27.02.2026-ITEMA_24423838-2026C36128S0058-NET_MFC_B7ECA432-CEDE-40DB-9F71-396DABF1F042-25-5809a8634d4def436fba3c22053f8fb7.m4a" length="85055841" type="audio/mp4"/>
+      <pubDate>Fri, 27 Feb 2026 08:00:00 +0000</pubDate>
+      <itunes:author>France Culture</itunes:author>
+      <itunes:duration>58:35</itunes:duration>
+      <itunes:subtitle>AUDIO Fou d'histoire, épisode : Sorj Chalandon, le grand reporter, l'écrivain et l’histoire. Une série inédite proposée par France Culture. Écoutez Sorj Chalandon, le grand reporter, l'écrivain et l’histoire, et découvrez nos podcasts en ligne.</itunes:subtitle>
+      <itunes:summary>AUDIO Fou d'histoire, épisode : Sorj Chalandon, le grand reporter, l'écrivain et l’histoire. Une série inédite proposée par France Culture. Écoutez Sorj Chalandon, le grand reporter, l'écrivain et l’histoire, et découvrez nos podcasts en ligne.</itunes:summary>
     </item>
     <item>
       <title>Duke Ellington, car la musique n’a pas de frontières : épisode 1 du podcast Preuves d'humanité, hier et aujourd'hui | France Culture</title>
