@@ -14,8 +14,8 @@
     <atom:link href="https://datojulien.github.io/GTRSS/only_integrale_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Sun, 19 Jul 2026 11:28:56 GMT</lastBuildDate>
-    <pubDate>Sun, 19 Jul 2026 11:28:56 GMT</pubDate>
+    <lastBuildDate>Sun, 19 Jul 2026 13:53:10 GMT</lastBuildDate>
+    <pubDate>Sun, 19 Jul 2026 13:53:10 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -141,42 +141,6 @@ Hébergé par Audiomeans. Visitez</itunes:subtitle>
       <ns3:image href="https://static.audiomeans.fr/img/episode/22068b0e-e9b1-4c8f-8526-1460ef1174c0.jpg" />
       <ns4:person role="host">Laurent Ruquier</ns4:person>
       <ns4:txt purpose="smartlink">https://audmns.com/AOXOinI</ns4:txt>
-      <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>L'INTÉGRALE - Émission du jeudi 25 juin 2026</title>
-      <guid isPermaLink="false">dc1396a5-8574-495b-8e52-c01a3f5c1726</guid>
-      <description>Avec Fabrice, Christophe Beaugrand, Hector Obalk, Gaël Tchakaloff, Laurent Baffie et Caroline Diament.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns5:encoded>Avec Fabrice, Christophe Beaugrand, Hector Obalk, Gaël Tchakaloff, Laurent Baffie et Caroline Diament.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
-      <pubDate>Thu, 25 Jun 2026 16:02:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/dc1396a5-8574-495b-8e52-c01a3f5c1726.mp3?_=1782394089" length="94010990" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Avec Fabrice, Christophe Beaugrand, Hector Obalk, Gaël Tchakaloff, Laurent Baffie et Caroline Diament.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns3:description>Avec Fabrice, Christophe Beaugrand, Hector Obalk, Gaël Tchakaloff, Laurent Baffie et Caroline Diament.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Avec Fabrice, Christophe Beaugrand, Hector Obalk, Gaël Tchakaloff, Laurent Baffie et Caroline Diament.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-Hébergé par Audiomeans. Visitez</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>01:37:55</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/c070bf18-811a-43de-a484-67c6258f7adc.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/c070bf18-811a-43de-a484-67c6258f7adc.jpg" />
-      <ns4:person role="host">Laurent Ruquier</ns4:person>
-      <ns4:txt purpose="smartlink">https://audmns.com/VMGIcZA</ns4:txt>
       <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
   </channel>

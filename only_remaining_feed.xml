@@ -14,8 +14,8 @@
     <atom:link href="https://datojulien.github.io/GTRSS/only_remaining_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Sun, 19 Jul 2026 11:28:56 GMT</lastBuildDate>
-    <pubDate>Sun, 19 Jul 2026 11:28:56 GMT</pubDate>
+    <lastBuildDate>Sun, 19 Jul 2026 13:53:10 GMT</lastBuildDate>
+    <pubDate>Sun, 19 Jul 2026 13:53:10 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -45,6 +45,32 @@
     <ns3:category text="Comedy" />
     <ns4:person role="host">RTL</ns4:person>
     <ns4:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns4:txt>
+    <item>
+      <title>BEST OF - Les 10 meilleures blagues du dimanche 19 juillet 2026</title>
+      <guid isPermaLink="false">0a345a1f-a714-44b7-b4dd-0d2891288768</guid>
+      <description>Chaque dimanche, retrouvez les meilleures blagues de vos Grosses Têtes préférées. Laurent Ruquier, Caroline Diament, Sébastien Thoen... Découvrez dans ce podcast 10 des meilleures blagues passées à l'antenne et racontées par les Grosses Têtes.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns5:encoded>Chaque dimanche, retrouvez les meilleures blagues de vos Grosses Têtes préférées. Laurent Ruquier, Caroline Diament, Sébastien Thoen... Découvrez dans ce podcast 10 des meilleures blagues passées à l'antenne et racontées par les Grosses Têtes.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
+      <pubDate>Sun, 19 Jul 2026 13:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/0a345a1f-a714-44b7-b4dd-0d2891288768.mp3?_=1782985983" length="6490391" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Chaque dimanche, retrouvez les meilleures blagues de vos Grosses Têtes préférées. Laurent Ruquier, Caroline Diament, Sébastien Thoen... Découvrez dans ce podcast 10 des meilleures blagues passées à l'antenne et racontées par les Grosses Têtes.
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
+      <ns3:description>Chaque dimanche, retrouvez les meilleures blagues de vos Grosses Têtes préférées. Laurent Ruquier, Caroline Diament, Sébastien Thoen... Découvrez dans ce podcast 10 des meilleures blagues passées à l'antenne et racontées par les Grosses Têtes.
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Chaque dimanche, retrouvez les meilleures blagues de vos Grosses Têtes préférées. Laurent Ruquier, Caroline Diament, Sébastien Thoen... Découvrez dans ce podcast 10 des meilleures blagues passées à l'antenne et racontées par les Grosses Têtes.
+Hébergé par ...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>06:45</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/c4f1d1f4-24de-43c5-bc29-be8b789258a6.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/c4f1d1f4-24de-43c5-bc29-be8b789258a6.jpg" />
+      <ns4:person role="host">Laurent Ruquier</ns4:person>
+      <ns4:txt purpose="smartlink">https://audmns.com/brqhQoY</ns4:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>LE MEILLEUR DE LA SAISON - "C'était une interview un peu mystique" : quand Stéphane Rotenberg interviewait Céline Dion</title>
       <guid isPermaLink="false">6d945daa-8bda-4e72-9669-417bfacf350c</guid>
