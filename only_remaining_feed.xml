@@ -14,8 +14,8 @@
     <atom:link href="https://datojulien.github.io/GTRSS/only_remaining_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Tue, 21 Jul 2026 06:40:57 GMT</lastBuildDate>
-    <pubDate>Tue, 21 Jul 2026 06:40:57 GMT</pubDate>
+    <lastBuildDate>Tue, 21 Jul 2026 09:39:36 GMT</lastBuildDate>
+    <pubDate>Tue, 21 Jul 2026 09:39:36 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -45,6 +45,39 @@
     <ns3:category text="Comedy" />
     <ns4:person role="host">RTL</ns4:person>
     <ns4:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns4:txt>
+    <item>
+      <title>LE MEILLEUR DE RUQUIER - Un psychiatre fait passer un test à trois fous... L'histoire drôle de Christophe Barbier</title>
+      <guid isPermaLink="false">be2e79ba-3522-4f92-9707-9b59cfc4b272</guid>
+      <description>Un psychiatre qui fait passer un test à trois fous, deux amis qui tombent en panne en plein milieu du désert marocain et une Belge qui demande à son mari s'il la trouve belle... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns5:encoded>Un psychiatre qui fait passer un test à trois fous, deux amis qui tombent en panne en plein milieu du désert marocain et une Belge qui demande à son mari s'il la trouve belle... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
+      <pubDate>Tue, 21 Jul 2026 09:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/be2e79ba-3522-4f92-9707-9b59cfc4b272.mp3?_=1783004881" length="1947213" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Un psychiatre qui fait passer un test à trois fous, deux amis qui tombent en panne en plein milieu du désert marocain et une Belge qui demande à son mari s'il la trouve belle... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
+      <ns3:description>Un psychiatre qui fait passer un test à trois fous, deux amis qui tombent en panne en plein milieu du désert marocain et une Belge qui demande à son mari s'il la trouve belle... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Un psychiatre qui fait passer un test à trois fous, deux amis qui tombent en panne en plein milieu du désert marocain et une Belge qui demande à son mari s'il la trouve belle... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Lau...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>02:01</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/45dcf380-6796-4b11-b330-85e61784b0b4.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/45dcf380-6796-4b11-b330-85e61784b0b4.jpg" />
+      <ns4:person role="host">Laurent Ruquier</ns4:person>
+      <ns4:txt purpose="smartlink">https://audmns.com/JspOeug</ns4:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>LE MEILLEUR DE LA SAISON - Nikos Aliagas triche en pleine émission</title>
       <guid isPermaLink="false">e13f11e1-f861-4c24-955a-71307e9d4a6c</guid>

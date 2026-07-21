@@ -14,8 +14,8 @@
     <atom:link href="https://datojulien.github.io/GTRSS/only_integrale_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Tue, 21 Jul 2026 06:40:57 GMT</lastBuildDate>
-    <pubDate>Tue, 21 Jul 2026 06:40:57 GMT</pubDate>
+    <lastBuildDate>Tue, 21 Jul 2026 09:39:36 GMT</lastBuildDate>
+    <pubDate>Tue, 21 Jul 2026 09:39:36 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -173,37 +173,6 @@ Hébergé par Audiomeans. Visite...</itunes:subtitle>
       <ns4:person role="host">Rachel Azria</ns4:person>
       <ns4:txt purpose="smartlink">https://audmns.com/NqpPwtN</ns4:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>L'INTÉGRALE - Émission du vendredi 26 juin 2026</title>
-      <guid isPermaLink="false">86844982-09e3-48fb-9c7c-bbcd44607ae2</guid>
-      <description>Avec Sébastien Thoen, Éric Laugérias, Jeanfi Janssens, Arielle Dombasle, Darie Boutboul et Richard Orlinski !&amp;nbsp;
-&lt;i&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns5:encoded>Avec Sébastien Thoen, Éric Laugérias, Jeanfi Janssens, Arielle Dombasle, Darie Boutboul et Richard Orlinski !&amp;nbsp;
-&lt;i&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
-      <pubDate>Fri, 26 Jun 2026 16:00:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/86844982-09e3-48fb-9c7c-bbcd44607ae2.mp3?_=1782408496" length="94022305" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Avec Sébastien Thoen, Éric Laugérias, Jeanfi Janssens, Arielle Dombasle, Darie Boutboul et Richard Orlinski !
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns3:description>Avec Sébastien Thoen, Éric Laugérias, Jeanfi Janssens, Arielle Dombasle, Darie Boutboul et Richard Orlinski !
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Avec Sébastien Thoen, Éric Laugérias, Jeanfi Janssens, Arielle Dombasle, Darie Boutboul et Richard Orlinski !
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-Hébergé par Audiomeans. Visitez</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>01:37:56</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/22068b0e-e9b1-4c8f-8526-1460ef1174c0.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/22068b0e-e9b1-4c8f-8526-1460ef1174c0.jpg" />
-      <ns4:person role="host">Laurent Ruquier</ns4:person>
-      <ns4:txt purpose="smartlink">https://audmns.com/AOXOinI</ns4:txt>
-      <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
   </channel>
 </rss>
