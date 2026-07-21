@@ -14,8 +14,8 @@
     <atom:link href="https://datojulien.github.io/GTRSS/only_integrale_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Tue, 21 Jul 2026 14:20:55 GMT</lastBuildDate>
-    <pubDate>Tue, 21 Jul 2026 14:20:55 GMT</pubDate>
+    <lastBuildDate>Tue, 21 Jul 2026 16:41:04 GMT</lastBuildDate>
+    <pubDate>Tue, 21 Jul 2026 16:41:04 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -137,42 +137,6 @@ Hébergé par Audiomeans. Visitez</itunes:subtitle>
       <ns4:person role="host">Laurent Ruquier</ns4:person>
       <ns4:txt purpose="smartlink">https://audmns.com/sZpvHVO</ns4:txt>
       <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>DÉBRIEF - "Le but, c'est de faire rire les spectateurs, mais en même temps de les faire réfléchir" : Laurent Ruquier fait le bilan de la saison</title>
-      <guid isPermaLink="false">a1873f5e-eda4-4f4e-b471-e451dc63b398</guid>
-      <description>Ce vendredi 26 juin 2026, pour le dernier débrief de la saison, Laurent Ruquier s'est confié au micro de Rachel Azria.
-
-&lt;i&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns5:encoded>Ce vendredi 26 juin 2026, pour le dernier débrief de la saison, Laurent Ruquier s'est confié au micro de Rachel Azria.
-
-&lt;i&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
-      <pubDate>Fri, 26 Jun 2026 16:00:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/a1873f5e-eda4-4f4e-b471-e451dc63b398.mp3?_=1782483783" length="9087320" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Ce vendredi 26 juin 2026, pour le dernier débrief de la saison, Laurent Ruquier s'est confié au micro de Rachel Azria.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns3:description>Ce vendredi 26 juin 2026, pour le dernier débrief de la saison, Laurent Ruquier s'est confié au micro de Rachel Azria.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
-      <itunes:author>Rachel Azria</itunes:author>
-      <author>Rachel Azria</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Ce vendredi 26 juin 2026, pour le dernier débrief de la saison, Laurent Ruquier s'est confié au micro de Rachel Azria.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-Hébergé par Audiomeans. Visite...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>09:27</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/837467cf-53f1-42d4-80a8-46bf2e4edfe4.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/837467cf-53f1-42d4-80a8-46bf2e4edfe4.jpg" />
-      <ns4:person role="host">Rachel Azria</ns4:person>
-      <ns4:txt purpose="smartlink">https://audmns.com/NqpPwtN</ns4:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
   </channel>
 </rss>
