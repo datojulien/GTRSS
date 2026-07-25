@@ -14,8 +14,8 @@
     <atom:link href="https://datojulien.github.io/GTRSS/only_remaining_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Sat, 25 Jul 2026 06:28:58 GMT</lastBuildDate>
-    <pubDate>Sat, 25 Jul 2026 06:28:58 GMT</pubDate>
+    <lastBuildDate>Sat, 25 Jul 2026 09:12:41 GMT</lastBuildDate>
+    <pubDate>Sat, 25 Jul 2026 09:12:41 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -45,6 +45,39 @@
     <ns3:category text="Comedy" />
     <ns4:person role="host">RTL</ns4:person>
     <ns4:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns4:txt>
+    <item>
+      <title>LE MEILLEUR DE RUQUIER - Un touriste belge souhaite faire un tour de bateau sur le lac de Tiberiade... L'histoire drôle de Max Boublil</title>
+      <guid isPermaLink="false">843e03f8-2fc9-4b10-8da8-b5b5703e5b68</guid>
+      <description>Un touriste belge qui souhaite faire un tour de bateau sur le lac de Tiberiade, un mari qui déclare vouloir se séparer de sa femme et l'histoire d'une partouze dans un zoo... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns5:encoded>Un touriste belge qui souhaite faire un tour de bateau sur le lac de Tiberiade, un mari qui déclare vouloir se séparer de sa femme et l'histoire d'une partouze dans un zoo... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
+      <pubDate>Sat, 25 Jul 2026 09:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/843e03f8-2fc9-4b10-8da8-b5b5703e5b68.mp3?_=1783005782" length="1824369" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Un touriste belge qui souhaite faire un tour de bateau sur le lac de Tiberiade, un mari qui déclare vouloir se séparer de sa femme et l'histoire d'une partouze dans un zoo... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
+      <ns3:description>Un touriste belge qui souhaite faire un tour de bateau sur le lac de Tiberiade, un mari qui déclare vouloir se séparer de sa femme et l'histoire d'une partouze dans un zoo... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Un touriste belge qui souhaite faire un tour de bateau sur le lac de Tiberiade, un mari qui déclare vouloir se séparer de sa femme et l'histoire d'une partouze dans un zoo... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Lauren...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>01:53</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/4501d7c2-7c7d-4b40-9e54-217f61b4f423.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/4501d7c2-7c7d-4b40-9e54-217f61b4f423.jpg" />
+      <ns4:person role="host">Laurent Ruquier</ns4:person>
+      <ns4:txt purpose="smartlink">https://audmns.com/GQPKOzN</ns4:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>LE MEILLEUR DE LA SAISON - Le coup de gueule de AZ contre les cafés des terrasses parisiennes</title>
       <guid isPermaLink="false">458b3f6d-a965-4ce2-b817-61e5e6258332</guid>
@@ -2413,42 +2446,6 @@ Hébergé par Audiomeans. Visitez</itunes:subtitle>
       <ns3:image href="https://static.audiomeans.fr/img/episode/78a7e1c6-6d77-42cf-b257-13a28f192a78.jpg" />
       <ns4:person role="host">Laurent Ruquier</ns4:person>
       <ns4:txt purpose="smartlink">https://audmns.com/MhgwPdQ</ns4:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>LE MEILLEUR DE RUQUIER - Un père explique à son fils ce qu'est un alcoolique... L'histoire racontée par Christophe Dechavanne</title>
-      <guid isPermaLink="false">f30ac2c8-dc39-460c-a3cd-2be5445280ee</guid>
-      <description>Un petit garçon qui demande à son papa ce qu'est un alcoolique, une rencontre fortuite dans la cour de l'Élysée et un professeur de sociologie qui propose un cours sur la colère. Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
-
-
-Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns5:encoded>Un petit garçon qui demande à son papa ce qu'est un alcoolique, une rencontre fortuite dans la cour de l'Élysée et un professeur de sociologie qui propose un cours sur la colère. Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
-
-
-Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
-      <pubDate>Tue, 30 Jun 2026 09:00:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/f30ac2c8-dc39-460c-a3cd-2be5445280ee.mp3?_=1782381781" length="2862126" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Un petit garçon qui demande à son papa ce qu'est un alcoolique, une rencontre fortuite dans la cour de l'Élysée et un professeur de sociologie qui propose un cours sur la colère. Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
-
-
-Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns3:description>Un petit garçon qui demande à son papa ce qu'est un alcoolique, une rencontre fortuite dans la cour de l'Élysée et un professeur de sociologie qui propose un cours sur la colère. Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
-
-
-Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
-      <itunes:author>RTL</itunes:author>
-      <author>RTL</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Un petit garçon qui demande à son papa ce qu'est un alcoolique, une rencontre fortuite dans la cour de l'Élysée et un professeur de sociologie qui propose un cours sur la colère. Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de La...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>02:58</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/2766ab9f-9d8f-49b4-b71f-0dbc19d58769.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/2766ab9f-9d8f-49b4-b71f-0dbc19d58769.jpg" />
-      <ns4:txt purpose="smartlink">https://audmns.com/xeJZtyH</ns4:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
