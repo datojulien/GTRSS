@@ -14,7 +14,7 @@
       <link>https://datojulien.github.io/GTRSS/feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Sat, 25 Jul 2026 03:35:42 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 06:28:47 +0000</lastBuildDate>
     <itunes:author>France Culture</itunes:author>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -1263,6 +1263,26 @@
       <itunes:duration>58:38</itunes:duration>
       <itunes:subtitle>AUDIO Quoi de neuf en Grèce antique ?, épisode : Œdipe a-t-il vraiment tué son père ? Contre-enquête sur des tragédies antiques. Une série inédite proposée par France Culture. Écoutez Œdipe a-t-il vraiment tué son père ? Contre-enquête sur des tragédies a</itunes:subtitle>
       <itunes:summary>AUDIO Quoi de neuf en Grèce antique ?, épisode : Œdipe a-t-il vraiment tué son père ? Contre-enquête sur des tragédies antiques. Une série inédite proposée par France Culture. Écoutez Œdipe a-t-il vraiment tué son père ? Contre-enquête sur des tragédies antiques, et découvrez nos podcasts en ligne.</itunes:summary>
+    </item>
+    <item>
+      <title>Ariane Ascaride, histoires de luttes et de résistance : épisode du podcast Fou d'histoire | France Culture</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/ariane-ascaride-histoires-de-luttes-et-de-resistance-2545185</link>
+      <description>AUDIO Fou d'histoire, épisode : Ariane Ascaride, histoires de luttes et de résistance. Une série inédite proposée par France Culture. Écoutez Ariane Ascaride, histoires de luttes et de résistance, et découvrez nos podcasts en ligne.</description>
+      <content:encoded><![CDATA[
+        <p>AUDIO Fou d&#x27;histoire, épisode : Ariane Ascaride, histoires de luttes et de résistance. Une série inédite proposée par France Culture. Écoutez Ariane Ascaride, histoires de luttes et de résistance, et découvrez nos podcasts en ligne.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/ariane-ascaride-histoires-de-luttes-et-de-resistance-2545185">France Culture</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/e4593f61-b69a-49ba-aafd-6ae65fae1072/300x300" alt="Ariane Ascaride, histoires de luttes et de résistance : épisode du podcast Fou d&#x27;histoire | France Culture" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/ariane-ascaride-histoires-de-luttes-et-de-resistance-2545185</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26625-10.04.2026-ITEMA_24471627-2026C36128S0072-NET_MFC_4F7F2B14-B9F2-4703-B328-3F6BF03B4B18-25-dc5de86b0710ed14f415327c1cecaa84.m4a" length="85151221" type="audio/mp4"/>
+      <pubDate>Fri, 13 Mar 2026 08:00:00 +0000</pubDate>
+      <itunes:author>France Culture</itunes:author>
+      <itunes:duration>58:39</itunes:duration>
+      <itunes:subtitle>AUDIO Fou d'histoire, épisode : Ariane Ascaride, histoires de luttes et de résistance. Une série inédite proposée par France Culture. Écoutez Ariane Ascaride, histoires de luttes et de résistance, et découvrez nos podcasts en ligne.</itunes:subtitle>
+      <itunes:summary>AUDIO Fou d'histoire, épisode : Ariane Ascaride, histoires de luttes et de résistance. Une série inédite proposée par France Culture. Écoutez Ariane Ascaride, histoires de luttes et de résistance, et découvrez nos podcasts en ligne.</itunes:summary>
     </item>
     <item>
       <title>Sorj Chalandon, le grand reporter, l'écrivain et l’histoire : épisode du podcast Fou d'histoire | France Culture</title>
