@@ -14,7 +14,7 @@
       <link>https://datojulien.github.io/GTRSS/feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Sat, 25 Jul 2026 21:08:16 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 22:09:27 +0000</lastBuildDate>
     <itunes:author>France Culture</itunes:author>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -1483,6 +1483,26 @@
       <itunes:duration>59:00</itunes:duration>
       <itunes:subtitle>AUDIO Fou d'histoire, épisode : Adélaïde de Clermont-Tonnerre et les mousquetaires, l'histoire de Milady. Une série inédite proposée par France Culture. Écoutez Adélaïde de Clermont-Tonnerre et les mousquetaires, l'histoire de Milady, et découvrez nos pod</itunes:subtitle>
       <itunes:summary>AUDIO Fou d'histoire, épisode : Adélaïde de Clermont-Tonnerre et les mousquetaires, l'histoire de Milady. Une série inédite proposée par France Culture. Écoutez Adélaïde de Clermont-Tonnerre et les mousquetaires, l'histoire de Milady, et découvrez nos podcasts en ligne.</itunes:summary>
+    </item>
+    <item>
+      <title>Indiennes et toile de Jouy, l’histoire file un bon coton : épisode du podcast Textiles, une histoire étoffée | France Culture</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/indiennes-et-toile-de-jouy-l-histoire-file-un-bon-coton-3221987</link>
+      <description>AUDIO Textiles, une histoire étoffée, épisode : Indiennes et toile de Jouy, l’histoire file un bon coton. Une série inédite proposée par France Culture. Écoutez Indiennes et toile de Jouy, l’histoire file un bon coton, et découvrez nos podcasts en ligne.</description>
+      <content:encoded><![CDATA[
+        <p>AUDIO Textiles, une histoire étoffée, épisode : Indiennes et toile de Jouy, l’histoire file un bon coton. Une série inédite proposée par France Culture. Écoutez Indiennes et toile de Jouy, l’histoire file un bon coton, et découvrez nos podcasts en ligne.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/indiennes-et-toile-de-jouy-l-histoire-file-un-bon-coton-3221987">France Culture</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/5ea4929d-ae46-4e0f-bb06-ec3e2f4c1a45/300x300" alt="Indiennes et toile de Jouy, l’histoire file un bon coton : épisode du podcast Textiles, une histoire étoffée | France Culture" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/indiennes-et-toile-de-jouy-l-histoire-file-un-bon-coton-3221987</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26625-26.07.2026-ITEMA_24609059-2025C36128S0021-NET_MFC_71ABFE65-6C80-4D0B-8ED5-04C9436579F6-25-98750eab47fe4393ff9e59329c0abb25.m4a" length="85187004" type="audio/mp4"/>
+      <pubDate>Tue, 21 Jan 2025 08:00:00 +0000</pubDate>
+      <itunes:author>France Culture</itunes:author>
+      <itunes:duration>58:41</itunes:duration>
+      <itunes:subtitle>AUDIO Textiles, une histoire étoffée, épisode : Indiennes et toile de Jouy, l’histoire file un bon coton. Une série inédite proposée par France Culture. Écoutez Indiennes et toile de Jouy, l’histoire file un bon coton, et découvrez nos podcasts en ligne.</itunes:subtitle>
+      <itunes:summary>AUDIO Textiles, une histoire étoffée, épisode : Indiennes et toile de Jouy, l’histoire file un bon coton. Une série inédite proposée par France Culture. Écoutez Indiennes et toile de Jouy, l’histoire file un bon coton, et découvrez nos podcasts en ligne.</itunes:summary>
     </item>
     <item>
       <title>Anne Berest, écrivaine : "La vie a beaucoup plus d'imagination que moi" : épisode du podcast Fou d'histoire | France Culture</title>
