@@ -14,8 +14,8 @@
     <atom:link href="https://datojulien.github.io/GTRSS/only_remaining_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Sat, 25 Jul 2026 17:14:21 GMT</lastBuildDate>
-    <pubDate>Sat, 25 Jul 2026 17:14:21 GMT</pubDate>
+    <lastBuildDate>Sat, 25 Jul 2026 18:10:20 GMT</lastBuildDate>
+    <pubDate>Sat, 25 Jul 2026 18:10:20 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -45,6 +45,32 @@
     <ns3:category text="Comedy" />
     <ns4:person role="host">RTL</ns4:person>
     <ns4:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns4:txt>
+    <item>
+      <title>Podcast GT du 25/07/2026</title>
+      <guid isPermaLink="false">206dc9b9-ce67-4c4b-b561-450ab07ad56b</guid>
+      <description>BRAVO / JUGNOT / MAIRESSE / CLAUDEL / TRAMONI / RAMI / GELUCK&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns5:encoded>BRAVO / JUGNOT / MAIRESSE / CLAUDEL / TRAMONI / RAMI / GELUCK&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
+      <pubDate>Sat, 25 Jul 2026 16:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/206dc9b9-ce67-4c4b-b561-450ab07ad56b.mp3?_=1785000190" length="76482613" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>BRAVO / JUGNOT / MAIRESSE / CLAUDEL / TRAMONI / RAMI / GELUCK
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
+      <ns3:description>BRAVO / JUGNOT / MAIRESSE / CLAUDEL / TRAMONI / RAMI / GELUCK
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>BRAVO / JUGNOT / MAIRESSE / CLAUDEL / TRAMONI / RAMI / GELUCK
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>01:19:40</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/4554ac56-7a8e-4bb6-9a64-6c184e4d8282.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/4554ac56-7a8e-4bb6-9a64-6c184e4d8282.jpg" />
+      <ns4:person role="host">Laurent Ruquier</ns4:person>
+      <ns4:txt purpose="smartlink">https://audmns.com/RyInFAo</ns4:txt>
+      <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>LE MEILLEUR DE RUQUIER - Un touriste belge souhaite faire un tour de bateau sur le lac de Tiberiade... L'histoire drôle de Max Boublil</title>
       <guid isPermaLink="false">843e03f8-2fc9-4b10-8da8-b5b5703e5b68</guid>
