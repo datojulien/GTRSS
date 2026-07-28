@@ -14,8 +14,8 @@
     <atom:link href="https://datojulien.github.io/GTRSS/only_remaining_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Tue, 28 Jul 2026 06:39:55 GMT</lastBuildDate>
-    <pubDate>Tue, 28 Jul 2026 06:39:55 GMT</pubDate>
+    <lastBuildDate>Tue, 28 Jul 2026 09:47:20 GMT</lastBuildDate>
+    <pubDate>Tue, 28 Jul 2026 09:47:20 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -45,6 +45,41 @@
     <ns3:category text="Comedy" />
     <ns4:person role="host">RTL</ns4:person>
     <ns4:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns4:txt>
+    <item>
+      <title>LE MEILLEUR DE RUQUIER - La différence subtile entre un rappeur et un campeur... L'histoire drôle de Roselyne Bachelot</title>
+      <guid isPermaLink="false">76e46393-073c-45b3-984d-f9b272fda9bc</guid>
+      <description>La différence entre un rappeur et un campeur, deux chasseurs victimes d'un accident en forêt et un couple qui souhaite repartir de zéro... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns5:encoded>La différence entre un rappeur et un campeur, deux chasseurs victimes d'un accident en forêt et un couple qui souhaite repartir de zéro... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
+      <pubDate>Tue, 28 Jul 2026 09:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/76e46393-073c-45b3-984d-f9b272fda9bc.mp3?_=1783005783" length="1550919" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>La différence entre un rappeur et un campeur, deux chasseurs victimes d'un accident en forêt et un couple qui souhaite repartir de zéro... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
+      <ns3:description>La différence entre un rappeur et un campeur, deux chasseurs victimes d'un accident en forêt et un couple qui souhaite repartir de zéro... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>La différence entre un rappeur et un campeur, deux chasseurs victimes d'un accident en forêt et un couple qui souhaite repartir de zéro... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+Tous les jours, en podca...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>01:36</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/a51553d9-e68f-48b2-9ed5-afb054a28cb1.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/a51553d9-e68f-48b2-9ed5-afb054a28cb1.jpg" />
+      <ns4:person role="host">Laurent Ruquier</ns4:person>
+      <ns4:txt purpose="smartlink">https://audmns.com/FsWNQBd</ns4:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>LE MEILLEUR DE LA SAISON - Les aventures de vacances de Steevy Boulay</title>
       <guid isPermaLink="false">58fb77d3-59b5-4caf-a5a3-dc014eb5cb9b</guid>
@@ -2409,43 +2444,6 @@ Hébergé par Audiomeans. Visitez</itunes:subtitle>
       <ns3:image href="https://static.audiomeans.fr/img/episode/8dca1f5e-8da6-4f47-ac1e-8db1a8f69eff.jpg" />
       <ns4:person role="host">Laurent Ruquier</ns4:person>
       <ns4:txt purpose="smartlink">https://audmns.com/EbQCJBM</ns4:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>LE MEILLEUR DE RUQUIER - Une Suisse raconte sa journée hors du commun à son mari... L'histoire drôle de Karine Le Marchand</title>
-      <guid isPermaLink="false">37a430e3-4c42-470c-8351-843da431bfea</guid>
-      <description>Une femme qui raconte à son mari comment un homme s'est introduit chez eux, une vieille prostituée qui possède toujours des clients et deux hommes qui tentent d'assassiner Hitler pendant la Seconde Guerre Mondiale... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
-
-Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns5:encoded>Une femme qui raconte à son mari comment un homme s'est introduit chez eux, une vieille prostituée qui possède toujours des clients et deux hommes qui tentent d'assassiner Hitler pendant la Seconde Guerre Mondiale... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
-
-Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
-      <pubDate>Fri, 03 Jul 2026 09:00:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/37a430e3-4c42-470c-8351-843da431bfea.mp3?_=1782718980" length="2198920" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Une femme qui raconte à son mari comment un homme s'est introduit chez eux, une vieille prostituée qui possède toujours des clients et deux hommes qui tentent d'assassiner Hitler pendant la Seconde Guerre Mondiale... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
-
-Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
-
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns3:description>Une femme qui raconte à son mari comment un homme s'est introduit chez eux, une vieille prostituée qui possède toujours des clients et deux hommes qui tentent d'assassiner Hitler pendant la Seconde Guerre Mondiale... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
-
-Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
-
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Une femme qui raconte à son mari comment un homme s'est introduit chez eux, une vieille prostituée qui possède toujours des clients et deux hommes qui tentent d'assassiner Hitler pendant la Seconde Guerre Mondiale... Écoutez dans ce podcast 3 des meilleures blagues...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>02:17</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/4a9e6fb4-ba9a-4e7b-a3ec-98a90a674488.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/4a9e6fb4-ba9a-4e7b-a3ec-98a90a674488.jpg" />
-      <ns4:person role="host">Laurent Ruquier</ns4:person>
-      <ns4:txt purpose="smartlink">https://audmns.com/fIWbfoh</ns4:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
