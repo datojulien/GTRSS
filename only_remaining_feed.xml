@@ -14,8 +14,8 @@
     <atom:link href="https://datojulien.github.io/GTRSS/only_remaining_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Thu, 30 Jul 2026 06:40:54 GMT</lastBuildDate>
-    <pubDate>Thu, 30 Jul 2026 06:40:54 GMT</pubDate>
+    <lastBuildDate>Thu, 30 Jul 2026 09:41:01 GMT</lastBuildDate>
+    <pubDate>Thu, 30 Jul 2026 09:41:01 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -45,6 +45,39 @@
     <ns3:category text="Comedy" />
     <ns4:person role="host">RTL</ns4:person>
     <ns4:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns4:txt>
+    <item>
+      <title>LE MEILLEUR DE RUQUIER - Un homme trouve une solution pour faire accoucher sa femme... L'histoire drôle de Jean-Jacques Peroni</title>
+      <guid isPermaLink="false">d734ee6b-b880-42f7-a60d-1dc162921525</guid>
+      <description>Un homme qui explique comment sa femme peut parfaitement accoucher, l'histoire de l'imprimeur égyptien au temps des hiéroglyphes et un homme qui fait tomber son œil de verre dans de la sangria lors d'une soirée... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns5:encoded>Un homme qui explique comment sa femme peut parfaitement accoucher, l'histoire de l'imprimeur égyptien au temps des hiéroglyphes et un homme qui fait tomber son œil de verre dans de la sangria lors d'une soirée... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
+      <pubDate>Thu, 30 Jul 2026 09:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/d734ee6b-b880-42f7-a60d-1dc162921525.mp3?_=1783006081" length="2144169" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Un homme qui explique comment sa femme peut parfaitement accoucher, l'histoire de l'imprimeur égyptien au temps des hiéroglyphes et un homme qui fait tomber son œil de verre dans de la sangria lors d'une soirée... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
+      <ns3:description>Un homme qui explique comment sa femme peut parfaitement accoucher, l'histoire de l'imprimeur égyptien au temps des hiéroglyphes et un homme qui fait tomber son œil de verre dans de la sangria lors d'une soirée... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Un homme qui explique comment sa femme peut parfaitement accoucher, l'histoire de l'imprimeur égyptien au temps des hiéroglyphes et un homme qui fait tomber son œil de verre dans de la sangria lors d'une soirée... Écoutez dans ce podcast 3 des meilleures blagues ra...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>02:13</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/b51a158e-cfd0-43ab-9c22-81bae4f46c7c.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/b51a158e-cfd0-43ab-9c22-81bae4f46c7c.jpg" />
+      <ns4:person role="host">Laurent Ruquier</ns4:person>
+      <ns4:txt purpose="smartlink">https://audmns.com/ASLXXIf</ns4:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>LE MEILLEUR DE LA SAISON - Quand Margaret Thatcher prenait la défense de Mozart</title>
       <guid isPermaLink="false">ec3ce472-767a-42e8-8988-789306ff1fd7</guid>
@@ -2423,32 +2456,6 @@ Fous rires, réponses inattendues, nouvelles rencontres, redécouvrez cet été 
       <ns3:image href="https://static.audiomeans.fr/img/episode/3c398d0c-f448-4fb6-a313-66973dc5a313.jpg" />
       <ns4:person role="host">Laurent Ruquier</ns4:person>
       <ns4:txt purpose="smartlink">https://audmns.com/Qrdvnrb</ns4:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>BEST OF - Les 10 meilleures blagues du dimanche 5 juillet 2026</title>
-      <guid isPermaLink="false">6f22d0b0-77c3-4a1f-8013-5d327cee0e3e</guid>
-      <description>Chaque dimanche, retrouvez les meilleures blagues de vos Grosses Têtes préférées. Laurent Ruquier, Caroline Diament, Isabelle Mergault... Découvrez dans ce podcast 10 des meilleures blagues passées à l'antenne et racontées par les Grosses Têtes.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns5:encoded>Chaque dimanche, retrouvez les meilleures blagues de vos Grosses Têtes préférées. Laurent Ruquier, Caroline Diament, Isabelle Mergault... Découvrez dans ce podcast 10 des meilleures blagues passées à l'antenne et racontées par les Grosses Têtes.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
-      <pubDate>Sun, 05 Jul 2026 13:00:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/6f22d0b0-77c3-4a1f-8013-5d327cee0e3e.mp3?_=1782985982" length="10139177" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Chaque dimanche, retrouvez les meilleures blagues de vos Grosses Têtes préférées. Laurent Ruquier, Caroline Diament, Isabelle Mergault... Découvrez dans ce podcast 10 des meilleures blagues passées à l'antenne et racontées par les Grosses Têtes.
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns3:description>Chaque dimanche, retrouvez les meilleures blagues de vos Grosses Têtes préférées. Laurent Ruquier, Caroline Diament, Isabelle Mergault... Découvrez dans ce podcast 10 des meilleures blagues passées à l'antenne et racontées par les Grosses Têtes.
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Chaque dimanche, retrouvez les meilleures blagues de vos Grosses Têtes préférées. Laurent Ruquier, Caroline Diament, Isabelle Mergault... Découvrez dans ce podcast 10 des meilleures blagues passées à l'antenne et racontées par les Grosses Têtes.
-Hébergé pa...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>10:33</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/d95b658d-1e6e-4a65-9569-2d16f19da9b9.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/d95b658d-1e6e-4a65-9569-2d16f19da9b9.jpg" />
-      <ns4:person role="host">Laurent Ruquier</ns4:person>
-      <ns4:txt purpose="smartlink">https://audmns.com/aoAoFKT</ns4:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
