@@ -14,8 +14,8 @@
     <atom:link href="https://datojulien.github.io/GTRSS/only_remaining_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Mon, 03 Aug 2026 03:55:16 GMT</lastBuildDate>
-    <pubDate>Mon, 03 Aug 2026 03:55:16 GMT</pubDate>
+    <lastBuildDate>Mon, 03 Aug 2026 07:45:24 GMT</lastBuildDate>
+    <pubDate>Mon, 03 Aug 2026 07:45:24 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -45,6 +45,46 @@
     <ns3:category text="Comedy" />
     <ns4:person role="host">RTL</ns4:person>
     <ns4:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns4:txt>
+    <item>
+      <title>LE MEILLEUR DE LA SAISON - Jeanfi Janssens s'improvise guide touristique au Japon et donne d'étonnants conseils</title>
+      <guid isPermaLink="false">82c2741d-25c3-4b0f-864e-ea0427d0f23b</guid>
+      <description>REDIFF - Si vous avez besoin de conseils pour votre voyage au Japon, pas de soucis, Jeanfi Janssens connait les bonnes adresses !
+
+
+&lt;i&gt;Fous rires, réponses inattendues, nouvelles rencontres, redécouvrez cet été les meilleurs moments de cette saison 2025-2026 !&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns5:encoded>REDIFF - Si vous avez besoin de conseils pour votre voyage au Japon, pas de soucis, Jeanfi Janssens connait les bonnes adresses !
+
+
+&lt;i&gt;Fous rires, réponses inattendues, nouvelles rencontres, redécouvrez cet été les meilleurs moments de cette saison 2025-2026 !&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
+      <pubDate>Mon, 03 Aug 2026 06:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/82c2741d-25c3-4b0f-864e-ea0427d0f23b.mp3?_=1782984482" length="5304413" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>REDIFF - Si vous avez besoin de conseils pour votre voyage au Japon, pas de soucis, Jeanfi Janssens connait les bonnes adresses !
+
+
+Fous rires, réponses inattendues, nouvelles rencontres, redécouvrez cet été les meilleurs moments de cette saison 2025-2026 !
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
+      <ns3:description>REDIFF - Si vous avez besoin de conseils pour votre voyage au Japon, pas de soucis, Jeanfi Janssens connait les bonnes adresses !
+
+
+Fous rires, réponses inattendues, nouvelles rencontres, redécouvrez cet été les meilleurs moments de cette saison 2025-2026 !
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>REDIFF - Si vous avez besoin de conseils pour votre voyage au Japon, pas de soucis, Jeanfi Janssens connait les bonnes adresses !
+
+
+Fous rires, réponses inattendues, nouvelles rencontres, redécouvrez cet été les meilleurs moments de cette saison 2025-2026 !</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>05:31</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/62b9b45d-32e7-4ba5-a779-ba34a3a097f1.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/62b9b45d-32e7-4ba5-a779-ba34a3a097f1.jpg" />
+      <ns4:person role="host">Laurent Ruquier</ns4:person>
+      <ns4:txt purpose="smartlink">https://audmns.com/ifNdctO</ns4:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>LE MEILLEUR DE BOUVARD - La blague de Patrick Sébastien</title>
       <guid isPermaLink="false">5d0af8ba-faa6-4e2f-a76f-bc4f4b4e449c</guid>
@@ -2416,31 +2456,6 @@ Tou...</itunes:subtitle>
       <ns3:image href="https://static.audiomeans.fr/img/episode/ab6e9408-2856-4a96-bd89-5bf93eceb24d.jpg" />
       <ns4:person role="host">Laurent Ruquier</ns4:person>
       <ns4:txt purpose="smartlink">https://audmns.com/mFwgdbs</ns4:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>LE MEILLEUR DE BOUVARD - Les blagues de Bernard Mabille et Éric Laugérias</title>
-      <guid isPermaLink="false">f7ff1ed4-6de2-475a-8992-7750277c08d9</guid>
-      <description>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns5:encoded>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
-      <pubDate>Thu, 09 Jul 2026 09:00:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/f7ff1ed4-6de2-475a-8992-7750277c08d9.mp3?_=1782313981" length="1896586" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns3:description>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
-      <itunes:author>RTL</itunes:author>
-      <author>RTL</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !
-Hébergé par Audiomeans. Visitez</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>01:58</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/8a6f3eb4-b685-4d4b-bdda-370cb9850801.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/8a6f3eb4-b685-4d4b-bdda-370cb9850801.jpg" />
-      <ns4:txt purpose="smartlink">https://audmns.com/rVenPhD</ns4:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
