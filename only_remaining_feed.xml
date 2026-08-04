@@ -14,8 +14,8 @@
     <atom:link href="https://datojulien.github.io/GTRSS/only_remaining_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Tue, 04 Aug 2026 06:40:06 GMT</lastBuildDate>
-    <pubDate>Tue, 04 Aug 2026 06:40:06 GMT</pubDate>
+    <lastBuildDate>Tue, 04 Aug 2026 09:50:15 GMT</lastBuildDate>
+    <pubDate>Tue, 04 Aug 2026 09:50:15 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -45,6 +45,39 @@
     <ns3:category text="Comedy" />
     <ns4:person role="host">RTL</ns4:person>
     <ns4:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns4:txt>
+    <item>
+      <title>LE MEILLEUR DE RUQUIER - Une femme qui souhaite absolument se faire mordre les seins par son mari... L'histoire drôle de Philippe Geluck</title>
+      <guid isPermaLink="false">60586311-de9c-4ff9-8e74-eea0995005ed</guid>
+      <description>Une femme explique à son mari ce qu'il excite le plus, un mari demande à sa compagne pourquoi elle communique si peu et un conducteur de Porsche un peu trop sûr de lui... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns5:encoded>Une femme explique à son mari ce qu'il excite le plus, un mari demande à sa compagne pourquoi elle communique si peu et un conducteur de Porsche un peu trop sûr de lui... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
+      <pubDate>Tue, 04 Aug 2026 09:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/60586311-de9c-4ff9-8e74-eea0995005ed.mp3?_=1783006681" length="2017462" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Une femme explique à son mari ce qu'il excite le plus, un mari demande à sa compagne pourquoi elle communique si peu et un conducteur de Porsche un peu trop sûr de lui... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
+      <ns3:description>Une femme explique à son mari ce qu'il excite le plus, un mari demande à sa compagne pourquoi elle communique si peu et un conducteur de Porsche un peu trop sûr de lui... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Une femme explique à son mari ce qu'il excite le plus, un mari demande à sa compagne pourquoi elle communique si peu et un conducteur de Porsche un peu trop sûr de lui... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ru...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>02:05</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/63a8efcb-2170-4ffd-9426-0eeab4cfd4b8.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/63a8efcb-2170-4ffd-9426-0eeab4cfd4b8.jpg" />
+      <ns4:person role="host">Laurent Ruquier</ns4:person>
+      <ns4:txt purpose="smartlink">https://audmns.com/wsKCrAU</ns4:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>LE MEILLEUR DE LA SAISON - La galanterie de Richard Orlinski est très appréciée par Laurent Ruquier</title>
       <guid isPermaLink="false">c26e925c-dfd0-4e6f-b928-bcd2d328e9b8</guid>
@@ -2417,39 +2450,6 @@ Hébergé par Audiomeans. Visitez</itunes:subtitle>
       <itunes:image href="https://static.audiomeans.fr/img/episode/67ae543b-9eb2-41bc-9031-8ecd25ab8b26.jpg" />
       <ns3:image href="https://static.audiomeans.fr/img/episode/67ae543b-9eb2-41bc-9031-8ecd25ab8b26.jpg" />
       <ns4:txt purpose="smartlink">https://audmns.com/vlCMOxG</ns4:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>LE MEILLEUR DE RUQUIER - La fille de Marine Le Pen annonce avoir fait sa première fois... L'histoire drôle de Melha Bedia</title>
-      <guid isPermaLink="false">dcfa5a80-724f-4cb2-a09d-676421441105</guid>
-      <description>La fille de Marine Le Pen qui annonce à sa mère avoir perdu sa virginité, un châtelain qui veut faire des économies et une dame qui rentre dans un sexshop pour faire une grosse commande... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
-
-Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns5:encoded>La fille de Marine Le Pen qui annonce à sa mère avoir perdu sa virginité, un châtelain qui veut faire des économies et une dame qui rentre dans un sexshop pour faire une grosse commande... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
-
-Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
-      <pubDate>Fri, 10 Jul 2026 09:00:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/dcfa5a80-724f-4cb2-a09d-676421441105.mp3?_=1783003686" length="1700655" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>La fille de Marine Le Pen qui annonce à sa mère avoir perdu sa virginité, un châtelain qui veut faire des économies et une dame qui rentre dans un sexshop pour faire une grosse commande... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
-
-Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns3:description>La fille de Marine Le Pen qui annonce à sa mère avoir perdu sa virginité, un châtelain qui veut faire des économies et une dame qui rentre dans un sexshop pour faire une grosse commande... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
-
-Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>La fille de Marine Le Pen qui annonce à sa mère avoir perdu sa virginité, un châtelain qui veut faire des économies et une dame qui rentre dans un sexshop pour faire une grosse commande... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses T...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>01:46</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/d9f62a05-0530-4b08-be3c-2228590e5125.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/d9f62a05-0530-4b08-be3c-2228590e5125.jpg" />
-      <ns4:person role="host">Laurent Ruquier</ns4:person>
-      <ns4:txt purpose="smartlink">https://audmns.com/ZoXLJGt</ns4:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
