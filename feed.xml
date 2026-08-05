@@ -14,7 +14,7 @@
       <link>https://datojulien.github.io/GTRSS/feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Wed, 05 Aug 2026 20:39:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 22:19:39 +0000</lastBuildDate>
     <itunes:author>France Culture</itunes:author>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -1923,6 +1923,26 @@
       <itunes:duration>59:16</itunes:duration>
       <itunes:subtitle>AUDIO Histoires de forêts, épisode : Aux racines des Landes, un pin c’est tout !. Une série inédite proposée par France Culture. Écoutez Aux racines des Landes, un pin c’est tout !, et découvrez nos podcasts en ligne.</itunes:subtitle>
       <itunes:summary>AUDIO Histoires de forêts, épisode : Aux racines des Landes, un pin c’est tout !. Une série inédite proposée par France Culture. Écoutez Aux racines des Landes, un pin c’est tout !, et découvrez nos podcasts en ligne.</itunes:summary>
+    </item>
+    <item>
+      <title>Tutoyer les sommets, "histoires verticales" de la montagne : épisode du podcast Prendre l’air, une histoire de la montagne | France Culture</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/tutoyer-les-sommets-histoires-verticales-de-la-montagne-2517530</link>
+      <description>AUDIO Prendre l’air, une histoire de la montagne, épisode : Tutoyer les sommets, "histoires verticales" de la montagne. Une série inédite proposée par France Culture. Écoutez Tutoyer les sommets, "histoires verticales" de la montagne, et découvrez nos podcasts en ligne.</description>
+      <content:encoded><![CDATA[
+        <p>AUDIO Prendre l’air, une histoire de la montagne, épisode : Tutoyer les sommets, &quot;histoires verticales&quot; de la montagne. Une série inédite proposée par France Culture. Écoutez Tutoyer les sommets, &quot;histoires verticales&quot; de la montagne, et découvrez nos podcasts en ligne.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/tutoyer-les-sommets-histoires-verticales-de-la-montagne-2517530">France Culture</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/9ee036de-c0cc-4330-9926-f480330b6722/300x300" alt="Tutoyer les sommets, &quot;histoires verticales&quot; de la montagne : épisode du podcast Prendre l’air, une histoire de la montagne | France Culture" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/tutoyer-les-sommets-histoires-verticales-de-la-montagne-2517530</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26625-06.08.2026-ITEMA_24622142-2021C36128S0046-NET_MFC_1F766E9A-B14B-4BD3-B65C-F6C2AB69B1F1-25-32b19e24d9e2d702922483acf2143749.m4a" length="75614909" type="audio/mp4"/>
+      <pubDate>Mon, 15 Feb 2021 08:06:25 +0000</pubDate>
+      <itunes:author>France Culture</itunes:author>
+      <itunes:duration>52:05</itunes:duration>
+      <itunes:subtitle>AUDIO Prendre l’air, une histoire de la montagne, épisode : Tutoyer les sommets, "histoires verticales" de la montagne. Une série inédite proposée par France Culture. Écoutez Tutoyer les sommets, "histoires verticales" de la montagne, et découvrez nos pod</itunes:subtitle>
+      <itunes:summary>AUDIO Prendre l’air, une histoire de la montagne, épisode : Tutoyer les sommets, "histoires verticales" de la montagne. Une série inédite proposée par France Culture. Écoutez Tutoyer les sommets, "histoires verticales" de la montagne, et découvrez nos podcasts en ligne.</itunes:summary>
     </item>
   </channel>
 </rss>
