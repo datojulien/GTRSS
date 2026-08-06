@@ -90,5 +90,6 @@ jobs:
             echo "No feed changes to commit"
           else
             git commit -m "Update podcast feeds"
-            git push
+            git pull --rebase origin "${GITHUB_REF_NAME}"
+            git push origin HEAD:"${GITHUB_REF_NAME}"
           fi
