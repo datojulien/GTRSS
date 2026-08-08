@@ -14,7 +14,7 @@
       <link>https://datojulien.github.io/GTRSS/feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Sat, 08 Aug 2026 05:56:04 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 07:13:59 +0000</lastBuildDate>
     <itunes:author>France Culture</itunes:author>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -1303,6 +1303,26 @@
       <itunes:duration>58:35</itunes:duration>
       <itunes:subtitle>AUDIO Fou d'histoire, épisode : Sorj Chalandon, le grand reporter, l'écrivain et l’histoire. Une série inédite proposée par France Culture. Écoutez Sorj Chalandon, le grand reporter, l'écrivain et l’histoire, et découvrez nos podcasts en ligne.</itunes:subtitle>
       <itunes:summary>AUDIO Fou d'histoire, épisode : Sorj Chalandon, le grand reporter, l'écrivain et l’histoire. Une série inédite proposée par France Culture. Écoutez Sorj Chalandon, le grand reporter, l'écrivain et l’histoire, et découvrez nos podcasts en ligne.</itunes:summary>
+    </item>
+    <item>
+      <title>Jakuta Alikavazovic, une voix pour les fantômes de l'exil : épisode du podcast Fou d'histoire | France Culture</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/jakuta-alikavazovic-une-voix-pour-les-fantomes-de-l-exil-8761749</link>
+      <description>AUDIO Fou d'histoire, épisode : Jakuta Alikavazovic, une voix pour les fantômes de l'exil. Une série inédite proposée par France Culture. Écoutez Jakuta Alikavazovic, une voix pour les fantômes de l'exil, et découvrez nos podcasts en ligne.</description>
+      <content:encoded><![CDATA[
+        <p>AUDIO Fou d&#x27;histoire, épisode : Jakuta Alikavazovic, une voix pour les fantômes de l&#x27;exil. Une série inédite proposée par France Culture. Écoutez Jakuta Alikavazovic, une voix pour les fantômes de l&#x27;exil, et découvrez nos podcasts en ligne.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/jakuta-alikavazovic-une-voix-pour-les-fantomes-de-l-exil-8761749">France Culture</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/c0c1be86-5d88-4860-bfc1-32a1410e3458/300x300" alt="Jakuta Alikavazovic, une voix pour les fantômes de l&#x27;exil : épisode du podcast Fou d&#x27;histoire | France Culture" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/jakuta-alikavazovic-une-voix-pour-les-fantomes-de-l-exil-8761749</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/10076-30.01.2026-ITEMA_24391476-2026C36128S0030-NET_MFC_23FAA0A3-BDB5-4B21-AD0E-CBA9563E575E-21-9171427e8650af072e5ef6c6fb69587b.mp3" length="56667559" type="audio/mpeg"/>
+      <pubDate>Fri, 30 Jan 2026 08:00:00 +0000</pubDate>
+      <itunes:author>France Culture</itunes:author>
+      <itunes:duration>59:00</itunes:duration>
+      <itunes:subtitle>AUDIO Fou d'histoire, épisode : Jakuta Alikavazovic, une voix pour les fantômes de l'exil. Une série inédite proposée par France Culture. Écoutez Jakuta Alikavazovic, une voix pour les fantômes de l'exil, et découvrez nos podcasts en ligne.</itunes:subtitle>
+      <itunes:summary>AUDIO Fou d'histoire, épisode : Jakuta Alikavazovic, une voix pour les fantômes de l'exil. Une série inédite proposée par France Culture. Écoutez Jakuta Alikavazovic, une voix pour les fantômes de l'exil, et découvrez nos podcasts en ligne.</itunes:summary>
     </item>
     <item>
       <title>Le franquisme après Franco, histoire d'une mémoire douloureuse : épisode du podcast Franco, histoire d'un dictateur | France Culture</title>
