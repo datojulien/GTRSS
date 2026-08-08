@@ -14,7 +14,7 @@
       <link>https://datojulien.github.io/GTRSS/feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Sat, 08 Aug 2026 21:44:45 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 22:46:14 +0000</lastBuildDate>
     <itunes:author>France Culture</itunes:author>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -1503,6 +1503,26 @@
       <itunes:duration>59:00</itunes:duration>
       <itunes:subtitle>AUDIO Fou d'histoire, épisode : Adélaïde de Clermont-Tonnerre et les mousquetaires, l'histoire de Milady. Une série inédite proposée par France Culture. Écoutez Adélaïde de Clermont-Tonnerre et les mousquetaires, l'histoire de Milady, et découvrez nos pod</itunes:subtitle>
       <itunes:summary>AUDIO Fou d'histoire, épisode : Adélaïde de Clermont-Tonnerre et les mousquetaires, l'histoire de Milady. Une série inédite proposée par France Culture. Écoutez Adélaïde de Clermont-Tonnerre et les mousquetaires, l'histoire de Milady, et découvrez nos podcasts en ligne.</itunes:summary>
+    </item>
+    <item>
+      <title>De Pearl Harbor à Hiroshima, la guerre dans le Pacifique : épisode du podcast Seconde Guerre mondiale, le Pacifique en guerre | France Culture</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/de-pearl-harbor-a-hiroshima-la-guerre-dans-le-pacifique-8440161</link>
+      <description>AUDIO Seconde Guerre mondiale, le Pacifique en guerre, épisode : De Pearl Harbor à Hiroshima, la guerre dans le Pacifique. Une série inédite proposée par France Culture. Écoutez De Pearl Harbor à Hiroshima, la guerre dans le Pacifique, et découvrez nos podcasts en ligne.</description>
+      <content:encoded><![CDATA[
+        <p>AUDIO Seconde Guerre mondiale, le Pacifique en guerre, épisode : De Pearl Harbor à Hiroshima, la guerre dans le Pacifique. Une série inédite proposée par France Culture. Écoutez De Pearl Harbor à Hiroshima, la guerre dans le Pacifique, et découvrez nos podcasts en ligne.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/de-pearl-harbor-a-hiroshima-la-guerre-dans-le-pacifique-8440161">France Culture</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/932212f0-ccac-401e-b682-d0e08660cf7b/300x300" alt="De Pearl Harbor à Hiroshima, la guerre dans le Pacifique : épisode du podcast Seconde Guerre mondiale, le Pacifique en guerre | France Culture" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/de-pearl-harbor-a-hiroshima-la-guerre-dans-le-pacifique-8440161</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26625-09.08.2026-ITEMA_24624957-2025C36128S0245-NET_MFC_BC976E04-B1E8-4294-91F7-46ECCE08CDB9-25-73038af4519d82d547f0c1e64a2a6247.m4a" length="85202763" type="audio/mp4"/>
+      <pubDate>Tue, 02 Sep 2025 07:00:00 +0000</pubDate>
+      <itunes:author>France Culture</itunes:author>
+      <itunes:duration>58:42</itunes:duration>
+      <itunes:subtitle>AUDIO Seconde Guerre mondiale, le Pacifique en guerre, épisode : De Pearl Harbor à Hiroshima, la guerre dans le Pacifique. Une série inédite proposée par France Culture. Écoutez De Pearl Harbor à Hiroshima, la guerre dans le Pacifique, et découvrez nos po</itunes:subtitle>
+      <itunes:summary>AUDIO Seconde Guerre mondiale, le Pacifique en guerre, épisode : De Pearl Harbor à Hiroshima, la guerre dans le Pacifique. Une série inédite proposée par France Culture. Écoutez De Pearl Harbor à Hiroshima, la guerre dans le Pacifique, et découvrez nos podcasts en ligne.</itunes:summary>
     </item>
     <item>
       <title>Indiennes et toile de Jouy, l’histoire file un bon coton : épisode du podcast Textiles, une histoire étoffée | France Culture</title>
