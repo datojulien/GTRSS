@@ -14,8 +14,8 @@
     <atom:link href="https://datojulien.github.io/GTRSS/only_remaining_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Mon, 10 Aug 2026 08:50:37 GMT</lastBuildDate>
-    <pubDate>Mon, 10 Aug 2026 08:50:37 GMT</pubDate>
+    <lastBuildDate>Mon, 10 Aug 2026 10:35:57 GMT</lastBuildDate>
+    <pubDate>Mon, 10 Aug 2026 10:35:57 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -45,6 +45,39 @@
     <ns3:category text="Comedy" />
     <ns4:person role="host">RTL</ns4:person>
     <ns4:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns4:txt>
+    <item>
+      <title>LE MEILLEUR DE RUQUIER - Un homme affalé au théâtre se fait rappeler à l'ordre... L'histoire drôle de Jean-Marie Bigard</title>
+      <guid isPermaLink="false">7207a515-8bf9-4adf-a0bf-599e1745af8c</guid>
+      <description>Un homme endormi au théâtre qui se fait rappeler à l'ordre, deux pilotes d'avion pris en flagrant délit et un Turc et un Belge qui se retrouvent pour pêcher sur un bateau... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns5:encoded>Un homme endormi au théâtre qui se fait rappeler à l'ordre, deux pilotes d'avion pris en flagrant délit et un Turc et un Belge qui se retrouvent pour pêcher sur un bateau... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
+      <pubDate>Mon, 10 Aug 2026 09:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/7207a515-8bf9-4adf-a0bf-599e1745af8c.mp3?_=1783007881" length="2816990" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Un homme endormi au théâtre qui se fait rappeler à l'ordre, deux pilotes d'avion pris en flagrant délit et un Turc et un Belge qui se retrouvent pour pêcher sur un bateau... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
+      <ns3:description>Un homme endormi au théâtre qui se fait rappeler à l'ordre, deux pilotes d'avion pris en flagrant délit et un Turc et un Belge qui se retrouvent pour pêcher sur un bateau... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Un homme endormi au théâtre qui se fait rappeler à l'ordre, deux pilotes d'avion pris en flagrant délit et un Turc et un Belge qui se retrouvent pour pêcher sur un bateau... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>02:55</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/addfdcd4-8c65-4348-ba6c-0304ab8b9ad2.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/addfdcd4-8c65-4348-ba6c-0304ab8b9ad2.jpg" />
+      <ns4:person role="host">Laurent Ruquier</ns4:person>
+      <ns4:txt purpose="smartlink">https://audmns.com/jtXXaVM</ns4:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>LE MEILLEUR DE LA SAISON - Philippe Boxho a reçu une tête guillotinée en cadeau</title>
       <guid isPermaLink="false">04a81bcd-4f5d-4e0a-90a0-121ad5f7f606</guid>
@@ -2420,39 +2453,6 @@ Hébergé par Audiomeans. Visitez</itunes:subtitle>
       <itunes:image href="https://static.audiomeans.fr/img/episode/738e69ac-98d5-4b15-b809-ef09f12f9d17.jpg" />
       <ns3:image href="https://static.audiomeans.fr/img/episode/738e69ac-98d5-4b15-b809-ef09f12f9d17.jpg" />
       <ns4:txt purpose="smartlink">https://audmns.com/gNDyFpc</ns4:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>LE MEILLEUR DE RUQUIER - Le principal problème dans les couples... L'histoire drôle d'Olivier Bellamy</title>
-      <guid isPermaLink="false">73997696-ee6b-4601-97be-7a4e9886ead2</guid>
-      <description>Un professeur propose une conférence pour évoquer le principal problème dans les couples, deux tourtereaux qui arrivent à l'hôtel et un homme avec un défaut de prononciation rentre dans une quincaillerie...&amp;nbsp; Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
-
-Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns5:encoded>Un professeur propose une conférence pour évoquer le principal problème dans les couples, deux tourtereaux qui arrivent à l'hôtel et un homme avec un défaut de prononciation rentre dans une quincaillerie...&amp;nbsp; Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
-
-Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
-      <pubDate>Thu, 16 Jul 2026 09:00:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/73997696-ee6b-4601-97be-7a4e9886ead2.mp3?_=1783004581" length="1985349" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Un professeur propose une conférence pour évoquer le principal problème dans les couples, deux tourtereaux qui arrivent à l'hôtel et un homme avec un défaut de prononciation rentre dans une quincaillerie... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
-
-Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns3:description>Un professeur propose une conférence pour évoquer le principal problème dans les couples, deux tourtereaux qui arrivent à l'hôtel et un homme avec un défaut de prononciation rentre dans une quincaillerie... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
-
-Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Un professeur propose une conférence pour évoquer le principal problème dans les couples, deux tourtereaux qui arrivent à l'hôtel et un homme avec un défaut de prononciation rentre dans une quincaillerie... Écoutez dans ce podcast 3 des meilleures blagues rac...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>02:03</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/1918db5a-a041-4225-afa1-702dca6cfa37.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/1918db5a-a041-4225-afa1-702dca6cfa37.jpg" />
-      <ns4:person role="host">Laurent Ruquier</ns4:person>
-      <ns4:txt purpose="smartlink">https://audmns.com/VMhKJiH</ns4:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
