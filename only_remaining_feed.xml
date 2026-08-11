@@ -14,8 +14,8 @@
     <atom:link href="https://datojulien.github.io/GTRSS/only_remaining_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Tue, 11 Aug 2026 07:36:33 GMT</lastBuildDate>
-    <pubDate>Tue, 11 Aug 2026 07:36:33 GMT</pubDate>
+    <lastBuildDate>Tue, 11 Aug 2026 09:13:09 GMT</lastBuildDate>
+    <pubDate>Tue, 11 Aug 2026 09:13:09 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -45,6 +45,39 @@
     <ns3:category text="Comedy" />
     <ns4:person role="host">RTL</ns4:person>
     <ns4:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns4:txt>
+    <item>
+      <title>LE MEILLEUR DE RUQUIER - Un couple gay fait des folies dans un avion... L'histoire drôle racontée par Artus</title>
+      <guid isPermaLink="false">0f62af49-0477-4309-8f78-803099a94e1e</guid>
+      <description>Un couple gay fait des folies durant un vol, une nouvelle recrue au sein de l'équipe marseillaise, et une maman qui souhaite absolument que son fils ressemble à Matt Pokora...&amp;nbsp; Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns5:encoded>Un couple gay fait des folies durant un vol, une nouvelle recrue au sein de l'équipe marseillaise, et une maman qui souhaite absolument que son fils ressemble à Matt Pokora...&amp;nbsp; Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
+      <pubDate>Tue, 11 Aug 2026 09:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/0f62af49-0477-4309-8f78-803099a94e1e.mp3?_=1783010281" length="4107640" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Un couple gay fait des folies durant un vol, une nouvelle recrue au sein de l'équipe marseillaise, et une maman qui souhaite absolument que son fils ressemble à Matt Pokora... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
+      <ns3:description>Un couple gay fait des folies durant un vol, une nouvelle recrue au sein de l'équipe marseillaise, et une maman qui souhaite absolument que son fils ressemble à Matt Pokora... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Un couple gay fait des folies durant un vol, une nouvelle recrue au sein de l'équipe marseillaise, et une maman qui souhaite absolument que son fils ressemble à Matt Pokora... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>04:16</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/d5e16204-6cf8-44a2-a153-f533e44bdf42.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/d5e16204-6cf8-44a2-a153-f533e44bdf42.jpg" />
+      <ns4:person role="host">Laurent Ruquier</ns4:person>
+      <ns4:txt purpose="smartlink">https://audmns.com/nIbzJSl</ns4:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>LE MEILLEUR DE LA SAISON - Le texte d'un auditeur pour Olivier de Kersauson</title>
       <guid isPermaLink="false">67ba13e2-46ea-459b-942e-511e113a8cc5</guid>
@@ -2421,39 +2454,6 @@ Hébergé par Audiomeans. Visitez</itunes:subtitle>
       <itunes:image href="https://static.audiomeans.fr/img/episode/ecf7fda2-5730-462e-affb-6dfe584f6de9.jpg" />
       <ns3:image href="https://static.audiomeans.fr/img/episode/ecf7fda2-5730-462e-affb-6dfe584f6de9.jpg" />
       <ns4:txt purpose="smartlink">https://audmns.com/shaWnVA</ns4:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>LE MEILLEUR DE RUQUIER - Deux prisonniers belges tentent de mesurer un poteau électrique... L'histoire drôle de Jeanfi Jeanssens</title>
-      <guid isPermaLink="false">f787509f-6609-4d2e-8d03-7807b55036f1</guid>
-      <description>Deux prisonniers belges qui tentent de mesurer la hauteur d'un poteau électrique, un couple de Belges qui trouve un barbecue sur la route et la visite particulière d'une dame chez le gynécologue...&amp;nbsp; &amp;nbsp;Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
-
-Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns5:encoded>Deux prisonniers belges qui tentent de mesurer la hauteur d'un poteau électrique, un couple de Belges qui trouve un barbecue sur la route et la visite particulière d'une dame chez le gynécologue...&amp;nbsp; &amp;nbsp;Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
-
-Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
-      <pubDate>Fri, 17 Jul 2026 09:00:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/f787509f-6609-4d2e-8d03-7807b55036f1.mp3?_=1783004582" length="2278330" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Deux prisonniers belges qui tentent de mesurer la hauteur d'un poteau électrique, un couple de Belges qui trouve un barbecue sur la route et la visite particulière d'une dame chez le gynécologue...  Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
-
-Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns3:description>Deux prisonniers belges qui tentent de mesurer la hauteur d'un poteau électrique, un couple de Belges qui trouve un barbecue sur la route et la visite particulière d'une dame chez le gynécologue...  Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
-
-Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Deux prisonniers belges qui tentent de mesurer la hauteur d'un poteau électrique, un couple de Belges qui trouve un barbecue sur la route et la visite particulière d'une dame chez le gynécologue...  Écoutez dans ce podcast 3 des meilleures blagues racont...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>02:22</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/40dd8e89-29f6-4d76-9984-4f3d41c51e56.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/40dd8e89-29f6-4d76-9984-4f3d41c51e56.jpg" />
-      <ns4:person role="host">Laurent Ruquier</ns4:person>
-      <ns4:txt purpose="smartlink">https://audmns.com/qWeoBiG</ns4:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
