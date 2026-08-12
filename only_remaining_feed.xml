@@ -14,8 +14,8 @@
     <atom:link href="https://datojulien.github.io/GTRSS/only_remaining_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Wed, 12 Aug 2026 05:01:33 GMT</lastBuildDate>
-    <pubDate>Wed, 12 Aug 2026 05:01:33 GMT</pubDate>
+    <lastBuildDate>Wed, 12 Aug 2026 06:41:51 GMT</lastBuildDate>
+    <pubDate>Wed, 12 Aug 2026 06:41:51 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -45,6 +45,47 @@
     <ns3:category text="Comedy" />
     <ns4:person role="host">RTL</ns4:person>
     <ns4:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns4:txt>
+    <item>
+      <title>LE MEILLEUR DE LA SAISON - Quand Constance se prend pour une Miss France</title>
+      <guid isPermaLink="false">0c1899fc-472e-4457-a6a1-b009b32274bb</guid>
+      <description>REDIFF - Face à Sylvie Tellier et depuis Lens, Constance n'a pas pu s'empêcher d'imiter les Miss France...
+
+
+&lt;i&gt;Fous rires, réponses inattendues, nouvelles rencontres, redécouvrez cet été les meilleurs moments de cette saison 2025-2026 !&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns5:encoded>REDIFF - Face à Sylvie Tellier et depuis Lens, Constance n'a pas pu s'empêcher d'imiter les Miss France...
+
+
+&lt;i&gt;Fous rires, réponses inattendues, nouvelles rencontres, redécouvrez cet été les meilleurs moments de cette saison 2025-2026 !&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
+      <pubDate>Wed, 12 Aug 2026 06:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/0c1899fc-472e-4457-a6a1-b009b32274bb.mp3?_=1782985083" length="1620739" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>REDIFF - Face à Sylvie Tellier et depuis Lens, Constance n'a pas pu s'empêcher d'imiter les Miss France...
+
+
+Fous rires, réponses inattendues, nouvelles rencontres, redécouvrez cet été les meilleurs moments de cette saison 2025-2026 !
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
+      <ns3:description>REDIFF - Face à Sylvie Tellier et depuis Lens, Constance n'a pas pu s'empêcher d'imiter les Miss France...
+
+
+Fous rires, réponses inattendues, nouvelles rencontres, redécouvrez cet été les meilleurs moments de cette saison 2025-2026 !
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>REDIFF - Face à Sylvie Tellier et depuis Lens, Constance n'a pas pu s'empêcher d'imiter les Miss France...
+
+
+Fous rires, réponses inattendues, nouvelles rencontres, redécouvrez cet été les meilleurs moments de cette saison 2025-2026 !
+Hébergé par Au...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>01:41</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/09848f06-9fcf-43fe-88ac-209c65e69c87.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/09848f06-9fcf-43fe-88ac-209c65e69c87.jpg" />
+      <ns4:person role="host">Laurent Ruquier</ns4:person>
+      <ns4:txt purpose="smartlink">https://audmns.com/UqzwnzJ</ns4:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>LE MEILLEUR DE BOUVARD - La blague de Patrick Sébastien</title>
       <guid isPermaLink="false">276b1074-d300-406e-ae90-74294f99b9a6</guid>
@@ -2414,46 +2455,6 @@ Tous les j...</itunes:subtitle>
       <ns3:image href="https://static.audiomeans.fr/img/episode/46020b87-cbf9-434b-8cb1-decc35258a41.jpg" />
       <ns4:person role="host">Laurent Ruquier</ns4:person>
       <ns4:txt purpose="smartlink">https://audmns.com/GycuHld</ns4:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>LE MEILLEUR DE LA SAISON - "C'est dégueulasse" : Christine Bravo seule à ne pas avoir été invitée chez Laurent Ruquier</title>
-      <guid isPermaLink="false">e6363ced-517a-4e0b-b61d-2609393b1477</guid>
-      <description>REDIFF - L'animatrice pousse un coup de gueule dans l'émission car elle a réalisé être la seule à ne pas avoir été invitée à une soirée... Chez Laurent Ruquier !&amp;nbsp;
-
-
-&lt;i&gt;Fous rires, réponses inattendues, nouvelles rencontres, redécouvrez cet été les meilleurs moments de cette saison 2025-2026 !&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns5:encoded>REDIFF - L'animatrice pousse un coup de gueule dans l'émission car elle a réalisé être la seule à ne pas avoir été invitée à une soirée... Chez Laurent Ruquier !&amp;nbsp;
-
-
-&lt;i&gt;Fous rires, réponses inattendues, nouvelles rencontres, redécouvrez cet été les meilleurs moments de cette saison 2025-2026 !&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
-      <pubDate>Sat, 18 Jul 2026 06:00:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/e6363ced-517a-4e0b-b61d-2609393b1477.mp3?_=1782983883" length="4176825" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>REDIFF - L'animatrice pousse un coup de gueule dans l'émission car elle a réalisé être la seule à ne pas avoir été invitée à une soirée... Chez Laurent Ruquier !
-
-
-Fous rires, réponses inattendues, nouvelles rencontres, redécouvrez cet été les meilleurs moments de cette saison 2025-2026 !
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns3:description>REDIFF - L'animatrice pousse un coup de gueule dans l'émission car elle a réalisé être la seule à ne pas avoir été invitée à une soirée... Chez Laurent Ruquier !
-
-
-Fous rires, réponses inattendues, nouvelles rencontres, redécouvrez cet été les meilleurs moments de cette saison 2025-2026 !
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>REDIFF - L'animatrice pousse un coup de gueule dans l'émission car elle a réalisé être la seule à ne pas avoir été invitée à une soirée... Chez Laurent Ruquier !
-
-
-Fous rires, réponses inattendues, nouvelles rencontres, redécouvrez cet été les meilleurs mo...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>04:20</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/71bb3f1b-b95c-4b4b-b6eb-0839a7fcc6c2.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/71bb3f1b-b95c-4b4b-b6eb-0839a7fcc6c2.jpg" />
-      <ns4:person role="host">Laurent Ruquier</ns4:person>
-      <ns4:txt purpose="smartlink">https://audmns.com/BxmlZXv</ns4:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
