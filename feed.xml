@@ -14,7 +14,7 @@
       <link>https://datojulien.github.io/GTRSS/feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Wed, 12 Aug 2026 22:01:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 23:00:45 +0000</lastBuildDate>
     <itunes:author>France Culture</itunes:author>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -2043,6 +2043,26 @@
       <itunes:duration>59:16</itunes:duration>
       <itunes:subtitle>AUDIO Histoires de forêts, épisode : Aux racines des Landes, un pin c’est tout !. Une série inédite proposée par France Culture. Écoutez Aux racines des Landes, un pin c’est tout !, et découvrez nos podcasts en ligne.</itunes:subtitle>
       <itunes:summary>AUDIO Histoires de forêts, épisode : Aux racines des Landes, un pin c’est tout !. Une série inédite proposée par France Culture. Écoutez Aux racines des Landes, un pin c’est tout !, et découvrez nos podcasts en ligne.</itunes:summary>
+    </item>
+    <item>
+      <title>Quand le rire s’empare de la radio, les ondes se gondolent : épisode du podcast Histoire du rire | France Culture</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/quand-le-rire-s-empare-de-la-radio-les-ondes-se-gondolent-8341475</link>
+      <description>AUDIO Histoire du rire, épisode : Quand le rire s’empare de la radio, les ondes se gondolent. Une série inédite proposée par France Culture. Écoutez Quand le rire s’empare de la radio, les ondes se gondolent, et découvrez nos podcasts en ligne.</description>
+      <content:encoded><![CDATA[
+        <p>AUDIO Histoire du rire, épisode : Quand le rire s’empare de la radio, les ondes se gondolent. Une série inédite proposée par France Culture. Écoutez Quand le rire s’empare de la radio, les ondes se gondolent, et découvrez nos podcasts en ligne.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/quand-le-rire-s-empare-de-la-radio-les-ondes-se-gondolent-8341475">France Culture</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/32acd0e5-52e7-4982-abf4-6110c338370f/300x300" alt="Quand le rire s’empare de la radio, les ondes se gondolent : épisode du podcast Histoire du rire | France Culture" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/quand-le-rire-s-empare-de-la-radio-les-ondes-se-gondolent-8341475</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26625-13.08.2026-ITEMA_24629984-2021C36128S0091-NET_MFC_65FC0A5A-8733-4F8C-B870-D468C0A7499F-25-481f3ef8757ad3c099deaeac0c1e6158.m4a" length="75242147" type="audio/mp4"/>
+      <pubDate>Thu, 01 Apr 2021 07:06:05 +0000</pubDate>
+      <itunes:author>France Culture</itunes:author>
+      <itunes:duration>51:50</itunes:duration>
+      <itunes:subtitle>AUDIO Histoire du rire, épisode : Quand le rire s’empare de la radio, les ondes se gondolent. Une série inédite proposée par France Culture. Écoutez Quand le rire s’empare de la radio, les ondes se gondolent, et découvrez nos podcasts en ligne.</itunes:subtitle>
+      <itunes:summary>AUDIO Histoire du rire, épisode : Quand le rire s’empare de la radio, les ondes se gondolent. Une série inédite proposée par France Culture. Écoutez Quand le rire s’empare de la radio, les ondes se gondolent, et découvrez nos podcasts en ligne.</itunes:summary>
     </item>
     <item>
       <title>Tutoyer les sommets, "histoires verticales" de la montagne : épisode du podcast Prendre l’air, une histoire de la montagne | France Culture</title>
