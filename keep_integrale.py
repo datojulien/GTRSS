@@ -332,24 +332,23 @@ def build_split_feeds(
         config.output_best: root_b,
         config.output_remaining: root_r,
     }
-
-    empty = [
-        path
-        for path, root in outputs.items()
-        if item_count(source_channel(root)) == 0
-    ]
-    if empty:
-        raise RuntimeError(f"Refusing to write empty split feed(s): {', '.join(empty)}")
-
     return outputs
 
 
 def write_split_feeds(
     roots: dict[str, ET.Element],
     config: GrossesTetesConfig = CONFIG,
-) -> None:
+) -> dict[str, str]:
+    results = {}
     for output_file, root in roots.items():
+        if item_count(source_channel(root)) == 0:
+            if os.path.exists(output_file):
+                results[output_file] = "preserved"
+                continue
+            raise RuntimeError(f"Refusing to create empty split feed: {output_file}")
         write_xml(root, output_file, config.style_file)
+        results[output_file] = "rebuilt"
+    return results
 
 
 def main(config: GrossesTetesConfig = CONFIG) -> None:
@@ -361,11 +360,15 @@ def main(config: GrossesTetesConfig = CONFIG) -> None:
 
     raw = fetch_source_feed(config)
     roots = build_split_feeds(raw, config)
-    write_split_feeds(roots, config)
+    results = write_split_feeds(roots, config)
 
-    print(f"rebuilt {config.output_integrale}")
-    print(f"rebuilt {config.output_best} (only items ≥ {config.min_best_duration_min} min)")
-    print(f"rebuilt {config.output_remaining}")
+    verb = "rebuilt" if results[config.output_integrale] == "rebuilt" else "preserved"
+    print(f"{verb} {config.output_integrale}")
+    print(
+        f"{results[config.output_best]} {config.output_best} "
+        f"(only items ≥ {config.min_best_duration_min} min)"
+    )
+    print(f"{results[config.output_remaining]} {config.output_remaining}")
 
 
 if __name__ == "__main__":
