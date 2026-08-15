@@ -14,7 +14,7 @@
       <link>https://datojulien.github.io/GTRSS/feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Sat, 15 Aug 2026 05:39:54 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 06:56:44 +0000</lastBuildDate>
     <itunes:author>France Culture</itunes:author>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -1483,6 +1483,26 @@
       <itunes:duration>13:01</itunes:duration>
       <itunes:subtitle>AUDIO Preuves d'humanité, hier et aujourd'hui, épisode 4 : Jorge Luis Borges, la littérature face à la cruauté du monde. Une série inédite proposée par France Culture. Écoutez Jorge Luis Borges, la littérature face à la cruauté du monde, et découvrez nos </itunes:subtitle>
       <itunes:summary>AUDIO Preuves d'humanité, hier et aujourd'hui, épisode 4 : Jorge Luis Borges, la littérature face à la cruauté du monde. Une série inédite proposée par France Culture. Écoutez Jorge Luis Borges, la littérature face à la cruauté du monde, et découvrez nos podcasts en ligne.</itunes:summary>
+    </item>
+    <item>
+      <title>David Dufresne, enquête sur Françoise d'Eaubonne, une grand-mère écoféministe : épisode du podcast Fou d'histoire | France Culture</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/david-dufresne-enquete-sur-francoise-d-eaubonne-une-grand-mere-ecofeministe-6778250</link>
+      <description>AUDIO Fou d'histoire, épisode : David Dufresne, enquête sur Françoise d'Eaubonne, une grand-mère écoféministe. Une série inédite proposée par France Culture. Écoutez David Dufresne, enquête sur Françoise d'Eaubonne, une grand-mère écoféministe, et découvrez nos podcasts en ligne.</description>
+      <content:encoded><![CDATA[
+        <p>AUDIO Fou d&#x27;histoire, épisode : David Dufresne, enquête sur Françoise d&#x27;Eaubonne, une grand-mère écoféministe. Une série inédite proposée par France Culture. Écoutez David Dufresne, enquête sur Françoise d&#x27;Eaubonne, une grand-mère écoféministe, et découvrez nos podcasts en ligne.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/david-dufresne-enquete-sur-francoise-d-eaubonne-une-grand-mere-ecofeministe-6778250">France Culture</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/7691dc8a-316f-4855-b8fd-f639576522bd/300x300" alt="David Dufresne, enquête sur Françoise d&#x27;Eaubonne, une grand-mère écoféministe : épisode du podcast Fou d&#x27;histoire | France Culture" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/david-dufresne-enquete-sur-francoise-d-eaubonne-une-grand-mere-ecofeministe-6778250</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/10076-03.10.2025-ITEMA_24267186-2025C36128S0276-NET_MFC_C025A35E-16B3-447D-B0E4-EBB4591FAF3E-21.mp3" length="56361237" type="audio/mpeg"/>
+      <pubDate>Fri, 03 Oct 2025 07:00:00 +0000</pubDate>
+      <itunes:author>France Culture</itunes:author>
+      <itunes:duration>58:41</itunes:duration>
+      <itunes:subtitle>AUDIO Fou d'histoire, épisode : David Dufresne, enquête sur Françoise d'Eaubonne, une grand-mère écoféministe. Une série inédite proposée par France Culture. Écoutez David Dufresne, enquête sur Françoise d'Eaubonne, une grand-mère écoféministe, et découvr</itunes:subtitle>
+      <itunes:summary>AUDIO Fou d'histoire, épisode : David Dufresne, enquête sur Françoise d'Eaubonne, une grand-mère écoféministe. Une série inédite proposée par France Culture. Écoutez David Dufresne, enquête sur Françoise d'Eaubonne, une grand-mère écoféministe, et découvrez nos podcasts en ligne.</itunes:summary>
     </item>
     <item>
       <title>Adélaïde de Clermont-Tonnerre et les mousquetaires, l'histoire de Milady : épisode du podcast Fou d'histoire | France Culture</title>
