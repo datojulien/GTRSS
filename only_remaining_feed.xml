@@ -14,8 +14,8 @@
     <atom:link href="https://datojulien.github.io/GTRSS/only_remaining_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Sun, 16 Aug 2026 05:42:40 GMT</lastBuildDate>
-    <pubDate>Sun, 16 Aug 2026 05:42:40 GMT</pubDate>
+    <lastBuildDate>Sun, 16 Aug 2026 06:58:55 GMT</lastBuildDate>
+    <pubDate>Sun, 16 Aug 2026 06:58:55 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -45,6 +45,46 @@
     <ns3:category text="Comedy" />
     <ns4:person role="host">RTL</ns4:person>
     <ns4:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns4:txt>
+    <item>
+      <title>LE MEILLEUR DE LA SAISON - Laurent Ruquier s'amuse avec l'intelligence artificielle</title>
+      <guid isPermaLink="false">fc514124-dae5-4e2d-806f-99de8401406d</guid>
+      <description>REDIFF - L'intelligence artificielle fait des merveilles ! Et Laurent Ruquier a décidé de s'en servir pour en savoir un peu plus sur les Grosses Têtes...
+
+
+&lt;i&gt;Fous rires, réponses inattendues, nouvelles rencontres, redécouvrez cet été les meilleurs moments de cette saison 2025-2026 !&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns5:encoded>REDIFF - L'intelligence artificielle fait des merveilles ! Et Laurent Ruquier a décidé de s'en servir pour en savoir un peu plus sur les Grosses Têtes...
+
+
+&lt;i&gt;Fous rires, réponses inattendues, nouvelles rencontres, redécouvrez cet été les meilleurs moments de cette saison 2025-2026 !&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
+      <pubDate>Sun, 16 Aug 2026 06:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/fc514124-dae5-4e2d-806f-99de8401406d.mp3?_=1782985087" length="4909347" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>REDIFF - L'intelligence artificielle fait des merveilles ! Et Laurent Ruquier a décidé de s'en servir pour en savoir un peu plus sur les Grosses Têtes...
+
+
+Fous rires, réponses inattendues, nouvelles rencontres, redécouvrez cet été les meilleurs moments de cette saison 2025-2026 !
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
+      <ns3:description>REDIFF - L'intelligence artificielle fait des merveilles ! Et Laurent Ruquier a décidé de s'en servir pour en savoir un peu plus sur les Grosses Têtes...
+
+
+Fous rires, réponses inattendues, nouvelles rencontres, redécouvrez cet été les meilleurs moments de cette saison 2025-2026 !
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>REDIFF - L'intelligence artificielle fait des merveilles ! Et Laurent Ruquier a décidé de s'en servir pour en savoir un peu plus sur les Grosses Têtes...
+
+
+Fous rires, réponses inattendues, nouvelles rencontres, redécouvrez cet été les meilleurs moments de cette...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>05:06</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/110cc2bd-1f73-4a93-ac28-91ab4039f7e0.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/110cc2bd-1f73-4a93-ac28-91ab4039f7e0.jpg" />
+      <ns4:person role="host">Laurent Ruquier</ns4:person>
+      <ns4:txt purpose="smartlink">https://audmns.com/XLNipUg</ns4:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>LE MEILLEUR DE BOUVARD - La blague de Fabrice et Jean-Jacques Peroni</title>
       <guid isPermaLink="false">63db0dd6-2b71-4327-9219-d13e8d962a33</guid>
@@ -2453,32 +2493,6 @@ Fous rires, réponses inattendues, nouvelles rencontres, redécouvrez cet été 
       <ns3:image href="https://static.audiomeans.fr/img/episode/83db5cd4-3330-4cf5-8976-4950d96b2d55.jpg" />
       <ns4:person role="host">Laurent Ruquier</ns4:person>
       <ns4:txt purpose="smartlink">https://audmns.com/SenkxiR</ns4:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>LE MEILLEUR DE BOUVARD - La blague de Bernard Mabille</title>
-      <guid isPermaLink="false">cd75961c-9ba3-4163-969b-6e9343af9df7</guid>
-      <description>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns5:encoded>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
-      <pubDate>Wed, 22 Jul 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/cd75961c-9ba3-4163-969b-6e9343af9df7.mp3?_=1782742981" length="1004175" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns3:description>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Jacques Balutin, Jacques Mailhot ou encore Pierre Bellemare, retrouvez toutes leurs blagues en podcast !
-Hébergé par Audiomeans. Visitez</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>01:02</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/d508ea3a-84b8-4af6-bf25-a84419524a24.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/d508ea3a-84b8-4af6-bf25-a84419524a24.jpg" />
-      <ns4:person role="host">Laurent Ruquier</ns4:person>
-      <ns4:txt purpose="smartlink">https://audmns.com/NojWFEf</ns4:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
