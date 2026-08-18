@@ -14,8 +14,8 @@
     <atom:link href="https://datojulien.github.io/GTRSS/only_remaining_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Tue, 18 Aug 2026 07:53:29 GMT</lastBuildDate>
-    <pubDate>Tue, 18 Aug 2026 07:53:29 GMT</pubDate>
+    <lastBuildDate>Tue, 18 Aug 2026 08:53:01 GMT</lastBuildDate>
+    <pubDate>Tue, 18 Aug 2026 08:53:01 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -45,6 +45,43 @@
     <ns3:category text="Comedy" />
     <ns4:person role="host">RTL</ns4:person>
     <ns4:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns4:txt>
+    <item>
+      <title>LE MEILLEUR DE RUQUIER - Un Marseillais tente d'acheter un fusil dans une armurerie... L'histoire drôle d'Az</title>
+      <guid isPermaLink="false">7e790dd6-d409-44aa-a6eb-e7c3182fe798</guid>
+      <description>Un Marseillais qui tente d'acheter un fusil dans une armurerie, une employée de bureau au bord du burn-out et un locataire qui téléphone à son propriétaire pour se plaindre de l'état de son appartement... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns5:encoded>Un Marseillais qui tente d'acheter un fusil dans une armurerie, une employée de bureau au bord du burn-out et un locataire qui téléphone à son propriétaire pour se plaindre de l'état de son appartement... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
+      <pubDate>Tue, 18 Aug 2026 09:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/7e790dd6-d409-44aa-a6eb-e7c3182fe798.mp3?_=1783071185" length="2622679" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Un Marseillais qui tente d'acheter un fusil dans une armurerie, une employée de bureau au bord du burn-out et un locataire qui téléphone à son propriétaire pour se plaindre de l'état de son appartement... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
+      <ns3:description>Un Marseillais qui tente d'acheter un fusil dans une armurerie, une employée de bureau au bord du burn-out et un locataire qui téléphone à son propriétaire pour se plaindre de l'état de son appartement... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Un Marseillais qui tente d'acheter un fusil dans une armurerie, une employée de bureau au bord du burn-out et un locataire qui téléphone à son propriétaire pour se plaindre de l'état de son appartement... Écoutez dans ce podcast 3 des meilleures blagues racontées p...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>02:43</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/cff6fdc9-1904-47c8-b9db-de2741b3a4ee.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/cff6fdc9-1904-47c8-b9db-de2741b3a4ee.jpg" />
+      <ns4:person role="host">Laurent Ruquier</ns4:person>
+      <ns4:txt purpose="smartlink">https://audmns.com/zwTDLot</ns4:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>LE MEILLEUR DE LA SAISON - L'anecdote de Thierry Lhermitte sur "Le Dîner de cons"</title>
       <guid isPermaLink="false">323dec04-170b-4718-ae1d-387ed5197184</guid>
@@ -2414,39 +2451,6 @@ Hébergé par Audiomeans. Visitez</itunes:subtitle>
       <ns3:image href="https://static.audiomeans.fr/img/episode/8da1b86d-b6f5-4455-a50a-c67a7d62b99d.jpg" />
       <ns4:person role="host">Laurent Ruquier</ns4:person>
       <ns4:txt purpose="smartlink">https://audmns.com/pebxIYZ</ns4:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>LE MEILLEUR DE RUQUIER - Une femme qui souhaite avoir un enfant grâce à un miracle... L'histoire drôle de Valérie Mairesse</title>
-      <guid isPermaLink="false">95014095-077b-4014-bb89-61fafe6baab1</guid>
-      <description>Une maman qui tente d'avoir un deuxième enfant demande si elle doit retourner à Lourdes, une femme qui réalise après des années de vie commune la stupidité de son mari et une mère qui prépare du lapin pour le dîner...&amp;nbsp; Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
-
-Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&amp;nbsp;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns5:encoded>Une maman qui tente d'avoir un deuxième enfant demande si elle doit retourner à Lourdes, une femme qui réalise après des années de vie commune la stupidité de son mari et une mère qui prépare du lapin pour le dîner...&amp;nbsp; Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
-
-Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&amp;nbsp;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
-      <pubDate>Fri, 24 Jul 2026 09:00:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/95014095-077b-4014-bb89-61fafe6baab1.mp3?_=1783005481" length="1658973" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Une maman qui tente d'avoir un deuxième enfant demande si elle doit retourner à Lourdes, une femme qui réalise après des années de vie commune la stupidité de son mari et une mère qui prépare du lapin pour le dîner... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
-
-Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns3:description>Une maman qui tente d'avoir un deuxième enfant demande si elle doit retourner à Lourdes, une femme qui réalise après des années de vie commune la stupidité de son mari et une mère qui prépare du lapin pour le dîner... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
-
-Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Une maman qui tente d'avoir un deuxième enfant demande si elle doit retourner à Lourdes, une femme qui réalise après des années de vie commune la stupidité de son mari et une mère qui prépare du lapin pour le dîner... Écoutez dans ce podcast 3 des meilleures ...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>01:43</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/d6598d32-1874-474a-8793-477afe3d62a4.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/d6598d32-1874-474a-8793-477afe3d62a4.jpg" />
-      <ns4:person role="host">Laurent Ruquier</ns4:person>
-      <ns4:txt purpose="smartlink">https://audmns.com/Zydtrpp</ns4:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
