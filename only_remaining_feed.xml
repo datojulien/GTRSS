@@ -14,8 +14,8 @@
     <atom:link href="https://datojulien.github.io/GTRSS/only_remaining_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Wed, 19 Aug 2026 07:55:06 GMT</lastBuildDate>
-    <pubDate>Wed, 19 Aug 2026 07:55:06 GMT</pubDate>
+    <lastBuildDate>Wed, 19 Aug 2026 09:49:31 GMT</lastBuildDate>
+    <pubDate>Wed, 19 Aug 2026 09:49:31 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -45,6 +45,43 @@
     <ns3:category text="Comedy" />
     <ns4:person role="host">RTL</ns4:person>
     <ns4:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns4:txt>
+    <item>
+      <title>LE MEILLEUR DE RUQUIER - Un ouvrier se vante de ses connaissances devant ses collègues... L'histoire drôle de Yoann Riou</title>
+      <guid isPermaLink="false">8d0a6014-c796-4fea-a5d2-35603bfefbb1</guid>
+      <description>Un ouvrier qui expose toutes ces connaissances devant ses collègues, un Belge qui reçoit une crotte de pigeon à la terrasse d'un restaurant et une conférence sur le problème principal dans les couples... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns5:encoded>Un ouvrier qui expose toutes ces connaissances devant ses collègues, un Belge qui reçoit une crotte de pigeon à la terrasse d'un restaurant et une conférence sur le problème principal dans les couples... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
+      <pubDate>Wed, 19 Aug 2026 09:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/8d0a6014-c796-4fea-a5d2-35603bfefbb1.mp3?_=1783071481" length="1951876" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Un ouvrier qui expose toutes ces connaissances devant ses collègues, un Belge qui reçoit une crotte de pigeon à la terrasse d'un restaurant et une conférence sur le problème principal dans les couples... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
+      <ns3:description>Un ouvrier qui expose toutes ces connaissances devant ses collègues, un Belge qui reçoit une crotte de pigeon à la terrasse d'un restaurant et une conférence sur le problème principal dans les couples... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Un ouvrier qui expose toutes ces connaissances devant ses collègues, un Belge qui reçoit une crotte de pigeon à la terrasse d'un restaurant et une conférence sur le problème principal dans les couples... Écoutez dans ce podcast 3 des meilleures blagues racontées pa...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>02:01</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/38a03727-8b39-4f5c-8257-7f1bc65308a7.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/38a03727-8b39-4f5c-8257-7f1bc65308a7.jpg" />
+      <ns4:person role="host">Laurent Ruquier</ns4:person>
+      <ns4:txt purpose="smartlink">https://audmns.com/gmXqpNU</ns4:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>LE MEILLEUR DE LA SAISON - "J'aimais bien Michel Cymes, après on a eu pire, Jimmy Mohamed" : Az n'aime aps trop les médecins</title>
       <guid isPermaLink="false">a920725c-0bec-41ba-b532-bf534a03eecf</guid>
@@ -2412,39 +2449,6 @@ Hébergé par Audiomeans. Visitez</itunes:subtitle>
       <ns3:image href="https://static.audiomeans.fr/img/episode/e390285a-379e-466b-80b3-d0a8f85d9cf2.jpg" />
       <ns4:person role="host">Laurent Ruquier</ns4:person>
       <ns4:txt purpose="smartlink">https://audmns.com/uHivxbD</ns4:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>LE MEILLEUR DE RUQUIER - Un touriste belge souhaite faire un tour de bateau sur le lac de Tiberiade... L'histoire drôle de Max Boublil</title>
-      <guid isPermaLink="false">843e03f8-2fc9-4b10-8da8-b5b5703e5b68</guid>
-      <description>Un touriste belge qui souhaite faire un tour de bateau sur le lac de Tiberiade, un mari qui déclare vouloir se séparer de sa femme et l'histoire d'une partouze dans un zoo... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
-
-Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns5:encoded>Un touriste belge qui souhaite faire un tour de bateau sur le lac de Tiberiade, un mari qui déclare vouloir se séparer de sa femme et l'histoire d'une partouze dans un zoo... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
-
-Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
-      <pubDate>Sat, 25 Jul 2026 09:00:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/843e03f8-2fc9-4b10-8da8-b5b5703e5b68.mp3?_=1783005782" length="1824369" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Un touriste belge qui souhaite faire un tour de bateau sur le lac de Tiberiade, un mari qui déclare vouloir se séparer de sa femme et l'histoire d'une partouze dans un zoo... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
-
-Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns3:description>Un touriste belge qui souhaite faire un tour de bateau sur le lac de Tiberiade, un mari qui déclare vouloir se séparer de sa femme et l'histoire d'une partouze dans un zoo... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
-
-Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Un touriste belge qui souhaite faire un tour de bateau sur le lac de Tiberiade, un mari qui déclare vouloir se séparer de sa femme et l'histoire d'une partouze dans un zoo... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Lauren...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>01:53</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/4501d7c2-7c7d-4b40-9e54-217f61b4f423.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/4501d7c2-7c7d-4b40-9e54-217f61b4f423.jpg" />
-      <ns4:person role="host">Laurent Ruquier</ns4:person>
-      <ns4:txt purpose="smartlink">https://audmns.com/GQPKOzN</ns4:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
