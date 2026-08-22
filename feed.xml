@@ -14,7 +14,7 @@
       <link>https://datojulien.github.io/GTRSS/feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Sat, 22 Aug 2026 21:34:39 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 22:37:14 +0000</lastBuildDate>
     <itunes:author>France Culture</itunes:author>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -2183,6 +2183,26 @@
       <itunes:duration>58:25</itunes:duration>
       <itunes:subtitle>AUDIO Histoires d'eau, épisode : Irriguer la Mésopotamie, quand l'eau rugit entre le Tigre et l'Euphrate. Une série inédite proposée par France Culture. Écoutez Irriguer la Mésopotamie, quand l'eau rugit entre le Tigre et l'Euphrate, et découvrez nos podc</itunes:subtitle>
       <itunes:summary>AUDIO Histoires d'eau, épisode : Irriguer la Mésopotamie, quand l'eau rugit entre le Tigre et l'Euphrate. Une série inédite proposée par France Culture. Écoutez Irriguer la Mésopotamie, quand l'eau rugit entre le Tigre et l'Euphrate, et découvrez nos podcasts en ligne.</itunes:summary>
+    </item>
+    <item>
+      <title>Loup, y es-tu ? Quels visages donner à la bête du Gévaudan ? : épisode du podcast Les "mystères" de l’histoire | France Culture</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/loup-y-es-tu-quel-visage-donner-a-la-bete-du-gevaudan-7932300</link>
+      <description>AUDIO Les "mystères" de l’histoire, épisode : Loup, y es-tu ? Quels visages donner à la bête du Gévaudan ?. Une série inédite proposée par France Culture. Écoutez Loup, y es-tu ? Quels visages donner à la bête du Gévaudan ?, et découvrez nos podcasts en ligne.</description>
+      <content:encoded><![CDATA[
+        <p>AUDIO Les &quot;mystères&quot; de l’histoire, épisode : Loup, y es-tu ? Quels visages donner à la bête du Gévaudan ?. Une série inédite proposée par France Culture. Écoutez Loup, y es-tu ? Quels visages donner à la bête du Gévaudan ?, et découvrez nos podcasts en ligne.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/loup-y-es-tu-quel-visage-donner-a-la-bete-du-gevaudan-7932300">France Culture</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/2b322ea2-2188-420f-b792-71531ec40ef9/300x300" alt="Loup, y es-tu ? Quels visages donner à la bête du Gévaudan ? : épisode du podcast Les &quot;mystères&quot; de l’histoire | France Culture" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/loup-y-es-tu-quel-visage-donner-a-la-bete-du-gevaudan-7932300</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26625-23.08.2026-ITEMA_24640421-2022C36128S0356-NET_MFC_2A9123A1-8AE5-4DAE-A1E9-121E96623F88-25-4dbe504c2799aefb0f8c3c3d6fa8cc75.m4a" length="86277244" type="audio/mp4"/>
+      <pubDate>Thu, 22 Dec 2022 08:00:00 +0000</pubDate>
+      <itunes:author>France Culture</itunes:author>
+      <itunes:duration>59:26</itunes:duration>
+      <itunes:subtitle>AUDIO Les "mystères" de l’histoire, épisode : Loup, y es-tu ? Quels visages donner à la bête du Gévaudan ?. Une série inédite proposée par France Culture. Écoutez Loup, y es-tu ? Quels visages donner à la bête du Gévaudan ?, et découvrez nos podcasts en l</itunes:subtitle>
+      <itunes:summary>AUDIO Les "mystères" de l’histoire, épisode : Loup, y es-tu ? Quels visages donner à la bête du Gévaudan ?. Une série inédite proposée par France Culture. Écoutez Loup, y es-tu ? Quels visages donner à la bête du Gévaudan ?, et découvrez nos podcasts en ligne.</itunes:summary>
     </item>
     <item>
       <title>Aux racines des Landes, un pin c’est tout ! : épisode du podcast Histoires de forêts | France Culture</title>
