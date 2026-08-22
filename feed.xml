@@ -14,7 +14,7 @@
       <link>https://datojulien.github.io/GTRSS/feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Sat, 22 Aug 2026 05:41:55 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 06:58:28 +0000</lastBuildDate>
     <itunes:author>France Culture</itunes:author>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -1303,6 +1303,26 @@
       <itunes:duration>58:35</itunes:duration>
       <itunes:subtitle>AUDIO Fou d'histoire, épisode : Sorj Chalandon, le grand reporter, l'écrivain et l’histoire. Une série inédite proposée par France Culture. Écoutez Sorj Chalandon, le grand reporter, l'écrivain et l’histoire, et découvrez nos podcasts en ligne.</itunes:subtitle>
       <itunes:summary>AUDIO Fou d'histoire, épisode : Sorj Chalandon, le grand reporter, l'écrivain et l’histoire. Une série inédite proposée par France Culture. Écoutez Sorj Chalandon, le grand reporter, l'écrivain et l’histoire, et découvrez nos podcasts en ligne.</itunes:summary>
+    </item>
+    <item>
+      <title>Tania de Montaigne, l'histoire pour déjouer le racisme : épisode du podcast Fou d'histoire | France Culture</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/tania-de-montaigne-l-histoire-pour-dejouer-le-racisme-5884362</link>
+      <description>AUDIO Fou d'histoire, épisode : Tania de Montaigne, l'histoire pour déjouer le racisme. Une série inédite proposée par France Culture. Écoutez Tania de Montaigne, l'histoire pour déjouer le racisme, et découvrez nos podcasts en ligne.</description>
+      <content:encoded><![CDATA[
+        <p>AUDIO Fou d&#x27;histoire, épisode : Tania de Montaigne, l&#x27;histoire pour déjouer le racisme. Une série inédite proposée par France Culture. Écoutez Tania de Montaigne, l&#x27;histoire pour déjouer le racisme, et découvrez nos podcasts en ligne.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/tania-de-montaigne-l-histoire-pour-dejouer-le-racisme-5884362">France Culture</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/69739224-74c7-4029-91f1-97e3a52f926c/300x300" alt="Tania de Montaigne, l&#x27;histoire pour déjouer le racisme : épisode du podcast Fou d&#x27;histoire | France Culture" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/tania-de-montaigne-l-histoire-pour-dejouer-le-racisme-5884362</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/10076-06.02.2026-ITEMA_24399665-2026C36128S0037-NET_MFC_97799B41-1F7A-4C8E-BD2F-C8A993D768D9-21-4699286aa8ba9b6259fb2e664985a1ac.mp3" length="56243689" type="audio/mpeg"/>
+      <pubDate>Fri, 06 Feb 2026 08:00:00 +0000</pubDate>
+      <itunes:author>France Culture</itunes:author>
+      <itunes:duration>58:33</itunes:duration>
+      <itunes:subtitle>AUDIO Fou d'histoire, épisode : Tania de Montaigne, l'histoire pour déjouer le racisme. Une série inédite proposée par France Culture. Écoutez Tania de Montaigne, l'histoire pour déjouer le racisme, et découvrez nos podcasts en ligne.</itunes:subtitle>
+      <itunes:summary>AUDIO Fou d'histoire, épisode : Tania de Montaigne, l'histoire pour déjouer le racisme. Une série inédite proposée par France Culture. Écoutez Tania de Montaigne, l'histoire pour déjouer le racisme, et découvrez nos podcasts en ligne.</itunes:summary>
     </item>
     <item>
       <title>Jakuta Alikavazovic, une voix pour les fantômes de l'exil : épisode du podcast Fou d'histoire | France Culture</title>
