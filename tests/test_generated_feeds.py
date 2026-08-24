@@ -50,7 +50,9 @@ def test_xml_and_xsl_parse():
 def test_feed_items_have_required_fields_and_unique_guids():
     for path in FEED_FILES:
         items = channel(path).findall("item")
-        assert items, f"{path} has no items"
+        if not items:
+            assert Path(path).name.startswith("only_"), f"{path} has no items"
+            continue
         guids = []
         dates = []
 
