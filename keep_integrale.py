@@ -94,7 +94,8 @@ def get_item_duration_seconds(item: ET.Element) -> int:
 
 
 def is_best_title(title: str) -> bool:
-    return title.startswith(BEST_PREFIXES)
+    folded_title = title.casefold()
+    return any(folded_title.startswith(prefix.casefold()) for prefix in BEST_PREFIXES)
 
 
 def is_integrale_title(title: str) -> bool:
