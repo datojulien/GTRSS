@@ -64,6 +64,22 @@ def test_grosses_tetes_classification_rules():
     assert get_item_duration_seconds(best) == 1800
 
 
+@pytest.mark.parametrize(
+    "title",
+    [
+        "L'INTÉGRALE - Le Best of du dimanche 17 mai 2026",
+        "L'INTÉGRALE - Le Best Of du dimanche 17 mai 2026",
+        "L'INTÉGRALE - LE BEST OF du dimanche 17 mai 2026",
+    ],
+)
+def test_best_title_matching_is_case_insensitive(title):
+    item = make_item(title)
+
+    assert is_best_title(title)
+    assert is_best_episode(item)
+    assert not is_integrale_title(title)
+
+
 def test_clean_text_value_normalizes_edge_whitespace():
     value = " first line \r\n second line \n third line "
     assert clean_text_value(value) == "first line\nsecond line\nthird line"
