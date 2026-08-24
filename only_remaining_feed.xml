@@ -14,8 +14,8 @@
     <atom:link href="https://datojulien.github.io/GTRSS/only_remaining_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Mon, 24 Aug 2026 16:54:39 GMT</lastBuildDate>
-    <pubDate>Mon, 24 Aug 2026 16:54:39 GMT</pubDate>
+    <lastBuildDate>Mon, 24 Aug 2026 17:46:30 GMT</lastBuildDate>
+    <pubDate>Mon, 24 Aug 2026 17:46:30 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -166,8 +166,8 @@ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pou
       <itunes:block>no</itunes:block>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>50:38</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/479e525e-b848-4feb-847a-ca1f4be47d74.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/479e525e-b848-4feb-847a-ca1f4be47d74.jpg" />
+      <itunes:image href="https://static.audiomeans.fr/img/episode/ded0aed8-c985-47a3-ad9a-bf89af4e6388.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/ded0aed8-c985-47a3-ad9a-bf89af4e6388.jpg" />
       <ns4:person role="host">Philippe Bouvard</ns4:person>
       <ns4:txt purpose="smartlink">https://audmns.com/zAcElNh</ns4:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
