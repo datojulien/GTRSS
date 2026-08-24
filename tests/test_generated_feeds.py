@@ -51,7 +51,7 @@ def test_feed_items_have_required_fields_and_unique_guids():
     for path in FEED_FILES:
         items = channel(path).findall("item")
         if not items:
-            assert path.startswith("only_"), f"{path} has no items"
+            assert Path(path).name.startswith("only_"), f"{path} has no items"
             continue
         guids = []
         dates = []
