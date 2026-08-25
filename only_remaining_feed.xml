@@ -14,8 +14,8 @@
     <atom:link href="https://datojulien.github.io/GTRSS/only_remaining_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Tue, 25 Aug 2026 11:42:42 GMT</lastBuildDate>
-    <pubDate>Tue, 25 Aug 2026 11:42:42 GMT</pubDate>
+    <lastBuildDate>Tue, 25 Aug 2026 13:10:40 GMT</lastBuildDate>
+    <pubDate>Tue, 25 Aug 2026 13:10:40 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -46,7 +46,7 @@
     <ns4:person role="host">RTL</ns4:person>
     <ns4:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns4:txt>
     <item>
-      <title>LE MEILLEUR DE RUQUIER - Un Belge s'inquiète de l'heure d'arrivée de son avion... L'histoire drôle de Jeanfi Jeanssens</title>
+      <title>LE MEILLEUR DE RUQUIER - Quand un Belge s'inquiète de l'heure d'arrivée de son avion... L'histoire drôle de Jeanfi Jeanssens</title>
       <guid isPermaLink="false">3015b19c-6836-4f89-a16a-4c400652b5ac</guid>
       <description>Un Belge qui s'inquiète de l'heure d'arrivée de son avion, deux vieilles dames se souviennent des consultations médicales de leur temps et une femme qui décide de revêtir la tenue de l'amour pour son mari... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
 
@@ -72,8 +72,8 @@ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pou
       <itunes:block>no</itunes:block>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>02:21</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/a824a45c-0ede-4d48-862b-b83e3c998ef5.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/a824a45c-0ede-4d48-862b-b83e3c998ef5.jpg" />
+      <itunes:image href="https://static.audiomeans.fr/img/episode/e72c96e8-d36f-43c5-be24-af64e21aa41e.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/e72c96e8-d36f-43c5-be24-af64e21aa41e.jpg" />
       <ns4:txt purpose="smartlink">https://audmns.com/GftzSCI</ns4:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
