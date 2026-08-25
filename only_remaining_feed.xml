@@ -14,8 +14,8 @@
     <atom:link href="https://datojulien.github.io/GTRSS/only_remaining_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Tue, 25 Aug 2026 14:03:10 GMT</lastBuildDate>
-    <pubDate>Tue, 25 Aug 2026 14:03:10 GMT</pubDate>
+    <lastBuildDate>Tue, 25 Aug 2026 15:04:23 GMT</lastBuildDate>
+    <pubDate>Tue, 25 Aug 2026 15:04:23 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -49,12 +49,12 @@
       <title>INÉDIT - Côté coulisses : "J'ai toujours su que je voulais avoir les mains dans la musique", Charles Dollé se confie avant l'émission</title>
       <guid isPermaLink="false">0b41a981-ee11-4a38-b5f0-ce18b6c2f22a</guid>
       <description>Dans ce podcast inédit, Charles Dollé se confie au micro de RTL avant son passage dans l'émission ! L'occasion d'en apprendre un peu plus sur lui, sur ses projets et sur ses souvenirs de l'émission "Les Grosses Têtes".
-
+&lt;i&gt;&lt;/i&gt;
 &lt;i&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/i&gt;
 
 &lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
       <ns5:encoded>Dans ce podcast inédit, Charles Dollé se confie au micro de RTL avant son passage dans l'émission ! L'occasion d'en apprendre un peu plus sur lui, sur ses projets et sur ses souvenirs de l'émission "Les Grosses Têtes".
-
+&lt;i&gt;&lt;/i&gt;
 &lt;i&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/i&gt;
 
 &lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
@@ -78,13 +78,14 @@ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pou
       <itunes:explicit>no</itunes:explicit>
       <itunes:subtitle>Dans ce podcast inédit, Charles Dollé se confie au micro de RTL avant son passage dans l'émission ! L'occasion d'en apprendre un peu plus sur lui, sur ses projets et sur ses souvenirs de l'émission "Les Grosses Têtes".
 
-Retrouvez tous les jours le meilleur des G...</itunes:subtitle>
+Retrouvez tous les jours le meilleu...</itunes:subtitle>
       <itunes:block>no</itunes:block>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>05:49</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/b731d139-d2cd-43f0-ab3c-423b51b90703.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/b731d139-d2cd-43f0-ab3c-423b51b90703.jpg" />
+      <itunes:image href="https://static.audiomeans.fr/img/episode/5432eb92-ce07-4652-8c06-5614a6c6ab24.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/5432eb92-ce07-4652-8c06-5614a6c6ab24.jpg" />
       <ns4:person role="host">Laurent Ruquier</ns4:person>
+      <ns4:txt purpose="smartlink">https://audmns.com/JOQkpUC</ns4:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
