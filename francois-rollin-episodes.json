@@ -1,5 +1,17 @@
 [
   {
+    "title": "C'est parti",
+    "description": ".",
+    "audio_url": "https://media.radiofrance-podcast.net/podcast09/26803-28.08.2026-ITEMA_24647626-2026F22864S0240-NET_MFI_A2F93939-6A52-4649-85AC-D731E009BDB8-27-7391294864f2d9152abffaac59a22284.m4a",
+    "audio_type": "audio/mp4",
+    "duration_seconds": 359,
+    "duration_itunes": "5:59",
+    "published": "2026-08-28T14:49:00+00:00",
+    "image": "https://www.radiofrance.fr/pikapi/images/b66e4080-2221-4df9-9205-35e13f450bdd/300x300",
+    "url": "https://www.radiofrance.fr/franceinter/podcasts/le-billet-de-francois-rollin/la-semaine-de-campagne-de-francois-rollin-du-vendredi-28-aout-2026-1643223",
+    "audio_length": 8699749
+  },
+  {
     "title": "Coup de grâce",
     "description": ".",
     "audio_url": "https://media.radiofrance-podcast.net/podcast09/26803-26.06.2026-ITEMA_24570345-2026F22864S0177-NET_MFI_BDB9D24E-8394-4AFC-B8EF-9EDB808D40C4-27-8373b3b92aaee2b41d86d5bca8320ede.m4a",

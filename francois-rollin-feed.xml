@@ -14,7 +14,7 @@
       <link>https://datojulien.github.io/GTRSS/francois-rollin-feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Fri, 28 Aug 2026 05:23:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 18:41:17 +0000</lastBuildDate>
     <itunes:author>France Inter</itunes:author>
     <itunes:category text="Comedy"/>
     <itunes:explicit>no</itunes:explicit>
@@ -24,6 +24,26 @@
     </itunes:owner>
     <itunes:subtitle>Flux personnel généré depuis le site Radio France</itunes:subtitle>
     <itunes:summary>Un flux RSS personnel qui récupère les épisodes depuis le site web de France Inter lorsque le flux officiel n’est pas encore à jour.</itunes:summary>
+    <item>
+      <title>C'est parti</title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/le-billet-de-francois-rollin/la-semaine-de-campagne-de-francois-rollin-du-vendredi-28-aout-2026-1643223</link>
+      <description>C'est parti</description>
+      <content:encoded><![CDATA[
+        <p>C&#x27;est parti</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceinter/podcasts/le-billet-de-francois-rollin/la-semaine-de-campagne-de-francois-rollin-du-vendredi-28-aout-2026-1643223">France Inter</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/b66e4080-2221-4df9-9205-35e13f450bdd/300x300" alt="C&#x27;est parti" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceinter/podcasts/le-billet-de-francois-rollin/la-semaine-de-campagne-de-francois-rollin-du-vendredi-28-aout-2026-1643223</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26803-28.08.2026-ITEMA_24647626-2026F22864S0240-NET_MFI_A2F93939-6A52-4649-85AC-D731E009BDB8-27-7391294864f2d9152abffaac59a22284.m4a" length="8699749" type="audio/mp4"/>
+      <pubDate>Fri, 28 Aug 2026 14:49:00 +0000</pubDate>
+      <itunes:author>France Inter</itunes:author>
+      <itunes:duration>5:59</itunes:duration>
+      <itunes:subtitle>C'est parti</itunes:subtitle>
+      <itunes:summary>C'est parti</itunes:summary>
+    </item>
     <item>
       <title>Coup de grâce</title>
       <link>https://www.radiofrance.fr/franceinter/podcasts/le-billet-de-francois-rollin/francois-rollin-moi-ce-que-j-en-dis-du-vendredi-26-juin-2026-5046789</link>
