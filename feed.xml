@@ -14,7 +14,7 @@
       <link>https://datojulien.github.io/GTRSS/feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Sat, 29 Aug 2026 21:43:52 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 00:19:19 +0000</lastBuildDate>
     <itunes:author>France Culture</itunes:author>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -1963,6 +1963,26 @@
       <itunes:duration>58:25</itunes:duration>
       <itunes:subtitle>AUDIO Méditerranée(s), histoire de migrations, épisode : Se déplacer en Méditerranée, les Anciens en Thalassa. Une série inédite proposée par France Culture. Écoutez Se déplacer en Méditerranée, les Anciens en Thalassa, et découvrez nos podcasts en ligne.</itunes:subtitle>
       <itunes:summary>AUDIO Méditerranée(s), histoire de migrations, épisode : Se déplacer en Méditerranée, les Anciens en Thalassa. Une série inédite proposée par France Culture. Écoutez Se déplacer en Méditerranée, les Anciens en Thalassa, et découvrez nos podcasts en ligne.</itunes:summary>
+    </item>
+    <item>
+      <title>Tournée générale ! Les heures heureuses des bistrots : épisode du podcast Des bains au comptoir, histoires de convivialité | France Culture</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/tournee-generale-les-heures-heureuses-des-bistrots-1594659</link>
+      <description>AUDIO Des bains au comptoir, histoires de convivialité, épisode : Tournée générale ! Les heures heureuses des bistrots. Une série inédite proposée par France Culture. Écoutez Tournée générale ! Les heures heureuses des bistrots, et découvrez nos podcasts en ligne.</description>
+      <content:encoded><![CDATA[
+        <p>AUDIO Des bains au comptoir, histoires de convivialité, épisode : Tournée générale ! Les heures heureuses des bistrots. Une série inédite proposée par France Culture. Écoutez Tournée générale ! Les heures heureuses des bistrots, et découvrez nos podcasts en ligne.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/tournee-generale-les-heures-heureuses-des-bistrots-1594659">France Culture</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/6a44ed63-7a5d-4b07-87de-ab225961913a/300x300" alt="Tournée générale ! Les heures heureuses des bistrots : épisode du podcast Des bains au comptoir, histoires de convivialité | France Culture" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/tournee-generale-les-heures-heureuses-des-bistrots-1594659</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26625-30.08.2026-ITEMA_24650428-2023C36128E0014-NET_MFC_65F71FDA-7FAB-4BA4-900F-5E977FF8D633-25-f76929ed956ba7013f96e7da985ce908.m4a" length="84962226" type="audio/mp4"/>
+      <pubDate>Mon, 01 Jan 2024 08:00:00 +0000</pubDate>
+      <itunes:author>France Culture</itunes:author>
+      <itunes:duration>58:32</itunes:duration>
+      <itunes:subtitle>AUDIO Des bains au comptoir, histoires de convivialité, épisode : Tournée générale ! Les heures heureuses des bistrots. Une série inédite proposée par France Culture. Écoutez Tournée générale ! Les heures heureuses des bistrots, et découvrez nos podcasts </itunes:subtitle>
+      <itunes:summary>AUDIO Des bains au comptoir, histoires de convivialité, épisode : Tournée générale ! Les heures heureuses des bistrots. Une série inédite proposée par France Culture. Écoutez Tournée générale ! Les heures heureuses des bistrots, et découvrez nos podcasts en ligne.</itunes:summary>
     </item>
     <item>
       <title>Coquillettes à toutes les sauces ! Histoire d’un triomphe industriel : épisode du podcast Huile, pain, pâtes et pommes de terre, une histoire populaire | France Culture</title>
