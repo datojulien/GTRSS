@@ -14,7 +14,7 @@
       <link>https://datojulien.github.io/GTRSS/feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Tue, 01 Sep 2026 05:06:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 10:05:24 +0000</lastBuildDate>
     <itunes:author>France Culture</itunes:author>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -24,6 +24,26 @@
     </itunes:owner>
     <itunes:subtitle>Flux personnel généré depuis le site Radio France</itunes:subtitle>
     <itunes:summary>Un flux RSS personnel qui récupère les épisodes depuis le site web de France Culture lorsque le flux officiel n’est pas encore à jour.</itunes:summary>
+    <item>
+      <title>Il était un Petit Âge glaciaire : épisode du podcast Le climat et les humains | France Culture</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/il-etait-un-petit-age-glaciaire-6222003</link>
+      <description>AUDIO Le climat et les humains, épisode : Il était un Petit Âge glaciaire. Une série inédite proposée par France Culture. Écoutez Il était un Petit Âge glaciaire, et découvrez nos podcasts en ligne.</description>
+      <content:encoded><![CDATA[
+        <p>AUDIO Le climat et les humains, épisode : Il était un Petit Âge glaciaire. Une série inédite proposée par France Culture. Écoutez Il était un Petit Âge glaciaire, et découvrez nos podcasts en ligne.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/il-etait-un-petit-age-glaciaire-6222003">France Culture</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/236f7806-02de-4f5b-944f-9ea2705ac2de/300x300" alt="Il était un Petit Âge glaciaire : épisode du podcast Le climat et les humains | France Culture" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/il-etait-un-petit-age-glaciaire-6222003</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26625-01.09.2026-ITEMA_24653450-2026C36128S0244-NET_MFC_32CC9986-04FE-4C59-8F69-681CE65DD3AE-25-aa6e9d6baa54a33867f3fb339ee562f6.m4a" length="85335647" type="audio/mp4"/>
+      <pubDate>Tue, 01 Sep 2026 07:00:00 +0000</pubDate>
+      <itunes:author>France Culture</itunes:author>
+      <itunes:duration>58:47</itunes:duration>
+      <itunes:subtitle>AUDIO Le climat et les humains, épisode : Il était un Petit Âge glaciaire. Une série inédite proposée par France Culture. Écoutez Il était un Petit Âge glaciaire, et découvrez nos podcasts en ligne.</itunes:subtitle>
+      <itunes:summary>AUDIO Le climat et les humains, épisode : Il était un Petit Âge glaciaire. Une série inédite proposée par France Culture. Écoutez Il était un Petit Âge glaciaire, et découvrez nos podcasts en ligne.</itunes:summary>
+    </item>
     <item>
       <title>Temps doux sur l'an mil : épisode du podcast Le climat et les humains | France Culture</title>
       <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/temps-doux-sur-l-an-mil-8237815</link>
