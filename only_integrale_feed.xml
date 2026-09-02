@@ -14,8 +14,8 @@
     <atom:link href="https://datojulien.github.io/GTRSS/only_integrale_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Wed, 02 Sep 2026 14:29:04 GMT</lastBuildDate>
-    <pubDate>Wed, 02 Sep 2026 14:29:04 GMT</pubDate>
+    <lastBuildDate>Wed, 02 Sep 2026 18:42:05 GMT</lastBuildDate>
+    <pubDate>Wed, 02 Sep 2026 18:42:05 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -45,6 +45,32 @@
     <ns3:category text="Comedy" />
     <ns4:person role="host">RTL</ns4:person>
     <ns4:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns4:txt>
+    <item>
+      <title>L'INTÉGRALE - Émission du mercredi 2 septembre 2026</title>
+      <guid isPermaLink="false">ac62f44c-ef38-4d4d-b957-1668b8fa219c</guid>
+      <description>Avec Alex Vizorek, Christophe Beaugrand, Richard Orlinski, Sylvie Tellier, Olivier Bellamy et Caroline Diament.&lt;i&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns5:encoded>Avec Alex Vizorek, Christophe Beaugrand, Richard Orlinski, Sylvie Tellier, Olivier Bellamy et Caroline Diament.&lt;i&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
+      <pubDate>Wed, 02 Sep 2026 16:02:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/ac62f44c-ef38-4d4d-b957-1668b8fa219c.mp3?_=1788357488" length="90896386" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Avec Alex Vizorek, Christophe Beaugrand, Richard Orlinski, Sylvie Tellier, Olivier Bellamy et Caroline Diament.Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
+      <ns3:description>Avec Alex Vizorek, Christophe Beaugrand, Richard Orlinski, Sylvie Tellier, Olivier Bellamy et Caroline Diament.Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Avec Alex Vizorek, Christophe Beaugrand, Richard Orlinski, Sylvie Tellier, Olivier Bellamy et Caroline Diament.Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+Hébergé par Audiomeans. Visitez</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>01:34:40</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/4e29115a-99a3-4775-9adc-6edffa9a4eaa.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/4e29115a-99a3-4775-9adc-6edffa9a4eaa.jpg" />
+      <ns4:person role="host">Laurent Ruquier</ns4:person>
+      <ns4:txt purpose="smartlink">https://audmns.com/nUuhGyd</ns4:txt>
+      <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>L'INTÉGRALE - Émission du mardi 1er septembre 2026</title>
       <guid isPermaLink="false">5bed41b4-b624-4ef7-8e1d-5811c48a1f57</guid>
