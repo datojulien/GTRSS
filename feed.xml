@@ -14,7 +14,7 @@
       <link>https://datojulien.github.io/GTRSS/feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Wed, 02 Sep 2026 04:38:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 09:37:03 +0000</lastBuildDate>
     <itunes:author>France Culture</itunes:author>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -24,6 +24,26 @@
     </itunes:owner>
     <itunes:subtitle>Flux personnel généré depuis le site Radio France</itunes:subtitle>
     <itunes:summary>Un flux RSS personnel qui récupère les épisodes depuis le site web de France Culture lorsque le flux officiel n’est pas encore à jour.</itunes:summary>
+    <item>
+      <title>Climat, histoire d'un intérêt scientifique : épisode du podcast Le climat et les humains | France Culture</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/climat-histoire-d-un-interet-scientifique-8711827</link>
+      <description>AUDIO Le climat et les humains, épisode : Climat, histoire d'un intérêt scientifique. Une série inédite proposée par France Culture. Écoutez Climat, histoire d'un intérêt scientifique, et découvrez nos podcasts en ligne.</description>
+      <content:encoded><![CDATA[
+        <p>AUDIO Le climat et les humains, épisode : Climat, histoire d&#x27;un intérêt scientifique. Une série inédite proposée par France Culture. Écoutez Climat, histoire d&#x27;un intérêt scientifique, et découvrez nos podcasts en ligne.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/climat-histoire-d-un-interet-scientifique-8711827">France Culture</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/388a5605-1077-479a-94df-79fd2b0ffb1b/300x300" alt="Climat, histoire d&#x27;un intérêt scientifique : épisode du podcast Le climat et les humains | France Culture" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/climat-histoire-d-un-interet-scientifique-8711827</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26625-02.09.2026-ITEMA_24654921-2026C36128S0245-NET_MFC_241BA54B-1B42-4B8D-8E75-DCFAE1FACDEF-25-af25c796eaa752b5077d7cd219541b21.m4a" length="85262745" type="audio/mp4"/>
+      <pubDate>Wed, 02 Sep 2026 07:00:00 +0000</pubDate>
+      <itunes:author>France Culture</itunes:author>
+      <itunes:duration>58:44</itunes:duration>
+      <itunes:subtitle>AUDIO Le climat et les humains, épisode : Climat, histoire d'un intérêt scientifique. Une série inédite proposée par France Culture. Écoutez Climat, histoire d'un intérêt scientifique, et découvrez nos podcasts en ligne.</itunes:subtitle>
+      <itunes:summary>AUDIO Le climat et les humains, épisode : Climat, histoire d'un intérêt scientifique. Une série inédite proposée par France Culture. Écoutez Climat, histoire d'un intérêt scientifique, et découvrez nos podcasts en ligne.</itunes:summary>
+    </item>
     <item>
       <title>Il était un Petit Âge glaciaire : épisode du podcast Le climat et les humains | France Culture</title>
       <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/il-etait-un-petit-age-glaciaire-6222003</link>

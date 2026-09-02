@@ -14,8 +14,8 @@
     <atom:link href="https://datojulien.github.io/GTRSS/only_remaining_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Wed, 02 Sep 2026 04:38:56 GMT</lastBuildDate>
-    <pubDate>Wed, 02 Sep 2026 04:38:56 GMT</pubDate>
+    <lastBuildDate>Wed, 02 Sep 2026 09:37:13 GMT</lastBuildDate>
+    <pubDate>Wed, 02 Sep 2026 09:37:13 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -45,6 +45,45 @@
     <ns3:category text="Comedy" />
     <ns4:person role="host">RTL</ns4:person>
     <ns4:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns4:txt>
+    <item>
+      <title>LE MEILLEUR DE RUQUIER - Une institutrice demande à ses élèves ce qu'ils veulent faire dans la vie... L'histoire drôle de Florian Gazan</title>
+      <guid isPermaLink="false">986e4e61-b368-4341-8987-f755b256b6ec</guid>
+      <description>Un jeune élève qui raconte ses grandes ambitions, un groupe d'enfants qui se vantent du métier de leur père et un immeuble effondré à Bruxelles...&amp;nbsp;Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+&lt;i&gt;Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;/i&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns5:encoded>Un jeune élève qui raconte ses grandes ambitions, un groupe d'enfants qui se vantent du métier de leur père et un immeuble effondré à Bruxelles...&amp;nbsp;Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+&lt;i&gt;Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;/i&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
+      <pubDate>Wed, 02 Sep 2026 09:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/986e4e61-b368-4341-8987-f755b256b6ec.mp3?_=1788267881" length="1696779" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Un jeune élève qui raconte ses grandes ambitions, un groupe d'enfants qui se vantent du métier de leur père et un immeuble effondré à Bruxelles... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
+      <ns3:description>Un jeune élève qui raconte ses grandes ambitions, un groupe d'enfants qui se vantent du métier de leur père et un immeuble effondré à Bruxelles... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Un jeune élève qui raconte ses grandes ambitions, un groupe d'enfants qui se vantent du métier de leur père et un immeuble effondré à Bruxelles... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+Tous les...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>01:45</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/bd04f623-4e14-4f60-bae3-3280f021e707.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/bd04f623-4e14-4f60-bae3-3280f021e707.jpg" />
+      <ns4:person role="host">Laurent Ruquier</ns4:person>
+      <ns4:txt purpose="smartlink">https://audmns.com/obSXrsA</ns4:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>LE MEILLEUR DE BOUVARD - La frayeur de Paul Lefebvre</title>
       <guid isPermaLink="false">fc3a5a17-07fd-4b40-a167-d0855b803afc</guid>
