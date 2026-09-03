@@ -14,7 +14,7 @@
       <link>https://datojulien.github.io/GTRSS/feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Thu, 03 Sep 2026 04:38:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 09:48:47 +0000</lastBuildDate>
     <itunes:author>France Culture</itunes:author>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -24,6 +24,26 @@
     </itunes:owner>
     <itunes:subtitle>Flux personnel généré depuis le site Radio France</itunes:subtitle>
     <itunes:summary>Un flux RSS personnel qui récupère les épisodes depuis le site web de France Culture lorsque le flux officiel n’est pas encore à jour.</itunes:summary>
+    <item>
+      <title>Habitat et climat, les bons conseils du passé : épisode du podcast Le climat et les humains | France Culture</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/habitat-et-climat-les-bons-conseils-du-passe-2351854</link>
+      <description>AUDIO Le climat et les humains, épisode : Habitat et climat, les bons conseils du passé. Une série inédite proposée par France Culture. Écoutez Habitat et climat, les bons conseils du passé, et découvrez nos podcasts en ligne.</description>
+      <content:encoded><![CDATA[
+        <p>AUDIO Le climat et les humains, épisode : Habitat et climat, les bons conseils du passé. Une série inédite proposée par France Culture. Écoutez Habitat et climat, les bons conseils du passé, et découvrez nos podcasts en ligne.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/habitat-et-climat-les-bons-conseils-du-passe-2351854">France Culture</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/f33c3980-5777-4cb4-a7ac-25ac495a0a53/300x300" alt="Habitat et climat, les bons conseils du passé : épisode du podcast Le climat et les humains | France Culture" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/habitat-et-climat-les-bons-conseils-du-passe-2351854</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26625-03.09.2026-ITEMA_24656501-2026C36128S0246-NET_MFC_C121F3AF-D9B0-47D7-A981-C5EFF6CC59B3-25-e1f8d388ac85c54205bc43d8de004ea1.m4a" length="85538439" type="audio/mp4"/>
+      <pubDate>Thu, 03 Sep 2026 07:00:00 +0000</pubDate>
+      <itunes:author>France Culture</itunes:author>
+      <itunes:duration>58:55</itunes:duration>
+      <itunes:subtitle>AUDIO Le climat et les humains, épisode : Habitat et climat, les bons conseils du passé. Une série inédite proposée par France Culture. Écoutez Habitat et climat, les bons conseils du passé, et découvrez nos podcasts en ligne.</itunes:subtitle>
+      <itunes:summary>AUDIO Le climat et les humains, épisode : Habitat et climat, les bons conseils du passé. Une série inédite proposée par France Culture. Écoutez Habitat et climat, les bons conseils du passé, et découvrez nos podcasts en ligne.</itunes:summary>
+    </item>
     <item>
       <title>Climat, histoire d'un intérêt scientifique : épisode du podcast Le climat et les humains | France Culture</title>
       <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/climat-histoire-d-un-interet-scientifique-8711827</link>

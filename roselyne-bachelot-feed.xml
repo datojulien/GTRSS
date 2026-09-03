@@ -14,7 +14,7 @@
       <link>https://datojulien.github.io/GTRSS/roselyne-bachelot-feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Thu, 03 Sep 2026 04:38:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 09:48:58 +0000</lastBuildDate>
     <itunes:author>France Musique</itunes:author>
     <itunes:category text="Music"/>
     <itunes:explicit>no</itunes:explicit>
@@ -24,6 +24,26 @@
     </itunes:owner>
     <itunes:subtitle>Flux personnel généré depuis le site Radio France</itunes:subtitle>
     <itunes:summary>Un flux RSS personnel qui récupère les épisodes depuis le site web de France Musique lorsque le flux officiel n’est pas encore à jour.</itunes:summary>
+    <item>
+      <title>Un été musical mouvementé</title>
+      <link>https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/un-ete-musical-mouvemente-7357126</link>
+      <description>Roselyne Bachelot ouvre cette nouvelle saison en proposant un tour d'horizon des opéras de cet été, entre Aix-en-Provence et Bayreuth. Entre coups de cœur et regrets, elle déplore le manque de volonté des grands festivals de se réinventer, dans un contexte budgétaire défavorable pour la culture.</description>
+      <content:encoded><![CDATA[
+        <p>Roselyne Bachelot ouvre cette nouvelle saison en proposant un tour d&#x27;horizon des opéras de cet été, entre Aix-en-Provence et Bayreuth. Entre coups de cœur et regrets, elle déplore le manque de volonté des grands festivals de se réinventer, dans un contexte budgétaire défavorable pour la culture.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/un-ete-musical-mouvemente-7357126">France Musique</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/951b7b95-d363-43f8-9fda-e162b17396fc/300x300" alt="Un été musical mouvementé" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/un-ete-musical-mouvemente-7357126</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26865-03.09.2026-ITEMA_24655837-2026M26307S0246-NET_MFM_04E2D5E4-E03E-4FD1-B4E4-3BCBDC247CEC-25-f216225f068e7aaca4b4c1a94e7a5847.m4a" length="15458377" type="audio/mp4"/>
+      <pubDate>Thu, 03 Sep 2026 06:45:00 +0000</pubDate>
+      <itunes:author>France Musique</itunes:author>
+      <itunes:duration>10:38</itunes:duration>
+      <itunes:subtitle>Roselyne Bachelot ouvre cette nouvelle saison en proposant un tour d'horizon des opéras de cet été, entre Aix-en-Provence et Bayreuth. Entre coups de cœur et regrets, elle déplore le manque de volonté des grands festivals de se réinventer, dans un context</itunes:subtitle>
+      <itunes:summary>Roselyne Bachelot ouvre cette nouvelle saison en proposant un tour d'horizon des opéras de cet été, entre Aix-en-Provence et Bayreuth. Entre coups de cœur et regrets, elle déplore le manque de volonté des grands festivals de se réinventer, dans un contexte budgétaire défavorable pour la culture.</itunes:summary>
+    </item>
     <item>
       <title>Comment se dire adieu ?</title>
       <link>https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/comment-se-dire-adieu-7149184</link>
