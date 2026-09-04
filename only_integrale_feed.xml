@@ -14,8 +14,8 @@
     <atom:link href="https://datojulien.github.io/GTRSS/only_integrale_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Fri, 04 Sep 2026 14:21:30 GMT</lastBuildDate>
-    <pubDate>Fri, 04 Sep 2026 14:21:30 GMT</pubDate>
+    <lastBuildDate>Fri, 04 Sep 2026 18:23:59 GMT</lastBuildDate>
+    <pubDate>Fri, 04 Sep 2026 18:23:59 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -45,6 +45,37 @@
     <ns3:category text="Comedy" />
     <ns4:person role="host">RTL</ns4:person>
     <ns4:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns4:txt>
+    <item>
+      <title>L'INTÉGRALE - Émission du vendredi 4 septembre 2026</title>
+      <guid isPermaLink="false">5941a551-37ff-4390-9a06-fafd1cba0b3d</guid>
+      <description>Avec Valérie Damidot, Roselyne Bachelot, Franck Ferrand, Yoann Riou, Jeanfi Janssens et Michel Field !&amp;nbsp;
+&lt;i&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns5:encoded>Avec Valérie Damidot, Roselyne Bachelot, Franck Ferrand, Yoann Riou, Jeanfi Janssens et Michel Field !&amp;nbsp;
+&lt;i&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
+      <pubDate>Fri, 04 Sep 2026 16:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/5941a551-37ff-4390-9a06-fafd1cba0b3d.mp3?_=1788532387" length="91381215" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Avec Valérie Damidot, Roselyne Bachelot, Franck Ferrand, Yoann Riou, Jeanfi Janssens et Michel Field !
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
+      <ns3:description>Avec Valérie Damidot, Roselyne Bachelot, Franck Ferrand, Yoann Riou, Jeanfi Janssens et Michel Field !
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Avec Valérie Damidot, Roselyne Bachelot, Franck Ferrand, Yoann Riou, Jeanfi Janssens et Michel Field !
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+Hébergé par Audiomeans. Visitez</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>01:35:11</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/7254b996-1bb0-4230-8d74-6590e1a6ae3c.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/7254b996-1bb0-4230-8d74-6590e1a6ae3c.jpg" />
+      <ns4:person role="host">Laurent Ruquier</ns4:person>
+      <ns4:txt purpose="smartlink">https://audmns.com/UxNSJDT</ns4:txt>
+      <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>L'INTÉGRALE - Émission du jeudi 3 septembre 2026</title>
       <guid isPermaLink="false">919b0792-f6ed-4b1c-9f9d-968b3aad4677</guid>
