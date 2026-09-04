@@ -14,8 +14,8 @@
     <atom:link href="https://datojulien.github.io/GTRSS/only_remaining_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Fri, 04 Sep 2026 04:32:09 GMT</lastBuildDate>
-    <pubDate>Fri, 04 Sep 2026 04:32:09 GMT</pubDate>
+    <lastBuildDate>Fri, 04 Sep 2026 09:38:32 GMT</lastBuildDate>
+    <pubDate>Fri, 04 Sep 2026 09:38:32 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -45,6 +45,45 @@
     <ns3:category text="Comedy" />
     <ns4:person role="host">RTL</ns4:person>
     <ns4:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns4:txt>
+    <item>
+      <title>LE MEILLEUR DE RUQUIER - Un curé fait son sermon sous l'effet de l'alcool... L'histoire drôle de Titoff</title>
+      <guid isPermaLink="false">3011e7b6-b2f3-4576-9dcf-972edaa7b010</guid>
+      <description>Un curé éméché,&amp;nbsp; Jonas Kaufmann qui tente de caresser sa femme, et un nouveau-né physiquement difforme... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+&lt;i&gt;&lt;/i&gt;
+&lt;i&gt;Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;/i&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns5:encoded>Un curé éméché,&amp;nbsp; Jonas Kaufmann qui tente de caresser sa femme, et un nouveau-né physiquement difforme... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+&lt;i&gt;&lt;/i&gt;
+&lt;i&gt;Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;/i&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
+      <pubDate>Fri, 04 Sep 2026 09:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/3011e7b6-b2f3-4576-9dcf-972edaa7b010.mp3?_=1788446239" length="2676397" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Un curé éméché, Jonas Kaufmann qui tente de caresser sa femme, et un nouveau-né physiquement difforme... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
+      <ns3:description>Un curé éméché, Jonas Kaufmann qui tente de caresser sa femme, et un nouveau-né physiquement difforme... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Un curé éméché, Jonas Kaufmann qui tente de caresser sa femme, et un nouveau-né physiquement difforme... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+Tous les jours, en podcast, retrouvez une ...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>02:47</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/395a4e00-21c5-4664-a4a4-a726f9915974.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/395a4e00-21c5-4664-a4a4-a726f9915974.jpg" />
+      <ns4:person role="host">Laurent Ruquier</ns4:person>
+      <ns4:txt purpose="smartlink">https://audmns.com/dWKtgsI</ns4:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>LE MEILLEUR DE BOUVARD - Les Grosses Têtes improvisent autour de Montluçon</title>
       <guid isPermaLink="false">0ad722b8-28b1-463b-bf44-195812b3c166</guid>
@@ -2632,47 +2671,6 @@ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pou
       <ns3:image href="https://static.audiomeans.fr/img/episode/1bc3a83b-d271-40c9-ac9c-44611620a7a9.jpg" />
       <ns4:person role="host">Philippe Bouvard</ns4:person>
       <ns4:txt purpose="smartlink">https://audmns.com/EVbpECF</ns4:txt>
-      <itunes:keywords>Philippe Bouvard</itunes:keywords>
-    </item>
-    <item>
-      <title>HOMMAGE À BOUVARD - Ses "dernières confidences" (2/2) : les secrets de fabrication de 37 ans aux commandes des "Grosses Têtes"</title>
-      <guid isPermaLink="false">f7f50706-8b14-4a4a-b0b8-a68c25dee4f9</guid>
-      <description>Dans cette interview "Dernières confidences", Cyril Viguier a rencontré Philippe Bouvard pour TV5MONDE. Alors âgé de 95 ans, Bouvard partageait ses souvenirs d'une carrière exceptionnelle. Une véritable promenade dans les coulisses des Grosses Têtes, l'émission culte qu'il a animée pendant 37 ans sur RTL. Philippe Bouvard révélait alors les secrets de fabrication de ce succès radiophonique, où se mêlaient culture et humour, grâce à une équipe de sociétaires aux esprits brillants et aux caractères bien trempés.
-
-Dans ce podcast, l'équipe des Grosses Têtes vous propose d'écouter ou réécoutez l'interview de l'animateur mythique de la station, décédé le 24 août 2026.&amp;nbsp;
-
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns5:encoded>Dans cette interview "Dernières confidences", Cyril Viguier a rencontré Philippe Bouvard pour TV5MONDE. Alors âgé de 95 ans, Bouvard partageait ses souvenirs d'une carrière exceptionnelle. Une véritable promenade dans les coulisses des Grosses Têtes, l'émission culte qu'il a animée pendant 37 ans sur RTL. Philippe Bouvard révélait alors les secrets de fabrication de ce succès radiophonique, où se mêlaient culture et humour, grâce à une équipe de sociétaires aux esprits brillants et aux caractères bien trempés.
-
-Dans ce podcast, l'équipe des Grosses Têtes vous propose d'écouter ou réécoutez l'interview de l'animateur mythique de la station, décédé le 24 août 2026.&amp;nbsp;
-
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
-      <pubDate>Mon, 24 Aug 2026 06:47:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/f7f50706-8b14-4a4a-b0b8-a68c25dee4f9.mp3?_=1777283583" length="24585299" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Dans cette interview "Dernières confidences", Cyril Viguier a rencontré Philippe Bouvard pour TV5MONDE. Alors âgé de 95 ans, Bouvard partageait ses souvenirs d'une carrière exceptionnelle. Une véritable promenade dans les coulisses des Grosses Têtes, l'émission culte qu'il a animée pendant 37 ans sur RTL. Philippe Bouvard révélait alors les secrets de fabrication de ce succès radiophonique, où se mêlaient culture et humour, grâce à une équipe de sociétaires aux esprits brillants et aux caractères bien trempés.
-
-Dans ce podcast, l'équipe des Grosses Têtes vous propose d'écouter ou réécoutez l'interview de l'animateur mythique de la station, décédé le 24 août 2026.
-
-
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns3:description>Dans cette interview "Dernières confidences", Cyril Viguier a rencontré Philippe Bouvard pour TV5MONDE. Alors âgé de 95 ans, Bouvard partageait ses souvenirs d'une carrière exceptionnelle. Une véritable promenade dans les coulisses des Grosses Têtes, l'émission culte qu'il a animée pendant 37 ans sur RTL. Philippe Bouvard révélait alors les secrets de fabrication de ce succès radiophonique, où se mêlaient culture et humour, grâce à une équipe de sociétaires aux esprits brillants et aux caractères bien trempés.
-
-Dans ce podcast, l'équipe des Grosses Têtes vous propose d'écouter ou réécoutez l'interview de l'animateur mythique de la station, décédé le 24 août 2026.
-
-
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
-      <itunes:author>Philippe Bouvard</itunes:author>
-      <author>Philippe Bouvard</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Dans cette interview "Dernières confidences", Cyril Viguier a rencontré Philippe Bouvard pour TV5MONDE. Alors âgé de 95 ans, Bouvard partageait ses souvenirs d'une carrière exceptionnelle. Une véritable promenade dans les coulisses des Grosses Têtes, l'émission cul...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>25:36</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/9f66908c-48d3-43da-8be6-7241a8a10be5.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/9f66908c-48d3-43da-8be6-7241a8a10be5.jpg" />
-      <ns4:person role="host">Philippe Bouvard</ns4:person>
-      <ns4:txt purpose="smartlink">https://audmns.com/lncZcGu</ns4:txt>
       <itunes:keywords>Philippe Bouvard</itunes:keywords>
     </item>
     <item>
