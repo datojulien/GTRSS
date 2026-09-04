@@ -14,8 +14,8 @@
     <atom:link href="https://datojulien.github.io/GTRSS/only_remaining_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Fri, 04 Sep 2026 09:38:32 GMT</lastBuildDate>
-    <pubDate>Fri, 04 Sep 2026 09:38:32 GMT</pubDate>
+    <lastBuildDate>Fri, 04 Sep 2026 14:21:30 GMT</lastBuildDate>
+    <pubDate>Fri, 04 Sep 2026 14:21:30 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -45,6 +45,41 @@
     <ns3:category text="Comedy" />
     <ns4:person role="host">RTL</ns4:person>
     <ns4:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns4:txt>
+    <item>
+      <title>INÉDIT - Côté coulisses : Lancelot se confie avant l'émission</title>
+      <guid isPermaLink="false">0702ed3f-ed6a-4450-8fd7-2a796243e06e</guid>
+      <description>Dans ce podcast inédit, Lancelot se confie au micro de RTL avant son passage dans l'émission ! L'occasion d'en apprendre un peu plus sur elle, sur ses projets et sur ses souvenirs de l'émission "Les Grosses Têtes".
+
+&lt;i&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns5:encoded>Dans ce podcast inédit, Lancelot se confie au micro de RTL avant son passage dans l'émission ! L'occasion d'en apprendre un peu plus sur elle, sur ses projets et sur ses souvenirs de l'émission "Les Grosses Têtes".
+
+&lt;i&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
+      <pubDate>Fri, 04 Sep 2026 12:30:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/0702ed3f-ed6a-4450-8fd7-2a796243e06e.mp3?_=1788525482" length="5421846" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Dans ce podcast inédit, Lancelot se confie au micro de RTL avant son passage dans l'émission ! L'occasion d'en apprendre un peu plus sur elle, sur ses projets et sur ses souvenirs de l'émission "Les Grosses Têtes".
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
+      <ns3:description>Dans ce podcast inédit, Lancelot se confie au micro de RTL avant son passage dans l'émission ! L'occasion d'en apprendre un peu plus sur elle, sur ses projets et sur ses souvenirs de l'émission "Les Grosses Têtes".
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
+      <itunes:author>Julien Bonneau</itunes:author>
+      <author>Julien Bonneau</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Dans ce podcast inédit, Lancelot se confie au micro de RTL avant son passage dans l'émission ! L'occasion d'en apprendre un peu plus sur elle, sur ses projets et sur ses souvenirs de l'émission "Les Grosses Têtes".
+
+Retrouvez tous les jours le meilleur des Gross...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>05:38</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/c29e1734-dae9-4776-a68f-37fbb0ff0154.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/c29e1734-dae9-4776-a68f-37fbb0ff0154.jpg" />
+      <ns4:person role="host">Julien Bonneau</ns4:person>
+      <ns4:txt purpose="smartlink">https://audmns.com/tIBijZV</ns4:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>LE MEILLEUR DE RUQUIER - Un curé fait son sermon sous l'effet de l'alcool... L'histoire drôle de Titoff</title>
       <guid isPermaLink="false">3011e7b6-b2f3-4576-9dcf-972edaa7b010</guid>
@@ -113,29 +148,29 @@ Hébergé par Audiomeans. Visitez</itunes:subtitle>
     <item>
       <title>LES IMMANQUABLES - Le meilleur de l'émission du 3 septembre 2026</title>
       <guid isPermaLink="false">13f3ad80-c85d-4d0e-ba6d-ead5a3ecfcf9</guid>
-      <description>Sofia Bellabes et Michel Field qui font leurs premières, le grand retour de Christine Bravo, Frederic Beigbeder invité exceptionnel.. Retrouvez dans ce podcast le meilleur de l'émission du jeudi 3 septembre 2026.
+      <description>Sofia Belabbes et Michel Field qui font leurs premières, le grand retour de Christine Bravo, Frederic Beigbeder invité exceptionnel.. Retrouvez dans ce podcast le meilleur de l'émission du jeudi 3 septembre 2026.
 Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns5:encoded>Sofia Bellabes et Michel Field qui font leurs premières, le grand retour de Christine Bravo, Frederic Beigbeder invité exceptionnel.. Retrouvez dans ce podcast le meilleur de l'émission du jeudi 3 septembre 2026.
+      <ns5:encoded>Sofia Belabbes et Michel Field qui font leurs premières, le grand retour de Christine Bravo, Frederic Beigbeder invité exceptionnel.. Retrouvez dans ce podcast le meilleur de l'émission du jeudi 3 septembre 2026.
 Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
       <pubDate>Thu, 03 Sep 2026 15:59:00 GMT</pubDate>
       <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/13f3ad80-c85d-4d0e-ba6d-ead5a3ecfcf9.mp3?_=1788449283" length="28609413" type="audio/mpeg" />
       <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Sofia Bellabes et Michel Field qui font leurs premières, le grand retour de Christine Bravo, Frederic Beigbeder invité exceptionnel.. Retrouvez dans ce podcast le meilleur de l'émission du jeudi 3 septembre 2026.
+      <itunes:summary>Sofia Belabbes et Michel Field qui font leurs premières, le grand retour de Christine Bravo, Frederic Beigbeder invité exceptionnel.. Retrouvez dans ce podcast le meilleur de l'émission du jeudi 3 septembre 2026.
 Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
 Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns3:description>Sofia Bellabes et Michel Field qui font leurs premières, le grand retour de Christine Bravo, Frederic Beigbeder invité exceptionnel.. Retrouvez dans ce podcast le meilleur de l'émission du jeudi 3 septembre 2026.
+      <ns3:description>Sofia Belabbes et Michel Field qui font leurs premières, le grand retour de Christine Bravo, Frederic Beigbeder invité exceptionnel.. Retrouvez dans ce podcast le meilleur de l'émission du jeudi 3 septembre 2026.
 Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
 Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
       <itunes:author>Laurent Ruquier</itunes:author>
       <author>Laurent Ruquier</author>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Sofia Bellabes et Michel Field qui font leurs premières, le grand retour de Christine Bravo, Frederic Beigbeder invité exceptionnel.. Retrouvez dans ce podcast le meilleur de l'émission du jeudi 3 septembre 2026.
+      <itunes:subtitle>Sofia Belabbes et Michel Field qui font leurs premières, le grand retour de Christine Bravo, Frederic Beigbeder invité exceptionnel.. Retrouvez dans ce podcast le meilleur de l'émission du jeudi 3 septembre 2026.
 Retrouvez tous les jours le meilleur des Grosses Têt...</itunes:subtitle>
       <itunes:block>no</itunes:block>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>29:48</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/359d84aa-fbf2-44ed-af7b-41a6ea8f17b6.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/359d84aa-fbf2-44ed-af7b-41a6ea8f17b6.jpg" />
+      <itunes:image href="https://static.audiomeans.fr/img/episode/2e63fd29-5556-46b1-8c3f-c31e96a61c5e.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/2e63fd29-5556-46b1-8c3f-c31e96a61c5e.jpg" />
       <ns4:person role="host">Laurent Ruquier</ns4:person>
       <ns4:txt purpose="smartlink">https://audmns.com/ohhIDxz</ns4:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
@@ -211,25 +246,30 @@ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pou
     <item>
       <title>FACE AUX AUDITEURS - "Notre vie est bien meilleure à votre écoute" : elle remercie les Grosses Têtes pour le bonheur apporté au quotidien</title>
       <guid isPermaLink="false">86e07c89-c1ec-4cbf-9e83-b9bc10b99893</guid>
-      <description>BRAVO /&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns5:encoded>BRAVO /&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
+      <description>Plaintes, compliments, interrogations... Cette saison encore, les Grosses Têtes répondent aux différentes questions et messages des auditeurs à l'antenne.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns5:encoded>Plaintes, compliments, interrogations... Cette saison encore, les Grosses Têtes répondent aux différentes questions et messages des auditeurs à l'antenne.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
       <pubDate>Thu, 03 Sep 2026 15:56:00 GMT</pubDate>
       <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/86e07c89-c1ec-4cbf-9e83-b9bc10b99893.mp3?_=1788449581" length="3471612" type="audio/mpeg" />
       <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>BRAVO /
+      <itunes:summary>Plaintes, compliments, interrogations... Cette saison encore, les Grosses Têtes répondent aux différentes questions et messages des auditeurs à l'antenne.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
 Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns3:description>BRAVO /
+      <ns3:description>Plaintes, compliments, interrogations... Cette saison encore, les Grosses Têtes répondent aux différentes questions et messages des auditeurs à l'antenne.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
 Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
       <itunes:author>Laurent Ruquier</itunes:author>
       <author>Laurent Ruquier</author>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>BRAVO /
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:subtitle>
+      <itunes:subtitle>Plaintes, compliments, interrogations... Cette saison encore, les Grosses Têtes répondent aux différentes questions et messages des auditeurs à l'antenne.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+Hé...</itunes:subtitle>
       <itunes:block>no</itunes:block>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>03:36</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/f1d8bc80-5ee0-4e28-ae2a-3c82a47b97a4.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/f1d8bc80-5ee0-4e28-ae2a-3c82a47b97a4.jpg" />
+      <itunes:image href="https://static.audiomeans.fr/img/episode/1840a483-024c-44e4-8f38-1adab3e6aafe.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/1840a483-024c-44e4-8f38-1adab3e6aafe.jpg" />
       <ns4:person role="host">Laurent Ruquier</ns4:person>
       <ns4:txt purpose="smartlink">https://audmns.com/YDjtFCG</ns4:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
@@ -2631,47 +2671,6 @@ Hébergé par Audiomeans. Visitez</itunes:subtitle>
       <ns4:person role="host">Philippe Bouvard</ns4:person>
       <ns4:txt purpose="smartlink">https://audmns.com/rdKGVQU</ns4:txt>
       <itunes:keywords>Divertissement,bonus,Humour,Culture,Les Grosses Têtes,Philippe Bouvard</itunes:keywords>
-    </item>
-    <item>
-      <title>HOMMAGE À BOUVARD - Ses "dernières confidences" (1/2) : de René Coty à Brigitte Bardot, une vie à côtoyer les plus grands</title>
-      <guid isPermaLink="false">de138479-6a35-40ca-8f11-cba6c94e2e4d</guid>
-      <description>Dans cette interview "Dernières confidences", Cyril Viguier a rencontré Philippe Bouvard pour TV5MONDE. Alors âgé de 95 ans, Bouvard partageait ses souvenirs d'une carrière exceptionnelle.&amp;nbsp;Une véritable promenade dans la vie du journaliste et célèbre animateur des 'Grosses Têtes' sur RTL, depuis ses débuts comme stagiaire au 'Figaro' jusqu'à ses rencontres avec des icônes comme Alain Delon ou Brigitte Bardot.
-
-Dans ce podcast, l'équipe des Grosses Têtes vous propose d'écouter ou réécoutez l'interview de l'animateur mythique de la station, décédé le 24 août 2026.
-
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns5:encoded>Dans cette interview "Dernières confidences", Cyril Viguier a rencontré Philippe Bouvard pour TV5MONDE. Alors âgé de 95 ans, Bouvard partageait ses souvenirs d'une carrière exceptionnelle.&amp;nbsp;Une véritable promenade dans la vie du journaliste et célèbre animateur des 'Grosses Têtes' sur RTL, depuis ses débuts comme stagiaire au 'Figaro' jusqu'à ses rencontres avec des icônes comme Alain Delon ou Brigitte Bardot.
-
-Dans ce podcast, l'équipe des Grosses Têtes vous propose d'écouter ou réécoutez l'interview de l'animateur mythique de la station, décédé le 24 août 2026.
-
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
-      <pubDate>Mon, 24 Aug 2026 06:49:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/de138479-6a35-40ca-8f11-cba6c94e2e4d.mp3?_=1777283883" length="25845646" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Dans cette interview "Dernières confidences", Cyril Viguier a rencontré Philippe Bouvard pour TV5MONDE. Alors âgé de 95 ans, Bouvard partageait ses souvenirs d'une carrière exceptionnelle. Une véritable promenade dans la vie du journaliste et célèbre animateur des 'Grosses Têtes' sur RTL, depuis ses débuts comme stagiaire au 'Figaro' jusqu'à ses rencontres avec des icônes comme Alain Delon ou Brigitte Bardot.
-
-Dans ce podcast, l'équipe des Grosses Têtes vous propose d'écouter ou réécoutez l'interview de l'animateur mythique de la station, décédé le 24 août 2026.
-
-
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns3:description>Dans cette interview "Dernières confidences", Cyril Viguier a rencontré Philippe Bouvard pour TV5MONDE. Alors âgé de 95 ans, Bouvard partageait ses souvenirs d'une carrière exceptionnelle. Une véritable promenade dans la vie du journaliste et célèbre animateur des 'Grosses Têtes' sur RTL, depuis ses débuts comme stagiaire au 'Figaro' jusqu'à ses rencontres avec des icônes comme Alain Delon ou Brigitte Bardot.
-
-Dans ce podcast, l'équipe des Grosses Têtes vous propose d'écouter ou réécoutez l'interview de l'animateur mythique de la station, décédé le 24 août 2026.
-
-
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
-      <itunes:author>Philippe Bouvard</itunes:author>
-      <author>Philippe Bouvard</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Dans cette interview "Dernières confidences", Cyril Viguier a rencontré Philippe Bouvard pour TV5MONDE. Alors âgé de 95 ans, Bouvard partageait ses souvenirs d'une carrière exceptionnelle. Une véritable promenade dans la vie du journaliste et célèbre animateur...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>26:55</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/1bc3a83b-d271-40c9-ac9c-44611620a7a9.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/1bc3a83b-d271-40c9-ac9c-44611620a7a9.jpg" />
-      <ns4:person role="host">Philippe Bouvard</ns4:person>
-      <ns4:txt purpose="smartlink">https://audmns.com/EVbpECF</ns4:txt>
-      <itunes:keywords>Philippe Bouvard</itunes:keywords>
     </item>
     <item>
       <title>MOMENT CULTE - Eric Laugérias chante du Patrick Bruel</title>
