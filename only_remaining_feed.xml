@@ -14,8 +14,8 @@
     <atom:link href="https://datojulien.github.io/GTRSS/only_remaining_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Sat, 05 Sep 2026 04:26:59 GMT</lastBuildDate>
-    <pubDate>Sat, 05 Sep 2026 04:26:59 GMT</pubDate>
+    <lastBuildDate>Sat, 05 Sep 2026 09:04:25 GMT</lastBuildDate>
+    <pubDate>Sat, 05 Sep 2026 09:04:25 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -45,6 +45,45 @@
     <ns3:category text="Comedy" />
     <ns4:person role="host">RTL</ns4:person>
     <ns4:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns4:txt>
+    <item>
+      <title>LE MEILLEUR DE RUQUIER - Titoff, Gazan et Riou arrivent au Paradis... L'histoire drôle d'Isabelle Mergault</title>
+      <guid isPermaLink="false">315fec99-54ec-4e58-af44-995cad583f11</guid>
+      <description>Des Grosses Têtes&amp;nbsp;qui arrivent au Paradis, un automobiliste en excès de vitesse, une femme qui consulte pour son mari impuissant... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+&lt;i&gt;Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;/i&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns5:encoded>Des Grosses Têtes&amp;nbsp;qui arrivent au Paradis, un automobiliste en excès de vitesse, une femme qui consulte pour son mari impuissant... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+&lt;i&gt;Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;/i&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
+      <pubDate>Sat, 05 Sep 2026 09:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/315fec99-54ec-4e58-af44-995cad583f11.mp3?_=1788532915" length="4099606" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Des Grosses Têtes qui arrivent au Paradis, un automobiliste en excès de vitesse, une femme qui consulte pour son mari impuissant... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
+      <ns3:description>Des Grosses Têtes qui arrivent au Paradis, un automobiliste en excès de vitesse, une femme qui consulte pour son mari impuissant... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Des Grosses Têtes qui arrivent au Paradis, un automobiliste en excès de vitesse, une femme qui consulte pour son mari impuissant... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+Tous les jours, en podc...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>04:16</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/704db3cf-a856-49b4-bb18-d516ce17f784.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/704db3cf-a856-49b4-bb18-d516ce17f784.jpg" />
+      <ns4:person role="host">Laurent Ruquier</ns4:person>
+      <ns4:txt purpose="smartlink">https://audmns.com/dcAiYIQ</ns4:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>LE MEILLEUR DE BOUVARD - Les anecdotes de Carlos</title>
       <guid isPermaLink="false">18d5f494-d2c5-4564-9446-8646a01ba7f8</guid>
@@ -2606,47 +2645,6 @@ Hébergé par Audiomeans. Visitez</itunes:subtitle>
       <itunes:image href="https://static.audiomeans.fr/img/episode/7b27f39d-eac7-4ee8-b0aa-97c7999d8596.jpg" />
       <ns3:image href="https://static.audiomeans.fr/img/episode/7b27f39d-eac7-4ee8-b0aa-97c7999d8596.jpg" />
       <ns4:txt purpose="smartlink">https://audmns.com/NzAHMtY</ns4:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>PÉPITE - Laugérias, Boutboul, Jugnot... Les Grosses Têtes rendent hommage à P. Bouvard dans une émission exceptionnelle</title>
-      <guid isPermaLink="false">8d88fb35-25e5-4613-b098-531c75b89ea3</guid>
-      <description>Pendant près de 2h30 ce 24 août, les personnalités se sont succédées pour rendre hommage à Philippe Bouvard, décédé à l'âge de 96 ans.
-
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns5:encoded>Pendant près de 2h30 ce 24 août, les personnalités se sont succédées pour rendre hommage à Philippe Bouvard, décédé à l'âge de 96 ans.
-
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
-      <pubDate>Mon, 24 Aug 2026 15:58:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/8d88fb35-25e5-4613-b098-531c75b89ea3.mp3?_=1787585583" length="30266997" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Pendant près de 2h30 ce 24 août, les personnalités se sont succédées pour rendre hommage à Philippe Bouvard, décédé à l'âge de 96 ans.
-
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns3:description>Pendant près de 2h30 ce 24 août, les personnalités se sont succédées pour rendre hommage à Philippe Bouvard, décédé à l'âge de 96 ans.
-
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Pendant près de 2h30 ce 24 août, les personnalités se sont succédées pour rendre hommage à Philippe Bouvard, décédé à l'âge de 96 ans.
-
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-Hébergé par Audiomea...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>31:31</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/65e2268b-56ed-4ccb-b6de-96aa0ef16b9c.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/65e2268b-56ed-4ccb-b6de-96aa0ef16b9c.jpg" />
-      <ns4:person role="host">Laurent Ruquier</ns4:person>
-      <ns4:txt purpose="smartlink">https://audmns.com/dqjLUDI</ns4:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
