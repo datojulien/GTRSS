@@ -14,8 +14,8 @@
     <atom:link href="https://datojulien.github.io/GTRSS/only_remaining_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Sun, 06 Sep 2026 14:10:47 GMT</lastBuildDate>
-    <pubDate>Sun, 06 Sep 2026 14:10:47 GMT</pubDate>
+    <lastBuildDate>Sun, 06 Sep 2026 17:02:18 GMT</lastBuildDate>
+    <pubDate>Sun, 06 Sep 2026 17:02:18 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -2593,37 +2593,6 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <ns3:image href="https://static.audiomeans.fr/img/episode/76f275a9-a43a-4c2b-b3ef-e0701eaf4fd6.jpg" />
       <ns4:person role="host">Laurent Ruquier</ns4:person>
       <ns4:txt purpose="smartlink">https://audmns.com/wOHiMjh</ns4:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>FAKE NEWS - Philippe Bouvard, Koh Lanta, Ségolène Royale... Quelle Grosse Tête dit vrai ?</title>
-      <guid isPermaLink="false">21a8c921-518a-459c-bf3a-9e93bddf7242</guid>
-      <description>Et vous, saurez-vous démêler le vrai du faux ?
-&lt;i&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns5:encoded>Et vous, saurez-vous démêler le vrai du faux ?
-&lt;i&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
-      <pubDate>Tue, 25 Aug 2026 15:55:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/21a8c921-518a-459c-bf3a-9e93bddf7242.mp3?_=1787670181" length="7640954" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Et vous, saurez-vous démêler le vrai du faux ?
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns3:description>Et vous, saurez-vous démêler le vrai du faux ?
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Et vous, saurez-vous démêler le vrai du faux ?
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-Hébergé par Audiomeans. Visitez audiom...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>07:57</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/4c10f00a-e8d3-4abf-96d7-81baae2a382c.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/4c10f00a-e8d3-4abf-96d7-81baae2a382c.jpg" />
-      <ns4:person role="host">Laurent Ruquier</ns4:person>
-      <ns4:txt purpose="smartlink">https://audmns.com/XLrurMS</ns4:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
