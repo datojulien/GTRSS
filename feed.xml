@@ -14,7 +14,7 @@
       <link>https://datojulien.github.io/GTRSS/feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Mon, 07 Sep 2026 04:39:52 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 10:16:46 +0000</lastBuildDate>
     <itunes:author>France Culture</itunes:author>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -24,6 +24,26 @@
     </itunes:owner>
     <itunes:subtitle>Flux personnel généré depuis le site Radio France</itunes:subtitle>
     <itunes:summary>Un flux RSS personnel qui récupère les épisodes depuis le site web de France Culture lorsque le flux officiel n’est pas encore à jour.</itunes:summary>
+    <item>
+      <title>Le Roi et les livres, l’édition sous surveillance : épisode du podcast Édition, une histoire sous contrôle | France Culture</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/le-roi-et-les-livres-l-edition-sous-surveillance-4567809</link>
+      <description>AUDIO Édition, une histoire sous contrôle, épisode : Le Roi et les livres, l’édition sous surveillance. Une série inédite proposée par France Culture. Écoutez Le Roi et les livres, l’édition sous surveillance, et découvrez nos podcasts en ligne.</description>
+      <content:encoded><![CDATA[
+        <p>AUDIO Édition, une histoire sous contrôle, épisode : Le Roi et les livres, l’édition sous surveillance. Une série inédite proposée par France Culture. Écoutez Le Roi et les livres, l’édition sous surveillance, et découvrez nos podcasts en ligne.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/le-roi-et-les-livres-l-edition-sous-surveillance-4567809">France Culture</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/190915fd-7632-482c-b0d4-e923c5d83650/300x300" alt="Le Roi et les livres, l’édition sous surveillance : épisode du podcast Édition, une histoire sous contrôle | France Culture" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/le-roi-et-les-livres-l-edition-sous-surveillance-4567809</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26625-07.09.2026-ITEMA_24661296-2026C36128S0250-NET_MFC_23663CE2-B376-4D2C-9D91-2C7A9251CE24-25-1d12434ce7798f9fa50f0132af066948.m4a" length="84861497" type="audio/mp4"/>
+      <pubDate>Mon, 07 Sep 2026 07:00:00 +0000</pubDate>
+      <itunes:author>France Culture</itunes:author>
+      <itunes:duration>58:27</itunes:duration>
+      <itunes:subtitle>AUDIO Édition, une histoire sous contrôle, épisode : Le Roi et les livres, l’édition sous surveillance. Une série inédite proposée par France Culture. Écoutez Le Roi et les livres, l’édition sous surveillance, et découvrez nos podcasts en ligne.</itunes:subtitle>
+      <itunes:summary>AUDIO Édition, une histoire sous contrôle, épisode : Le Roi et les livres, l’édition sous surveillance. Une série inédite proposée par France Culture. Écoutez Le Roi et les livres, l’édition sous surveillance, et découvrez nos podcasts en ligne.</itunes:summary>
+    </item>
     <item>
       <title>Habitat et climat, les bons conseils du passé : épisode du podcast Le climat et les humains | France Culture</title>
       <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/habitat-et-climat-les-bons-conseils-du-passe-2351854</link>
