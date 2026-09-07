@@ -14,8 +14,8 @@
     <atom:link href="https://datojulien.github.io/GTRSS/only_integrale_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Mon, 07 Sep 2026 10:16:59 GMT</lastBuildDate>
-    <pubDate>Mon, 07 Sep 2026 10:16:59 GMT</pubDate>
+    <lastBuildDate>Mon, 07 Sep 2026 16:26:59 GMT</lastBuildDate>
+    <pubDate>Mon, 07 Sep 2026 16:26:59 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -45,6 +45,42 @@
     <ns3:category text="Comedy" />
     <ns4:person role="host">RTL</ns4:person>
     <ns4:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns4:txt>
+    <item>
+      <title>L'INTÉGRALE - Émission du lundi 7 septembre 2026</title>
+      <guid isPermaLink="false">a0501b0a-a006-479d-897d-b47eb10a5389</guid>
+      <description>Avec Jérémy Ferrari, Karina Marimon, Yoann Riou, Christophe Barbier, Michel Field et Valérie Damidot.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns5:encoded>Avec Jérémy Ferrari, Karina Marimon, Yoann Riou, Christophe Barbier, Michel Field et Valérie Damidot.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
+      <pubDate>Mon, 07 Sep 2026 16:02:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/a0501b0a-a006-479d-897d-b47eb10a5389.mp3?_=1788791289" length="92396420" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Avec Jérémy Ferrari, Karina Marimon, Yoann Riou, Christophe Barbier, Michel Field et Valérie Damidot.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
+      <ns3:description>Avec Jérémy Ferrari, Karina Marimon, Yoann Riou, Christophe Barbier, Michel Field et Valérie Damidot.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Avec Jérémy Ferrari, Karina Marimon, Yoann Riou, Christophe Barbier, Michel Field et Valérie Damidot.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+Hébergé par Audiomeans. Visitez</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>01:36:14</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/5faf2195-87d0-47ff-bc8a-84604910a972.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/5faf2195-87d0-47ff-bc8a-84604910a972.jpg" />
+      <ns4:person role="host">Laurent Ruquier</ns4:person>
+      <ns4:txt purpose="smartlink">https://audmns.com/qlthOme</ns4:txt>
+      <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>DÉBRIEF - Valérie Damidot revient sur sa première émission !</title>
       <guid isPermaLink="false">0aa5943d-a3af-4e07-b493-27664303a7fe</guid>
@@ -440,97 +476,6 @@ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pou
       <ns3:image href="https://static.audiomeans.fr/img/episode/86ff5b32-5038-446c-afe6-f49b3564fe4f.jpg" />
       <ns4:person role="host">Rachel Azria</ns4:person>
       <ns4:txt purpose="smartlink">https://audmns.com/wmIIJlB</ns4:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>L'INTÉGRALE - Philippe Bouvard : soirée spéciale hommage au créateur des "Grosses Têtes"</title>
-      <guid isPermaLink="false">cdd60f51-ab48-4fac-8840-00cbba43a6f5</guid>
-      <description>Dans cette émission hommage à Philippe Bouvard, Vincent Perrot et ses invités rendent hommage au créateur des 'Grosses Têtes'. Histoires méconnues, archives... De nombreuses personnalités comme Mireille Dumas, Jacques Pradel, Eric Laugérias ou encore Philippe Chevallier se succèdent pour vous raconter leur Philippe Bouvard.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns5:encoded>Dans cette émission hommage à Philippe Bouvard, Vincent Perrot et ses invités rendent hommage au créateur des 'Grosses Têtes'. Histoires méconnues, archives... De nombreuses personnalités comme Mireille Dumas, Jacques Pradel, Eric Laugérias ou encore Philippe Chevallier se succèdent pour vous raconter leur Philippe Bouvard.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
-      <pubDate>Tue, 25 Aug 2026 21:55:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/cdd60f51-ab48-4fac-8840-00cbba43a6f5.mp3?_=1787731992" length="94566336" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Dans cette émission hommage à Philippe Bouvard, Vincent Perrot et ses invités rendent hommage au créateur des 'Grosses Têtes'. Histoires méconnues, archives... De nombreuses personnalités comme Mireille Dumas, Jacques Pradel, Eric Laugérias ou encore Philippe Chevallier se succèdent pour vous raconter leur Philippe Bouvard.
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns3:description>Dans cette émission hommage à Philippe Bouvard, Vincent Perrot et ses invités rendent hommage au créateur des 'Grosses Têtes'. Histoires méconnues, archives... De nombreuses personnalités comme Mireille Dumas, Jacques Pradel, Eric Laugérias ou encore Philippe Chevallier se succèdent pour vous raconter leur Philippe Bouvard.
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
-      <itunes:author>Vincent Perrot</itunes:author>
-      <author>Vincent Perrot</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Dans cette émission hommage à Philippe Bouvard, Vincent Perrot et ses invités rendent hommage au créateur des 'Grosses Têtes'. Histoires méconnues, archives... De nombreuses personnalités comme Mireille Dumas, Jacques Pradel, Eric Laugérias ou encore Philippe Cheva...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>01:38:30</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/61889ac8-c34b-4a15-90d3-108e4afe88e9.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/61889ac8-c34b-4a15-90d3-108e4afe88e9.jpg" />
-      <ns4:person role="host">Vincent Perrot</ns4:person>
-      <ns4:txt purpose="smartlink">https://audmns.com/kkXuQXO</ns4:txt>
-      <itunes:keywords>divertissement,humour,Laurent Ruquier,culture,replay intégral</itunes:keywords>
-    </item>
-    <item>
-      <title>L'INTÉGRALE - Émission du mardi 25 aout 2026</title>
-      <guid isPermaLink="false">9c4ca338-fe53-4a98-93e3-c384770c2347</guid>
-      <description>Avec Gérard Jugnot, Valérie Mairesse, AZ, Adil Rami, Karina Marimon et Jeanfi Janssens.
-&lt;i&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns5:encoded>Avec Gérard Jugnot, Valérie Mairesse, AZ, Adil Rami, Karina Marimon et Jeanfi Janssens.
-&lt;i&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
-      <pubDate>Tue, 25 Aug 2026 16:03:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/9c4ca338-fe53-4a98-93e3-c384770c2347.mp3?_=1787669889" length="109362599" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Avec Gérard Jugnot, Valérie Mairesse, AZ, Adil Rami, Karina Marimon et Jeanfi Janssens.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns3:description>Avec Gérard Jugnot, Valérie Mairesse, AZ, Adil Rami, Karina Marimon et Jeanfi Janssens.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Avec Gérard Jugnot, Valérie Mairesse, AZ, Adil Rami, Karina Marimon et Jeanfi Janssens.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-Hébergé par Audiomeans. Visitez</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>01:53:55</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/c3f28eec-ea4c-46b6-bfab-e7ecae1f8463.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/c3f28eec-ea4c-46b6-bfab-e7ecae1f8463.jpg" />
-      <ns4:person role="host">Laurent Ruquier</ns4:person>
-      <ns4:txt purpose="smartlink">https://audmns.com/jVcxumW</ns4:txt>
-      <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>DÉBRIEF - Adil Rami fait sa rentrée avec les Grosses Têtes</title>
-      <guid isPermaLink="false">93783dda-095e-4e4e-974d-ae7cb12e3ceb</guid>
-      <description>À la fin de chaque émission, retrouvez en exclusivité sur les plateformes de podcast le débrief des 2h30 d'antenne qui viennent de s'écouler, en compagnie d'une des Grosses Têtes du jour... Ce mardi 25 août 2026, Adil Rami s'est confié au micro de Rachel Azria.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns5:encoded>À la fin de chaque émission, retrouvez en exclusivité sur les plateformes de podcast le débrief des 2h30 d'antenne qui viennent de s'écouler, en compagnie d'une des Grosses Têtes du jour... Ce mardi 25 août 2026, Adil Rami s'est confié au micro de Rachel Azria.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
-      <pubDate>Tue, 25 Aug 2026 16:01:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/93783dda-095e-4e4e-974d-ae7cb12e3ceb.mp3?_=1787672282" length="11081937" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>À la fin de chaque émission, retrouvez en exclusivité sur les plateformes de podcast le débrief des 2h30 d'antenne qui viennent de s'écouler, en compagnie d'une des Grosses Têtes du jour... Ce mardi 25 août 2026, Adil Rami s'est confié au micro de Rachel Azria.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns3:description>À la fin de chaque émission, retrouvez en exclusivité sur les plateformes de podcast le débrief des 2h30 d'antenne qui viennent de s'écouler, en compagnie d'une des Grosses Têtes du jour... Ce mardi 25 août 2026, Adil Rami s'est confié au micro de Rachel Azria.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
-      <itunes:author>Rachel Azria</itunes:author>
-      <author>Rachel Azria</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>À la fin de chaque émission, retrouvez en exclusivité sur les plateformes de podcast le débrief des 2h30 d'antenne qui viennent de s'écouler, en compagnie d'une des Grosses Têtes du jour... Ce mardi 25 août 2026, Adil Rami s'est confié au micro de Rachel Azria.
-
-Re...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>11:32</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/75910d96-e007-42bd-b130-e5ff841df8bd.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/75910d96-e007-42bd-b130-e5ff841df8bd.jpg" />
-      <ns4:person role="host">Rachel Azria</ns4:person>
-      <ns4:txt purpose="smartlink">https://audmns.com/rVXOuSi</ns4:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
   </channel>
