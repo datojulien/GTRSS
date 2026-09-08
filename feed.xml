@@ -14,7 +14,7 @@
       <link>https://datojulien.github.io/GTRSS/feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Tue, 08 Sep 2026 04:34:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 09:40:22 +0000</lastBuildDate>
     <itunes:author>France Culture</itunes:author>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -24,6 +24,26 @@
     </itunes:owner>
     <itunes:subtitle>Flux personnel généré depuis le site Radio France</itunes:subtitle>
     <itunes:summary>Un flux RSS personnel qui récupère les épisodes depuis le site web de France Culture lorsque le flux officiel n’est pas encore à jour.</itunes:summary>
+    <item>
+      <title>Le sacre de l’édition, à l'heure de l'industrialisation : épisode du podcast Édition, une histoire sous contrôle | France Culture</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/le-sacre-de-l-edition-a-l-heure-de-l-industrialisation-5690777</link>
+      <description>AUDIO Édition, une histoire sous contrôle, épisode : Le sacre de l’édition, à l'heure de l'industrialisation. Une série inédite proposée par France Culture. Écoutez Le sacre de l’édition, à l'heure de l'industrialisation, et découvrez nos podcasts en ligne.</description>
+      <content:encoded><![CDATA[
+        <p>AUDIO Édition, une histoire sous contrôle, épisode : Le sacre de l’édition, à l&#x27;heure de l&#x27;industrialisation. Une série inédite proposée par France Culture. Écoutez Le sacre de l’édition, à l&#x27;heure de l&#x27;industrialisation, et découvrez nos podcasts en ligne.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/le-sacre-de-l-edition-a-l-heure-de-l-industrialisation-5690777">France Culture</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/f178d801-16df-4f1d-a41e-90b4c707277d/300x300" alt="Le sacre de l’édition, à l&#x27;heure de l&#x27;industrialisation : épisode du podcast Édition, une histoire sous contrôle | France Culture" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/le-sacre-de-l-edition-a-l-heure-de-l-industrialisation-5690777</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26625-08.09.2026-ITEMA_24663051-2026C36128S0251-NET_MFC_F6597161-8957-418F-84FC-8C3BCA6D68A9-25-0b60c80f7048942fae512169dbd9a304.m4a" length="85136449" type="audio/mp4"/>
+      <pubDate>Tue, 08 Sep 2026 07:00:00 +0000</pubDate>
+      <itunes:author>France Culture</itunes:author>
+      <itunes:duration>58:39</itunes:duration>
+      <itunes:subtitle>AUDIO Édition, une histoire sous contrôle, épisode : Le sacre de l’édition, à l'heure de l'industrialisation. Une série inédite proposée par France Culture. Écoutez Le sacre de l’édition, à l'heure de l'industrialisation, et découvrez nos podcasts en lign</itunes:subtitle>
+      <itunes:summary>AUDIO Édition, une histoire sous contrôle, épisode : Le sacre de l’édition, à l'heure de l'industrialisation. Une série inédite proposée par France Culture. Écoutez Le sacre de l’édition, à l'heure de l'industrialisation, et découvrez nos podcasts en ligne.</itunes:summary>
+    </item>
     <item>
       <title>Le Roi et les livres, l’édition sous surveillance : épisode du podcast Édition, une histoire sous contrôle | France Culture</title>
       <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/le-roi-et-les-livres-l-edition-sous-surveillance-4567809</link>
