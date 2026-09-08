@@ -14,8 +14,8 @@
     <atom:link href="https://datojulien.github.io/GTRSS/only_remaining_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Mon, 07 Sep 2026 23:29:39 GMT</lastBuildDate>
-    <pubDate>Mon, 07 Sep 2026 23:29:39 GMT</pubDate>
+    <lastBuildDate>Tue, 08 Sep 2026 04:34:45 GMT</lastBuildDate>
+    <pubDate>Tue, 08 Sep 2026 04:34:45 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -45,6 +45,32 @@
     <ns3:category text="Comedy" />
     <ns4:person role="host">RTL</ns4:person>
     <ns4:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns4:txt>
+    <item>
+      <title>LE MEILLEUR DE BOUVARD - La blague belge de Carlos</title>
+      <guid isPermaLink="false">c7b3b2a3-d972-4ccc-a551-d3308045c67c</guid>
+      <description>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Dans ce podcast, Carlos rie des belges en livrant une blague de trois ouvriers sur un échafaudage.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns5:encoded>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Dans ce podcast, Carlos rie des belges en livrant une blague de trois ouvriers sur un échafaudage.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/c7b3b2a3-d972-4ccc-a551-d3308045c67c.mp3?_=1787672368" length="1229831" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Dans ce podcast, Carlos rie des belges en livrant une blague de trois ouvriers sur un échafaudage.
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
+      <ns3:description>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Dans ce podcast, Carlos rie des belges en livrant une blague de trois ouvriers sur un échafaudage.
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
+      <itunes:author>Philippe Bouvard</itunes:author>
+      <author>Philippe Bouvard</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Dans ce podcast, Carlos rie des belges en livrant une blague de trois ouvriers sur un échafaudage.
+Hébergé par Audiomeans. Visitez</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>01:16</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/907484dc-dc7c-4fe7-8c50-1ef70f66d0ec.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/907484dc-dc7c-4fe7-8c50-1ef70f66d0ec.jpg" />
+      <ns4:person role="host">Philippe Bouvard</ns4:person>
+      <ns4:txt purpose="smartlink">https://audmns.com/LelRoGh</ns4:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>PÉPITE - Laurent Ruquier bientôt fixé sur son "four de Landru"</title>
       <guid isPermaLink="false">e8b450ef-889a-45ab-a85d-6bedc268286a</guid>
@@ -2633,39 +2659,6 @@ Hébergé par Audiomeans. Visitez audiomeans.fr...</itunes:subtitle>
       <ns3:image href="https://static.audiomeans.fr/img/episode/43a0925b-333d-40e0-9e36-91809fc9639f.jpg" />
       <ns4:person role="host">Laurent Ruquier</ns4:person>
       <ns4:txt purpose="smartlink">https://audmns.com/guNoowG</ns4:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>EN RÉSUMÉ - Florian Gazan fait le bilan de l'émission</title>
-      <guid isPermaLink="false">bd2686c2-d39a-4fb9-b262-4da76b7c6510</guid>
-      <description>C'est une nouvelle séquence dans "Les Grosses Têtes" cette saison ! Chaque jour en fin d'émission, une Grosse Tête est désignée par Laurent Ruquier pour distribuer les bons et les mauvais points... A la fin de l'émission, Florian Gazan a dressé le bilan des 2h30 d'antenne.&amp;nbsp;
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns5:encoded>C'est une nouvelle séquence dans "Les Grosses Têtes" cette saison ! Chaque jour en fin d'émission, une Grosse Tête est désignée par Laurent Ruquier pour distribuer les bons et les mauvais points... A la fin de l'émission, Florian Gazan a dressé le bilan des 2h30 d'antenne.&amp;nbsp;
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
-      <pubDate>Wed, 26 Aug 2026 15:52:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/bd2686c2-d39a-4fb9-b262-4da76b7c6510.mp3?_=1787756580" length="5056691" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>C'est une nouvelle séquence dans "Les Grosses Têtes" cette saison ! Chaque jour en fin d'émission, une Grosse Tête est désignée par Laurent Ruquier pour distribuer les bons et les mauvais points... A la fin de l'émission, Florian Gazan a dressé le bilan des 2h30 d'antenne.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns3:description>C'est une nouvelle séquence dans "Les Grosses Têtes" cette saison ! Chaque jour en fin d'émission, une Grosse Tête est désignée par Laurent Ruquier pour distribuer les bons et les mauvais points... A la fin de l'émission, Florian Gazan a dressé le bilan des 2h30 d'antenne.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>C'est une nouvelle séquence dans "Les Grosses Têtes" cette saison ! Chaque jour en fin d'émission, une Grosse Tête est désignée par Laurent Ruquier pour distribuer les bons et les mauvais points... A la fin de l'émission, Florian Gazan a dressé le bilan des 2h30 d'...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>05:15</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/adc6e6e1-7c2f-4798-affe-b5bc473b65f7.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/adc6e6e1-7c2f-4798-affe-b5bc473b65f7.jpg" />
-      <ns4:person role="host">Laurent Ruquier</ns4:person>
-      <ns4:txt purpose="smartlink">https://audmns.com/IhejLHf</ns4:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
