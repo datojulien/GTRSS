@@ -14,8 +14,8 @@
     <atom:link href="https://datojulien.github.io/GTRSS/only_integrale_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Wed, 09 Sep 2026 04:47:55 GMT</lastBuildDate>
-    <pubDate>Wed, 09 Sep 2026 04:47:55 GMT</pubDate>
+    <lastBuildDate>Wed, 09 Sep 2026 09:44:49 GMT</lastBuildDate>
+    <pubDate>Wed, 09 Sep 2026 09:44:49 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -48,25 +48,35 @@
     <item>
       <title>L'INTÉGRALE - Émission du mardi 8 septembe 2026</title>
       <guid isPermaLink="false">0e608f44-f56c-4ec9-8d8c-bb80f66e9669</guid>
-      <description>Ecoutez Les Grosses Têtes avec Laurent Ruquier du 08 septembre 2026.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns5:encoded>Ecoutez Les Grosses Têtes avec Laurent Ruquier du 08 septembre 2026.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
+      <description>Avec Virginie Lemoine, François Berléand, AZ, Charlotte de Turckheim, Valérie Damidot, Florian Gazan et Guillaume Gomez.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns5:encoded>Avec Virginie Lemoine, François Berléand, AZ, Charlotte de Turckheim, Valérie Damidot, Florian Gazan et Guillaume Gomez.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
       <pubDate>Tue, 08 Sep 2026 16:02:00 GMT</pubDate>
       <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/0e608f44-f56c-4ec9-8d8c-bb80f66e9669.mp3?_=1788888787" length="93163525" type="audio/mpeg" />
       <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Ecoutez Les Grosses Têtes avec Laurent Ruquier du 08 septembre 2026.
+      <itunes:summary>Avec Virginie Lemoine, François Berléand, AZ, Charlotte de Turckheim, Valérie Damidot, Florian Gazan et Guillaume Gomez.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
 Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns3:description>Ecoutez Les Grosses Têtes avec Laurent Ruquier du 08 septembre 2026.
+      <ns3:description>Avec Virginie Lemoine, François Berléand, AZ, Charlotte de Turckheim, Valérie Damidot, Florian Gazan et Guillaume Gomez.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
 Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
       <itunes:author>Laurent Ruquier</itunes:author>
       <author>Laurent Ruquier</author>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Ecoutez Les Grosses Têtes avec Laurent Ruquier du 08 septembre 2026.
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:subtitle>
+      <itunes:subtitle>Avec Virginie Lemoine, François Berléand, AZ, Charlotte de Turckheim, Valérie Damidot, Florian Gazan et Guillaume Gomez.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+Hébergé par Audiomeans. Visitez</itunes:subtitle>
       <itunes:block>no</itunes:block>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>01:37:02</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/232e1cdf-e104-4b10-83ec-46fdd4d6129e.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/232e1cdf-e104-4b10-83ec-46fdd4d6129e.jpg" />
+      <itunes:image href="https://static.audiomeans.fr/img/episode/73c38d28-68e3-4995-92aa-6b70a47c0bc5.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/73c38d28-68e3-4995-92aa-6b70a47c0bc5.jpg" />
       <ns4:person role="host">Laurent Ruquier</ns4:person>
       <ns4:txt purpose="smartlink">https://audmns.com/qWISsut</ns4:txt>
       <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes</itunes:keywords>

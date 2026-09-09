@@ -14,7 +14,7 @@
       <link>https://datojulien.github.io/GTRSS/feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Wed, 09 Sep 2026 04:47:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 09:44:39 +0000</lastBuildDate>
     <itunes:author>France Culture</itunes:author>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -24,6 +24,26 @@
     </itunes:owner>
     <itunes:subtitle>Flux personnel généré depuis le site Radio France</itunes:subtitle>
     <itunes:summary>Un flux RSS personnel qui récupère les épisodes depuis le site web de France Culture lorsque le flux officiel n’est pas encore à jour.</itunes:summary>
+    <item>
+      <title>L’édition indépendante, une histoire à contre-courant : épisode du podcast Édition, une histoire sous contrôle | France Culture</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/l-edition-independante-une-histoire-a-contre-courant-2449034</link>
+      <description>AUDIO Édition, une histoire sous contrôle, épisode : L’édition indépendante, une histoire à contre-courant. Une série inédite proposée par France Culture. Écoutez L’édition indépendante, une histoire à contre-courant, et découvrez nos podcasts en ligne.</description>
+      <content:encoded><![CDATA[
+        <p>AUDIO Édition, une histoire sous contrôle, épisode : L’édition indépendante, une histoire à contre-courant. Une série inédite proposée par France Culture. Écoutez L’édition indépendante, une histoire à contre-courant, et découvrez nos podcasts en ligne.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/l-edition-independante-une-histoire-a-contre-courant-2449034">France Culture</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/cf665334-7332-44a8-a839-3313298469d7/300x300" alt="L’édition indépendante, une histoire à contre-courant : épisode du podcast Édition, une histoire sous contrôle | France Culture" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/l-edition-independante-une-histoire-a-contre-courant-2449034</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26625-09.09.2026-ITEMA_24664532-2026C36128S0252-NET_MFC_C0A6AC7C-AD08-48C2-8371-7690A12E5F81-25-b9640680e58a32544c33d7890301e1ff.m4a" length="85355485" type="audio/mp4"/>
+      <pubDate>Wed, 09 Sep 2026 07:00:00 +0000</pubDate>
+      <itunes:author>France Culture</itunes:author>
+      <itunes:duration>58:48</itunes:duration>
+      <itunes:subtitle>AUDIO Édition, une histoire sous contrôle, épisode : L’édition indépendante, une histoire à contre-courant. Une série inédite proposée par France Culture. Écoutez L’édition indépendante, une histoire à contre-courant, et découvrez nos podcasts en ligne.</itunes:subtitle>
+      <itunes:summary>AUDIO Édition, une histoire sous contrôle, épisode : L’édition indépendante, une histoire à contre-courant. Une série inédite proposée par France Culture. Écoutez L’édition indépendante, une histoire à contre-courant, et découvrez nos podcasts en ligne.</itunes:summary>
+    </item>
     <item>
       <title>Le sacre de l’édition, à l'heure de l'industrialisation : épisode du podcast Édition, une histoire sous contrôle | France Culture</title>
       <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/le-sacre-de-l-edition-a-l-heure-de-l-industrialisation-5690777</link>
