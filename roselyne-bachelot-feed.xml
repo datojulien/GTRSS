@@ -14,7 +14,7 @@
       <link>https://datojulien.github.io/GTRSS/roselyne-bachelot-feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Thu, 10 Sep 2026 04:49:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 09:43:30 +0000</lastBuildDate>
     <itunes:author>France Musique</itunes:author>
     <itunes:category text="Music"/>
     <itunes:explicit>no</itunes:explicit>
@@ -24,6 +24,26 @@
     </itunes:owner>
     <itunes:subtitle>Flux personnel généré depuis le site Radio France</itunes:subtitle>
     <itunes:summary>Un flux RSS personnel qui récupère les épisodes depuis le site web de France Musique lorsque le flux officiel n’est pas encore à jour.</itunes:summary>
+    <item>
+      <title>La clôture des Prem’s à la Philharmonie de Paris</title>
+      <link>https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-cloture-des-prem-s-a-la-philharmonie-de-paris-9979478</link>
+      <description>Au matin de la clôture de la deuxième édition des Prem's à la Philharmonie de Paris, Roselyne Bachelot revient sur les interprétations mémorables de ce festival qui fait de la démocratisation culturelle son fer de lance en proposant des places debout au pied de la scène à bas prix.</description>
+      <content:encoded><![CDATA[
+        <p>Au matin de la clôture de la deuxième édition des Prem&#x27;s à la Philharmonie de Paris, Roselyne Bachelot revient sur les interprétations mémorables de ce festival qui fait de la démocratisation culturelle son fer de lance en proposant des places debout au pied de la scène à bas prix.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-cloture-des-prem-s-a-la-philharmonie-de-paris-9979478">France Musique</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/c990bad1-a922-439b-8490-8d74bb5d0d92/300x300" alt="La clôture des Prem’s à la Philharmonie de Paris" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-cloture-des-prem-s-a-la-philharmonie-de-paris-9979478</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26865-10.09.2026-ITEMA_24666121-2026M26307S0253-NET_MFM_0704A2EE-43C8-47D6-B86D-2FDDACDB857A-25-c92c46d399ba0e0bca2e116465237aac.m4a" length="13822180" type="audio/mp4"/>
+      <pubDate>Thu, 10 Sep 2026 06:45:00 +0000</pubDate>
+      <itunes:author>France Musique</itunes:author>
+      <itunes:duration>9:30</itunes:duration>
+      <itunes:subtitle>Au matin de la clôture de la deuxième édition des Prem's à la Philharmonie de Paris, Roselyne Bachelot revient sur les interprétations mémorables de ce festival qui fait de la démocratisation culturelle son fer de lance en proposant des places debout au p</itunes:subtitle>
+      <itunes:summary>Au matin de la clôture de la deuxième édition des Prem's à la Philharmonie de Paris, Roselyne Bachelot revient sur les interprétations mémorables de ce festival qui fait de la démocratisation culturelle son fer de lance en proposant des places debout au pied de la scène à bas prix.</itunes:summary>
+    </item>
     <item>
       <title>Un été musical mouvementé</title>
       <link>https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/un-ete-musical-mouvemente-7357126</link>

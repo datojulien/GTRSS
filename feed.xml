@@ -14,7 +14,7 @@
       <link>https://datojulien.github.io/GTRSS/feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Thu, 10 Sep 2026 04:48:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 09:43:19 +0000</lastBuildDate>
     <itunes:author>France Culture</itunes:author>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -24,6 +24,26 @@
     </itunes:owner>
     <itunes:subtitle>Flux personnel généré depuis le site Radio France</itunes:subtitle>
     <itunes:summary>Un flux RSS personnel qui récupère les épisodes depuis le site web de France Culture lorsque le flux officiel n’est pas encore à jour.</itunes:summary>
+    <item>
+      <title>Couvertures de livres, l'art d'emballer : épisode du podcast Édition, une histoire sous contrôle | France Culture</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/couvertures-de-livres-l-art-d-emballer-9939096</link>
+      <description>AUDIO Édition, une histoire sous contrôle, épisode : Couvertures de livres, l'art d'emballer. Une série inédite proposée par France Culture. Écoutez Couvertures de livres, l'art d'emballer, et découvrez nos podcasts en ligne.</description>
+      <content:encoded><![CDATA[
+        <p>AUDIO Édition, une histoire sous contrôle, épisode : Couvertures de livres, l&#x27;art d&#x27;emballer. Une série inédite proposée par France Culture. Écoutez Couvertures de livres, l&#x27;art d&#x27;emballer, et découvrez nos podcasts en ligne.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/couvertures-de-livres-l-art-d-emballer-9939096">France Culture</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/ae481715-701c-4064-9fb0-e42c19541b86/300x300" alt="Couvertures de livres, l&#x27;art d&#x27;emballer : épisode du podcast Édition, une histoire sous contrôle | France Culture" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/couvertures-de-livres-l-art-d-emballer-9939096</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26625-10.09.2026-ITEMA_24666086-2026C36128S0253-NET_MFC_D4FD5EDE-17C6-4392-8C6D-7B376B01FD65-25-ca742cf5fbdcd2bd6750bf8616e47ca2.m4a" length="85022758" type="audio/mp4"/>
+      <pubDate>Thu, 10 Sep 2026 07:00:00 +0000</pubDate>
+      <itunes:author>France Culture</itunes:author>
+      <itunes:duration>58:34</itunes:duration>
+      <itunes:subtitle>AUDIO Édition, une histoire sous contrôle, épisode : Couvertures de livres, l'art d'emballer. Une série inédite proposée par France Culture. Écoutez Couvertures de livres, l'art d'emballer, et découvrez nos podcasts en ligne.</itunes:subtitle>
+      <itunes:summary>AUDIO Édition, une histoire sous contrôle, épisode : Couvertures de livres, l'art d'emballer. Une série inédite proposée par France Culture. Écoutez Couvertures de livres, l'art d'emballer, et découvrez nos podcasts en ligne.</itunes:summary>
+    </item>
     <item>
       <title>L’édition indépendante, une histoire à contre-courant : épisode du podcast Édition, une histoire sous contrôle | France Culture</title>
       <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/l-edition-independante-une-histoire-a-contre-courant-2449034</link>
