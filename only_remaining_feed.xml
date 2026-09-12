@@ -14,8 +14,8 @@
     <atom:link href="https://datojulien.github.io/GTRSS/only_remaining_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Sat, 12 Sep 2026 14:06:54 GMT</lastBuildDate>
-    <pubDate>Sat, 12 Sep 2026 14:06:54 GMT</pubDate>
+    <lastBuildDate>Sat, 12 Sep 2026 17:09:11 GMT</lastBuildDate>
+    <pubDate>Sat, 12 Sep 2026 17:09:11 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -2694,35 +2694,6 @@ Hébergé par Audiomeans....</itunes:subtitle>
       <ns3:image href="https://static.audiomeans.fr/img/episode/52feabde-91fb-447a-bfb4-6ae53b945956.jpg" />
       <ns4:person role="host">Philippe Bouvard</ns4:person>
       <ns4:txt purpose="smartlink">https://audmns.com/feLxMUl</ns4:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>LES IMMANQUABLES - Le meilleur de l'émission du 31 août 2026</title>
-      <guid isPermaLink="false">32ef02b2-e662-4ab7-8f9b-9624a051b040</guid>
-      <description>Le retour en grandes pompes de Sébastien Thoen, les candidats aux élections présidentielles tous passés par les émissions de Laurent Ruquier ou encore la traduction difficile du langage des jeunes... Retrouvez dans ce podcast le meilleur de l'émission du lundi 31 août 2026.
-&lt;i&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RT&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns5:encoded>Le retour en grandes pompes de Sébastien Thoen, les candidats aux élections présidentielles tous passés par les émissions de Laurent Ruquier ou encore la traduction difficile du langage des jeunes... Retrouvez dans ce podcast le meilleur de l'émission du lundi 31 août 2026.
-&lt;i&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RT&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
-      <pubDate>Mon, 31 Aug 2026 15:59:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/32ef02b2-e662-4ab7-8f9b-9624a051b040.mp3?_=1788186482" length="18075699" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Le retour en grandes pompes de Sébastien Thoen, les candidats aux élections présidentielles tous passés par les émissions de Laurent Ruquier ou encore la traduction difficile du langage des jeunes... Retrouvez dans ce podcast le meilleur de l'émission du lundi 31 août 2026.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RT
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns3:description>Le retour en grandes pompes de Sébastien Thoen, les candidats aux élections présidentielles tous passés par les émissions de Laurent Ruquier ou encore la traduction difficile du langage des jeunes... Retrouvez dans ce podcast le meilleur de l'émission du lundi 31 août 2026.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RT
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Le retour en grandes pompes de Sébastien Thoen, les candidats aux élections présidentielles tous passés par les émissions de Laurent Ruquier ou encore la traduction difficile du langage des jeunes... Retrouvez dans ce podcast le meilleur de l'émission du lundi 31 a...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>18:49</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/70ebf3fd-3d54-4d59-a795-158ff75c7054.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/70ebf3fd-3d54-4d59-a795-158ff75c7054.jpg" />
-      <ns4:person role="host">Laurent Ruquier</ns4:person>
-      <ns4:txt purpose="smartlink">https://audmns.com/IWOsWkd</ns4:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
