@@ -14,7 +14,7 @@
       <link>https://datojulien.github.io/GTRSS/feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Tue, 15 Sep 2026 07:44:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 13:32:41 +0000</lastBuildDate>
     <itunes:author>France Culture</itunes:author>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -24,6 +24,26 @@
     </itunes:owner>
     <itunes:subtitle>Flux personnel généré depuis le site Radio France</itunes:subtitle>
     <itunes:summary>Un flux RSS personnel qui récupère les épisodes depuis le site web de France Culture lorsque le flux officiel n’est pas encore à jour.</itunes:summary>
+    <item>
+      <title>Photographier le patrimoine, figé pour l’éternité : épisode du podcast Photographie, objectif patrimoine | France Culture</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/photographier-le-patrimoine-fige-pour-l-eternite-5489100</link>
+      <description>AUDIO Photographie, objectif patrimoine, épisode : Photographier le patrimoine, figé pour l’éternité. Une série inédite proposée par France Culture. Écoutez Photographier le patrimoine, figé pour l’éternité, et découvrez nos podcasts en ligne.</description>
+      <content:encoded><![CDATA[
+        <p>AUDIO Photographie, objectif patrimoine, épisode : Photographier le patrimoine, figé pour l’éternité. Une série inédite proposée par France Culture. Écoutez Photographier le patrimoine, figé pour l’éternité, et découvrez nos podcasts en ligne.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/photographier-le-patrimoine-fige-pour-l-eternite-5489100">France Culture</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/d7086733-1b5b-4bc9-b14c-d1deb43541de/300x300" alt="Photographier le patrimoine, figé pour l’éternité : épisode du podcast Photographie, objectif patrimoine | France Culture" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/photographier-le-patrimoine-fige-pour-l-eternite-5489100</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26625-15.09.2026-ITEMA_24672616-2026C36128S0258-NET_MFC_353ED7FA-1B04-44D4-8D8E-8D015B2586C8-25-27bc7865223c5dee177c7a3dca454e87.m4a" length="85054364" type="audio/mp4"/>
+      <pubDate>Tue, 15 Sep 2026 07:00:00 +0000</pubDate>
+      <itunes:author>France Culture</itunes:author>
+      <itunes:duration>58:35</itunes:duration>
+      <itunes:subtitle>AUDIO Photographie, objectif patrimoine, épisode : Photographier le patrimoine, figé pour l’éternité. Une série inédite proposée par France Culture. Écoutez Photographier le patrimoine, figé pour l’éternité, et découvrez nos podcasts en ligne.</itunes:subtitle>
+      <itunes:summary>AUDIO Photographie, objectif patrimoine, épisode : Photographier le patrimoine, figé pour l’éternité. Une série inédite proposée par France Culture. Écoutez Photographier le patrimoine, figé pour l’éternité, et découvrez nos podcasts en ligne.</itunes:summary>
+    </item>
     <item>
       <title>Couvertures de livres, l'art d'emballer : épisode du podcast Édition, une histoire sous contrôle | France Culture</title>
       <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/couvertures-de-livres-l-art-d-emballer-9939096</link>
