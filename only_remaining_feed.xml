@@ -14,8 +14,8 @@
     <atom:link href="https://datojulien.github.io/GTRSS/only_remaining_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Wed, 16 Sep 2026 11:32:06 GMT</lastBuildDate>
-    <pubDate>Wed, 16 Sep 2026 11:32:06 GMT</pubDate>
+    <lastBuildDate>Wed, 16 Sep 2026 16:54:11 GMT</lastBuildDate>
+    <pubDate>Wed, 16 Sep 2026 16:54:11 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -46,7 +46,219 @@
     <ns4:person role="host">RTL</ns4:person>
     <ns4:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns4:txt>
     <item>
-      <title>LE MEILLEUR DE RUQUIER - Une bande de sadiques assis sur le banc d'un parc... L'histoire drôle de Roman Doduik</title>
+      <title>LES IMMANQUABLES - Le meilleur de l'émission du 16 septembre 2026</title>
+      <guid isPermaLink="false">0df697ae-0ef1-44d7-b4cb-10effef0e670</guid>
+      <description>La première de Thibaud Agoston, les nouvelles expériences de Fabrizio Bucella, les folies d'Adil Rami... Retrouvez dans ce podcast le meilleur de l'émission du mercredi 16 septembre 2026.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns5:encoded>La première de Thibaud Agoston, les nouvelles expériences de Fabrizio Bucella, les folies d'Adil Rami... Retrouvez dans ce podcast le meilleur de l'émission du mercredi 16 septembre 2026.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
+      <pubDate>Wed, 16 Sep 2026 16:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/0df697ae-0ef1-44d7-b4cb-10effef0e670.mp3?_=1789570383" length="23796149" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>La première de Thibaud Agoston, les nouvelles expériences de Fabrizio Bucella, les folies d'Adil Rami... Retrouvez dans ce podcast le meilleur de l'émission du mercredi 16 septembre 2026.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
+      <ns3:description>La première de Thibaud Agoston, les nouvelles expériences de Fabrizio Bucella, les folies d'Adil Rami... Retrouvez dans ce podcast le meilleur de l'émission du mercredi 16 septembre 2026.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>La première de Thibaud Agoston, les nouvelles expériences de Fabrizio Bucella, les folies d'Adil Rami... Retrouvez dans ce podcast le meilleur de l'émission du mercredi 16 septembre 2026.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>24:47</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/33cc192f-b829-446a-8299-969d3d6e8b52.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/33cc192f-b829-446a-8299-969d3d6e8b52.jpg" />
+      <ns4:person role="host">Laurent Ruquier</ns4:person>
+      <ns4:txt purpose="smartlink">https://audmns.com/QNsRbci</ns4:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
+    <item>
+      <title>EN RÉSUMÉ - Bernard Mabille fait le bilan de l'émission</title>
+      <guid isPermaLink="false">dc0a874b-0bab-4b09-85c7-90958f8c7dd5</guid>
+      <description>C'est une nouvelle séquence dans "Les Grosses Têtes" cette saison ! Chaque jour en fin d'émission, une Grosse Tête est désignée par Laurent Ruquier pour distribuer les bons et les mauvais points... À la fin de l'émission, Bernard Mabille a dressé le bilan des 2h30 d'antenne.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns5:encoded>C'est une nouvelle séquence dans "Les Grosses Têtes" cette saison ! Chaque jour en fin d'émission, une Grosse Tête est désignée par Laurent Ruquier pour distribuer les bons et les mauvais points... À la fin de l'émission, Bernard Mabille a dressé le bilan des 2h30 d'antenne.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
+      <pubDate>Wed, 16 Sep 2026 15:58:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/dc0a874b-0bab-4b09-85c7-90958f8c7dd5.mp3?_=1789567981" length="6987658" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>C'est une nouvelle séquence dans "Les Grosses Têtes" cette saison ! Chaque jour en fin d'émission, une Grosse Tête est désignée par Laurent Ruquier pour distribuer les bons et les mauvais points... À la fin de l'émission, Bernard Mabille a dressé le bilan des 2h30 d'antenne.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
+      <ns3:description>C'est une nouvelle séquence dans "Les Grosses Têtes" cette saison ! Chaque jour en fin d'émission, une Grosse Tête est désignée par Laurent Ruquier pour distribuer les bons et les mauvais points... À la fin de l'émission, Bernard Mabille a dressé le bilan des 2h30 d'antenne.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>C'est une nouvelle séquence dans "Les Grosses Têtes" cette saison ! Chaque jour en fin d'émission, une Grosse Tête est désignée par Laurent Ruquier pour distribuer les bons et les mauvais points... À la fin de l'émission, Bernard Mabille a dressé le bilan des 2h30 ...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>07:16</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/b40f87e2-9041-42aa-9a8e-37da275f5742.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/b40f87e2-9041-42aa-9a8e-37da275f5742.jpg" />
+      <ns4:person role="host">Laurent Ruquier</ns4:person>
+      <ns4:txt purpose="smartlink">https://audmns.com/LfqMHre</ns4:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
+    <item>
+      <title>PÉPITE - Quand Adil Rami vient au secours du professeur Bucella</title>
+      <guid isPermaLink="false">9d22a825-5cc0-4c04-82a0-683fe132b2ca</guid>
+      <description>Après une expérience très bancale, Adil Rami n'a pas hésité à voler au secours du professeur Bucella...
+
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns5:encoded>Après une expérience très bancale, Adil Rami n'a pas hésité à voler au secours du professeur Bucella...
+
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
+      <pubDate>Wed, 16 Sep 2026 15:57:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/9d22a825-5cc0-4c04-82a0-683fe132b2ca.mp3?_=1789574285" length="3249105" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Après une expérience très bancale, Adil Rami n'a pas hésité à voler au secours du professeur Bucella...
+
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
+      <ns3:description>Après une expérience très bancale, Adil Rami n'a pas hésité à voler au secours du professeur Bucella...
+
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Après une expérience très bancale, Adil Rami n'a pas hésité à voler au secours du professeur Bucella...
+
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+Hébergé par Audiomeans. Visitez</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>03:22</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/62448da8-b81a-4be7-ace1-9acaa7d4b240.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/62448da8-b81a-4be7-ace1-9acaa7d4b240.jpg" />
+      <ns4:person role="host">Laurent Ruquier</ns4:person>
+      <ns4:txt purpose="smartlink">https://audmns.com/OEfLJqg</ns4:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
+    <item>
+      <title>FACE AUX AUDITEURS - "Je soupçonne Mme Tchakaloff d'être un peu menteuse" : il relève les contradictions de l'écrivaine</title>
+      <guid isPermaLink="false">6342445c-af1d-4874-89a5-0e77a5323790</guid>
+      <description>Plaintes, compliments, interrogations... Cette saison encore, les Grosses Têtes répondent aux différentes questions et messages des auditeurs à l'antenne.
+
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns5:encoded>Plaintes, compliments, interrogations... Cette saison encore, les Grosses Têtes répondent aux différentes questions et messages des auditeurs à l'antenne.
+
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
+      <pubDate>Wed, 16 Sep 2026 15:56:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/6342445c-af1d-4874-89a5-0e77a5323790.mp3?_=1789570381" length="8154908" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Plaintes, compliments, interrogations... Cette saison encore, les Grosses Têtes répondent aux différentes questions et messages des auditeurs à l'antenne.
+
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
+      <ns3:description>Plaintes, compliments, interrogations... Cette saison encore, les Grosses Têtes répondent aux différentes questions et messages des auditeurs à l'antenne.
+
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Plaintes, compliments, interrogations... Cette saison encore, les Grosses Têtes répondent aux différentes questions et messages des auditeurs à l'antenne.
+
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>08:29</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/ab4702b1-9883-4280-a76c-4162c1bb2368.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/ab4702b1-9883-4280-a76c-4162c1bb2368.jpg" />
+      <ns4:person role="host">Laurent Ruquier</ns4:person>
+      <ns4:txt purpose="smartlink">https://audmns.com/PtgsHrK</ns4:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
+    <item>
+      <title>QUI QUI EXPRESS - A quel marin a-t-on rendu hommage hier à Concarneau ?</title>
+      <guid isPermaLink="false">760381a3-de76-4c23-99fa-3bb77c4d162b</guid>
+      <description>Dans ce jeu du "Qui Qui Express", la règle est simple : à chaque personnalité retrouvée par les Grosses Têtes, l'auditeur ou l'auditrice remporte 50 euros !
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns5:encoded>Dans ce jeu du "Qui Qui Express", la règle est simple : à chaque personnalité retrouvée par les Grosses Têtes, l'auditeur ou l'auditrice remporte 50 euros !
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
+      <pubDate>Wed, 16 Sep 2026 15:55:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/760381a3-de76-4c23-99fa-3bb77c4d162b.mp3?_=1789572181" length="8418125" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Dans ce jeu du "Qui Qui Express", la règle est simple : à chaque personnalité retrouvée par les Grosses Têtes, l'auditeur ou l'auditrice remporte 50 euros !
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
+      <ns3:description>Dans ce jeu du "Qui Qui Express", la règle est simple : à chaque personnalité retrouvée par les Grosses Têtes, l'auditeur ou l'auditrice remporte 50 euros !
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Dans ce jeu du "Qui Qui Express", la règle est simple : à chaque personnalité retrouvée par les Grosses Têtes, l'auditeur ou l'auditrice remporte 50 euros !
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>08:46</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/bfaf1059-2b27-4827-9ae3-873b4095aa6a.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/bfaf1059-2b27-4827-9ae3-873b4095aa6a.jpg" />
+      <ns4:person role="host">Laurent Ruquier</ns4:person>
+      <ns4:txt purpose="smartlink">https://audmns.com/FwQrQoI</ns4:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
+    <item>
+      <title>FAKE NEWS - Céline Dion, Bruno Le Maire, Pape Léon XIV... Quelle Grosse Tête dit vrai ?</title>
+      <guid isPermaLink="false">4431ce46-33b5-419f-8acb-096c9c008dfe</guid>
+      <description>Et vous, saurez-vous démêler le vrai du faux ?
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns5:encoded>Et vous, saurez-vous démêler le vrai du faux ?
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
+      <pubDate>Wed, 16 Sep 2026 15:53:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/4431ce46-33b5-419f-8acb-096c9c008dfe.mp3?_=1789567983" length="6784970" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Et vous, saurez-vous démêler le vrai du faux ?
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
+      <ns3:description>Et vous, saurez-vous démêler le vrai du faux ?
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Et vous, saurez-vous démêler le vrai du faux ?
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+Hébergé par Audiomeans. Visitez audiomeans.fr...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>07:03</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/2b17798e-2b2d-44af-ab6e-c51a819ce85a.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/2b17798e-2b2d-44af-ab6e-c51a819ce85a.jpg" />
+      <ns4:person role="host">Laurent Ruquier</ns4:person>
+      <ns4:txt purpose="smartlink">https://audmns.com/UtyeQGE</ns4:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
+    <item>
+      <title>LE MEILLEUR DE RUQUIER - Des sadiques assis sur un banc... L'histoire drôle de Roman Doduik</title>
       <guid isPermaLink="false">9433916c-5d17-453a-a060-da0b8da04c6f</guid>
       <description>Un bande de sadiques qui s'imaginent torturer un chat, une veuve qui calcule les frais d'enterrement de son défunt mari, la durée de vie d'une moule dévoilée... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
 
@@ -72,8 +284,8 @@ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pou
       <itunes:block>no</itunes:block>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>02:23</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/7955467a-23d4-470b-9b89-d66c8f7d7f95.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/7955467a-23d4-470b-9b89-d66c8f7d7f95.jpg" />
+      <itunes:image href="https://static.audiomeans.fr/img/episode/e949bd16-fda0-443f-bf9a-1d22ff5fa002.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/e949bd16-fda0-443f-bf9a-1d22ff5fa002.jpg" />
       <ns4:person role="host">Laurent Ruquier</ns4:person>
       <ns4:txt purpose="smartlink">https://audmns.com/vSBwxEt</ns4:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
@@ -181,34 +393,32 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
     <item>
       <title>EN RÉSUMÉ - Darie Boutboul fait le bilan de l'émission</title>
       <guid isPermaLink="false">3a74b4ea-2d8c-4e3d-a1a4-a97d2aca0243</guid>
-      <description>C'est une nouvelle séquence dans "Les Grosses Têtes" cette saison ! Chaque jour en fin d'émission, une Grosse Tête est désignée par Laurent Ruquier pour distribuer les bons et les mauvais points... À la fin de l'émission, Az a dressé le bilan des 2h30 d'antenne.
+      <description>C'est une nouvelle séquence dans "Les Grosses Têtes" cette saison ! Chaque jour en fin d'émission, une Grosse Tête est désignée par Laurent Ruquier pour distribuer les bons et les mauvais points... À la fin de l'émission, Darie Boutboul a dressé le bilan des 2h30 d'antenne.
 
 Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns5:encoded>C'est une nouvelle séquence dans "Les Grosses Têtes" cette saison ! Chaque jour en fin d'émission, une Grosse Tête est désignée par Laurent Ruquier pour distribuer les bons et les mauvais points... À la fin de l'émission, Az a dressé le bilan des 2h30 d'antenne.
+      <ns5:encoded>C'est une nouvelle séquence dans "Les Grosses Têtes" cette saison ! Chaque jour en fin d'émission, une Grosse Tête est désignée par Laurent Ruquier pour distribuer les bons et les mauvais points... À la fin de l'émission, Darie Boutboul a dressé le bilan des 2h30 d'antenne.
 
 Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
       <pubDate>Tue, 15 Sep 2026 15:58:00 GMT</pubDate>
       <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/3a74b4ea-2d8c-4e3d-a1a4-a97d2aca0243.mp3?_=1789476481" length="6149204" type="audio/mpeg" />
       <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>C'est une nouvelle séquence dans "Les Grosses Têtes" cette saison ! Chaque jour en fin d'émission, une Grosse Tête est désignée par Laurent Ruquier pour distribuer les bons et les mauvais points... À la fin de l'émission, Az a dressé le bilan des 2h30 d'antenne.
+      <itunes:summary>C'est une nouvelle séquence dans "Les Grosses Têtes" cette saison ! Chaque jour en fin d'émission, une Grosse Tête est désignée par Laurent Ruquier pour distribuer les bons et les mauvais points... À la fin de l'émission, Darie Boutboul a dressé le bilan des 2h30 d'antenne.
 
 Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
 Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns3:description>C'est une nouvelle séquence dans "Les Grosses Têtes" cette saison ! Chaque jour en fin d'émission, une Grosse Tête est désignée par Laurent Ruquier pour distribuer les bons et les mauvais points... À la fin de l'émission, Az a dressé le bilan des 2h30 d'antenne.
+      <ns3:description>C'est une nouvelle séquence dans "Les Grosses Têtes" cette saison ! Chaque jour en fin d'émission, une Grosse Tête est désignée par Laurent Ruquier pour distribuer les bons et les mauvais points... À la fin de l'émission, Darie Boutboul a dressé le bilan des 2h30 d'antenne.
 
 Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
 Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
       <itunes:author>Laurent Ruquier</itunes:author>
       <author>Laurent Ruquier</author>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>C'est une nouvelle séquence dans "Les Grosses Têtes" cette saison ! Chaque jour en fin d'émission, une Grosse Tête est désignée par Laurent Ruquier pour distribuer les bons et les mauvais points... À la fin de l'émission, Az a dressé le bilan des 2h30 d'antenne.
-
-R...</itunes:subtitle>
+      <itunes:subtitle>C'est une nouvelle séquence dans "Les Grosses Têtes" cette saison ! Chaque jour en fin d'émission, une Grosse Tête est désignée par Laurent Ruquier pour distribuer les bons et les mauvais points... À la fin de l'émission, Darie Boutboul a dressé le bilan des 2h30 d...</itunes:subtitle>
       <itunes:block>no</itunes:block>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>06:24</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/77359427-1552-4634-882e-3262636d9efd.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/77359427-1552-4634-882e-3262636d9efd.jpg" />
+      <itunes:image href="https://static.audiomeans.fr/img/episode/b9940ba6-e189-4a3e-a7a7-ed6a7f368066.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/b9940ba6-e189-4a3e-a7a7-ed6a7f368066.jpg" />
       <ns4:person role="host">Laurent Ruquier</ns4:person>
       <ns4:txt purpose="smartlink">https://audmns.com/UajCOcD</ns4:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
@@ -2480,234 +2690,6 @@ Hébergé par Audiomeans. Visitez audiom...</itunes:subtitle>
       <ns3:image href="https://static.audiomeans.fr/img/episode/0db3cbfb-48d2-426d-9d26-e9edbf9005c8.jpg" />
       <ns4:person role="host">Laurent Ruquier</ns4:person>
       <ns4:txt purpose="smartlink">https://audmns.com/cPdXcCx</ns4:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>QUI QUI EXPRESS - Quelle grande voix du Jazz s'est éteinte ce 2 septembre 2026 ?</title>
-      <guid isPermaLink="false">8e51db4b-5b67-4e86-8fe4-020d4b8c9538</guid>
-      <description>Dans ce jeu du "Qui Qui Express", la règle est simple : à chaque personnalité retrouvée par les Grosses Têtes, l'auditeur ou l'auditrice remporte 50 euros !
-&lt;i&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns5:encoded>Dans ce jeu du "Qui Qui Express", la règle est simple : à chaque personnalité retrouvée par les Grosses Têtes, l'auditeur ou l'auditrice remporte 50 euros !
-&lt;i&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
-      <pubDate>Fri, 04 Sep 2026 15:55:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/8e51db4b-5b67-4e86-8fe4-020d4b8c9538.mp3?_=1788530290" length="10552660" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Dans ce jeu du "Qui Qui Express", la règle est simple : à chaque personnalité retrouvée par les Grosses Têtes, l'auditeur ou l'auditrice remporte 50 euros !
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns3:description>Dans ce jeu du "Qui Qui Express", la règle est simple : à chaque personnalité retrouvée par les Grosses Têtes, l'auditeur ou l'auditrice remporte 50 euros !
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Dans ce jeu du "Qui Qui Express", la règle est simple : à chaque personnalité retrouvée par les Grosses Têtes, l'auditeur ou l'auditrice remporte 50 euros !
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL....</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>10:59</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/b9405f90-e7e0-43e3-88a7-8b4cf2404c41.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/b9405f90-e7e0-43e3-88a7-8b4cf2404c41.jpg" />
-      <ns4:person role="host">Laurent Ruquier</ns4:person>
-      <ns4:txt purpose="smartlink">https://audmns.com/LHWwJTn</ns4:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>INÉDIT - Côté coulisses : Lancelot se confie avant l'émission</title>
-      <guid isPermaLink="false">0702ed3f-ed6a-4450-8fd7-2a796243e06e</guid>
-      <description>Dans ce podcast inédit, Lancelot se confie au micro de RTL avant son passage dans l'émission ! L'occasion d'en apprendre un peu plus sur elle, sur ses projets et sur ses souvenirs de l'émission "Les Grosses Têtes".
-
-&lt;i&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns5:encoded>Dans ce podcast inédit, Lancelot se confie au micro de RTL avant son passage dans l'émission ! L'occasion d'en apprendre un peu plus sur elle, sur ses projets et sur ses souvenirs de l'émission "Les Grosses Têtes".
-
-&lt;i&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
-      <pubDate>Fri, 04 Sep 2026 12:30:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/0702ed3f-ed6a-4450-8fd7-2a796243e06e.mp3?_=1788525482" length="5421846" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Dans ce podcast inédit, Lancelot se confie au micro de RTL avant son passage dans l'émission ! L'occasion d'en apprendre un peu plus sur elle, sur ses projets et sur ses souvenirs de l'émission "Les Grosses Têtes".
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns3:description>Dans ce podcast inédit, Lancelot se confie au micro de RTL avant son passage dans l'émission ! L'occasion d'en apprendre un peu plus sur elle, sur ses projets et sur ses souvenirs de l'émission "Les Grosses Têtes".
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
-      <itunes:author>Julien Bonneau</itunes:author>
-      <author>Julien Bonneau</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Dans ce podcast inédit, Lancelot se confie au micro de RTL avant son passage dans l'émission ! L'occasion d'en apprendre un peu plus sur elle, sur ses projets et sur ses souvenirs de l'émission "Les Grosses Têtes".
-
-Retrouvez tous les jours le meilleur des Gross...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>05:38</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/c29e1734-dae9-4776-a68f-37fbb0ff0154.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/c29e1734-dae9-4776-a68f-37fbb0ff0154.jpg" />
-      <ns4:person role="host">Julien Bonneau</ns4:person>
-      <ns4:txt purpose="smartlink">https://audmns.com/tIBijZV</ns4:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>LE MEILLEUR DE RUQUIER - Un curé fait son sermon sous l'effet de l'alcool... L'histoire drôle de Titoff</title>
-      <guid isPermaLink="false">3011e7b6-b2f3-4576-9dcf-972edaa7b010</guid>
-      <description>Un curé éméché,&amp;nbsp; Jonas Kaufmann qui tente de caresser sa femme, et un nouveau-né physiquement difforme... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
-&lt;i&gt;&lt;/i&gt;
-&lt;i&gt;Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;/i&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns5:encoded>Un curé éméché,&amp;nbsp; Jonas Kaufmann qui tente de caresser sa femme, et un nouveau-né physiquement difforme... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
-&lt;i&gt;&lt;/i&gt;
-&lt;i&gt;Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;/i&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
-      <pubDate>Fri, 04 Sep 2026 09:00:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/3011e7b6-b2f3-4576-9dcf-972edaa7b010.mp3?_=1788446239" length="2676397" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Un curé éméché, Jonas Kaufmann qui tente de caresser sa femme, et un nouveau-né physiquement difforme... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
-
-Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
-
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns3:description>Un curé éméché, Jonas Kaufmann qui tente de caresser sa femme, et un nouveau-né physiquement difforme... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
-
-Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
-
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Un curé éméché, Jonas Kaufmann qui tente de caresser sa femme, et un nouveau-né physiquement difforme... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
-
-Tous les jours, en podcast, retrouvez une ...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>02:47</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/395a4e00-21c5-4664-a4a4-a726f9915974.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/395a4e00-21c5-4664-a4a4-a726f9915974.jpg" />
-      <ns4:person role="host">Laurent Ruquier</ns4:person>
-      <ns4:txt purpose="smartlink">https://audmns.com/dWKtgsI</ns4:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>LE MEILLEUR DE BOUVARD - Les Grosses Têtes improvisent autour de Montluçon</title>
-      <guid isPermaLink="false">0ad722b8-28b1-463b-bf44-195812b3c166</guid>
-      <description>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Dans ce podcast, les Grosses Têtes se lancent dans une improvisation inspirée par la ville de Montluçon.&amp;nbsp;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns5:encoded>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Dans ce podcast, les Grosses Têtes se lancent dans une improvisation inspirée par la ville de Montluçon.&amp;nbsp;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/0ad722b8-28b1-463b-bf44-195812b3c166.mp3?_=1787671940" length="1821368" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Dans ce podcast, les Grosses Têtes se lancent dans une improvisation inspirée par la ville de Montluçon.
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns3:description>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Dans ce podcast, les Grosses Têtes se lancent dans une improvisation inspirée par la ville de Montluçon.
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
-      <itunes:author>Philippe Bouvard</itunes:author>
-      <author>Philippe Bouvard</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Dans ce podcast, les Grosses Têtes se lancent dans une improvisation inspirée par la ville de Montluçon.
-Hébergé par Audiomeans. Visitez</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>01:53</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/a8513ec2-bd7a-4ea1-8b79-078f4eec6d9b.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/a8513ec2-bd7a-4ea1-8b79-078f4eec6d9b.jpg" />
-      <ns4:person role="host">Philippe Bouvard</ns4:person>
-      <ns4:txt purpose="smartlink">https://audmns.com/DlbjRAv</ns4:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>LES IMMANQUABLES - Le meilleur de l'émission du 3 septembre 2026</title>
-      <guid isPermaLink="false">13f3ad80-c85d-4d0e-ba6d-ead5a3ecfcf9</guid>
-      <description>Sofia Belabbes et Michel Field qui font leurs premières, le grand retour de Christine Bravo, Frederic Beigbeder invité exceptionnel.. Retrouvez dans ce podcast le meilleur de l'émission du jeudi 3 septembre 2026.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns5:encoded>Sofia Belabbes et Michel Field qui font leurs premières, le grand retour de Christine Bravo, Frederic Beigbeder invité exceptionnel.. Retrouvez dans ce podcast le meilleur de l'émission du jeudi 3 septembre 2026.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
-      <pubDate>Thu, 03 Sep 2026 15:59:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/13f3ad80-c85d-4d0e-ba6d-ead5a3ecfcf9.mp3?_=1788449283" length="28609413" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Sofia Belabbes et Michel Field qui font leurs premières, le grand retour de Christine Bravo, Frederic Beigbeder invité exceptionnel.. Retrouvez dans ce podcast le meilleur de l'émission du jeudi 3 septembre 2026.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns3:description>Sofia Belabbes et Michel Field qui font leurs premières, le grand retour de Christine Bravo, Frederic Beigbeder invité exceptionnel.. Retrouvez dans ce podcast le meilleur de l'émission du jeudi 3 septembre 2026.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Sofia Belabbes et Michel Field qui font leurs premières, le grand retour de Christine Bravo, Frederic Beigbeder invité exceptionnel.. Retrouvez dans ce podcast le meilleur de l'émission du jeudi 3 septembre 2026.
-Retrouvez tous les jours le meilleur des Grosses Têt...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>29:48</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/50c31f0e-c6ed-49c6-89fe-15498075cb62.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/50c31f0e-c6ed-49c6-89fe-15498075cb62.jpg" />
-      <ns4:person role="host">Laurent Ruquier</ns4:person>
-      <ns4:txt purpose="smartlink">https://audmns.com/ohhIDxz</ns4:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>PÉPITE - Christine Bravo en très grande forme, elle raconte ses souvenirs avec Frédéric Beigbeder</title>
-      <guid isPermaLink="false">d9240f40-0548-413b-8a99-430b9d3dbdee</guid>
-      <description>Au milieu des arrivées de nouvelles personnalités comme Michel Field et Sofia Bellabes, Christine Bravo a, elle, fait son grand retour ! Et le moins qu'on puisse dire, c'est qu'elle était en très grande forme...
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns5:encoded>Au milieu des arrivées de nouvelles personnalités comme Michel Field et Sofia Bellabes, Christine Bravo a, elle, fait son grand retour ! Et le moins qu'on puisse dire, c'est qu'elle était en très grande forme...
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
-      <pubDate>Thu, 03 Sep 2026 15:58:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/d9240f40-0548-413b-8a99-430b9d3dbdee.mp3?_=1788450182" length="4265446" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Au milieu des arrivées de nouvelles personnalités comme Michel Field et Sofia Bellabes, Christine Bravo a, elle, fait son grand retour ! Et le moins qu'on puisse dire, c'est qu'elle était en très grande forme...
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns3:description>Au milieu des arrivées de nouvelles personnalités comme Michel Field et Sofia Bellabes, Christine Bravo a, elle, fait son grand retour ! Et le moins qu'on puisse dire, c'est qu'elle était en très grande forme...
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Au milieu des arrivées de nouvelles personnalités comme Michel Field et Sofia Bellabes, Christine Bravo a, elle, fait son grand retour ! Et le moins qu'on puisse dire, c'est qu'elle était en très grande forme...
-
-Retrouvez tous les jours le meilleur des Grosses Têt...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>04:26</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/9ca59a5b-bf78-464a-9ffa-b7f42282c849.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/9ca59a5b-bf78-464a-9ffa-b7f42282c849.jpg" />
-      <ns4:person role="host">Laurent Ruquier</ns4:person>
-      <ns4:txt purpose="smartlink">https://audmns.com/lQljFEa</ns4:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>EN RÉSUMÉ - Paul El Kharrat dresse le bilan de l'émission</title>
-      <guid isPermaLink="false">c15e5f06-7c73-4091-b454-9131d6bf5ae4</guid>
-      <description>C'est une nouvelle séquence dans "Les Grosses Têtes" cette saison ! Chaque jour en fin d'émission, une Grosse Tête est désignée par Laurent Ruquier pour distribuer les bons et les mauvais points... À la fin de l'émission, Paul El Kharrat a dressé le bilan des 2h30 d'antenne.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns5:encoded>C'est une nouvelle séquence dans "Les Grosses Têtes" cette saison ! Chaque jour en fin d'émission, une Grosse Tête est désignée par Laurent Ruquier pour distribuer les bons et les mauvais points... À la fin de l'émission, Paul El Kharrat a dressé le bilan des 2h30 d'antenne.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
-      <pubDate>Thu, 03 Sep 2026 15:57:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/c15e5f06-7c73-4091-b454-9131d6bf5ae4.mp3?_=1788449885" length="5477158" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>C'est une nouvelle séquence dans "Les Grosses Têtes" cette saison ! Chaque jour en fin d'émission, une Grosse Tête est désignée par Laurent Ruquier pour distribuer les bons et les mauvais points... À la fin de l'émission, Paul El Kharrat a dressé le bilan des 2h30 d'antenne.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns3:description>C'est une nouvelle séquence dans "Les Grosses Têtes" cette saison ! Chaque jour en fin d'émission, une Grosse Tête est désignée par Laurent Ruquier pour distribuer les bons et les mauvais points... À la fin de l'émission, Paul El Kharrat a dressé le bilan des 2h30 d'antenne.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>C'est une nouvelle séquence dans "Les Grosses Têtes" cette saison ! Chaque jour en fin d'émission, une Grosse Tête est désignée par Laurent Ruquier pour distribuer les bons et les mauvais points... À la fin de l'émission, Paul El Kharrat a dressé le bilan des 2h30 ...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>05:42</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/a1c09126-72a5-4514-8f4e-d89eefd51163.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/a1c09126-72a5-4514-8f4e-d89eefd51163.jpg" />
-      <ns4:person role="host">Laurent Ruquier</ns4:person>
-      <ns4:txt purpose="smartlink">https://audmns.com/CuMDJYU</ns4:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
