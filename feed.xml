@@ -14,7 +14,7 @@
       <link>https://datojulien.github.io/GTRSS/feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Wed, 16 Sep 2026 06:00:58 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 11:31:54 +0000</lastBuildDate>
     <itunes:author>France Culture</itunes:author>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -24,6 +24,26 @@
     </itunes:owner>
     <itunes:subtitle>Flux personnel généré depuis le site Radio France</itunes:subtitle>
     <itunes:summary>Un flux RSS personnel qui récupère les épisodes depuis le site web de France Culture lorsque le flux officiel n’est pas encore à jour.</itunes:summary>
+    <item>
+      <title>Collectionner et exposer, la photographie au musée : épisode du podcast Photographie, objectif patrimoine | France Culture</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/collectionner-et-exposer-la-photographie-au-musee-6511434</link>
+      <description>AUDIO Photographie, objectif patrimoine, épisode : Collectionner et exposer, la photographie au musée. Une série inédite proposée par France Culture. Écoutez Collectionner et exposer, la photographie au musée, et découvrez nos podcasts en ligne.</description>
+      <content:encoded><![CDATA[
+        <p>AUDIO Photographie, objectif patrimoine, épisode : Collectionner et exposer, la photographie au musée. Une série inédite proposée par France Culture. Écoutez Collectionner et exposer, la photographie au musée, et découvrez nos podcasts en ligne.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/collectionner-et-exposer-la-photographie-au-musee-6511434">France Culture</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/e4f5ebfd-21e1-43be-90c2-2abfc6f24238/300x300" alt="Collectionner et exposer, la photographie au musée : épisode du podcast Photographie, objectif patrimoine | France Culture" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/collectionner-et-exposer-la-photographie-au-musee-6511434</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26625-16.09.2026-ITEMA_24674107-2026C36128S0259-NET_MFC_232350D5-DE01-43B7-9978-E3A6E131FD6C-25-e45ca5148c9dbde7222309eb6f81ef2f.m4a" length="85147908" type="audio/mp4"/>
+      <pubDate>Wed, 16 Sep 2026 07:00:00 +0000</pubDate>
+      <itunes:author>France Culture</itunes:author>
+      <itunes:duration>58:39</itunes:duration>
+      <itunes:subtitle>AUDIO Photographie, objectif patrimoine, épisode : Collectionner et exposer, la photographie au musée. Une série inédite proposée par France Culture. Écoutez Collectionner et exposer, la photographie au musée, et découvrez nos podcasts en ligne.</itunes:subtitle>
+      <itunes:summary>AUDIO Photographie, objectif patrimoine, épisode : Collectionner et exposer, la photographie au musée. Une série inédite proposée par France Culture. Écoutez Collectionner et exposer, la photographie au musée, et découvrez nos podcasts en ligne.</itunes:summary>
+    </item>
     <item>
       <title>Photographier le patrimoine, figé pour l’éternité : épisode du podcast Photographie, objectif patrimoine | France Culture</title>
       <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/photographier-le-patrimoine-fige-pour-l-eternite-5489100</link>
