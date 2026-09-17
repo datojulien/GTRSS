@@ -14,7 +14,7 @@
       <link>https://datojulien.github.io/GTRSS/roselyne-bachelot-feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Thu, 17 Sep 2026 01:24:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 07:38:37 +0000</lastBuildDate>
     <itunes:author>France Musique</itunes:author>
     <itunes:category text="Music"/>
     <itunes:explicit>no</itunes:explicit>
@@ -24,6 +24,26 @@
     </itunes:owner>
     <itunes:subtitle>Flux personnel généré depuis le site Radio France</itunes:subtitle>
     <itunes:summary>Un flux RSS personnel qui récupère les épisodes depuis le site web de France Musique lorsque le flux officiel n’est pas encore à jour.</itunes:summary>
+    <item>
+      <title>Télérama fête son 4000e numéro !</title>
+      <link>https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/telerama-fete-son-4000e-numero-6307667</link>
+      <description>Alors que Télérama vient de faire paraître son quatre millième numéro hebdomadaire, Roselyne Bachelot revient sur quelques coups de cœurs partagés avec le magazine culturel, dont les couvertures et les critiques n'ont pas toujours été à son goût.</description>
+      <content:encoded><![CDATA[
+        <p>Alors que Télérama vient de faire paraître son quatre millième numéro hebdomadaire, Roselyne Bachelot revient sur quelques coups de cœurs partagés avec le magazine culturel, dont les couvertures et les critiques n&#x27;ont pas toujours été à son goût.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/telerama-fete-son-4000e-numero-6307667">France Musique</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/75a646f7-1f3f-479d-81f2-f9d741f98496/300x300" alt="Télérama fête son 4000e numéro !" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/telerama-fete-son-4000e-numero-6307667</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26865-17.09.2026-ITEMA_24675633-2026M26307S0260-NET_MFM_C925BC1D-6277-43AD-B2A6-213B4209FB86-25-b825166609a35ab35b0a8f3c38d107fa.m4a" length="10185663" type="audio/mp4"/>
+      <pubDate>Thu, 17 Sep 2026 06:45:00 +0000</pubDate>
+      <itunes:author>France Musique</itunes:author>
+      <itunes:duration>7:00</itunes:duration>
+      <itunes:subtitle>Alors que Télérama vient de faire paraître son quatre millième numéro hebdomadaire, Roselyne Bachelot revient sur quelques coups de cœurs partagés avec le magazine culturel, dont les couvertures et les critiques n'ont pas toujours été à son goût.</itunes:subtitle>
+      <itunes:summary>Alors que Télérama vient de faire paraître son quatre millième numéro hebdomadaire, Roselyne Bachelot revient sur quelques coups de cœurs partagés avec le magazine culturel, dont les couvertures et les critiques n'ont pas toujours été à son goût.</itunes:summary>
+    </item>
     <item>
       <title>La clôture des Prem’s à la Philharmonie de Paris</title>
       <link>https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-cloture-des-prem-s-a-la-philharmonie-de-paris-9979478</link>
