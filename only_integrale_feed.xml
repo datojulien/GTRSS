@@ -14,8 +14,8 @@
     <atom:link href="https://datojulien.github.io/GTRSS/only_integrale_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Fri, 18 Sep 2026 15:00:36 GMT</lastBuildDate>
-    <pubDate>Fri, 18 Sep 2026 15:00:36 GMT</pubDate>
+    <lastBuildDate>Fri, 18 Sep 2026 18:28:12 GMT</lastBuildDate>
+    <pubDate>Fri, 18 Sep 2026 18:28:12 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -45,6 +45,42 @@
     <ns3:category text="Comedy" />
     <ns4:person role="host">RTL</ns4:person>
     <ns4:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns4:txt>
+    <item>
+      <title>L'INTÉGRALE - Émission du vendredi 18 septembre 2026</title>
+      <guid isPermaLink="false">e91379d4-d2d8-49fd-9fc4-d9885f9defa6</guid>
+      <description>Avec Richard Orlinski, Jérémy Ferrari, Liane Foly, Olivier Bellamy, Sofia Belabbes et Paul El Kharrat.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns5:encoded>Avec Richard Orlinski, Jérémy Ferrari, Liane Foly, Olivier Bellamy, Sofia Belabbes et Paul El Kharrat.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
+      <pubDate>Fri, 18 Sep 2026 16:02:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/e91379d4-d2d8-49fd-9fc4-d9885f9defa6.mp3?_=1789741684" length="89537589" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Avec Richard Orlinski, Jérémy Ferrari, Liane Foly, Olivier Bellamy, Sofia Belabbes et Paul El Kharrat.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
+      <ns3:description>Avec Richard Orlinski, Jérémy Ferrari, Liane Foly, Olivier Bellamy, Sofia Belabbes et Paul El Kharrat.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Avec Richard Orlinski, Jérémy Ferrari, Liane Foly, Olivier Bellamy, Sofia Belabbes et Paul El Kharrat.
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+Hébergé par Audiomeans. Visitez</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>01:33:16</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/c5ccfde3-7bfa-491e-9c19-05787fdc4e6d.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/c5ccfde3-7bfa-491e-9c19-05787fdc4e6d.jpg" />
+      <ns4:person role="host">Laurent Ruquier</ns4:person>
+      <ns4:txt purpose="smartlink">https://audmns.com/mXLdEIF</ns4:txt>
+      <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>L'INTÉGRALE - Émission du jeudi 17 septembre 2026</title>
       <guid isPermaLink="false">fe1e5830-b9b8-44e7-b98e-f5efeab9997e</guid>
