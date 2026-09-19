@@ -14,8 +14,8 @@
     <atom:link href="https://datojulien.github.io/GTRSS/only_remaining_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Sat, 19 Sep 2026 10:58:02 GMT</lastBuildDate>
-    <pubDate>Sat, 19 Sep 2026 10:58:02 GMT</pubDate>
+    <lastBuildDate>Sat, 19 Sep 2026 14:24:51 GMT</lastBuildDate>
+    <pubDate>Sat, 19 Sep 2026 14:24:51 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -46,7 +46,38 @@
     <ns4:person role="host">RTL</ns4:person>
     <ns4:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns4:txt>
     <item>
-      <title>LE MEILLEUR DE RUQUIER - Une question posée aux françaises... L'histoire drôle de FOG</title>
+      <title>BEST OF - Le meilleur de la semaine du 14 au 18 septembre 2026 (1/2)</title>
+      <guid isPermaLink="false">a6647678-0743-4aff-bfd7-f3b3971d4eb1</guid>
+      <description>Dans ce podcast, retrouvez les meilleurs moments qui ont marqué la semaine des Grosses Têtes, du 14 au 18 septembre 2026.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns5:encoded>Dans ce podcast, retrouvez les meilleurs moments qui ont marqué la semaine des Grosses Têtes, du 14 au 18 septembre 2026.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
+      <pubDate>Sat, 19 Sep 2026 13:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/a6647678-0743-4aff-bfd7-f3b3971d4eb1.mp3?_=1789630381" length="4390522" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Dans ce podcast, retrouvez les meilleurs moments qui ont marqué la semaine des Grosses Têtes, du 14 au 18 septembre 2026.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
+      <ns3:description>Dans ce podcast, retrouvez les meilleurs moments qui ont marqué la semaine des Grosses Têtes, du 14 au 18 septembre 2026.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Dans ce podcast, retrouvez les meilleurs moments qui ont marqué la semaine des Grosses Têtes, du 14 au 18 septembre 2026.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+Hébergé par Audiomeans. Visitez</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>04:34</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/43816447-acc9-49b4-9d44-b52652f47fc8.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/43816447-acc9-49b4-9d44-b52652f47fc8.jpg" />
+      <ns4:person role="host">Laurent Ruquier</ns4:person>
+      <ns4:txt purpose="smartlink">https://audmns.com/PQypoUH</ns4:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
+    <item>
+      <title>LE MEILLEUR DE RUQUIER - Une question posée aux françaises... L'histoire drôle de Franz-Olivier Giesbert</title>
       <guid isPermaLink="false">116dc8e3-fbcb-4459-bf7d-4cf2af954b77</guid>
       <description>Un sondage qui demande aux française si elles pourraient avoir une relation sexuelle avec DSK, deux anciens à l'asile, Bit et Foun au restaurant...&amp;nbsp;&amp;nbsp;Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
 
@@ -78,14 +109,14 @@ T...</itunes:subtitle>
       <itunes:block>no</itunes:block>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>01:26</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/f861d443-f459-4ce1-97a6-d4bd34ac5405.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/f861d443-f459-4ce1-97a6-d4bd34ac5405.jpg" />
+      <itunes:image href="https://static.audiomeans.fr/img/episode/bea24488-3380-4b4a-9d85-47eae208565f.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/bea24488-3380-4b4a-9d85-47eae208565f.jpg" />
       <ns4:person role="host">Laurent Ruquier</ns4:person>
       <ns4:txt purpose="smartlink">https://audmns.com/RPqJjGk</ns4:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
-      <title>LE MEILLEUR DE BOUVARD - Un condamné monte à l'échafaud... La Blague de Jacques Mailhot</title>
+      <title>LE MEILLEUR DE BOUVARD - Un condamné monte à l'échafaud... La blague de Jacques Mailhot</title>
       <guid isPermaLink="false">0a171208-72a1-4c61-baea-1cef1e099d4a</guid>
       <description>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Cette histoire de Jacques Mailhot raconte l'histoire d'un homme qui aurait certainement pu éviter son exécution...&amp;nbsp;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
       <ns5:encoded>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Cette histoire de Jacques Mailhot raconte l'histoire d'un homme qui aurait certainement pu éviter son exécution...&amp;nbsp;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
@@ -104,8 +135,8 @@ Hébergé par Audiomeans. Visitez</itunes:subtitle>
       <itunes:block>no</itunes:block>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>01:12</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/25777573-17ab-4313-a6bd-d5e1de6a6747.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/25777573-17ab-4313-a6bd-d5e1de6a6747.jpg" />
+      <itunes:image href="https://static.audiomeans.fr/img/episode/55aad27b-bc99-42a7-ab41-28bf2d24bd01.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/55aad27b-bc99-42a7-ab41-28bf2d24bd01.jpg" />
       <ns4:person role="host">Laurent Ruquier</ns4:person>
       <ns4:txt purpose="smartlink">https://audmns.com/HsACGAx</ns4:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
@@ -2765,39 +2796,6 @@ Hébergé par Audiomeans. Visitez</itunes:subtitle>
       <ns3:image href="https://static.audiomeans.fr/img/episode/907484dc-dc7c-4fe7-8c50-1ef70f66d0ec.jpg" />
       <ns4:person role="host">Philippe Bouvard</ns4:person>
       <ns4:txt purpose="smartlink">https://audmns.com/LelRoGh</ns4:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>PÉPITE - Laurent Ruquier bientôt fixé sur son "four de Landru"</title>
-      <guid isPermaLink="false">e8b450ef-889a-45ab-a85d-6bedc268286a</guid>
-      <description>Depuis des années, Laurent Ruquier possède chez lui le célèbre four de Landru, un tueur en série français qui avait pour habitude de bruler ses victimes. Pour autant, l'animateur n'a jamais eu de certificat d'authencité concernant cet objet. Mais le mystère est apparement en passe d'être résolu...
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns5:encoded>Depuis des années, Laurent Ruquier possède chez lui le célèbre four de Landru, un tueur en série français qui avait pour habitude de bruler ses victimes. Pour autant, l'animateur n'a jamais eu de certificat d'authencité concernant cet objet. Mais le mystère est apparement en passe d'être résolu...
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
-      <pubDate>Mon, 07 Sep 2026 15:58:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/e8b450ef-889a-45ab-a85d-6bedc268286a.mp3?_=1788792181" length="4596156" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Depuis des années, Laurent Ruquier possède chez lui le célèbre four de Landru, un tueur en série français qui avait pour habitude de bruler ses victimes. Pour autant, l'animateur n'a jamais eu de certificat d'authencité concernant cet objet. Mais le mystère est apparement en passe d'être résolu...
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns3:description>Depuis des années, Laurent Ruquier possède chez lui le célèbre four de Landru, un tueur en série français qui avait pour habitude de bruler ses victimes. Pour autant, l'animateur n'a jamais eu de certificat d'authencité concernant cet objet. Mais le mystère est apparement en passe d'être résolu...
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Depuis des années, Laurent Ruquier possède chez lui le célèbre four de Landru, un tueur en série français qui avait pour habitude de bruler ses victimes. Pour autant, l'animateur n'a jamais eu de certificat d'authencité concernant cet objet. Mais le mystère est app...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>04:47</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/5ac9d754-14e4-4d39-a90f-4a3cea0e6c6f.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/5ac9d754-14e4-4d39-a90f-4a3cea0e6c6f.jpg" />
-      <ns4:person role="host">Laurent Ruquier</ns4:person>
-      <ns4:txt purpose="smartlink">https://audmns.com/hXMYezB</ns4:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
