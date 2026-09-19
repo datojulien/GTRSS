@@ -14,8 +14,8 @@
     <atom:link href="https://datojulien.github.io/GTRSS/only_integrale_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Sat, 19 Sep 2026 14:24:51 GMT</lastBuildDate>
-    <pubDate>Sat, 19 Sep 2026 14:24:51 GMT</pubDate>
+    <lastBuildDate>Sat, 19 Sep 2026 18:01:07 GMT</lastBuildDate>
+    <pubDate>Sat, 19 Sep 2026 18:01:07 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -497,42 +497,6 @@ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pou
       <ns4:person role="host">Rachel Azria</ns4:person>
       <ns4:txt purpose="smartlink">https://audmns.com/CLuhrCf</ns4:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>L'INTÉGRALE - Émission du lundi 7 septembre 2026</title>
-      <guid isPermaLink="false">a0501b0a-a006-479d-897d-b47eb10a5389</guid>
-      <description>Avec Jérémy Ferrari, Karina Marimon, Yoann Riou, Christophe Barbier, Michel Field et Valérie Damidot.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns5:encoded>Avec Jérémy Ferrari, Karina Marimon, Yoann Riou, Christophe Barbier, Michel Field et Valérie Damidot.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
-      <pubDate>Mon, 07 Sep 2026 16:02:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/a0501b0a-a006-479d-897d-b47eb10a5389.mp3?_=1788791289" length="92396420" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Avec Jérémy Ferrari, Karina Marimon, Yoann Riou, Christophe Barbier, Michel Field et Valérie Damidot.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns3:description>Avec Jérémy Ferrari, Karina Marimon, Yoann Riou, Christophe Barbier, Michel Field et Valérie Damidot.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Avec Jérémy Ferrari, Karina Marimon, Yoann Riou, Christophe Barbier, Michel Field et Valérie Damidot.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-Hébergé par Audiomeans. Visitez</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>01:36:14</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/5faf2195-87d0-47ff-bc8a-84604910a972.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/5faf2195-87d0-47ff-bc8a-84604910a972.jpg" />
-      <ns4:person role="host">Laurent Ruquier</ns4:person>
-      <ns4:txt purpose="smartlink">https://audmns.com/qlthOme</ns4:txt>
-      <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
   </channel>
 </rss>
