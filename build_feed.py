@@ -296,8 +296,9 @@ def extract_episode_links_from_soup(
     links = []
     show_path = config.show_path.rstrip("/")
     show_slug = show_path.rsplit("/", 1)[-1]
+    show_station = show_path.strip("/").split("/", 1)[0]
     migrated_episode_pattern = re.compile(
-        rf"/{re.escape(show_slug)}(?:/|-).+"
+        rf"^/{re.escape(show_station)}/[^/]+/{re.escape(show_slug)}(?:/|-).+"
     )
 
     for anchor in soup.find_all("a", href=True):
