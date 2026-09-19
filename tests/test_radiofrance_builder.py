@@ -111,6 +111,25 @@ def test_radiofrance_link_extraction_accepts_legacy_episode_slugs():
     ]
 
 
+def test_radiofrance_link_extraction_accepts_migrated_section_episode_slugs():
+    soup = BeautifulSoup(
+        """
+        <a href="/franceinter/podcasts/le-billet-de-francois-rollin">show</a>
+        <a href="/franceinter/emissions/le-billet-de-francois-rollin">show migrated</a>
+        <a href="/franceinter/emissions/le-billet-de-francois-rollin?p=2">page 2 migrated</a>
+        <a href="/franceinter/emissions/le-billet-de-francois-rollin/c-est-parti-1234567">episode migrated</a>
+        """,
+        "html.parser",
+    )
+
+    assert extract_episode_links_from_soup(soup, ROLLIN_CONFIG) == [
+        (
+            "https://www.radiofrance.fr/franceinter/emissions/"
+            "le-billet-de-francois-rollin/c-est-parti-1234567"
+        ),
+    ]
+
+
 def test_public_file_url_defaults_to_github_pages(monkeypatch):
     monkeypatch.delenv("GTRSS_PUBLIC_BASE_URL", raising=False)
     assert public_file_url("feed.xml") == "https://datojulien.github.io/GTRSS/feed.xml"
