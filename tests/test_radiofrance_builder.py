@@ -83,6 +83,7 @@ def test_feed_configs_are_explicit():
     assert ROLLIN_CONFIG.output_file == "francois-rollin-feed.xml"
     assert ROLLIN_CONFIG.follow_pagination is True
     assert ROLLIN_CONFIG.min_published_date == "2025-08-01T00:00:00+00:00"
+    assert ROLLIN_CONFIG.stop_when_before_min_published_date is False
     assert BACHELOT_CONFIG.output_file == "roselyne-bachelot-feed.xml"
     assert BACHELOT_CONFIG.follow_pagination is True
     assert BACHELOT_CONFIG.itunes_author == "France Musique"
@@ -126,6 +127,25 @@ def test_radiofrance_link_extraction_accepts_migrated_section_episode_slugs():
         (
             "https://www.radiofrance.fr/franceinter/emissions/"
             "le-billet-de-francois-rollin/c-est-parti-1234567"
+        ),
+    ]
+
+
+def test_radiofrance_link_extraction_accepts_renamed_show_section_with_same_signature():
+    soup = BeautifulSoup(
+        """
+        <a href="/franceinter/podcasts/le-billet-de-francois-rollin">show</a>
+        <a href="/franceinter/podcasts/la-semaine-de-campagne-de-francois-rollin">new show section</a>
+        <a href="/franceinter/podcasts/la-semaine-de-campagne-de-francois-rollin/la-semaine-de-campagne-de-francois-rollin-du-vendredi-18-septembre-2026-9349696">episode renamed section</a>
+        """,
+        "html.parser",
+    )
+
+    assert extract_episode_links_from_soup(soup, ROLLIN_CONFIG) == [
+        (
+            "https://www.radiofrance.fr/franceinter/podcasts/"
+            "la-semaine-de-campagne-de-francois-rollin/"
+            "la-semaine-de-campagne-de-francois-rollin-du-vendredi-18-septembre-2026-9349696"
         ),
     ]
 
