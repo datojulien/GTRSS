@@ -1,5 +1,41 @@
 [
   {
+    "title": "Finie la démagogie",
+    "description": ".",
+    "audio_url": "https://media.radiofrance-podcast.net/podcast09/26803-18.09.2026-ITEMA_24677084-2026F22864S0261-NET_MFI_242F4D3D-EA92-47BB-9B04-359B487EC824-27-651ca6461cc218fcc7f567f3927147fc.m4a",
+    "audio_type": "audio/mp4",
+    "duration_seconds": 291,
+    "duration_itunes": "4:51",
+    "published": "2026-09-18T14:49:00+00:00",
+    "image": "https://www.radiofrance.fr/pikapi/images/b66e4080-2221-4df9-9205-35e13f450bdd/300x300",
+    "url": "https://www.radiofrance.fr/franceinter/podcasts/la-semaine-de-campagne-de-francois-rollin/la-semaine-de-campagne-de-francois-rollin-du-vendredi-18-septembre-2026-9349696",
+    "audio_length": 7057327
+  },
+  {
+    "title": "Nous partîmes combien ?",
+    "description": ".",
+    "audio_url": "https://media.radiofrance-podcast.net/podcast09/26803-11.09.2026-ITEMA_24667597-2026F22864S0254-NET_MFI_B21F4F4E-26A0-4660-8EB2-0806C9E4B4C8-27-4126e57824e28525de2108b23d2ac8c5.m4a",
+    "audio_type": "audio/mp4",
+    "duration_seconds": 320,
+    "duration_itunes": "5:20",
+    "published": "2026-09-11T14:49:00+00:00",
+    "image": "https://www.radiofrance.fr/pikapi/images/b66e4080-2221-4df9-9205-35e13f450bdd/300x300",
+    "url": "https://www.radiofrance.fr/franceinter/podcasts/la-semaine-de-campagne-de-francois-rollin/la-semaine-de-campagne-de-francois-rollin-du-vendredi-11-septembre-2026-9513096",
+    "audio_length": 7765166
+  },
+  {
+    "title": "La semaine de campagne de François Rollin du vendredi 04 septembre 2026",
+    "description": "",
+    "audio_url": "https://media.radiofrance-podcast.net/podcast09/26803-04.09.2026-ITEMA_24658047-2026F22864S0247-NET_MFI_7616988A-5865-421A-935B-1E4E12DC2D58-27-932812419b546ef11133db20d3801d0c.m4a",
+    "audio_type": "audio/mp4",
+    "duration_seconds": 289,
+    "duration_itunes": "4:49",
+    "published": "2026-09-04T14:49:00+00:00",
+    "image": "https://www.radiofrance.fr/pikapi/images/b66e4080-2221-4df9-9205-35e13f450bdd/300x300",
+    "url": "https://www.radiofrance.fr/franceinter/podcasts/la-semaine-de-campagne-de-francois-rollin/la-semaine-de-campagne-de-francois-rollin-du-vendredi-04-septembre-2026-6695459",
+    "audio_length": 7015963
+  },
+  {
     "title": "C'est parti",
     "description": ".",
     "audio_url": "https://media.radiofrance-podcast.net/podcast09/26803-28.08.2026-ITEMA_24647626-2026F22864S0240-NET_MFI_A2F93939-6A52-4649-85AC-D731E009BDB8-27-7391294864f2d9152abffaac59a22284.m4a",

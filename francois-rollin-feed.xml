@@ -14,7 +14,7 @@
       <link>https://datojulien.github.io/GTRSS/francois-rollin-feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Sun, 20 Sep 2026 00:21:09 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 00:58:29 +0000</lastBuildDate>
     <itunes:author>France Inter</itunes:author>
     <itunes:category text="Comedy"/>
     <itunes:explicit>no</itunes:explicit>
@@ -24,6 +24,66 @@
     </itunes:owner>
     <itunes:subtitle>Flux personnel généré depuis le site Radio France</itunes:subtitle>
     <itunes:summary>Un flux RSS personnel qui récupère les épisodes depuis le site web de France Inter lorsque le flux officiel n’est pas encore à jour.</itunes:summary>
+    <item>
+      <title>Finie la démagogie</title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/la-semaine-de-campagne-de-francois-rollin/la-semaine-de-campagne-de-francois-rollin-du-vendredi-18-septembre-2026-9349696</link>
+      <description>Finie la démagogie</description>
+      <content:encoded><![CDATA[
+        <p>Finie la démagogie</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceinter/podcasts/la-semaine-de-campagne-de-francois-rollin/la-semaine-de-campagne-de-francois-rollin-du-vendredi-18-septembre-2026-9349696">France Inter</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/b66e4080-2221-4df9-9205-35e13f450bdd/300x300" alt="Finie la démagogie" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceinter/podcasts/la-semaine-de-campagne-de-francois-rollin/la-semaine-de-campagne-de-francois-rollin-du-vendredi-18-septembre-2026-9349696</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26803-18.09.2026-ITEMA_24677084-2026F22864S0261-NET_MFI_242F4D3D-EA92-47BB-9B04-359B487EC824-27-651ca6461cc218fcc7f567f3927147fc.m4a" length="7057327" type="audio/mp4"/>
+      <pubDate>Fri, 18 Sep 2026 14:49:00 +0000</pubDate>
+      <itunes:author>France Inter</itunes:author>
+      <itunes:duration>4:51</itunes:duration>
+      <itunes:subtitle>Finie la démagogie</itunes:subtitle>
+      <itunes:summary>Finie la démagogie</itunes:summary>
+    </item>
+    <item>
+      <title>Nous partîmes combien ?</title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/la-semaine-de-campagne-de-francois-rollin/la-semaine-de-campagne-de-francois-rollin-du-vendredi-11-septembre-2026-9513096</link>
+      <description>Nous partîmes combien ?</description>
+      <content:encoded><![CDATA[
+        <p>Nous partîmes combien ?</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceinter/podcasts/la-semaine-de-campagne-de-francois-rollin/la-semaine-de-campagne-de-francois-rollin-du-vendredi-11-septembre-2026-9513096">France Inter</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/b66e4080-2221-4df9-9205-35e13f450bdd/300x300" alt="Nous partîmes combien ?" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceinter/podcasts/la-semaine-de-campagne-de-francois-rollin/la-semaine-de-campagne-de-francois-rollin-du-vendredi-11-septembre-2026-9513096</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26803-11.09.2026-ITEMA_24667597-2026F22864S0254-NET_MFI_B21F4F4E-26A0-4660-8EB2-0806C9E4B4C8-27-4126e57824e28525de2108b23d2ac8c5.m4a" length="7765166" type="audio/mp4"/>
+      <pubDate>Fri, 11 Sep 2026 14:49:00 +0000</pubDate>
+      <itunes:author>France Inter</itunes:author>
+      <itunes:duration>5:20</itunes:duration>
+      <itunes:subtitle>Nous partîmes combien ?</itunes:subtitle>
+      <itunes:summary>Nous partîmes combien ?</itunes:summary>
+    </item>
+    <item>
+      <title>La semaine de campagne de François Rollin du vendredi 04 septembre 2026</title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/la-semaine-de-campagne-de-francois-rollin/la-semaine-de-campagne-de-francois-rollin-du-vendredi-04-septembre-2026-6695459</link>
+      <description>La semaine de campagne de François Rollin du vendredi 04 septembre 2026</description>
+      <content:encoded><![CDATA[
+        <p>La semaine de campagne de François Rollin du vendredi 04 septembre 2026</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceinter/podcasts/la-semaine-de-campagne-de-francois-rollin/la-semaine-de-campagne-de-francois-rollin-du-vendredi-04-septembre-2026-6695459">France Inter</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/b66e4080-2221-4df9-9205-35e13f450bdd/300x300" alt="La semaine de campagne de François Rollin du vendredi 04 septembre 2026" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceinter/podcasts/la-semaine-de-campagne-de-francois-rollin/la-semaine-de-campagne-de-francois-rollin-du-vendredi-04-septembre-2026-6695459</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26803-04.09.2026-ITEMA_24658047-2026F22864S0247-NET_MFI_7616988A-5865-421A-935B-1E4E12DC2D58-27-932812419b546ef11133db20d3801d0c.m4a" length="7015963" type="audio/mp4"/>
+      <pubDate>Fri, 04 Sep 2026 14:49:00 +0000</pubDate>
+      <itunes:author>France Inter</itunes:author>
+      <itunes:duration>4:49</itunes:duration>
+      <itunes:subtitle>La semaine de campagne de François Rollin du vendredi 04 septembre 2026</itunes:subtitle>
+      <itunes:summary>La semaine de campagne de François Rollin du vendredi 04 septembre 2026</itunes:summary>
+    </item>
     <item>
       <title>C'est parti</title>
       <link>https://www.radiofrance.fr/franceinter/podcasts/le-billet-de-francois-rollin/la-semaine-de-campagne-de-francois-rollin-du-vendredi-28-aout-2026-1643223</link>
