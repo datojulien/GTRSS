@@ -297,8 +297,18 @@ def extract_episode_links_from_soup(
     show_path = config.show_path.rstrip("/")
     show_slug = show_path.rsplit("/", 1)[-1]
     show_station = show_path.strip("/").split("/", 1)[0]
+    show_slug_tokens = [
+        token
+        for token in show_slug.split("-")
+        if token and token not in {"le", "la", "les", "de", "du", "des", "l", "d"}
+    ]
+    show_signature = "-".join(show_slug_tokens[-2:] or show_slug_tokens)
     migrated_episode_pattern = re.compile(
         rf"^/{re.escape(show_station)}/[^/]+/{re.escape(show_slug)}(?:/|-).+"
+    )
+    signature_episode_pattern = re.compile(
+        rf"^/{re.escape(show_station)}/(?:podcasts|emissions)/"
+        rf"[^/]*{re.escape(show_signature)}[^/]*(?:/|-).+"
     )
 
     for anchor in soup.find_all("a", href=True):
@@ -314,6 +324,7 @@ def extract_episode_links_from_soup(
             parsed_url.path.startswith(show_path + "/")
             or parsed_url.path.startswith(show_path + "-")
             or migrated_episode_pattern.search(parsed_url.path)
+            or (show_signature and signature_episode_pattern.search(parsed_url.path))
         ):
             continue
 
