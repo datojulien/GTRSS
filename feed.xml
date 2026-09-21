@@ -14,7 +14,7 @@
       <link>https://datojulien.github.io/GTRSS/feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Mon, 21 Sep 2026 06:19:38 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 14:07:43 +0000</lastBuildDate>
     <itunes:author>France Culture</itunes:author>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -24,6 +24,26 @@
     </itunes:owner>
     <itunes:subtitle>Flux personnel généré depuis le site Radio France</itunes:subtitle>
     <itunes:summary>Un flux RSS personnel qui récupère les épisodes depuis le site web de France Culture lorsque le flux officiel n’est pas encore à jour.</itunes:summary>
+    <item>
+      <title>Rome et Avignon, chacun cherche son pape : épisode du podcast Les papes et la France | France Culture</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/rome-et-avignon-chacun-cherche-son-pape-6412794</link>
+      <description>AUDIO Les papes et la France, épisode : Rome et Avignon, chacun cherche son pape. Une série inédite proposée par France Culture. Écoutez Rome et Avignon, chacun cherche son pape, et découvrez nos podcasts en ligne.</description>
+      <content:encoded><![CDATA[
+        <p>AUDIO Les papes et la France, épisode : Rome et Avignon, chacun cherche son pape. Une série inédite proposée par France Culture. Écoutez Rome et Avignon, chacun cherche son pape, et découvrez nos podcasts en ligne.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/rome-et-avignon-chacun-cherche-son-pape-6412794">France Culture</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/20e31452-4611-4ca6-9e40-69757b5f19f9/300x300" alt="Rome et Avignon, chacun cherche son pape : épisode du podcast Les papes et la France | France Culture" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/rome-et-avignon-chacun-cherche-son-pape-6412794</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26625-21.09.2026-ITEMA_24680332-2026C36128S0264-NET_MFC_61B97A46-9B08-4DAB-A499-DDB3509634CC-25-11500a67960ba5bc322aaf4c74365de0.m4a" length="84954274" type="audio/mp4"/>
+      <pubDate>Mon, 21 Sep 2026 07:00:00 +0000</pubDate>
+      <itunes:author>France Culture</itunes:author>
+      <itunes:duration>58:31</itunes:duration>
+      <itunes:subtitle>AUDIO Les papes et la France, épisode : Rome et Avignon, chacun cherche son pape. Une série inédite proposée par France Culture. Écoutez Rome et Avignon, chacun cherche son pape, et découvrez nos podcasts en ligne.</itunes:subtitle>
+      <itunes:summary>AUDIO Les papes et la France, épisode : Rome et Avignon, chacun cherche son pape. Une série inédite proposée par France Culture. Écoutez Rome et Avignon, chacun cherche son pape, et découvrez nos podcasts en ligne.</itunes:summary>
+    </item>
     <item>
       <title>Appel à collecte ! Des photos pour les archives : épisode du podcast Photographie, objectif patrimoine | France Culture</title>
       <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/appel-a-collecte-des-photos-pour-les-archives-5352259</link>
