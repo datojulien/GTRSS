@@ -14,8 +14,8 @@
     <atom:link href="https://datojulien.github.io/GTRSS/only_remaining_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Mon, 21 Sep 2026 23:17:14 GMT</lastBuildDate>
-    <pubDate>Mon, 21 Sep 2026 23:17:14 GMT</pubDate>
+    <lastBuildDate>Tue, 22 Sep 2026 04:55:01 GMT</lastBuildDate>
+    <pubDate>Tue, 22 Sep 2026 04:55:01 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -45,6 +45,31 @@
     <ns3:category text="Comedy" />
     <ns4:person role="host">RTL</ns4:person>
     <ns4:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns4:txt>
+    <item>
+      <title>LE MEILLEUR DE BOUVARD - Une prostituée qui cache bien son jeu... La blague d'Enrico Macias</title>
+      <guid isPermaLink="false">e76b2a63-7424-4b1b-b4d3-f98b16ea361a</guid>
+      <description>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Dans cette séquence signée Enrico Macias, un joueur dépense ses gains pour s'offrir les prestations toujours plus chères d'une prostituée de Las Vegas.&amp;nbsp;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns5:encoded>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Dans cette séquence signée Enrico Macias, un joueur dépense ses gains pour s'offrir les prestations toujours plus chères d'une prostituée de Las Vegas.&amp;nbsp;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/e76b2a63-7424-4b1b-b4d3-f98b16ea361a.mp3?_=1790000164" length="1569911" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Dans cette séquence signée Enrico Macias, un joueur dépense ses gains pour s'offrir les prestations toujours plus chères d'une prostituée de Las Vegas.
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
+      <ns3:description>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Dans cette séquence signée Enrico Macias, un joueur dépense ses gains pour s'offrir les prestations toujours plus chères d'une prostituée de Las Vegas.
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Dans cette séquence signée Enrico Macias, un joueur dépense ses gains pour s'offrir les prestations toujours plus chères d'une prostituée de Las Vegas.</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>01:38</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/d174d56a-8d6c-413c-be96-5e05be0804c5.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/d174d56a-8d6c-413c-be96-5e05be0804c5.jpg" />
+      <ns4:person role="host">Laurent Ruquier</ns4:person>
+      <ns4:txt purpose="smartlink">https://audmns.com/ZuzBvzU</ns4:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>LES IMMANQUABLES - Le meilleur de l'émission du 21 septembre 2026</title>
       <guid isPermaLink="false">cac258b8-9815-44ca-877f-b1fc5459d6d7</guid>
@@ -2743,37 +2768,6 @@ Hébergé par Audiomeans. Visitez audiomeans.fr...</itunes:subtitle>
       <ns3:image href="https://static.audiomeans.fr/img/episode/6b43f6ed-bc1f-4b38-87f6-a02227a80c5d.jpg" />
       <ns4:person role="host">Laurent Ruquier</ns4:person>
       <ns4:txt purpose="smartlink">https://audmns.com/qZmxpdw</ns4:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>QUI QUI EXPRESS - Qui est Robert Francis Prevost ?</title>
-      <guid isPermaLink="false">d433bf3e-dacd-49a2-b040-f5591271b57a</guid>
-      <description>Dans ce jeu du "Qui Qui Express", la règle est simple : à chaque personnalité retrouvée par les Grosses Têtes, l'auditeur ou l'auditrice remporte 50 euros !
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns5:encoded>Dans ce jeu du "Qui Qui Express", la règle est simple : à chaque personnalité retrouvée par les Grosses Têtes, l'auditeur ou l'auditrice remporte 50 euros !
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
-      <pubDate>Wed, 09 Sep 2026 15:52:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/d433bf3e-dacd-49a2-b040-f5591271b57a.mp3?_=1788964981" length="8790431" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Dans ce jeu du "Qui Qui Express", la règle est simple : à chaque personnalité retrouvée par les Grosses Têtes, l'auditeur ou l'auditrice remporte 50 euros !
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns3:description>Dans ce jeu du "Qui Qui Express", la règle est simple : à chaque personnalité retrouvée par les Grosses Têtes, l'auditeur ou l'auditrice remporte 50 euros !
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Dans ce jeu du "Qui Qui Express", la règle est simple : à chaque personnalité retrouvée par les Grosses Têtes, l'auditeur ou l'auditrice remporte 50 euros !
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>09:09</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/99b433d3-3f1e-4d16-aa5b-e6384cd3f37d.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/99b433d3-3f1e-4d16-aa5b-e6384cd3f37d.jpg" />
-      <ns4:person role="host">Laurent Ruquier</ns4:person>
-      <ns4:txt purpose="smartlink">https://audmns.com/NYlRjza</ns4:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
