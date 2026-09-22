@@ -14,7 +14,7 @@
       <link>https://datojulien.github.io/GTRSS/feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Tue, 22 Sep 2026 04:54:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 09:57:12 +0000</lastBuildDate>
     <itunes:author>France Culture</itunes:author>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -24,6 +24,26 @@
     </itunes:owner>
     <itunes:subtitle>Flux personnel généré depuis le site Radio France</itunes:subtitle>
     <itunes:summary>Un flux RSS personnel qui récupère les épisodes depuis le site web de France Culture lorsque le flux officiel n’est pas encore à jour.</itunes:summary>
+    <item>
+      <title>François Iᵉʳ et Léon X, concordat sauce bolognaise : épisode du podcast Les papes et la France | France Culture</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/francois-i-et-leon-x-concordat-sauce-bolognaise-5744040</link>
+      <description>AUDIO Les papes et la France, épisode : François Iᵉʳ et Léon X, concordat sauce bolognaise. Une série inédite proposée par France Culture. Écoutez François Iᵉʳ et Léon X, concordat sauce bolognaise, et découvrez nos podcasts en ligne.</description>
+      <content:encoded><![CDATA[
+        <p>AUDIO Les papes et la France, épisode : François Iᵉʳ et Léon X, concordat sauce bolognaise. Une série inédite proposée par France Culture. Écoutez François Iᵉʳ et Léon X, concordat sauce bolognaise, et découvrez nos podcasts en ligne.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/francois-i-et-leon-x-concordat-sauce-bolognaise-5744040">France Culture</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/4cfcb68d-a958-42af-8e68-931e2eb65253/300x300" alt="François Iᵉʳ et Léon X, concordat sauce bolognaise : épisode du podcast Les papes et la France | France Culture" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/francois-i-et-leon-x-concordat-sauce-bolognaise-5744040</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26625-22.09.2026-ITEMA_24681966-2026C36128S0265-NET_MFC_535B2F81-929B-4AE0-9F88-479E17500D94-25-208ebc5032919df886f13130d2e41fd2.m4a" length="85307558" type="audio/mp4"/>
+      <pubDate>Tue, 22 Sep 2026 07:00:00 +0000</pubDate>
+      <itunes:author>France Culture</itunes:author>
+      <itunes:duration>58:46</itunes:duration>
+      <itunes:subtitle>AUDIO Les papes et la France, épisode : François Iᵉʳ et Léon X, concordat sauce bolognaise. Une série inédite proposée par France Culture. Écoutez François Iᵉʳ et Léon X, concordat sauce bolognaise, et découvrez nos podcasts en ligne.</itunes:subtitle>
+      <itunes:summary>AUDIO Les papes et la France, épisode : François Iᵉʳ et Léon X, concordat sauce bolognaise. Une série inédite proposée par France Culture. Écoutez François Iᵉʳ et Léon X, concordat sauce bolognaise, et découvrez nos podcasts en ligne.</itunes:summary>
+    </item>
     <item>
       <title>Rome et Avignon, chacun cherche son pape : épisode du podcast Les papes et la France | France Culture</title>
       <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/rome-et-avignon-chacun-cherche-son-pape-6412794</link>
