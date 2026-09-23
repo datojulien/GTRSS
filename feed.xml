@@ -14,7 +14,7 @@
       <link>https://datojulien.github.io/GTRSS/feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Wed, 23 Sep 2026 05:57:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 11:34:39 +0000</lastBuildDate>
     <itunes:author>France Culture</itunes:author>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -24,6 +24,26 @@
     </itunes:owner>
     <itunes:subtitle>Flux personnel généré depuis le site Radio France</itunes:subtitle>
     <itunes:summary>Un flux RSS personnel qui récupère les épisodes depuis le site web de France Culture lorsque le flux officiel n’est pas encore à jour.</itunes:summary>
+    <item>
+      <title>Napoléon et les papes, alerte enlèvement ! : épisode du podcast Les papes et la France | France Culture</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/napoleon-et-les-papes-alerte-enlevement-9737175</link>
+      <description>AUDIO Les papes et la France, épisode : Napoléon et les papes, alerte enlèvement !. Une série inédite proposée par France Culture. Écoutez Napoléon et les papes, alerte enlèvement !, et découvrez nos podcasts en ligne.</description>
+      <content:encoded><![CDATA[
+        <p>AUDIO Les papes et la France, épisode : Napoléon et les papes, alerte enlèvement !. Une série inédite proposée par France Culture. Écoutez Napoléon et les papes, alerte enlèvement !, et découvrez nos podcasts en ligne.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/napoleon-et-les-papes-alerte-enlevement-9737175">France Culture</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/01a1d0bf-c7ff-48aa-a702-a8e285213c1a/300x300" alt="Napoléon et les papes, alerte enlèvement ! : épisode du podcast Les papes et la France | France Culture" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/napoleon-et-les-papes-alerte-enlevement-9737175</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26625-23.09.2026-ITEMA_24683481-2026C36128S0266-NET_MFC_FE424A6A-0C8D-42AA-8893-F525613FD13C-25-6a569335d8eac96a795a94945086e88d.m4a" length="85296798" type="audio/mp4"/>
+      <pubDate>Wed, 23 Sep 2026 07:00:00 +0000</pubDate>
+      <itunes:author>France Culture</itunes:author>
+      <itunes:duration>58:45</itunes:duration>
+      <itunes:subtitle>AUDIO Les papes et la France, épisode : Napoléon et les papes, alerte enlèvement !. Une série inédite proposée par France Culture. Écoutez Napoléon et les papes, alerte enlèvement !, et découvrez nos podcasts en ligne.</itunes:subtitle>
+      <itunes:summary>AUDIO Les papes et la France, épisode : Napoléon et les papes, alerte enlèvement !. Une série inédite proposée par France Culture. Écoutez Napoléon et les papes, alerte enlèvement !, et découvrez nos podcasts en ligne.</itunes:summary>
+    </item>
     <item>
       <title>François Iᵉʳ et Léon X, concordat sauce bolognaise : épisode du podcast Les papes et la France | France Culture</title>
       <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/francois-i-et-leon-x-concordat-sauce-bolognaise-5744040</link>

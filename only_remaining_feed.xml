@@ -14,8 +14,8 @@
     <atom:link href="https://datojulien.github.io/GTRSS/only_remaining_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Wed, 23 Sep 2026 05:59:04 GMT</lastBuildDate>
-    <pubDate>Wed, 23 Sep 2026 05:59:04 GMT</pubDate>
+    <lastBuildDate>Wed, 23 Sep 2026 11:35:29 GMT</lastBuildDate>
+    <pubDate>Wed, 23 Sep 2026 11:35:29 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -45,6 +45,41 @@
     <ns3:category text="Comedy" />
     <ns4:person role="host">RTL</ns4:person>
     <ns4:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns4:txt>
+    <item>
+      <title>LE MEILLEUR DE RUQUIER - Une guenon en voie de disparition... L'histoire drôle de Christophe Beaugrand</title>
+      <guid isPermaLink="false">d06f3af5-25eb-46dc-9e4c-a6d27296590d</guid>
+      <description>Des vétérinaires qui veulent perpétuer une espèce, une bande de blondes en cours de géographie, le nettoyage douteux d'un thermomètre... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+&lt;i&gt;Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns5:encoded>Des vétérinaires qui veulent perpétuer une espèce, une bande de blondes en cours de géographie, le nettoyage douteux d'un thermomètre... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+&lt;i&gt;Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
+      <pubDate>Wed, 23 Sep 2026 09:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/d06f3af5-25eb-46dc-9e4c-a6d27296590d.mp3?_=1790002174" length="3063064" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Des vétérinaires qui veulent perpétuer une espèce, une bande de blondes en cours de géographie, le nettoyage douteux d'un thermomètre... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
+      <ns3:description>Des vétérinaires qui veulent perpétuer une espèce, une bande de blondes en cours de géographie, le nettoyage douteux d'un thermomètre... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Des vétérinaires qui veulent perpétuer une espèce, une bande de blondes en cours de géographie, le nettoyage douteux d'un thermomètre... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+Tous les jours, en podc...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>03:11</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/16a50e88-4a25-44da-b716-48e789db0bfa.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/16a50e88-4a25-44da-b716-48e789db0bfa.jpg" />
+      <ns4:person role="host">Laurent Ruquier</ns4:person>
+      <ns4:txt purpose="smartlink">https://audmns.com/yruOMav</ns4:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>LE MEILLEUR DE BOUVARD - Jean-Marc, phénomène sexuel.... La blague de Didier Bénureau</title>
       <guid isPermaLink="false">b1fbe790-184e-4d12-a002-5e0718f4dd0a</guid>
@@ -2769,36 +2804,6 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <ns3:image href="https://static.audiomeans.fr/img/episode/f8a64f40-37f8-4408-a055-f1724cce6ed3.jpg" />
       <ns4:person role="host">Laurent Ruquier</ns4:person>
       <ns4:txt purpose="smartlink">https://audmns.com/mfBAOWO</ns4:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>QUI QUI EXPRESS - Quel groupe de Heavy Metal est en concert à Paris en septembre ?</title>
-      <guid isPermaLink="false">4a459ea5-d86c-4c2e-95e4-1a364b0717ef</guid>
-      <description>Dans ce jeu du "Qui Qui Express", la règle est simple : à chaque personnalité retrouvée par les Grosses Têtes, l'auditeur ou l'auditrice remporte 50 euros !
-&lt;i&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns5:encoded>Dans ce jeu du "Qui Qui Express", la règle est simple : à chaque personnalité retrouvée par les Grosses Têtes, l'auditeur ou l'auditrice remporte 50 euros !
-&lt;i&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
-      <pubDate>Thu, 10 Sep 2026 15:54:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/4a459ea5-d86c-4c2e-95e4-1a364b0717ef.mp3?_=1789051381" length="9492302" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Dans ce jeu du "Qui Qui Express", la règle est simple : à chaque personnalité retrouvée par les Grosses Têtes, l'auditeur ou l'auditrice remporte 50 euros !
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns3:description>Dans ce jeu du "Qui Qui Express", la règle est simple : à chaque personnalité retrouvée par les Grosses Têtes, l'auditeur ou l'auditrice remporte 50 euros !
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Dans ce jeu du "Qui Qui Express", la règle est simple : à chaque personnalité retrouvée par les Grosses Têtes, l'auditeur ou l'auditrice remporte 50 euros !
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL....</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>09:53</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/a01da34f-4b2d-43f4-8740-f2fa3d74b8f4.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/a01da34f-4b2d-43f4-8740-f2fa3d74b8f4.jpg" />
-      <ns4:person role="host">Laurent Ruquier</ns4:person>
-      <ns4:txt purpose="smartlink">https://audmns.com/ojvEoyf</ns4:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
