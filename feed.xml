@@ -14,7 +14,7 @@
       <link>https://datojulien.github.io/GTRSS/feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Thu, 24 Sep 2026 04:48:55 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 10:00:12 +0000</lastBuildDate>
     <itunes:author>France Culture</itunes:author>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -24,6 +24,26 @@
     </itunes:owner>
     <itunes:subtitle>Flux personnel généré depuis le site Radio France</itunes:subtitle>
     <itunes:summary>Un flux RSS personnel qui récupère les épisodes depuis le site web de France Culture lorsque le flux officiel n’est pas encore à jour.</itunes:summary>
+    <item>
+      <title>Le pape et le président, se quereller et papoter : épisode du podcast Les papes et la France | France Culture</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/le-pape-et-le-president-se-quereller-et-papoter-7505634</link>
+      <description>AUDIO Les papes et la France, épisode : Le pape et le président, se quereller et papoter. Une série inédite proposée par France Culture. Écoutez Le pape et le président, se quereller et papoter, et découvrez nos podcasts en ligne.</description>
+      <content:encoded><![CDATA[
+        <p>AUDIO Les papes et la France, épisode : Le pape et le président, se quereller et papoter. Une série inédite proposée par France Culture. Écoutez Le pape et le président, se quereller et papoter, et découvrez nos podcasts en ligne.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/le-pape-et-le-president-se-quereller-et-papoter-7505634">France Culture</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/b89ede37-e57c-4e2c-948c-68720a46eba3/300x300" alt="Le pape et le président, se quereller et papoter : épisode du podcast Les papes et la France | France Culture" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/le-pape-et-le-president-se-quereller-et-papoter-7505634</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26625-24.09.2026-ITEMA_24685082-2026C36128S0267-NET_MFC_40BB98C5-685F-4853-A88A-D388618F4B3E-25-2c0a3ecb62ed37e0439dd8d689e684ab.m4a" length="84351298" type="audio/mp4"/>
+      <pubDate>Thu, 24 Sep 2026 07:00:00 +0000</pubDate>
+      <itunes:author>France Culture</itunes:author>
+      <itunes:duration>58:06</itunes:duration>
+      <itunes:subtitle>AUDIO Les papes et la France, épisode : Le pape et le président, se quereller et papoter. Une série inédite proposée par France Culture. Écoutez Le pape et le président, se quereller et papoter, et découvrez nos podcasts en ligne.</itunes:subtitle>
+      <itunes:summary>AUDIO Les papes et la France, épisode : Le pape et le président, se quereller et papoter. Une série inédite proposée par France Culture. Écoutez Le pape et le président, se quereller et papoter, et découvrez nos podcasts en ligne.</itunes:summary>
+    </item>
     <item>
       <title>Napoléon et les papes, alerte enlèvement ! : épisode du podcast Les papes et la France | France Culture</title>
       <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/napoleon-et-les-papes-alerte-enlevement-9737175</link>

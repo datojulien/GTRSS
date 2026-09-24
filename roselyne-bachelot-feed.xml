@@ -14,7 +14,7 @@
       <link>https://datojulien.github.io/GTRSS/roselyne-bachelot-feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Thu, 24 Sep 2026 04:49:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 10:01:03 +0000</lastBuildDate>
     <itunes:author>France Musique</itunes:author>
     <itunes:category text="Music"/>
     <itunes:explicit>no</itunes:explicit>
@@ -24,6 +24,26 @@
     </itunes:owner>
     <itunes:subtitle>Flux personnel généré depuis le site Radio France</itunes:subtitle>
     <itunes:summary>Un flux RSS personnel qui récupère les épisodes depuis le site web de France Musique lorsque le flux officiel n’est pas encore à jour.</itunes:summary>
+    <item>
+      <title>Les "Fabulous Six" : d'Aix-en-Provence à Bayreuth, retour sur l’été des six grands festivals d'opéra européens</title>
+      <link>https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/les-fabulous-six-d-aix-en-provence-a-bayreuth-retour-sur-l-ete-des-six-grands-festivals-d-opera-europeens-5234804</link>
+      <description>En ce début d'automne, Roselyne Bachelot revient avec passion et nostalgie sur les six grands festivals de cet été. "Les Fabulous Six" comme elle les appelle, à savoir Aix, Salzbourg, Bayreuth, Glyndebourne, Vérone et Pesaro, diffèrent par leur programmation bien sûr, mais aussi par leur ambiance.</description>
+      <content:encoded><![CDATA[
+        <p>En ce début d&#x27;automne, Roselyne Bachelot revient avec passion et nostalgie sur les six grands festivals de cet été. &quot;Les Fabulous Six&quot; comme elle les appelle, à savoir Aix, Salzbourg, Bayreuth, Glyndebourne, Vérone et Pesaro, diffèrent par leur programmation bien sûr, mais aussi par leur ambiance.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/les-fabulous-six-d-aix-en-provence-a-bayreuth-retour-sur-l-ete-des-six-grands-festivals-d-opera-europeens-5234804">France Musique</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/43847bec-9154-49c7-b7dd-3a5c55c8d59b/300x300" alt="Les &quot;Fabulous Six&quot; : d&#x27;Aix-en-Provence à Bayreuth, retour sur l’été des six grands festivals d&#x27;opéra européens" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/les-fabulous-six-d-aix-en-provence-a-bayreuth-retour-sur-l-ete-des-six-grands-festivals-d-opera-europeens-5234804</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26865-24.09.2026-ITEMA_24684450-2026M26307S0267-NET_MFM_7C21E1E0-C993-4EF1-8BDB-ACB6051C8128-25-b5cd2353f62f1abf89f99f9a2400a54f.m4a" length="11773752" type="audio/mp4"/>
+      <pubDate>Thu, 24 Sep 2026 06:45:00 +0000</pubDate>
+      <itunes:author>France Musique</itunes:author>
+      <itunes:duration>8:06</itunes:duration>
+      <itunes:subtitle>En ce début d'automne, Roselyne Bachelot revient avec passion et nostalgie sur les six grands festivals de cet été. "Les Fabulous Six" comme elle les appelle, à savoir Aix, Salzbourg, Bayreuth, Glyndebourne, Vérone et Pesaro, diffèrent par leur programmat</itunes:subtitle>
+      <itunes:summary>En ce début d'automne, Roselyne Bachelot revient avec passion et nostalgie sur les six grands festivals de cet été. "Les Fabulous Six" comme elle les appelle, à savoir Aix, Salzbourg, Bayreuth, Glyndebourne, Vérone et Pesaro, diffèrent par leur programmation bien sûr, mais aussi par leur ambiance.</itunes:summary>
+    </item>
     <item>
       <title>Télérama fête son 4000e numéro !</title>
       <link>https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/telerama-fete-son-4000e-numero-6307667</link>
