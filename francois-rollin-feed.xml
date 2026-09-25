@@ -14,7 +14,7 @@
       <link>https://datojulien.github.io/GTRSS/francois-rollin-feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Fri, 25 Sep 2026 13:46:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 18:36:40 +0000</lastBuildDate>
     <itunes:author>France Inter</itunes:author>
     <itunes:category text="Comedy"/>
     <itunes:explicit>no</itunes:explicit>
@@ -24,6 +24,26 @@
     </itunes:owner>
     <itunes:subtitle>Flux personnel généré depuis le site Radio France</itunes:subtitle>
     <itunes:summary>Un flux RSS personnel qui récupère les épisodes depuis le site web de France Inter lorsque le flux officiel n’est pas encore à jour.</itunes:summary>
+    <item>
+      <title>Tragic circus</title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/la-semaine-de-campagne-de-francois-rollin/la-semaine-de-campagne-de-francois-rollin-du-vendredi-25-septembre-2026-3661277</link>
+      <description>Tragic circus</description>
+      <content:encoded><![CDATA[
+        <p>Tragic circus</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceinter/podcasts/la-semaine-de-campagne-de-francois-rollin/la-semaine-de-campagne-de-francois-rollin-du-vendredi-25-septembre-2026-3661277">France Inter</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/b66e4080-2221-4df9-9205-35e13f450bdd/300x300" alt="Tragic circus" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceinter/podcasts/la-semaine-de-campagne-de-francois-rollin/la-semaine-de-campagne-de-francois-rollin-du-vendredi-25-septembre-2026-3661277</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26803-25.09.2026-ITEMA_24686432-2026F22864S0268-NET_MFI_2E43855F-7EAC-4C99-8FE2-52E84A31CDE4-27-c91b105fbad0232ef832f876237ac4d8.m4a" length="7252286" type="audio/mp4"/>
+      <pubDate>Fri, 25 Sep 2026 14:49:00 +0000</pubDate>
+      <itunes:author>France Inter</itunes:author>
+      <itunes:duration>4:59</itunes:duration>
+      <itunes:subtitle>Tragic circus</itunes:subtitle>
+      <itunes:summary>Tragic circus</itunes:summary>
+    </item>
     <item>
       <title>Finie la démagogie</title>
       <link>https://www.radiofrance.fr/franceinter/podcasts/la-semaine-de-campagne-de-francois-rollin/la-semaine-de-campagne-de-francois-rollin-du-vendredi-18-septembre-2026-9349696</link>
