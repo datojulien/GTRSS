@@ -14,8 +14,8 @@
     <atom:link href="https://datojulien.github.io/GTRSS/only_remaining_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Sun, 27 Sep 2026 08:09:40 GMT</lastBuildDate>
-    <pubDate>Sun, 27 Sep 2026 08:09:40 GMT</pubDate>
+    <lastBuildDate>Sun, 27 Sep 2026 13:58:18 GMT</lastBuildDate>
+    <pubDate>Sun, 27 Sep 2026 13:58:18 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -45,6 +45,63 @@
     <ns3:category text="Comedy" />
     <ns4:person role="host">RTL</ns4:person>
     <ns4:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns4:txt>
+    <item>
+      <title>BEST OF - Le meilleur de la semaine du 21 au 25 septembre 2026 (2/2)</title>
+      <guid isPermaLink="false">4e05e2c1-56b7-48d6-a4c2-b624f43f1259</guid>
+      <description>Dans ce podcast, retrouvez les meilleurs moments qui ont marqué la semaine des Grosses Têtes, du 21 au 25 septembre 2026.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns5:encoded>Dans ce podcast, retrouvez les meilleurs moments qui ont marqué la semaine des Grosses Têtes, du 21 au 25 septembre 2026.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
+      <pubDate>Sun, 27 Sep 2026 13:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/4e05e2c1-56b7-48d6-a4c2-b624f43f1259.mp3?_=1790349785" length="7994585" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Dans ce podcast, retrouvez les meilleurs moments qui ont marqué la semaine des Grosses Têtes, du 21 au 25 septembre 2026.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
+      <ns3:description>Dans ce podcast, retrouvez les meilleurs moments qui ont marqué la semaine des Grosses Têtes, du 21 au 25 septembre 2026.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Dans ce podcast, retrouvez les meilleurs moments qui ont marqué la semaine des Grosses Têtes, du 21 au 25 septembre 2026.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+Hébergé par Audiomeans. Visitez</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>08:19</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/3ca0c101-638e-4631-b324-48b1955ea24a.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/3ca0c101-638e-4631-b324-48b1955ea24a.jpg" />
+      <ns4:person role="host">Laurent Ruquier</ns4:person>
+      <ns4:txt purpose="smartlink">https://audmns.com/lEiwHKb</ns4:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
+    <item>
+      <title>BEST OF - Les 10 meilleures blagues du dimanche 27 septembre 2026</title>
+      <guid isPermaLink="false">bc6c804a-4bd9-4f84-9303-1a84def219f0</guid>
+      <description>Chaque dimanche, retrouvez les meilleures blagues de vos Grosses Têtes préférées. Geluck, Éric Thomas, Karine Lemarchand... Découvrez dans ce podcast 10 des meilleures blagues passées à l'antenne et racontées par les Grosses Têtes.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns5:encoded>Chaque dimanche, retrouvez les meilleures blagues de vos Grosses Têtes préférées. Geluck, Éric Thomas, Karine Lemarchand... Découvrez dans ce podcast 10 des meilleures blagues passées à l'antenne et racontées par les Grosses Têtes.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
+      <pubDate>Sun, 27 Sep 2026 13:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/bc6c804a-4bd9-4f84-9303-1a84def219f0.mp3?_=1787042864" length="6427648" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Chaque dimanche, retrouvez les meilleures blagues de vos Grosses Têtes préférées. Geluck, Éric Thomas, Karine Lemarchand... Découvrez dans ce podcast 10 des meilleures blagues passées à l'antenne et racontées par les Grosses Têtes.
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
+      <ns3:description>Chaque dimanche, retrouvez les meilleures blagues de vos Grosses Têtes préférées. Geluck, Éric Thomas, Karine Lemarchand... Découvrez dans ce podcast 10 des meilleures blagues passées à l'antenne et racontées par les Grosses Têtes.
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Chaque dimanche, retrouvez les meilleures blagues de vos Grosses Têtes préférées. Geluck, Éric Thomas, Karine Lemarchand... Découvrez dans ce podcast 10 des meilleures blagues passées à l'antenne et racontées par les Grosses Têtes.
+Hébergé par Audiomeans. ...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>06:41</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/8d8d5d2f-2132-4854-89f4-3dbca4432d75.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/8d8d5d2f-2132-4854-89f4-3dbca4432d75.jpg" />
+      <ns4:person role="host">Laurent Ruquier</ns4:person>
+      <ns4:txt purpose="smartlink">https://audmns.com/MePxUtf</ns4:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>LE MEILLEUR DE BOUVARD - Les Grosses Têtes ne cessent de s'interrompre... Les blagues de Castelli et Martin</title>
       <guid isPermaLink="false">cecd4bce-933e-470a-b5a1-2ae3de6060c0</guid>
@@ -2751,32 +2808,6 @@ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pou
       <ns3:image href="https://static.audiomeans.fr/img/episode/be3a69b7-e8cc-455b-871c-86ad915300db.jpg" />
       <ns4:person role="host">Laurent Ruquier</ns4:person>
       <ns4:txt purpose="smartlink">https://audmns.com/BUDUwwQ</ns4:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>LE MEILLEUR DE BOUVARD - Une secrétaire attentionnée envers son patron... La blague de Philippe Chevallier</title>
-      <guid isPermaLink="false">3e59b3ef-815e-4833-a663-7b6f56f3bbc2</guid>
-      <description>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Dans cette séquence signée Philippe Chevallier, une secrétaire fait une surprise à son patron à l'occasion de son anniversaire.&amp;nbsp;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns5:encoded>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Dans cette séquence signée Philippe Chevallier, une secrétaire fait une surprise à son patron à l'occasion de son anniversaire.&amp;nbsp;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
-      <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/3e59b3ef-815e-4833-a663-7b6f56f3bbc2.mp3?_=1789378260" length="2036754" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Dans cette séquence signée Philippe Chevallier, une secrétaire fait une surprise à son patron à l'occasion de son anniversaire.
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns3:description>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Dans cette séquence signée Philippe Chevallier, une secrétaire fait une surprise à son patron à l'occasion de son anniversaire.
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Dans cette séquence signée Philippe Chevallier, une secrétaire fait une surprise à son patron à l'occasion de son anniversaire.
-Hébergé par Audiomea...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>02:07</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/dfd9208b-183c-463c-b6c5-c7ca330fd1ee.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/dfd9208b-183c-463c-b6c5-c7ca330fd1ee.jpg" />
-      <ns4:person role="host">Laurent Ruquier</ns4:person>
-      <ns4:txt purpose="smartlink">https://audmns.com/afdHcKI</ns4:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
