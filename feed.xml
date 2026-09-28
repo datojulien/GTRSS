@@ -14,7 +14,7 @@
       <link>https://datojulien.github.io/GTRSS/feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Mon, 28 Sep 2026 06:52:38 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 15:26:55 +0000</lastBuildDate>
     <itunes:author>France Culture</itunes:author>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -24,6 +24,26 @@
     </itunes:owner>
     <itunes:subtitle>Flux personnel généré depuis le site Radio France</itunes:subtitle>
     <itunes:summary>Un flux RSS personnel qui récupère les épisodes depuis le site web de France Culture lorsque le flux officiel n’est pas encore à jour.</itunes:summary>
+    <item>
+      <title>Domestiquer les animaux, une histoire de dominations : épisode du podcast Cuicui, meuh, tagada, histoires d'animaux | France Culture</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/le-cours-de-l-histoire-emission-du-lundi-28-septembre-2026-9419938</link>
+      <description>AUDIO Cuicui, meuh, tagada, histoires d'animaux, épisode : Domestiquer les animaux, une histoire de dominations. Une série inédite proposée par France Culture. Écoutez Domestiquer les animaux, une histoire de dominations, et découvrez nos podcasts en ligne.</description>
+      <content:encoded><![CDATA[
+        <p>AUDIO Cuicui, meuh, tagada, histoires d&#x27;animaux, épisode : Domestiquer les animaux, une histoire de dominations. Une série inédite proposée par France Culture. Écoutez Domestiquer les animaux, une histoire de dominations, et découvrez nos podcasts en ligne.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/le-cours-de-l-histoire-emission-du-lundi-28-septembre-2026-9419938">France Culture</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/0a72ac3e-b77b-45f3-87be-5fd8104e8504/300x300" alt="Domestiquer les animaux, une histoire de dominations : épisode du podcast Cuicui, meuh, tagada, histoires d&#x27;animaux | France Culture" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/le-cours-de-l-histoire-emission-du-lundi-28-septembre-2026-9419938</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26625-28.09.2026-ITEMA_24689698-2026C36128S0271-NET_MFC_3843821F-388F-4F8E-A094-348472D33827-25-77bf2d9d0f950531338a7754bb65a0b8.m4a" length="85185665" type="audio/mp4"/>
+      <pubDate>Mon, 28 Sep 2026 07:00:00 +0000</pubDate>
+      <itunes:author>France Culture</itunes:author>
+      <itunes:duration>58:41</itunes:duration>
+      <itunes:subtitle>AUDIO Cuicui, meuh, tagada, histoires d'animaux, épisode : Domestiquer les animaux, une histoire de dominations. Une série inédite proposée par France Culture. Écoutez Domestiquer les animaux, une histoire de dominations, et découvrez nos podcasts en lign</itunes:subtitle>
+      <itunes:summary>AUDIO Cuicui, meuh, tagada, histoires d'animaux, épisode : Domestiquer les animaux, une histoire de dominations. Une série inédite proposée par France Culture. Écoutez Domestiquer les animaux, une histoire de dominations, et découvrez nos podcasts en ligne.</itunes:summary>
+    </item>
     <item>
       <title>Le pape et le président, se quereller et papoter : épisode du podcast Les papes et la France | France Culture</title>
       <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/le-pape-et-le-president-se-quereller-et-papoter-7505634</link>
