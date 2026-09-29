@@ -14,8 +14,8 @@
     <atom:link href="https://datojulien.github.io/GTRSS/only_remaining_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Tue, 29 Sep 2026 15:51:23 GMT</lastBuildDate>
-    <pubDate>Tue, 29 Sep 2026 15:51:23 GMT</pubDate>
+    <lastBuildDate>Tue, 29 Sep 2026 20:47:08 GMT</lastBuildDate>
+    <pubDate>Tue, 29 Sep 2026 20:47:08 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -2726,42 +2726,6 @@ Hébergé par Audiomeans. Visitez audiomeans.fr...</itunes:subtitle>
       <ns3:image href="https://static.audiomeans.fr/img/episode/bb16ecae-bc5c-4238-9268-bd525191da69.jpg" />
       <ns4:person role="host">Laurent Ruquier</ns4:person>
       <ns4:txt purpose="smartlink">https://audmns.com/VKyqrAV</ns4:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>INÉDIT - "On est toujours mis en avant dans l'émission" : le "before" de Dany Brillant</title>
-      <guid isPermaLink="false">f239e9cc-df12-4098-a26d-ffa40205d70e</guid>
-      <description>Ce jeudi 17 septembre 2026, Dany Brillant donne son ressenti juste avant l'émission au micro de Rachel Azria !
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns5:encoded>Ce jeudi 17 septembre 2026, Dany Brillant donne son ressenti juste avant l'émission au micro de Rachel Azria !
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
-      <pubDate>Thu, 17 Sep 2026 13:30:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/f239e9cc-df12-4098-a26d-ffa40205d70e.mp3?_=1789654681" length="8705176" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Ce jeudi 17 septembre 2026, Dany Brillant donne son ressenti juste avant l'émission au micro de Rachel Azria !
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns3:description>Ce jeudi 17 septembre 2026, Dany Brillant donne son ressenti juste avant l'émission au micro de Rachel Azria !
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
-      <itunes:author>Rachel Azria</itunes:author>
-      <author>Rachel Azria</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Ce jeudi 17 septembre 2026, Dany Brillant donne son ressenti juste avant l'émission au micro de Rachel Azria !
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-Hébergé par Audiomeans. Visitez</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>09:04</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/de03877d-76e8-422a-ace4-9e0debcf3376.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/de03877d-76e8-422a-ace4-9e0debcf3376.jpg" />
-      <ns4:person role="host">Rachel Azria</ns4:person>
-      <ns4:txt purpose="smartlink">https://audmns.com/NzhssRF</ns4:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
