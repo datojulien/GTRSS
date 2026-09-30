@@ -14,7 +14,7 @@
       <link>https://datojulien.github.io/GTRSS/feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Wed, 30 Sep 2026 06:42:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 13:42:12 +0000</lastBuildDate>
     <itunes:author>France Culture</itunes:author>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -24,6 +24,26 @@
     </itunes:owner>
     <itunes:subtitle>Flux personnel généré depuis le site Radio France</itunes:subtitle>
     <itunes:summary>Un flux RSS personnel qui récupère les épisodes depuis le site web de France Culture lorsque le flux officiel n’est pas encore à jour.</itunes:summary>
+    <item>
+      <title>Collecter les oiseaux, une autre histoire des sciences coloniales : épisode du podcast Cuicui, meuh, tagada, histoires d'animaux | France Culture</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/collecter-les-oiseaux-une-autre-histoire-des-sciences-coloniales-7014148</link>
+      <description>AUDIO Cuicui, meuh, tagada, histoires d'animaux, épisode : Collecter les oiseaux, une autre histoire des sciences coloniales. Une série inédite proposée par France Culture. Écoutez Collecter les oiseaux, une autre histoire des sciences coloniales, et découvrez nos podcasts en ligne.</description>
+      <content:encoded><![CDATA[
+        <p>AUDIO Cuicui, meuh, tagada, histoires d&#x27;animaux, épisode : Collecter les oiseaux, une autre histoire des sciences coloniales. Une série inédite proposée par France Culture. Écoutez Collecter les oiseaux, une autre histoire des sciences coloniales, et découvrez nos podcasts en ligne.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/collecter-les-oiseaux-une-autre-histoire-des-sciences-coloniales-7014148">France Culture</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/3c9e49da-c99c-42c7-a55e-dd272cd8df1f/300x300" alt="Collecter les oiseaux, une autre histoire des sciences coloniales : épisode du podcast Cuicui, meuh, tagada, histoires d&#x27;animaux | France Culture" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/collecter-les-oiseaux-une-autre-histoire-des-sciences-coloniales-7014148</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26625-30.09.2026-ITEMA_24692905-2026C36128S0273-NET_MFC_9EEB8E5D-3F2E-4EC8-876E-997DEC526CB7-25-2b7c6ba7d4e1bd57051e3e9a6c5f0c58.m4a" length="85219185" type="audio/mp4"/>
+      <pubDate>Wed, 30 Sep 2026 07:00:00 +0000</pubDate>
+      <itunes:author>France Culture</itunes:author>
+      <itunes:duration>58:42</itunes:duration>
+      <itunes:subtitle>AUDIO Cuicui, meuh, tagada, histoires d'animaux, épisode : Collecter les oiseaux, une autre histoire des sciences coloniales. Une série inédite proposée par France Culture. Écoutez Collecter les oiseaux, une autre histoire des sciences coloniales, et déco</itunes:subtitle>
+      <itunes:summary>AUDIO Cuicui, meuh, tagada, histoires d'animaux, épisode : Collecter les oiseaux, une autre histoire des sciences coloniales. Une série inédite proposée par France Culture. Écoutez Collecter les oiseaux, une autre histoire des sciences coloniales, et découvrez nos podcasts en ligne.</itunes:summary>
+    </item>
     <item>
       <title>Domestiquer les animaux, une histoire de dominations : épisode du podcast Cuicui, meuh, tagada, histoires d'animaux | France Culture</title>
       <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/le-cours-de-l-histoire-emission-du-lundi-28-septembre-2026-9419938</link>
