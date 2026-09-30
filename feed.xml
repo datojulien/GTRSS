@@ -14,7 +14,7 @@
       <link>https://datojulien.github.io/GTRSS/feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Wed, 30 Sep 2026 13:42:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 19:18:44 +0000</lastBuildDate>
     <itunes:author>France Culture</itunes:author>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -43,6 +43,26 @@
       <itunes:duration>58:42</itunes:duration>
       <itunes:subtitle>AUDIO Cuicui, meuh, tagada, histoires d'animaux, épisode : Collecter les oiseaux, une autre histoire des sciences coloniales. Une série inédite proposée par France Culture. Écoutez Collecter les oiseaux, une autre histoire des sciences coloniales, et déco</itunes:subtitle>
       <itunes:summary>AUDIO Cuicui, meuh, tagada, histoires d'animaux, épisode : Collecter les oiseaux, une autre histoire des sciences coloniales. Une série inédite proposée par France Culture. Écoutez Collecter les oiseaux, une autre histoire des sciences coloniales, et découvrez nos podcasts en ligne.</itunes:summary>
+    </item>
+    <item>
+      <title>Soigner les animaux, une histoire vétérinaire : épisode du podcast Cuicui, meuh, tagada, histoires d'animaux | France Culture</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/soigner-les-animaux-une-histoire-veterinaire-5896009</link>
+      <description>AUDIO Cuicui, meuh, tagada, histoires d'animaux, épisode : Soigner les animaux, une histoire vétérinaire. Une série inédite proposée par France Culture. Écoutez Soigner les animaux, une histoire vétérinaire, et découvrez nos podcasts en ligne.</description>
+      <content:encoded><![CDATA[
+        <p>AUDIO Cuicui, meuh, tagada, histoires d&#x27;animaux, épisode : Soigner les animaux, une histoire vétérinaire. Une série inédite proposée par France Culture. Écoutez Soigner les animaux, une histoire vétérinaire, et découvrez nos podcasts en ligne.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/soigner-les-animaux-une-histoire-veterinaire-5896009">France Culture</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/ca92295b-45b6-4c7e-874f-0127be1af719/300x300" alt="Soigner les animaux, une histoire vétérinaire : épisode du podcast Cuicui, meuh, tagada, histoires d&#x27;animaux | France Culture" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/soigner-les-animaux-une-histoire-veterinaire-5896009</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26625-29.09.2026-ITEMA_24691479-2026C36128S0272-NET_MFC_3144FD42-F17A-4B65-AA37-B551F869D8B3-25-6159eba9728f6cc127f72698f8ae6ff9.m4a" length="85255657" type="audio/mp4"/>
+      <pubDate>Tue, 29 Sep 2026 07:00:00 +0000</pubDate>
+      <itunes:author>France Culture</itunes:author>
+      <itunes:duration>58:44</itunes:duration>
+      <itunes:subtitle>AUDIO Cuicui, meuh, tagada, histoires d'animaux, épisode : Soigner les animaux, une histoire vétérinaire. Une série inédite proposée par France Culture. Écoutez Soigner les animaux, une histoire vétérinaire, et découvrez nos podcasts en ligne.</itunes:subtitle>
+      <itunes:summary>AUDIO Cuicui, meuh, tagada, histoires d'animaux, épisode : Soigner les animaux, une histoire vétérinaire. Une série inédite proposée par France Culture. Écoutez Soigner les animaux, une histoire vétérinaire, et découvrez nos podcasts en ligne.</itunes:summary>
     </item>
     <item>
       <title>Domestiquer les animaux, une histoire de dominations : épisode du podcast Cuicui, meuh, tagada, histoires d'animaux | France Culture</title>
