@@ -14,7 +14,7 @@
       <link>https://datojulien.github.io/GTRSS/roselyne-bachelot-feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Thu, 01 Oct 2026 05:52:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 13:13:08 +0000</lastBuildDate>
     <itunes:author>France Musique</itunes:author>
     <itunes:category text="Music"/>
     <itunes:explicit>no</itunes:explicit>
@@ -24,6 +24,26 @@
     </itunes:owner>
     <itunes:subtitle>Flux personnel généré depuis le site Radio France</itunes:subtitle>
     <itunes:summary>Un flux RSS personnel qui récupère les épisodes depuis le site web de France Musique lorsque le flux officiel n’est pas encore à jour.</itunes:summary>
+    <item>
+      <title>De Cavaillé-Coll à l'incendie de Notre-Dame : le miracle de l'orgue</title>
+      <link>https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/de-cavaille-coll-a-l-incendie-de-notre-dame-de-paris-le-miracle-de-l-orgue-2672170</link>
+      <description>À l'occasion de la venue de Léon XIV à Paris, Roselyne Bachelot revient sur l'instrument liturgique par excellence chez les catholiques : l'orgue. De celui de Notre-Dame qui a réchappé au flamme jusqu'à son fonctionnement technique, elle nous raconte l'histoire de cet instrument hors normes.</description>
+      <content:encoded><![CDATA[
+        <p>À l&#x27;occasion de la venue de Léon XIV à Paris, Roselyne Bachelot revient sur l&#x27;instrument liturgique par excellence chez les catholiques : l&#x27;orgue. De celui de Notre-Dame qui a réchappé au flamme jusqu&#x27;à son fonctionnement technique, elle nous raconte l&#x27;histoire de cet instrument hors normes.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/de-cavaille-coll-a-l-incendie-de-notre-dame-de-paris-le-miracle-de-l-orgue-2672170">France Musique</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/a0fa62bf-3d39-45b5-b6ed-aab96c120e22/300x300" alt="De Cavaillé-Coll à l&#x27;incendie de Notre-Dame : le miracle de l&#x27;orgue" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/de-cavaille-coll-a-l-incendie-de-notre-dame-de-paris-le-miracle-de-l-orgue-2672170</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26865-01.10.2026-ITEMA_24694419-2026M26307S0274-NET_MFM_74471B67-CFD5-49FA-B7B2-31CCA0CF3507-25-3e8dc72871a8540b7ca04663c6d14df0.m4a" length="10393906" type="audio/mp4"/>
+      <pubDate>Thu, 01 Oct 2026 06:45:00 +0000</pubDate>
+      <itunes:author>France Musique</itunes:author>
+      <itunes:duration>7:09</itunes:duration>
+      <itunes:subtitle>À l'occasion de la venue de Léon XIV à Paris, Roselyne Bachelot revient sur l'instrument liturgique par excellence chez les catholiques : l'orgue. De celui de Notre-Dame qui a réchappé au flamme jusqu'à son fonctionnement technique, elle nous raconte l'hi</itunes:subtitle>
+      <itunes:summary>À l'occasion de la venue de Léon XIV à Paris, Roselyne Bachelot revient sur l'instrument liturgique par excellence chez les catholiques : l'orgue. De celui de Notre-Dame qui a réchappé au flamme jusqu'à son fonctionnement technique, elle nous raconte l'histoire de cet instrument hors normes.</itunes:summary>
+    </item>
     <item>
       <title>Les "Fabulous Six" : d'Aix-en-Provence à Bayreuth, retour sur l’été des six grands festivals d'opéra européens</title>
       <link>https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/les-fabulous-six-d-aix-en-provence-a-bayreuth-retour-sur-l-ete-des-six-grands-festivals-d-opera-europeens-5234804</link>
