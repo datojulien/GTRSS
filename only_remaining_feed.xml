@@ -14,8 +14,8 @@
     <atom:link href="https://datojulien.github.io/GTRSS/only_remaining_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Fri, 02 Oct 2026 02:16:43 GMT</lastBuildDate>
-    <pubDate>Fri, 02 Oct 2026 02:16:43 GMT</pubDate>
+    <lastBuildDate>Fri, 02 Oct 2026 09:45:42 GMT</lastBuildDate>
+    <pubDate>Fri, 02 Oct 2026 09:45:42 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -45,6 +45,37 @@
     <ns3:category text="Comedy" />
     <ns4:person role="host">RTL</ns4:person>
     <ns4:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns4:txt>
+    <item>
+      <title>LE MEILLEUR DE RUQUIER - Deux cow-boys du Far-West.... L'histoire drôle de Stomy Bugsy</title>
+      <guid isPermaLink="false">ee17c78d-60f7-4f32-969b-931deea87ad1</guid>
+      <description>&lt;p&gt;Deux cow-boys face à un Indien très bien renseigné, une femme qui traite son mari d'idiot, et une bonne sœur qui confond des étiquettes de bananes avec des timbres... Écoutez 3 blagues des Grosses Têtes de Laurent Ruquier. Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns5:encoded>&lt;p&gt;Deux cow-boys face à un Indien très bien renseigné, une femme qui traite son mari d'idiot, et une bonne sœur qui confond des étiquettes de bananes avec des timbres... Écoutez 3 blagues des Grosses Têtes de Laurent Ruquier. Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
+      <pubDate>Fri, 02 Oct 2026 09:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/ee17c78d-60f7-4f32-969b-931deea87ad1.mp3?_=1790782632" length="2084339" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Deux cow-boys face à un Indien très bien renseigné, une femme qui traite son mari d'idiot, et une bonne sœur qui confond des étiquettes de bananes avec des timbres... Écoutez 3 blagues des Grosses Têtes de Laurent Ruquier. Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
+      <ns3:description>Deux cow-boys face à un Indien très bien renseigné, une femme qui traite son mari d'idiot, et une bonne sœur qui confond des étiquettes de bananes avec des timbres... Écoutez 3 blagues des Grosses Têtes de Laurent Ruquier. Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Deux cow-boys face à un Indien très bien renseigné, une femme qui traite son mari d'idiot, et une bonne sœur qui confond des étiquettes de bananes avec des timbres... Écoutez 3 blagues des Grosses Têtes de Laurent Ruquier. Écoutez dans ce podcast 3 des meilleure...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>02:10</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/3c1635b2-50aa-441a-b705-f4c73426d93b.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/3c1635b2-50aa-441a-b705-f4c73426d93b.jpg" />
+      <ns4:person role="host">Laurent Ruquier</ns4:person>
+      <ns4:txt purpose="smartlink">https://audmns.com/ZEKpzCt</ns4:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>LE MEILLEUR DE BOUVARD - La blague de Jacques Balutin</title>
       <guid isPermaLink="false">0bc27847-d89d-47d7-9d91-40d4809f731e</guid>
@@ -2625,32 +2656,6 @@ Hébergé par Audiomeans. Visitez</itunes:subtitle>
       <ns3:image href="https://static.audiomeans.fr/img/episode/e9cc1b48-8961-494f-b088-b7b2d0807f85.jpg" />
       <ns4:person role="host">Laurent Ruquier</ns4:person>
       <ns4:txt purpose="smartlink">https://audmns.com/SqXeIDZ</ns4:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>LE MEILLEUR DE BOUVARD - Un couple consulte un conseiller conjugual... La blague de Pierre Bellemare</title>
-      <guid isPermaLink="false">507af4b7-d926-422a-9fc7-bba104c32089</guid>
-      <description>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Dans cette séquence, Pierre Bellemare raconte l'histoire d'un couple qui se décide à consulter à cause d'incessantes disputes.&amp;nbsp;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns5:encoded>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Dans cette séquence, Pierre Bellemare raconte l'histoire d'un couple qui se décide à consulter à cause d'incessantes disputes.&amp;nbsp;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
-      <pubDate>Sun, 20 Sep 2026 00:00:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/507af4b7-d926-422a-9fc7-bba104c32089.mp3?_=1789742578" length="1123396" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Dans cette séquence, Pierre Bellemare raconte l'histoire d'un couple qui se décide à consulter à cause d'incessantes disputes.
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns3:description>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Dans cette séquence, Pierre Bellemare raconte l'histoire d'un couple qui se décide à consulter à cause d'incessantes disputes.
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Dans cette séquence, Pierre Bellemare raconte l'histoire d'un couple qui se décide à consulter à cause d'incessantes disputes.
-Hébergé par Audiomean...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>01:10</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/985e60bb-6737-4cba-87af-ab53b97fb7e0.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/985e60bb-6737-4cba-87af-ab53b97fb7e0.jpg" />
-      <ns4:person role="host">Laurent Ruquier</ns4:person>
-      <ns4:txt purpose="smartlink">https://audmns.com/RBfogLS</ns4:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
