@@ -14,8 +14,8 @@
     <atom:link href="https://datojulien.github.io/GTRSS/only_remaining_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Thu, 01 Oct 2026 23:12:20 GMT</lastBuildDate>
-    <pubDate>Thu, 01 Oct 2026 23:12:20 GMT</pubDate>
+    <lastBuildDate>Fri, 02 Oct 2026 02:16:43 GMT</lastBuildDate>
+    <pubDate>Fri, 02 Oct 2026 02:16:43 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -45,6 +45,32 @@
     <ns3:category text="Comedy" />
     <ns4:person role="host">RTL</ns4:person>
     <ns4:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns4:txt>
+    <item>
+      <title>LE MEILLEUR DE BOUVARD - La blague de Jacques Balutin</title>
+      <guid isPermaLink="false">0bc27847-d89d-47d7-9d91-40d4809f731e</guid>
+      <description>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Dans ce podcast, un Australien propose 10.000 dollars pour 500 kilos de laine... Une blague de Jacques Balutin !&amp;nbsp;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns5:encoded>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Dans ce podcast, un Australien propose 10.000 dollars pour 500 kilos de laine... Une blague de Jacques Balutin !&amp;nbsp;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/0bc27847-d89d-47d7-9d91-40d4809f731e.mp3?_=1790782911" length="1255396" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Dans ce podcast, un Australien propose 10.000 dollars pour 500 kilos de laine... Une blague de Jacques Balutin !
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
+      <ns3:description>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Dans ce podcast, un Australien propose 10.000 dollars pour 500 kilos de laine... Une blague de Jacques Balutin !
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Dans ce podcast, un Australien propose 10.000 dollars pour 500 kilos de laine... Une blague de Jacques Balutin !
+Hébergé par Audiomeans. Visitez</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>01:18</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/8137e001-75ff-46fc-b376-d4277fa81892.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/8137e001-75ff-46fc-b376-d4277fa81892.jpg" />
+      <ns4:person role="host">Laurent Ruquier</ns4:person>
+      <ns4:txt purpose="smartlink">https://audmns.com/FYIoDrp</ns4:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>LES IMMANQUABLES - Le meilleur de l'émission du 1er octobre 2026</title>
       <guid isPermaLink="false">64df1563-8d0c-412b-8b5e-f60e54722eed</guid>
