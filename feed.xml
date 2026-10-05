@@ -14,7 +14,7 @@
       <link>https://datojulien.github.io/GTRSS/feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Mon, 05 Oct 2026 07:02:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 15:59:31 +0000</lastBuildDate>
     <itunes:author>France Culture</itunes:author>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -24,6 +24,26 @@
     </itunes:owner>
     <itunes:subtitle>Flux personnel généré depuis le site Radio France</itunes:subtitle>
     <itunes:summary>Un flux RSS personnel qui récupère les épisodes depuis le site web de France Culture lorsque le flux officiel n’est pas encore à jour.</itunes:summary>
+    <item>
+      <title>Afrique médiévale, au cœur des échanges : épisode du podcast Commerce, quand l'histoire marchande | France Culture</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/afrique-medievale-au-coeur-des-echanges-5062593</link>
+      <description>AUDIO Commerce, quand l'histoire marchande, épisode : Afrique médiévale, au cœur des échanges. Une série inédite proposée par France Culture. Écoutez Afrique médiévale, au cœur des échanges, et découvrez nos podcasts en ligne.</description>
+      <content:encoded><![CDATA[
+        <p>AUDIO Commerce, quand l&#x27;histoire marchande, épisode : Afrique médiévale, au cœur des échanges. Une série inédite proposée par France Culture. Écoutez Afrique médiévale, au cœur des échanges, et découvrez nos podcasts en ligne.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/afrique-medievale-au-coeur-des-echanges-5062593">France Culture</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/58b8e765-9c29-4422-b0c9-2ce0eefcf93f/300x300" alt="Afrique médiévale, au cœur des échanges : épisode du podcast Commerce, quand l&#x27;histoire marchande | France Culture" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/afrique-medievale-au-coeur-des-echanges-5062593</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26625-05.10.2026-ITEMA_24699155-2026C36128S0278-NET_MFC_D6D30AF0-0152-4C5C-8716-0978A248161C-25-3574e169562d4e84c280685848aafe34.m4a" length="84573154" type="audio/mp4"/>
+      <pubDate>Mon, 05 Oct 2026 07:00:00 +0000</pubDate>
+      <itunes:author>France Culture</itunes:author>
+      <itunes:duration>58:15</itunes:duration>
+      <itunes:subtitle>AUDIO Commerce, quand l'histoire marchande, épisode : Afrique médiévale, au cœur des échanges. Une série inédite proposée par France Culture. Écoutez Afrique médiévale, au cœur des échanges, et découvrez nos podcasts en ligne.</itunes:subtitle>
+      <itunes:summary>AUDIO Commerce, quand l'histoire marchande, épisode : Afrique médiévale, au cœur des échanges. Une série inédite proposée par France Culture. Écoutez Afrique médiévale, au cœur des échanges, et découvrez nos podcasts en ligne.</itunes:summary>
+    </item>
     <item>
       <title>Point de vue animal, l’histoire dans le sens du poil : épisode du podcast Cuicui, meuh, tagada, histoires d'animaux | France Culture</title>
       <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/point-de-vue-animal-l-histoire-dans-le-sens-du-poil-1516094</link>
