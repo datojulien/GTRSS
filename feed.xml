@@ -14,7 +14,7 @@
       <link>https://datojulien.github.io/GTRSS/feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Tue, 06 Oct 2026 02:57:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 10:15:59 +0000</lastBuildDate>
     <itunes:author>France Culture</itunes:author>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -24,6 +24,26 @@
     </itunes:owner>
     <itunes:subtitle>Flux personnel généré depuis le site Radio France</itunes:subtitle>
     <itunes:summary>Un flux RSS personnel qui récupère les épisodes depuis le site web de France Culture lorsque le flux officiel n’est pas encore à jour.</itunes:summary>
+    <item>
+      <title>Marseille au Moyen Âge, le commerce à bon port : épisode du podcast Commerce, quand l'histoire marchande | France Culture</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/marseille-au-moyen-age-le-commerce-a-bon-port-8668570</link>
+      <description>AUDIO Commerce, quand l'histoire marchande, épisode : Marseille au Moyen Âge, le commerce à bon port. Une série inédite proposée par France Culture. Écoutez Marseille au Moyen Âge, le commerce à bon port, et découvrez nos podcasts en ligne.</description>
+      <content:encoded><![CDATA[
+        <p>AUDIO Commerce, quand l&#x27;histoire marchande, épisode : Marseille au Moyen Âge, le commerce à bon port. Une série inédite proposée par France Culture. Écoutez Marseille au Moyen Âge, le commerce à bon port, et découvrez nos podcasts en ligne.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/marseille-au-moyen-age-le-commerce-a-bon-port-8668570">France Culture</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/6ca51f66-762f-4f68-b3f3-bb34cbd043d2/300x300" alt="Marseille au Moyen Âge, le commerce à bon port : épisode du podcast Commerce, quand l&#x27;histoire marchande | France Culture" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/marseille-au-moyen-age-le-commerce-a-bon-port-8668570</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26625-06.10.2026-ITEMA_24700801-2026C36128S0279-NET_MFC_0F8349BA-6881-4B70-BDEB-9FEC54838F69-25-a89b35d6634aa48b7dac026f43f1c9bf.m4a" length="85366031" type="audio/mp4"/>
+      <pubDate>Tue, 06 Oct 2026 07:00:00 +0000</pubDate>
+      <itunes:author>France Culture</itunes:author>
+      <itunes:duration>58:48</itunes:duration>
+      <itunes:subtitle>AUDIO Commerce, quand l'histoire marchande, épisode : Marseille au Moyen Âge, le commerce à bon port. Une série inédite proposée par France Culture. Écoutez Marseille au Moyen Âge, le commerce à bon port, et découvrez nos podcasts en ligne.</itunes:subtitle>
+      <itunes:summary>AUDIO Commerce, quand l'histoire marchande, épisode : Marseille au Moyen Âge, le commerce à bon port. Une série inédite proposée par France Culture. Écoutez Marseille au Moyen Âge, le commerce à bon port, et découvrez nos podcasts en ligne.</itunes:summary>
+    </item>
     <item>
       <title>Afrique médiévale, au cœur des échanges : épisode du podcast Commerce, quand l'histoire marchande | France Culture</title>
       <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/afrique-medievale-au-coeur-des-echanges-5062593</link>
