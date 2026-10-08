@@ -14,7 +14,7 @@
       <link>https://datojulien.github.io/GTRSS/roselyne-bachelot-feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Thu, 08 Oct 2026 01:55:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 08:57:42 +0000</lastBuildDate>
     <itunes:author>France Musique</itunes:author>
     <itunes:category text="Music"/>
     <itunes:explicit>no</itunes:explicit>
@@ -24,6 +24,26 @@
     </itunes:owner>
     <itunes:subtitle>Flux personnel généré depuis le site Radio France</itunes:subtitle>
     <itunes:summary>Un flux RSS personnel qui récupère les épisodes depuis le site web de France Musique lorsque le flux officiel n’est pas encore à jour.</itunes:summary>
+    <item>
+      <title>À l'Opéra Bastille, le destin tragique de Brünnhilde et Siegfried</title>
+      <link>https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/a-l-opera-bastille-le-destin-tragique-de-bruennhilde-et-siegfried-2991846</link>
+      <description>À l’occasion de la nouvelle mise en scène du "Crépuscule des dieux" à l’Opéra national de Paris, Roselyne Bachelot nous plonge au cœur du dénouement tragique de cet opéra qui vient conclure en apothéose la Tétralogie wagnérienne, "L’Anneau du Nibelung".</description>
+      <content:encoded><![CDATA[
+        <p>À l’occasion de la nouvelle mise en scène du &quot;Crépuscule des dieux&quot; à l’Opéra national de Paris, Roselyne Bachelot nous plonge au cœur du dénouement tragique de cet opéra qui vient conclure en apothéose la Tétralogie wagnérienne, &quot;L’Anneau du Nibelung&quot;.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/a-l-opera-bastille-le-destin-tragique-de-bruennhilde-et-siegfried-2991846">France Musique</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/bf1a2b1f-417e-468f-b382-8da49a3a9e35/300x300" alt="À l&#x27;Opéra Bastille, le destin tragique de Brünnhilde et Siegfried" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/a-l-opera-bastille-le-destin-tragique-de-bruennhilde-et-siegfried-2991846</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26865-08.10.2026-ITEMA_24703755-2026M26307S0281-NET_MFM_DEBD1628-C8D7-4C48-9327-9184475AFE7D-25-f49cc5b307516242e2e42236b8c698cf.m4a" length="12998737" type="audio/mp4"/>
+      <pubDate>Thu, 08 Oct 2026 06:45:00 +0000</pubDate>
+      <itunes:author>France Musique</itunes:author>
+      <itunes:duration>8:56</itunes:duration>
+      <itunes:subtitle>À l’occasion de la nouvelle mise en scène du "Crépuscule des dieux" à l’Opéra national de Paris, Roselyne Bachelot nous plonge au cœur du dénouement tragique de cet opéra qui vient conclure en apothéose la Tétralogie wagnérienne, "L’Anneau du Nibelung".</itunes:subtitle>
+      <itunes:summary>À l’occasion de la nouvelle mise en scène du "Crépuscule des dieux" à l’Opéra national de Paris, Roselyne Bachelot nous plonge au cœur du dénouement tragique de cet opéra qui vient conclure en apothéose la Tétralogie wagnérienne, "L’Anneau du Nibelung".</itunes:summary>
+    </item>
     <item>
       <title>De Cavaillé-Coll à l'incendie de Notre-Dame : le miracle de l'orgue</title>
       <link>https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/de-cavaille-coll-a-l-incendie-de-notre-dame-de-paris-le-miracle-de-l-orgue-2672170</link>

@@ -14,7 +14,7 @@
       <link>https://datojulien.github.io/GTRSS/feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Thu, 08 Oct 2026 01:55:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 08:56:51 +0000</lastBuildDate>
     <itunes:author>France Culture</itunes:author>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -24,6 +24,26 @@
     </itunes:owner>
     <itunes:subtitle>Flux personnel généré depuis le site Radio France</itunes:subtitle>
     <itunes:summary>Un flux RSS personnel qui récupère les épisodes depuis le site web de France Culture lorsque le flux officiel n’est pas encore à jour.</itunes:summary>
+    <item>
+      <title>Épiceries d'Ancien Régime, le monde dans une boutique : épisode du podcast Commerce, quand l'histoire marchande | France Culture</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/epiceries-d-ancien-regime-le-monde-dans-une-boutique-1921142</link>
+      <description>AUDIO Commerce, quand l'histoire marchande, épisode : Épiceries d'Ancien Régime, le monde dans une boutique. Une série inédite proposée par France Culture. Écoutez Épiceries d'Ancien Régime, le monde dans une boutique, et découvrez nos podcasts en ligne.</description>
+      <content:encoded><![CDATA[
+        <p>AUDIO Commerce, quand l&#x27;histoire marchande, épisode : Épiceries d&#x27;Ancien Régime, le monde dans une boutique. Une série inédite proposée par France Culture. Écoutez Épiceries d&#x27;Ancien Régime, le monde dans une boutique, et découvrez nos podcasts en ligne.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/epiceries-d-ancien-regime-le-monde-dans-une-boutique-1921142">France Culture</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/bd429320-e064-41bd-9444-f69a97e7db06/300x300" alt="Épiceries d&#x27;Ancien Régime, le monde dans une boutique : épisode du podcast Commerce, quand l&#x27;histoire marchande | France Culture" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/epiceries-d-ancien-regime-le-monde-dans-une-boutique-1921142</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26625-08.10.2026-ITEMA_24703720-2026C36128S0281-NET_MFC_403041A3-29A6-475A-9DDB-48E5E7A7BD81-25-707f186130dafca524902f8aa400b578.m4a" length="84886788" type="audio/mp4"/>
+      <pubDate>Thu, 08 Oct 2026 07:00:00 +0000</pubDate>
+      <itunes:author>France Culture</itunes:author>
+      <itunes:duration>58:28</itunes:duration>
+      <itunes:subtitle>AUDIO Commerce, quand l'histoire marchande, épisode : Épiceries d'Ancien Régime, le monde dans une boutique. Une série inédite proposée par France Culture. Écoutez Épiceries d'Ancien Régime, le monde dans une boutique, et découvrez nos podcasts en ligne.</itunes:subtitle>
+      <itunes:summary>AUDIO Commerce, quand l'histoire marchande, épisode : Épiceries d'Ancien Régime, le monde dans une boutique. Une série inédite proposée par France Culture. Écoutez Épiceries d'Ancien Régime, le monde dans une boutique, et découvrez nos podcasts en ligne.</itunes:summary>
+    </item>
     <item>
       <title>Des colporteurs aux VRP, sur la route toute la sainte journée : épisode du podcast Commerce, quand l'histoire marchande | France Culture</title>
       <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/des-colporteurs-aux-vrp-sur-la-route-toute-la-sainte-journee-1593688</link>
