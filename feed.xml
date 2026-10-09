@@ -14,7 +14,7 @@
       <link>https://datojulien.github.io/GTRSS/feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Fri, 09 Oct 2026 02:08:50 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 09:02:25 +0000</lastBuildDate>
     <itunes:author>France Culture</itunes:author>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -24,6 +24,26 @@
     </itunes:owner>
     <itunes:subtitle>Flux personnel généré depuis le site Radio France</itunes:subtitle>
     <itunes:summary>Un flux RSS personnel qui récupère les épisodes depuis le site web de France Culture lorsque le flux officiel n’est pas encore à jour.</itunes:summary>
+    <item>
+      <title>Écrire la vie des femmes, pour une histoire populaire</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/ecrire-la-vie-des-femmes-pour-une-histoire-populaire-3981103</link>
+      <description>De l'université aux cuisines de "ménagères", cinq historiennes, sur deux générations de chercheuses, travaillent sur l’histoire des femmes pour comprendre les sources de la domination patriarcale et éclairer les stratégies d’émancipation.</description>
+      <content:encoded><![CDATA[
+        <p>De l&#x27;université aux cuisines de &quot;ménagères&quot;, cinq historiennes, sur deux générations de chercheuses, travaillent sur l’histoire des femmes pour comprendre les sources de la domination patriarcale et éclairer les stratégies d’émancipation.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/ecrire-la-vie-des-femmes-pour-une-histoire-populaire-3981103">France Culture</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/e76226dd-a43a-44d4-81e0-ee5353b95a64/300x300" alt="Écrire la vie des femmes, pour une histoire populaire" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/ecrire-la-vie-des-femmes-pour-une-histoire-populaire-3981103</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26625-09.10.2026-ITEMA_24705321-2026C36128S0282-NET_MFC_5401EEEF-8130-4805-99F4-D0C3FDBE4394-25-04ae8092b18ddf873530e9e51516c939.m4a" length="85313441" type="audio/mp4"/>
+      <pubDate>Fri, 09 Oct 2026 07:00:00 +0000</pubDate>
+      <itunes:author>France Culture</itunes:author>
+      <itunes:duration>58:46</itunes:duration>
+      <itunes:subtitle>De l'université aux cuisines de "ménagères", cinq historiennes, sur deux générations de chercheuses, travaillent sur l’histoire des femmes pour comprendre les sources de la domination patriarcale et éclairer les stratégies d’émancipation.</itunes:subtitle>
+      <itunes:summary>De l'université aux cuisines de "ménagères", cinq historiennes, sur deux générations de chercheuses, travaillent sur l’histoire des femmes pour comprendre les sources de la domination patriarcale et éclairer les stratégies d’émancipation.</itunes:summary>
+    </item>
     <item>
       <title>Épiceries d'Ancien Régime, le monde dans une boutique : épisode du podcast Commerce, quand l'histoire marchande | France Culture</title>
       <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/epiceries-d-ancien-regime-le-monde-dans-une-boutique-1921142</link>
