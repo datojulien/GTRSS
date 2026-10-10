@@ -14,8 +14,8 @@
     <atom:link href="https://datojulien.github.io/GTRSS/only_integrale_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Sat, 10 Oct 2026 07:07:05 GMT</lastBuildDate>
-    <pubDate>Sat, 10 Oct 2026 07:07:05 GMT</pubDate>
+    <lastBuildDate>Sat, 10 Oct 2026 13:40:59 GMT</lastBuildDate>
+    <pubDate>Sat, 10 Oct 2026 13:40:59 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -440,42 +440,6 @@ Hébergé par Audiomeans. Visitez</itunes:subtitle>
       <ns3:image href="https://static.audiomeans.fr/img/episode/355f663b-ff53-429a-b091-fe5bd4cd0c44.jpg" />
       <ns4:person role="host">Laurent Ruquier</ns4:person>
       <ns4:txt purpose="smartlink">https://audmns.com/igNTNNm</ns4:txt>
-      <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>L'INTÉGRALE - Émission du lundi 28 septembre 2026</title>
-      <guid isPermaLink="false">dd8df7f3-f4b4-42c3-a726-3f853246e97a</guid>
-      <description>Avec Franck Ferrand, Gérard Jugnot, Christine Bravo, Karine Le Marchand, Chantal Ladesou et Stomy Bugsy.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns5:encoded>Avec Franck Ferrand, Gérard Jugnot, Christine Bravo, Karine Le Marchand, Chantal Ladesou et Stomy Bugsy.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
-      <pubDate>Mon, 28 Sep 2026 16:02:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/dd8df7f3-f4b4-42c3-a726-3f853246e97a.mp3?_=1790605387" length="92601228" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Avec Franck Ferrand, Gérard Jugnot, Christine Bravo, Karine Le Marchand, Chantal Ladesou et Stomy Bugsy.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns3:description>Avec Franck Ferrand, Gérard Jugnot, Christine Bravo, Karine Le Marchand, Chantal Ladesou et Stomy Bugsy.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Avec Franck Ferrand, Gérard Jugnot, Christine Bravo, Karine Le Marchand, Chantal Ladesou et Stomy Bugsy.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-Hébergé par Audiomeans. Visitez</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>01:36:27</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/7021493d-3373-4625-9016-26ffbc885d94.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/7021493d-3373-4625-9016-26ffbc885d94.jpg" />
-      <ns4:person role="host">Laurent Ruquier</ns4:person>
-      <ns4:txt purpose="smartlink">https://audmns.com/eEBZOcF</ns4:txt>
       <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
   </channel>
