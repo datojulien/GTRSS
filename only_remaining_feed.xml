@@ -14,8 +14,8 @@
     <atom:link href="https://datojulien.github.io/GTRSS/only_remaining_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Sat, 10 Oct 2026 13:40:59 GMT</lastBuildDate>
-    <pubDate>Sat, 10 Oct 2026 13:40:59 GMT</pubDate>
+    <lastBuildDate>Sat, 10 Oct 2026 18:35:14 GMT</lastBuildDate>
+    <pubDate>Sat, 10 Oct 2026 18:35:14 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -2463,39 +2463,6 @@ Hébergé par Audiomeans. Visit...</itunes:subtitle>
       <ns3:image href="https://static.audiomeans.fr/img/episode/1539d5c9-3405-40c0-a84d-52f6e7f3d07c.jpg" />
       <ns4:person role="host">Rachel Azria</ns4:person>
       <ns4:txt purpose="smartlink">https://audmns.com/tPVPHoL</ns4:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>LE MEILLEUR DE RUQUIER - L'anecdote sur de Gaulle... L'histoire drôle de Franck Ferrand</title>
-      <guid isPermaLink="false">b551556f-a7fc-4f28-9d12-99afa15def6d</guid>
-      <description>De Gaulle en confusion diplomatique, un vieux monsieur qui n'entend pas les questions qu'on lui pose, et une femme qui se demande bien pourquoi son mari continue de complimenter sa cuisine... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
-
-&lt;i&gt;Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns5:encoded>De Gaulle en confusion diplomatique, un vieux monsieur qui n'entend pas les questions qu'on lui pose, et une femme qui se demande bien pourquoi son mari continue de complimenter sa cuisine... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
-
-&lt;i&gt;Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;/i&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
-      <pubDate>Tue, 29 Sep 2026 09:00:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/b551556f-a7fc-4f28-9d12-99afa15def6d.mp3?_=1790338297" length="2167871" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>De Gaulle en confusion diplomatique, un vieux monsieur qui n'entend pas les questions qu'on lui pose, et une femme qui se demande bien pourquoi son mari continue de complimenter sa cuisine... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
-
-Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns3:description>De Gaulle en confusion diplomatique, un vieux monsieur qui n'entend pas les questions qu'on lui pose, et une femme qui se demande bien pourquoi son mari continue de complimenter sa cuisine... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
-
-Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>De Gaulle en confusion diplomatique, un vieux monsieur qui n'entend pas les questions qu'on lui pose, et une femme qui se demande bien pourquoi son mari continue de complimenter sa cuisine... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosse...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>02:15</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/1083b9fa-c733-4156-a707-1f8bdb46bdc8.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/1083b9fa-c733-4156-a707-1f8bdb46bdc8.jpg" />
-      <ns4:person role="host">Laurent Ruquier</ns4:person>
-      <ns4:txt purpose="smartlink">https://audmns.com/dRBQgEG</ns4:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
