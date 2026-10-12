@@ -14,8 +14,8 @@
     <atom:link href="https://datojulien.github.io/GTRSS/only_remaining_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Sun, 11 Oct 2026 20:16:43 GMT</lastBuildDate>
-    <pubDate>Sun, 11 Oct 2026 20:16:43 GMT</pubDate>
+    <lastBuildDate>Mon, 12 Oct 2026 00:32:28 GMT</lastBuildDate>
+    <pubDate>Mon, 12 Oct 2026 00:32:28 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -45,6 +45,35 @@
     <ns3:category text="Comedy" />
     <ns4:person role="host">RTL</ns4:person>
     <ns4:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns4:txt>
+    <item>
+      <title>LE MEILLEUR DE BOUVARD - Les blagues animalières de T. le Luron et J. Balutin</title>
+      <guid isPermaLink="false">a23290ec-95b5-41d8-94e1-03c9cf5df9d4</guid>
+      <description>&lt;p&gt;Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Dans cet extrait, Thierry le Luron et Jacques Balutin offrent leurs plus belles allusions animalières.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns5:encoded>&lt;p&gt;Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Dans cet extrait, Thierry le Luron et Jacques Balutin offrent leurs plus belles allusions animalières.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/a23290ec-95b5-41d8-94e1-03c9cf5df9d4.mp3?_=1791558443" length="1496628" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Dans cet extrait, Thierry le Luron et Jacques Balutin offrent leurs plus belles allusions animalières.
+
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
+      <ns3:description>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Dans cet extrait, Thierry le Luron et Jacques Balutin offrent leurs plus belles allusions animalières.
+
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Dans cet extrait, Thierry le Luron et Jacques Balutin offrent leurs plus belles allusions animalières.
+
+Hébergé par Audiomeans. Visitez</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>01:33</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/671559c9-8188-4273-8068-a3d82f1c1e0e.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/671559c9-8188-4273-8068-a3d82f1c1e0e.jpg" />
+      <ns4:person role="host">Laurent Ruquier</ns4:person>
+      <ns4:txt purpose="smartlink">https://audmns.com/IOhYUcN</ns4:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>BEST OF - Les 10 meilleures blagues du dimanche 11 octobre 2026</title>
       <guid isPermaLink="false">ba3ee59b-86ba-4180-9cb0-7ece63d36f9a</guid>
@@ -2405,33 +2434,6 @@ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pou
       <ns3:image href="https://static.audiomeans.fr/img/episode/09a0b5fd-fe65-431e-8ce3-195b4d0a018d.jpg" />
       <ns4:person role="host">Laurent Ruquier</ns4:person>
       <ns4:txt purpose="smartlink">https://audmns.com/CJimMJy</ns4:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>PÉPITE - Christophe Beaugrand fait le tirage du loto dans une église</title>
-      <guid isPermaLink="false">892e47f5-c133-49dc-8a19-22657804587d</guid>
-      <description>&lt;p&gt;Après la visite du pape en France, Christophe Beaugrand s'imagine lui aussi exercer dans une église. Et le tirage du loto s'annonce tout de suite bien différent...&lt;br&gt;&lt;br&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns5:encoded>&lt;p&gt;Après la visite du pape en France, Christophe Beaugrand s'imagine lui aussi exercer dans une église. Et le tirage du loto s'annonce tout de suite bien différent...&lt;br&gt;&lt;br&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
-      <pubDate>Tue, 29 Sep 2026 15:57:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/892e47f5-c133-49dc-8a19-22657804587d.mp3?_=1790686082" length="2077694" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Après la visite du pape en France, Christophe Beaugrand s'imagine lui aussi exercer dans une église. Et le tirage du loto s'annonce tout de suite bien différent...Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns3:description>Après la visite du pape en France, Christophe Beaugrand s'imagine lui aussi exercer dans une église. Et le tirage du loto s'annonce tout de suite bien différent...Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Après la visite du pape en France, Christophe Beaugrand s'imagine lui aussi exercer dans une église. Et le tirage du loto s'annonce tout de suite bien différent...Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'applicati...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>02:09</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/b064f516-7e0f-4157-8c44-39b3ad40b94c.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/b064f516-7e0f-4157-8c44-39b3ad40b94c.jpg" />
-      <ns4:person role="host">Laurent Ruquier</ns4:person>
-      <ns4:txt purpose="smartlink">https://audmns.com/LYIRAfT</ns4:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
