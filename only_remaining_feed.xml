@@ -14,8 +14,8 @@
     <atom:link href="https://datojulien.github.io/GTRSS/only_remaining_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Mon, 12 Oct 2026 17:54:26 GMT</lastBuildDate>
-    <pubDate>Mon, 12 Oct 2026 17:54:26 GMT</pubDate>
+    <lastBuildDate>Tue, 13 Oct 2026 00:39:07 GMT</lastBuildDate>
+    <pubDate>Tue, 13 Oct 2026 00:39:07 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -45,6 +45,36 @@
     <ns3:category text="Comedy" />
     <ns4:person role="host">RTL</ns4:person>
     <ns4:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns4:txt>
+    <item>
+      <title>LE MEILLEUR DE BOUVARD - Un homme hanté par ses désirs... La blague de Pierre Bellemare</title>
+      <guid isPermaLink="false">c40d978b-6369-43bc-ae1e-41b3f5d82fb9</guid>
+      <description>&lt;p&gt;Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Dans cet extrait, un homme échoué sur une île déserte prend une décision radicale pour satisfaire ses désirs sexuels... une blague signée Pierre Bellemare !&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns5:encoded>&lt;p&gt;Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Dans cet extrait, un homme échoué sur une île déserte prend une décision radicale pour satisfaire ses désirs sexuels... une blague signée Pierre Bellemare !&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/c40d978b-6369-43bc-ae1e-41b3f5d82fb9.mp3?_=1791818026" length="1541896" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Dans cet extrait, un homme échoué sur une île déserte prend une décision radicale pour satisfaire ses désirs sexuels... une blague signée Pierre Bellemare !
+
+
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
+      <ns3:description>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Dans cet extrait, un homme échoué sur une île déserte prend une décision radicale pour satisfaire ses désirs sexuels... une blague signée Pierre Bellemare !
+
+
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Dans cet extrait, un homme échoué sur une île déserte prend une décision radicale pour satisfaire ses désirs sexuels... une blague signée Pierre Bellemare !
+...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>01:36</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/b3240e4b-35fb-4e89-ad7c-6d416c88a574.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/b3240e4b-35fb-4e89-ad7c-6d416c88a574.jpg" />
+      <ns4:person role="host">Laurent Ruquier</ns4:person>
+      <ns4:txt purpose="smartlink">https://audmns.com/bUsLIbZ</ns4:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>LES IMMANQUABLES - Le meilleur de l'émission du 12 octobre 2026</title>
       <guid isPermaLink="false">790f6b58-1cc9-485f-b59a-6588d275cdad</guid>
@@ -2373,33 +2403,6 @@ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pou
       <ns3:image href="https://static.audiomeans.fr/img/episode/479a8992-e0c0-493e-9d10-444e73c5e678.jpg" />
       <ns4:person role="host">Laurent Ruquier</ns4:person>
       <ns4:txt purpose="smartlink">https://audmns.com/qIxxBQH</ns4:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>PÉPITE - La folle croisière de Sébastien Thoen avec Frédéric François</title>
-      <guid isPermaLink="false">5888880b-b0a6-46c1-9ee3-0c0ff037b091</guid>
-      <description>&lt;p&gt;Récemment, Sébastien Thoen s'est invité dans une croisière "Années 80" avec Frédéric François. Et visiblement, le chanteur n'a pas vraiment apprécié...&lt;br&gt;&lt;br&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns5:encoded>&lt;p&gt;Récemment, Sébastien Thoen s'est invité dans une croisière "Années 80" avec Frédéric François. Et visiblement, le chanteur n'a pas vraiment apprécié...&lt;br&gt;&lt;br&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
-      <pubDate>Wed, 30 Sep 2026 15:57:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/5888880b-b0a6-46c1-9ee3-0c0ff037b091.mp3?_=1790783281" length="2400754" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Récemment, Sébastien Thoen s'est invité dans une croisière "Années 80" avec Frédéric François. Et visiblement, le chanteur n'a pas vraiment apprécié...Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns3:description>Récemment, Sébastien Thoen s'est invité dans une croisière "Années 80" avec Frédéric François. Et visiblement, le chanteur n'a pas vraiment apprécié...Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Récemment, Sébastien Thoen s'est invité dans une croisière "Années 80" avec Frédéric François. Et visiblement, le chanteur n'a pas vraiment apprécié...Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>02:29</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/9af08415-9f47-4706-8c42-129cb4cbba78.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/9af08415-9f47-4706-8c42-129cb4cbba78.jpg" />
-      <ns4:person role="host">Laurent Ruquier</ns4:person>
-      <ns4:txt purpose="smartlink">https://audmns.com/dZihrgC</ns4:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
