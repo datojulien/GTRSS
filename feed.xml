@@ -14,7 +14,7 @@
       <link>https://datojulien.github.io/GTRSS/feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Tue, 13 Oct 2026 07:41:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 15:57:19 +0000</lastBuildDate>
     <itunes:author>France Culture</itunes:author>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -24,6 +24,26 @@
     </itunes:owner>
     <itunes:subtitle>Flux personnel généré depuis le site Radio France</itunes:subtitle>
     <itunes:summary>Un flux RSS personnel qui récupère les épisodes depuis le site web de France Culture lorsque le flux officiel n’est pas encore à jour.</itunes:summary>
+    <item>
+      <title>Les Tinchant, itinéraire d'une famille marquée par l'esclavage : épisode du podcast Esclavage, des histoires intimes | France Culture</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/les-tinchant-itineraire-d-une-famille-marquee-par-l-esclavage-4032194</link>
+      <description>AUDIO Esclavage, des histoires intimes, épisode : Les Tinchant, itinéraire d'une famille marquée par l'esclavage. Une série inédite proposée par France Culture. Écoutez Les Tinchant, itinéraire d'une famille marquée par l'esclavage, et découvrez nos podcasts en ligne.</description>
+      <content:encoded><![CDATA[
+        <p>AUDIO Esclavage, des histoires intimes, épisode : Les Tinchant, itinéraire d&#x27;une famille marquée par l&#x27;esclavage. Une série inédite proposée par France Culture. Écoutez Les Tinchant, itinéraire d&#x27;une famille marquée par l&#x27;esclavage, et découvrez nos podcasts en ligne.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/les-tinchant-itineraire-d-une-famille-marquee-par-l-esclavage-4032194">France Culture</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/384c96c6-3b0b-4db6-9f22-40f0a8c1bbf2/300x300" alt="Les Tinchant, itinéraire d&#x27;une famille marquée par l&#x27;esclavage : épisode du podcast Esclavage, des histoires intimes | France Culture" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/les-tinchant-itineraire-d-une-famille-marquee-par-l-esclavage-4032194</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26625-13.10.2026-ITEMA_24709895-2026C36128S0286-NET_MFC_8E4FAC0C-DADA-4ABA-891C-7798651C8713-25-c42d021e20e4acd5000475069c891102.m4a" length="85040070" type="audio/mp4"/>
+      <pubDate>Tue, 13 Oct 2026 07:00:00 +0000</pubDate>
+      <itunes:author>France Culture</itunes:author>
+      <itunes:duration>58:35</itunes:duration>
+      <itunes:subtitle>AUDIO Esclavage, des histoires intimes, épisode : Les Tinchant, itinéraire d'une famille marquée par l'esclavage. Une série inédite proposée par France Culture. Écoutez Les Tinchant, itinéraire d'une famille marquée par l'esclavage, et découvrez nos podca</itunes:subtitle>
+      <itunes:summary>AUDIO Esclavage, des histoires intimes, épisode : Les Tinchant, itinéraire d'une famille marquée par l'esclavage. Une série inédite proposée par France Culture. Écoutez Les Tinchant, itinéraire d'une famille marquée par l'esclavage, et découvrez nos podcasts en ligne.</itunes:summary>
+    </item>
     <item>
       <title>Ashley et son sac de coton, tisser les mémoires de l'esclavage : épisode du podcast Esclavage, des histoires intimes | France Culture</title>
       <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/ashley-et-son-sac-de-coton-tisser-les-memoires-de-l-esclavage-7582949</link>
