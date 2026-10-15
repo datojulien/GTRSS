@@ -14,7 +14,7 @@
       <link>https://datojulien.github.io/GTRSS/roselyne-bachelot-feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Thu, 15 Oct 2026 04:37:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 09:54:21 +0000</lastBuildDate>
     <itunes:author>France Musique</itunes:author>
     <itunes:category text="Music"/>
     <itunes:explicit>no</itunes:explicit>
@@ -24,6 +24,26 @@
     </itunes:owner>
     <itunes:subtitle>Flux personnel généré depuis le site Radio France</itunes:subtitle>
     <itunes:summary>Un flux RSS personnel qui récupère les épisodes depuis le site web de France Musique lorsque le flux officiel n’est pas encore à jour.</itunes:summary>
+    <item>
+      <title>Comment les régions françaises ont inspiré les opéras</title>
+      <link>https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/comment-les-regions-francaises-ont-inspire-les-operas-8739197</link>
+      <description>Breton, alsacien, occitan, provençal... Roselyne Bachelot nous invite à écouter les multiples voix de l'opéra nourrit par les traditions vernaculaires françaises. Comment ces héritages régionaux ont-ils inspiré aux compositeurs des créations originales qui ont renouvelé le genre à leur manière ?</description>
+      <content:encoded><![CDATA[
+        <p>Breton, alsacien, occitan, provençal... Roselyne Bachelot nous invite à écouter les multiples voix de l&#x27;opéra nourrit par les traditions vernaculaires françaises. Comment ces héritages régionaux ont-ils inspiré aux compositeurs des créations originales qui ont renouvelé le genre à leur manière ?</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/comment-les-regions-francaises-ont-inspire-les-operas-8739197">France Musique</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/6a1d3d69-eedb-4da9-8129-95e500482d7e/300x300" alt="Comment les régions françaises ont inspiré les opéras" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/comment-les-regions-francaises-ont-inspire-les-operas-8739197</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26865-15.10.2026-ITEMA_24712725-2026M26307S0288-NET_MFM_03009677-00F1-42E6-9938-340A3A7FD738-25-5c41acfa7f958ea9a63a86ddd429e272.m4a" length="14055017" type="audio/mp4"/>
+      <pubDate>Thu, 15 Oct 2026 06:45:00 +0000</pubDate>
+      <itunes:author>France Musique</itunes:author>
+      <itunes:duration>9:40</itunes:duration>
+      <itunes:subtitle>Breton, alsacien, occitan, provençal... Roselyne Bachelot nous invite à écouter les multiples voix de l'opéra nourrit par les traditions vernaculaires françaises. Comment ces héritages régionaux ont-ils inspiré aux compositeurs des créations originales qu</itunes:subtitle>
+      <itunes:summary>Breton, alsacien, occitan, provençal... Roselyne Bachelot nous invite à écouter les multiples voix de l'opéra nourrit par les traditions vernaculaires françaises. Comment ces héritages régionaux ont-ils inspiré aux compositeurs des créations originales qui ont renouvelé le genre à leur manière ?</itunes:summary>
+    </item>
     <item>
       <title>À l'Opéra Bastille, le destin tragique de Brünnhilde et Siegfried</title>
       <link>https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/a-l-opera-bastille-le-destin-tragique-de-bruennhilde-et-siegfried-2991846</link>
