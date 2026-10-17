@@ -14,8 +14,8 @@
     <atom:link href="https://datojulien.github.io/GTRSS/only_remaining_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Sat, 17 Oct 2026 04:24:28 GMT</lastBuildDate>
-    <pubDate>Sat, 17 Oct 2026 04:24:28 GMT</pubDate>
+    <lastBuildDate>Sat, 17 Oct 2026 09:20:37 GMT</lastBuildDate>
+    <pubDate>Sat, 17 Oct 2026 09:20:37 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -45,6 +45,35 @@
     <ns3:category text="Comedy" />
     <ns4:person role="host">RTL</ns4:person>
     <ns4:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns4:txt>
+    <item>
+      <title>LE MEILLEUR DE RUQUIER - La blague de Jeanfi Janssens</title>
+      <guid isPermaLink="false">0643d71e-fd85-4635-a35c-cb64af80e716</guid>
+      <description>&lt;p&gt;Un couple qui veut rejoindre le &lt;em&gt;club des 10 000&lt;/em&gt;, un médecin qui annonce une nouvelle fatale à son patient, et un petit garçon qui a déjà tout dans la vie... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns5:encoded>&lt;p&gt;Un couple qui veut rejoindre le &lt;em&gt;club des 10 000&lt;/em&gt;, un médecin qui annonce une nouvelle fatale à son patient, et un petit garçon qui a déjà tout dans la vie... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
+      <pubDate>Sat, 17 Oct 2026 09:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/0643d71e-fd85-4635-a35c-cb64af80e716.mp3?_=1792170481" length="2458603" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Un couple qui veut rejoindre le club des 10 000, un médecin qui annonce une nouvelle fatale à son patient, et un petit garçon qui a déjà tout dans la vie... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
+      <ns3:description>Un couple qui veut rejoindre le club des 10 000, un médecin qui annonce une nouvelle fatale à son patient, et un petit garçon qui a déjà tout dans la vie... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Un couple qui veut rejoindre le club des 10 000, un médecin qui annonce une nouvelle fatale à son patient, et un petit garçon qui a déjà tout dans la vie... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruqu...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>02:33</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/ee808f7f-fd66-49d8-b7b2-93466bb65a6b.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/ee808f7f-fd66-49d8-b7b2-93466bb65a6b.jpg" />
+      <ns4:person role="host">Laurent Ruquier</ns4:person>
+      <ns4:txt purpose="smartlink">https://audmns.com/TSMqDmt</ns4:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>LE MEILLEUR DE BOUVARD - La blague de Didier Bénureau</title>
       <guid isPermaLink="false">5a0231d3-7d54-4bac-ad17-062acff1b3fb</guid>
@@ -2461,33 +2490,6 @@ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pou
       <ns3:image href="https://static.audiomeans.fr/img/episode/8c5bf5c5-e2ca-4921-b4c4-55a0d2fe3873.jpg" />
       <ns4:person role="host">Laurent Ruquier</ns4:person>
       <ns4:txt purpose="smartlink">https://audmns.com/VQMRQkg</ns4:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>PÉPITE - Roselyne Bachelot a enfin emmené Roman Doduik à l'Opéra</title>
-      <guid isPermaLink="false">8732fa84-f869-44a2-ac00-cf3e8664e6bc</guid>
-      <description>&lt;p&gt;Elle avait promis de l'emmer à l'Opéra, c'est chose faite ! Roselyne Bachelot a fait découvrir "Le barbier de Séville" à Roman Doduick...&lt;br&gt;&lt;br&gt;&lt;em&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns5:encoded>&lt;p&gt;Elle avait promis de l'emmer à l'Opéra, c'est chose faite ! Roselyne Bachelot a fait découvrir "Le barbier de Séville" à Roman Doduick...&lt;br&gt;&lt;br&gt;&lt;em&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
-      <pubDate>Mon, 05 Oct 2026 15:58:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/8732fa84-f869-44a2-ac00-cf3e8664e6bc.mp3?_=1791213781" length="3470274" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Elle avait promis de l'emmer à l'Opéra, c'est chose faite ! Roselyne Bachelot a fait découvrir "Le barbier de Séville" à Roman Doduick...Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns3:description>Elle avait promis de l'emmer à l'Opéra, c'est chose faite ! Roselyne Bachelot a fait découvrir "Le barbier de Séville" à Roman Doduick...Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Elle avait promis de l'emmer à l'Opéra, c'est chose faite ! Roselyne Bachelot a fait découvrir "Le barbier de Séville" à Roman Doduick...Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>03:36</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/c0361eef-46cb-4f17-9e26-52af1986a702.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/c0361eef-46cb-4f17-9e26-52af1986a702.jpg" />
-      <ns4:person role="host">Laurent Ruquier</ns4:person>
-      <ns4:txt purpose="smartlink">https://audmns.com/WZUQUNl</ns4:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
