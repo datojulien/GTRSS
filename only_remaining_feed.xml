@@ -14,8 +14,8 @@
     <atom:link href="https://datojulien.github.io/GTRSS/only_remaining_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Sun, 18 Oct 2026 23:11:42 GMT</lastBuildDate>
-    <pubDate>Sun, 18 Oct 2026 23:11:42 GMT</pubDate>
+    <lastBuildDate>Mon, 19 Oct 2026 01:16:53 GMT</lastBuildDate>
+    <pubDate>Mon, 19 Oct 2026 01:16:53 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -45,6 +45,35 @@
     <ns3:category text="Comedy" />
     <ns4:person role="host">RTL</ns4:person>
     <ns4:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns4:txt>
+    <item>
+      <title>LE MEILLEUR DE BOUVARD - Le cours d'anatomie humaine qui dérape</title>
+      <guid isPermaLink="false">8461f161-bd3b-4cc8-b2f1-eb489c44cbdd</guid>
+      <description>&lt;p&gt;Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Dans cet extrait, retour sur un coup en faculté de médecine, vraiment pas comme les autres...&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns5:encoded>&lt;p&gt;Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Dans cet extrait, retour sur un coup en faculté de médecine, vraiment pas comme les autres...&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/8461f161-bd3b-4cc8-b2f1-eb489c44cbdd.mp3?_=1792324980" length="1097016" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Dans cet extrait, retour sur un coup en faculté de médecine, vraiment pas comme les autres...
+
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
+      <ns3:description>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Dans cet extrait, retour sur un coup en faculté de médecine, vraiment pas comme les autres...
+
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Dans cet extrait, retour sur un coup en faculté de médecine, vraiment pas comme les autres...
+
+Hébergé par Audiomeans. Visitez</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>01:08</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/1866dcd3-0959-4318-8a2b-c8183d6d1ac4.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/1866dcd3-0959-4318-8a2b-c8183d6d1ac4.jpg" />
+      <ns4:person role="host">Laurent Ruquier</ns4:person>
+      <ns4:txt purpose="smartlink">https://audmns.com/DGicLiv</ns4:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>BEST OF - Le meilleur de la semaine du 12 au 16 octobre 2026 (2/2)</title>
       <guid isPermaLink="false">1c78b7fa-6339-4754-a9b4-d1739a5300f8</guid>
@@ -2442,33 +2471,6 @@ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pou
       <ns3:image href="https://static.audiomeans.fr/img/episode/7b47a354-d4c1-4054-b6ea-b36f281614f5.jpg" />
       <ns4:person role="host">Laurent Ruquier</ns4:person>
       <ns4:txt purpose="smartlink">https://audmns.com/dFqHcAX</ns4:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>PÉPITE - Les Grosses Têtes imaginent la tombe de Chantal Ladesou</title>
-      <guid isPermaLink="false">92daf988-9089-4d80-b22a-a17e46f97e9a</guid>
-      <description>&lt;p&gt;A l'occasion de la sortie du film "La maison de nos rêves", Chantal Ladesou et Kev Adams étaient présents aux "Grosses Têtes" ce 6 octobre. Mais apparement, avant même d'aller la voir en salle, certains l'imaginent déjà sous terre...&lt;br&gt;&lt;br&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns5:encoded>&lt;p&gt;A l'occasion de la sortie du film "La maison de nos rêves", Chantal Ladesou et Kev Adams étaient présents aux "Grosses Têtes" ce 6 octobre. Mais apparement, avant même d'aller la voir en salle, certains l'imaginent déjà sous terre...&lt;br&gt;&lt;br&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
-      <pubDate>Tue, 06 Oct 2026 15:58:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/92daf988-9089-4d80-b22a-a17e46f97e9a.mp3?_=1791300180" length="3013218" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>A l'occasion de la sortie du film "La maison de nos rêves", Chantal Ladesou et Kev Adams étaient présents aux "Grosses Têtes" ce 6 octobre. Mais apparement, avant même d'aller la voir en salle, certains l'imaginent déjà sous terre...Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns3:description>A l'occasion de la sortie du film "La maison de nos rêves", Chantal Ladesou et Kev Adams étaient présents aux "Grosses Têtes" ce 6 octobre. Mais apparement, avant même d'aller la voir en salle, certains l'imaginent déjà sous terre...Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>A l'occasion de la sortie du film "La maison de nos rêves", Chantal Ladesou et Kev Adams étaient présents aux "Grosses Têtes" ce 6 octobre. Mais apparement, avant même d'aller la voir en salle, certains l'imaginent déjà sous terre...Retrouvez tous les jo...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>03:08</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/f6e27f13-3084-4acd-ad2c-6290e394daf0.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/f6e27f13-3084-4acd-ad2c-6290e394daf0.jpg" />
-      <ns4:person role="host">Laurent Ruquier</ns4:person>
-      <ns4:txt purpose="smartlink">https://audmns.com/TBfeVcm</ns4:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
