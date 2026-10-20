@@ -14,7 +14,7 @@
       <link>https://datojulien.github.io/GTRSS/feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Tue, 20 Oct 2026 06:00:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 11:34:11 +0000</lastBuildDate>
     <itunes:author>France Culture</itunes:author>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -24,6 +24,26 @@
     </itunes:owner>
     <itunes:subtitle>Flux personnel généré depuis le site Radio France</itunes:subtitle>
     <itunes:summary>Un flux RSS personnel qui récupère les épisodes depuis le site web de France Culture lorsque le flux officiel n’est pas encore à jour.</itunes:summary>
+    <item>
+      <title>Vigilance ! Les citoyens auxiliaires de police : épisode du podcast Maintien de l’ordre, une histoire française | France Culture</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/vigilance-les-citoyens-auxiliaires-de-police-9078536</link>
+      <description>AUDIO Maintien de l’ordre, une histoire française, épisode : Vigilance ! Les citoyens auxiliaires de police. Une série inédite proposée par France Culture. Écoutez Vigilance ! Les citoyens auxiliaires de police, et découvrez nos podcasts en ligne.</description>
+      <content:encoded><![CDATA[
+        <p>AUDIO Maintien de l’ordre, une histoire française, épisode : Vigilance ! Les citoyens auxiliaires de police. Une série inédite proposée par France Culture. Écoutez Vigilance ! Les citoyens auxiliaires de police, et découvrez nos podcasts en ligne.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/vigilance-les-citoyens-auxiliaires-de-police-9078536">France Culture</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/e0720016-ed19-454f-bc70-99b95b48ffba/300x300" alt="Vigilance ! Les citoyens auxiliaires de police : épisode du podcast Maintien de l’ordre, une histoire française | France Culture" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/vigilance-les-citoyens-auxiliaires-de-police-9078536</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26625-20.10.2026-ITEMA_24719093-2026C36128S0293-NET_MFC_A79DD5F7-060A-4AE2-8EC1-85E12BF24ED5-25-631136f8040b23211244381f7bbf4edb.m4a" length="85521466" type="audio/mp4"/>
+      <pubDate>Tue, 20 Oct 2026 07:00:00 +0000</pubDate>
+      <itunes:author>France Culture</itunes:author>
+      <itunes:duration>58:55</itunes:duration>
+      <itunes:subtitle>AUDIO Maintien de l’ordre, une histoire française, épisode : Vigilance ! Les citoyens auxiliaires de police. Une série inédite proposée par France Culture. Écoutez Vigilance ! Les citoyens auxiliaires de police, et découvrez nos podcasts en ligne.</itunes:subtitle>
+      <itunes:summary>AUDIO Maintien de l’ordre, une histoire française, épisode : Vigilance ! Les citoyens auxiliaires de police. Une série inédite proposée par France Culture. Écoutez Vigilance ! Les citoyens auxiliaires de police, et découvrez nos podcasts en ligne.</itunes:summary>
+    </item>
     <item>
       <title>Du roi à la loi, les forces de l'ordre font leur Révolution : épisode du podcast Maintien de l’ordre, une histoire française | France Culture</title>
       <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/du-roi-a-la-loi-les-forces-de-l-ordre-font-leur-revolution-7165739</link>
