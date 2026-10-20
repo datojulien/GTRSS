@@ -14,8 +14,8 @@
     <atom:link href="https://datojulien.github.io/GTRSS/only_remaining_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Mon, 19 Oct 2026 21:03:07 GMT</lastBuildDate>
-    <pubDate>Mon, 19 Oct 2026 21:03:07 GMT</pubDate>
+    <lastBuildDate>Tue, 20 Oct 2026 00:19:37 GMT</lastBuildDate>
+    <pubDate>Tue, 20 Oct 2026 00:19:37 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -45,6 +45,35 @@
     <ns3:category text="Comedy" />
     <ns4:person role="host">RTL</ns4:person>
     <ns4:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns4:txt>
+    <item>
+      <title>LE MEILLEUR DE BOUVARD - Quand la chasse vire au fait divers...  La blague de Bernard Mabille</title>
+      <guid isPermaLink="false">f48b1540-2fec-4d2e-bfc9-7a7f74ea15e2</guid>
+      <description>&lt;p&gt;Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Dans cet extrait, un braconnier sans grand succès met en pratique un conseil de chasse. Une blague signée Bernard Mabille. &lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns5:encoded>&lt;p&gt;Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Dans cet extrait, un braconnier sans grand succès met en pratique un conseil de chasse. Une blague signée Bernard Mabille. &lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/f48b1540-2fec-4d2e-bfc9-7a7f74ea15e2.mp3?_=1792420298" length="998817" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Dans cet extrait, un braconnier sans grand succès met en pratique un conseil de chasse. Une blague signée Bernard Mabille.
+
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
+      <ns3:description>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Dans cet extrait, un braconnier sans grand succès met en pratique un conseil de chasse. Une blague signée Bernard Mabille.
+
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Dans cet extrait, un braconnier sans grand succès met en pratique un conseil de chasse. Une blague signée Bernard Mabille.
+
+Hébergé par Audiomeans....</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>01:02</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/d7da4419-010e-45d9-a08d-e1732f3120b0.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/d7da4419-010e-45d9-a08d-e1732f3120b0.jpg" />
+      <ns4:person role="host">Laurent Ruquier</ns4:person>
+      <ns4:txt purpose="smartlink">https://audmns.com/UvQctTP</ns4:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>LES IMMANQUABLES - Le meilleur de l'émission du 19 octobre 2026</title>
       <guid isPermaLink="false">bb1d5f80-2f52-4532-8d35-183491fe0d5d</guid>
@@ -2449,33 +2478,6 @@ Hébergé par Audiomeans. Visitez</itunes:subtitle>
       <ns3:image href="https://static.audiomeans.fr/img/episode/25bdf1dc-4d14-42fa-b5c2-c41d6a7238e6.jpg" />
       <ns4:person role="host">Laurent Ruquier</ns4:person>
       <ns4:txt purpose="smartlink">https://audmns.com/LQeYuSN</ns4:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>EN RÉSUMÉ - Arielle Dombasle fait le bilan de l'émission</title>
-      <guid isPermaLink="false">ffbc0f73-19a3-4382-a1d9-61b7db1a89df</guid>
-      <description>&lt;p&gt;C'est une nouvelle séquence dans "Les Grosses Têtes" cette saison ! Chaque jour en fin d'émission, une Grosse Tête est désignée par Laurent Ruquier pour distribuer les bons et les mauvais points... À la fin de l'émission, Arielle Dombasle a dressé le bilan des 2h30 d'antenne dans un résumé sans fin ! &lt;br&gt;&lt;br&gt;&lt;em&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns5:encoded>&lt;p&gt;C'est une nouvelle séquence dans "Les Grosses Têtes" cette saison ! Chaque jour en fin d'émission, une Grosse Tête est désignée par Laurent Ruquier pour distribuer les bons et les mauvais points... À la fin de l'émission, Arielle Dombasle a dressé le bilan des 2h30 d'antenne dans un résumé sans fin ! &lt;br&gt;&lt;br&gt;&lt;em&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
-      <pubDate>Wed, 07 Oct 2026 15:59:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/ffbc0f73-19a3-4382-a1d9-61b7db1a89df.mp3?_=1791386887" length="8883159" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>C'est une nouvelle séquence dans "Les Grosses Têtes" cette saison ! Chaque jour en fin d'émission, une Grosse Tête est désignée par Laurent Ruquier pour distribuer les bons et les mauvais points... À la fin de l'émission, Arielle Dombasle a dressé le bilan des 2h30 d'antenne dans un résumé sans fin ! Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns3:description>C'est une nouvelle séquence dans "Les Grosses Têtes" cette saison ! Chaque jour en fin d'émission, une Grosse Tête est désignée par Laurent Ruquier pour distribuer les bons et les mauvais points... À la fin de l'émission, Arielle Dombasle a dressé le bilan des 2h30 d'antenne dans un résumé sans fin ! Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>C'est une nouvelle séquence dans "Les Grosses Têtes" cette saison ! Chaque jour en fin d'émission, une Grosse Tête est désignée par Laurent Ruquier pour distribuer les bons et les mauvais points... À la fin de l'émission, Arielle Dombasle a dressé le bilan des 2...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>09:15</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/b065c711-54c0-4cc9-b122-ee8a4fc42bf8.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/b065c711-54c0-4cc9-b122-ee8a4fc42bf8.jpg" />
-      <ns4:person role="host">Laurent Ruquier</ns4:person>
-      <ns4:txt purpose="smartlink">https://audmns.com/qULkJPZ</ns4:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
