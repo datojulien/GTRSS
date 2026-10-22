@@ -14,8 +14,8 @@
     <atom:link href="https://datojulien.github.io/GTRSS/only_remaining_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Wed, 21 Oct 2026 23:18:53 GMT</lastBuildDate>
-    <pubDate>Wed, 21 Oct 2026 23:18:53 GMT</pubDate>
+    <lastBuildDate>Thu, 22 Oct 2026 04:43:20 GMT</lastBuildDate>
+    <pubDate>Thu, 22 Oct 2026 04:43:20 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -46,6 +46,70 @@
     <ns4:person role="host">RTL</ns4:person>
     <ns4:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns4:txt>
     <item>
+      <title>LE MEILLEUR DE BOUVARD - La blague de Michel Boujenah</title>
+      <guid isPermaLink="false">e0d07436-f305-4022-897b-fef2ede5bf65</guid>
+      <description>&lt;p&gt;Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Dans cet extrait, Michel Boujenah livre une blague aussi cruelle que savoureuse... &lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns5:encoded>&lt;p&gt;Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Dans cet extrait, Michel Boujenah livre une blague aussi cruelle que savoureuse... &lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/e0d07436-f305-4022-897b-fef2ede5bf65.mp3?_=1792587756" length="622952" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Dans cet extrait, Michel Boujenah livre une blague aussi cruelle que savoureuse...
+
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
+      <ns3:description>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Dans cet extrait, Michel Boujenah livre une blague aussi cruelle que savoureuse...
+
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Dans cet extrait, Michel Boujenah livre une blague aussi cruelle que savoureuse...
+
+Hébergé par Audiomeans. Visitez</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:38</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/5663c67e-251f-4eb4-973f-6a16b8557912.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/5663c67e-251f-4eb4-973f-6a16b8557912.jpg" />
+      <ns4:person role="host">Laurent Ruquier</ns4:person>
+      <ns4:txt purpose="smartlink">https://audmns.com/VFrzYhV</ns4:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
+    <item>
+      <title>LE MEILLEUR DE BOUVARD - Un drôle de coup de fil...</title>
+      <guid isPermaLink="false">74ad3920-a5dc-4aa6-8697-bdac1e9b89aa</guid>
+      <description>&lt;p&gt;Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Dans cet extrait, Philippe Bouvard fête son anniversaire et reçoit l'appel d'un homme un peu particulier...&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns5:encoded>&lt;p&gt;Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Dans cet extrait, Philippe Bouvard fête son anniversaire et reçoit l'appel d'un homme un peu particulier...&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/74ad3920-a5dc-4aa6-8697-bdac1e9b89aa.mp3?_=1792420056" length="2131468" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Dans cet extrait, Philippe Bouvard fête son anniversaire et reçoit l'appel d'un homme un peu particulier...
+
+
+
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
+      <ns3:description>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Dans cet extrait, Philippe Bouvard fête son anniversaire et reçoit l'appel d'un homme un peu particulier...
+
+
+
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Dans cet extrait, Philippe Bouvard fête son anniversaire et reçoit l'appel d'un homme un peu particulier...
+
+
+
+Hébergé par Audio...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>02:13</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/066af52c-92d3-422f-9a5b-6197cf1c1012.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/066af52c-92d3-422f-9a5b-6197cf1c1012.jpg" />
+      <ns4:person role="host">Laurent Ruquier</ns4:person>
+      <ns4:txt purpose="smartlink">https://audmns.com/LvxXMpY</ns4:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
+    <item>
       <title>LES IMMANQUABLES - Le meilleur de l'émission du 21 octobre 2026</title>
       <guid isPermaLink="false">d38f6a64-a6e4-4d78-8d8d-9970ceb2ef36</guid>
       <description>&lt;p&gt;La mauvaise foi d'Arielle Dombasle, les blagues de Charlotte de Turckheim et Michel Field, le retour de l'accent portugais... Retrouvez dans ce podcast le meilleur de l'émission du mercredi 21 octobre 2026.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
@@ -69,8 +133,8 @@ Retrouvez tous les jours le meilleur des Gros...</itunes:subtitle>
       <itunes:block>no</itunes:block>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>19:50</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/743a4386-38c1-4103-a1b6-05bcde49346e.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/743a4386-38c1-4103-a1b6-05bcde49346e.jpg" />
+      <itunes:image href="https://static.audiomeans.fr/img/episode/857028d5-a197-437f-9998-4d44b5a9449b.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/857028d5-a197-437f-9998-4d44b5a9449b.jpg" />
       <ns4:person role="host">Laurent Ruquier</ns4:person>
       <ns4:txt purpose="smartlink">https://audmns.com/VsHGiei</ns4:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
@@ -2451,66 +2515,6 @@ Hébergé par Audiomeans. Visitez ...</itunes:subtitle>
       <ns3:image href="https://static.audiomeans.fr/img/episode/c92dfb08-abbb-4189-8b43-91ebdb4e90ab.jpg" />
       <ns4:person role="host">Laurent Ruquier</ns4:person>
       <ns4:txt purpose="smartlink">https://audmns.com/aSQXQgf</ns4:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>QUI QUI EXPRESS - 60 ANS DE RTL : Quel journaliste a eu sa marionnette aux guignols de l'info ?</title>
-      <guid isPermaLink="false">c76fa610-56ef-4a94-8148-761b6c389760</guid>
-      <description>&lt;p&gt;Dans ce jeu du "Qui Qui Express" spécial 60 ans de RTL, la règle est simple : à chaque voix emblématique de la station retrouvée, l'auditeur remporte 50 euros !&lt;br&gt;&lt;br&gt;&lt;em&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns5:encoded>&lt;p&gt;Dans ce jeu du "Qui Qui Express" spécial 60 ans de RTL, la règle est simple : à chaque voix emblématique de la station retrouvée, l'auditeur remporte 50 euros !&lt;br&gt;&lt;br&gt;&lt;em&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
-      <pubDate>Fri, 09 Oct 2026 15:54:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/c76fa610-56ef-4a94-8148-761b6c389760.mp3?_=1791550381" length="8074940" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Dans ce jeu du "Qui Qui Express" spécial 60 ans de RTL, la règle est simple : à chaque voix emblématique de la station retrouvée, l'auditeur remporte 50 euros !Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns3:description>Dans ce jeu du "Qui Qui Express" spécial 60 ans de RTL, la règle est simple : à chaque voix emblématique de la station retrouvée, l'auditeur remporte 50 euros !Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Dans ce jeu du "Qui Qui Express" spécial 60 ans de RTL, la règle est simple : à chaque voix emblématique de la station retrouvée, l'auditeur remporte 50 euros !Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'applicat...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>08:24</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/3b4a27d3-1970-4099-959a-a5ba2c6a960a.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/3b4a27d3-1970-4099-959a-a5ba2c6a960a.jpg" />
-      <ns4:person role="host">Laurent Ruquier</ns4:person>
-      <ns4:txt purpose="smartlink">https://audmns.com/gXsYVWE</ns4:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>LE MEILLEUR DE RUQUIER - Un belge torturant une grenouille... L'histoire drôle de Beaugrand</title>
-      <guid isPermaLink="false">bc375695-b654-46e7-b194-aa966eb2658a</guid>
-      <description>&lt;p&gt;Un Belge qui teste l'intelligence d'une grenouille, un homme prêt à tout pour séduire une femme, et Bite et Foune au restaurant... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns5:encoded>&lt;p&gt;Un Belge qui teste l'intelligence d'une grenouille, un homme prêt à tout pour séduire une femme, et Bite et Foune au restaurant... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
-      <pubDate>Fri, 09 Oct 2026 09:00:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/bc375695-b654-46e7-b194-aa966eb2658a.mp3?_=1791481381" length="1967348" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Un Belge qui teste l'intelligence d'une grenouille, un homme prêt à tout pour séduire une femme, et Bite et Foune au restaurant... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
-
-Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
-
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns3:description>Un Belge qui teste l'intelligence d'une grenouille, un homme prêt à tout pour séduire une femme, et Bite et Foune au restaurant... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
-
-Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
-
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Un Belge qui teste l'intelligence d'une grenouille, un homme prêt à tout pour séduire une femme, et Bite et Foune au restaurant... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
-
-Tous les ...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>02:02</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/1e4936ce-4541-47d8-829d-3a635e29b965.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/1e4936ce-4541-47d8-829d-3a635e29b965.jpg" />
-      <ns4:person role="host">Laurent Ruquier</ns4:person>
-      <ns4:txt purpose="smartlink">https://audmns.com/nxChdCk</ns4:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
