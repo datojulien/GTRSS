@@ -14,7 +14,7 @@
       <link>https://datojulien.github.io/GTRSS/feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Thu, 22 Oct 2026 04:42:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 10:09:47 +0000</lastBuildDate>
     <itunes:author>France Culture</itunes:author>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -24,6 +24,26 @@
     </itunes:owner>
     <itunes:subtitle>Flux personnel généré depuis le site Radio France</itunes:subtitle>
     <itunes:summary>Un flux RSS personnel qui récupère les épisodes depuis le site web de France Culture lorsque le flux officiel n’est pas encore à jour.</itunes:summary>
+    <item>
+      <title>De l’Algérie à la Guadeloupe, maintenir un ordre colonial : épisode du podcast Maintien de l’ordre, une histoire française | France Culture</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/de-l-algerie-a-la-guadeloupe-maintenir-un-ordre-colonial-7724146</link>
+      <description>AUDIO Maintien de l’ordre, une histoire française, épisode : De l’Algérie à la Guadeloupe, maintenir un ordre colonial. Une série inédite proposée par France Culture. Écoutez De l’Algérie à la Guadeloupe, maintenir un ordre colonial, et découvrez nos podcasts en ligne.</description>
+      <content:encoded><![CDATA[
+        <p>AUDIO Maintien de l’ordre, une histoire française, épisode : De l’Algérie à la Guadeloupe, maintenir un ordre colonial. Une série inédite proposée par France Culture. Écoutez De l’Algérie à la Guadeloupe, maintenir un ordre colonial, et découvrez nos podcasts en ligne.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/de-l-algerie-a-la-guadeloupe-maintenir-un-ordre-colonial-7724146">France Culture</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/cd0de7c6-aea5-44ba-8fd3-ef3974bb872c/300x300" alt="De l’Algérie à la Guadeloupe, maintenir un ordre colonial : épisode du podcast Maintien de l’ordre, une histoire française | France Culture" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/de-l-algerie-a-la-guadeloupe-maintenir-un-ordre-colonial-7724146</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26625-22.10.2026-ITEMA_24722130-2026C36128S0295-NET_MFC_15D9055D-FAEE-4977-BA10-01825D756ECA-25-30aba2c7009cbf0e663a058a0e3875c2.m4a" length="85426944" type="audio/mp4"/>
+      <pubDate>Thu, 22 Oct 2026 07:00:00 +0000</pubDate>
+      <itunes:author>France Culture</itunes:author>
+      <itunes:duration>58:51</itunes:duration>
+      <itunes:subtitle>AUDIO Maintien de l’ordre, une histoire française, épisode : De l’Algérie à la Guadeloupe, maintenir un ordre colonial. Une série inédite proposée par France Culture. Écoutez De l’Algérie à la Guadeloupe, maintenir un ordre colonial, et découvrez nos podc</itunes:subtitle>
+      <itunes:summary>AUDIO Maintien de l’ordre, une histoire française, épisode : De l’Algérie à la Guadeloupe, maintenir un ordre colonial. Une série inédite proposée par France Culture. Écoutez De l’Algérie à la Guadeloupe, maintenir un ordre colonial, et découvrez nos podcasts en ligne.</itunes:summary>
+    </item>
     <item>
       <title>Maîtriser les foules, histoire de la gendarmerie mobile : épisode du podcast Maintien de l’ordre, une histoire française | France Culture</title>
       <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/maitriser-les-foules-histoire-de-la-gendarmerie-mobile-4256307</link>
