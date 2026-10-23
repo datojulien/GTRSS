@@ -14,7 +14,7 @@
       <link>https://datojulien.github.io/GTRSS/feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Fri, 23 Oct 2026 19:12:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 22:12:17 +0000</lastBuildDate>
     <itunes:author>France Culture</itunes:author>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -2983,6 +2983,26 @@
       <itunes:duration>52:10</itunes:duration>
       <itunes:subtitle>AUDIO Histoire de l'Ukraine, épisode : L’histoire ukrainienne vue du Kremlin. Une série inédite proposée par France Culture. Écoutez L’histoire ukrainienne vue du Kremlin, et découvrez nos podcasts en ligne.</itunes:subtitle>
       <itunes:summary>AUDIO Histoire de l'Ukraine, épisode : L’histoire ukrainienne vue du Kremlin. Une série inédite proposée par France Culture. Écoutez L’histoire ukrainienne vue du Kremlin, et découvrez nos podcasts en ligne.</itunes:summary>
+    </item>
+    <item>
+      <title>Budapest 1956, briser le bloc : épisode du podcast Histoire de la Hongrie, au cœur de l’Europe centrale | France Culture</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/budapest-1956-briser-le-bloc-4035542</link>
+      <description>AUDIO Histoire de la Hongrie, au cœur de l’Europe centrale, épisode : Budapest 1956, briser le bloc. Une série inédite proposée par France Culture. Écoutez Budapest 1956, briser le bloc, et découvrez nos podcasts en ligne.</description>
+      <content:encoded><![CDATA[
+        <p>AUDIO Histoire de la Hongrie, au cœur de l’Europe centrale, épisode : Budapest 1956, briser le bloc. Une série inédite proposée par France Culture. Écoutez Budapest 1956, briser le bloc, et découvrez nos podcasts en ligne.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/budapest-1956-briser-le-bloc-4035542">France Culture</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/f71c21d1-ba5a-4d27-86db-d69990be20c1/300x300" alt="Budapest 1956, briser le bloc : épisode du podcast Histoire de la Hongrie, au cœur de l’Europe centrale | France Culture" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/budapest-1956-briser-le-bloc-4035542</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26625-24.10.2026-ITEMA_24721448-2021C36128S0315-NET_MFC_64F5296B-C71A-471C-B536-12699C86F3E1-25-ea30af90a88751c9ee2948216aa462b9.m4a" length="75138676" type="audio/mp4"/>
+      <pubDate>Thu, 11 Nov 2021 08:06:45 +0000</pubDate>
+      <itunes:author>France Culture</itunes:author>
+      <itunes:duration>51:45</itunes:duration>
+      <itunes:subtitle>AUDIO Histoire de la Hongrie, au cœur de l’Europe centrale, épisode : Budapest 1956, briser le bloc. Une série inédite proposée par France Culture. Écoutez Budapest 1956, briser le bloc, et découvrez nos podcasts en ligne.</itunes:subtitle>
+      <itunes:summary>AUDIO Histoire de la Hongrie, au cœur de l’Europe centrale, épisode : Budapest 1956, briser le bloc. Une série inédite proposée par France Culture. Écoutez Budapest 1956, briser le bloc, et découvrez nos podcasts en ligne.</itunes:summary>
     </item>
     <item>
       <title>Quand le rire s’empare de la radio, les ondes se gondolent : épisode du podcast Histoire du rire | France Culture</title>
