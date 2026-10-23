@@ -14,8 +14,8 @@
     <atom:link href="https://datojulien.github.io/GTRSS/only_integrale_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Fri, 23 Oct 2026 15:03:40 GMT</lastBuildDate>
-    <pubDate>Fri, 23 Oct 2026 15:03:40 GMT</pubDate>
+    <lastBuildDate>Fri, 23 Oct 2026 19:12:49 GMT</lastBuildDate>
+    <pubDate>Fri, 23 Oct 2026 19:12:49 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -45,6 +45,35 @@
     <ns3:category text="Comedy" />
     <ns4:person role="host">RTL</ns4:person>
     <ns4:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns4:txt>
+    <item>
+      <title>L'INTÉGRALE - Émission du vendredi 23 octobre 2026</title>
+      <guid isPermaLink="false">3934f36f-84d2-43bd-b639-2af94d8e3b37</guid>
+      <description>&lt;p&gt;Avec François-Henri Désérable, Az, Caroline Diament, Adil Rami, Sylvie Tellier, Christophe Barbier et Olivier Bellamy.&lt;br&gt;&lt;br&gt;&lt;em&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns5:encoded>&lt;p&gt;Avec François-Henri Désérable, Az, Caroline Diament, Adil Rami, Sylvie Tellier, Christophe Barbier et Olivier Bellamy.&lt;br&gt;&lt;br&gt;&lt;em&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
+      <pubDate>Fri, 23 Oct 2026 16:03:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/3934f36f-84d2-43bd-b639-2af94d8e3b37.mp3?_=1792764192" length="95325933" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Avec François-Henri Désérable, Az, Caroline Diament, Adil Rami, Sylvie Tellier, Christophe Barbier et Olivier Bellamy.Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
+      <ns3:description>Avec François-Henri Désérable, Az, Caroline Diament, Adil Rami, Sylvie Tellier, Christophe Barbier et Olivier Bellamy.Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Avec François-Henri Désérable, Az, Caroline Diament, Adil Rami, Sylvie Tellier, Christophe Barbier et Olivier Bellamy.Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+
+Hébergé par Aud...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>01:39:17</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/e062868a-1f63-4050-bfd3-7033e4f448b1.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/e062868a-1f63-4050-bfd3-7033e4f448b1.jpg" />
+      <ns4:person role="host">Laurent Ruquier</ns4:person>
+      <ns4:txt purpose="smartlink">https://audmns.com/addtMGs</ns4:txt>
+      <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>L'INTÉGRALE - Émission du jeudi 22 octobre 2026</title>
       <guid isPermaLink="false">2896b4a4-11d5-46d5-829f-a1460298f760</guid>
