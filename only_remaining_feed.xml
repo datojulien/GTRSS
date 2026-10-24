@@ -14,8 +14,8 @@
     <atom:link href="https://datojulien.github.io/GTRSS/only_remaining_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Sat, 24 Oct 2026 05:52:28 GMT</lastBuildDate>
-    <pubDate>Sat, 24 Oct 2026 05:52:28 GMT</pubDate>
+    <lastBuildDate>Sat, 24 Oct 2026 10:58:51 GMT</lastBuildDate>
+    <pubDate>Sat, 24 Oct 2026 10:58:51 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -45,6 +45,35 @@
     <ns3:category text="Comedy" />
     <ns4:person role="host">RTL</ns4:person>
     <ns4:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns4:txt>
+    <item>
+      <title>LE MEILLEUR DE RUQUIER - Une drôle d'activité dans une maison de retraite... L'histoire drôle Jean-Marie Bigard</title>
+      <guid isPermaLink="false">3cc59ae5-4d66-4ea5-881c-698a1943dc7c</guid>
+      <description>&lt;p&gt;Un hypnotiseur face à 120 pensionnaires, une jeune femme intriguée par un étrange phénomène physique et un amateur de rock'n'roll un peu trop enthousiaste... Écoutez dans ce podcast 3 blagues aussi décalées qu'hilarantes racontées par les Grosses Têtes de Laurent Ruquier.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns5:encoded>&lt;p&gt;Un hypnotiseur face à 120 pensionnaires, une jeune femme intriguée par un étrange phénomène physique et un amateur de rock'n'roll un peu trop enthousiaste... Écoutez dans ce podcast 3 blagues aussi décalées qu'hilarantes racontées par les Grosses Têtes de Laurent Ruquier.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
+      <pubDate>Sat, 24 Oct 2026 09:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/3cc59ae5-4d66-4ea5-881c-698a1943dc7c.mp3?_=1792783738" length="3242448" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Un hypnotiseur face à 120 pensionnaires, une jeune femme intriguée par un étrange phénomène physique et un amateur de rock'n'roll un peu trop enthousiaste... Écoutez dans ce podcast 3 blagues aussi décalées qu'hilarantes racontées par les Grosses Têtes de Laurent Ruquier.
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
+      <ns3:description>Un hypnotiseur face à 120 pensionnaires, une jeune femme intriguée par un étrange phénomène physique et un amateur de rock'n'roll un peu trop enthousiaste... Écoutez dans ce podcast 3 blagues aussi décalées qu'hilarantes racontées par les Grosses Têtes de Laurent Ruquier.
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Un hypnotiseur face à 120 pensionnaires, une jeune femme intriguée par un étrange phénomène physique et un amateur de rock'n'roll un peu trop enthousiaste... Écoutez dans ce podcast 3 blagues aussi décalées qu'hilarantes racontées par les Grosses Têtes de Lauren...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>03:22</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/ab9b4930-3d63-4c51-8d4e-0748a8c467d6.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/ab9b4930-3d63-4c51-8d4e-0748a8c467d6.jpg" />
+      <ns4:person role="host">Laurent Ruquier</ns4:person>
+      <ns4:txt purpose="smartlink">https://audmns.com/EeKNfFh</ns4:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>LE MEILLEUR DE BOUVARD - Un sens des priorités contestable... La blague de Jean-Jacques Peroni</title>
       <guid isPermaLink="false">2cbcdf42-c012-490e-ae28-146aeae27b77</guid>
@@ -2477,36 +2506,6 @@ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pou
       <ns3:image href="https://static.audiomeans.fr/img/episode/e61da80d-3211-47fc-aa84-adcc2bf4d097.jpg" />
       <ns4:person role="host">Laurent Ruquier</ns4:person>
       <ns4:txt purpose="smartlink">https://audmns.com/NSVrOij</ns4:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>PÉPITE - Adil Rami drague Karina Marimon et Roselyne Bachelot</title>
-      <guid isPermaLink="false">5f818970-f155-4bc5-ab70-820a79e106bf</guid>
-      <description>&lt;p&gt;Alors que Laurent Ruquier pensait faire plaisir à Karina Marimon et Roselyne Bachelot en plaçant Pierre de Maere à côté d'elles, c'est une nouvelle fois Adil Rami qui les fait craquer ! &lt;/p&gt;&lt;p&gt;&lt;em&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns5:encoded>&lt;p&gt;Alors que Laurent Ruquier pensait faire plaisir à Karina Marimon et Roselyne Bachelot en plaçant Pierre de Maere à côté d'elles, c'est une nouvelle fois Adil Rami qui les fait craquer ! &lt;/p&gt;&lt;p&gt;&lt;em&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
-      <pubDate>Mon, 12 Oct 2026 15:57:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/5f818970-f155-4bc5-ab70-820a79e106bf.mp3?_=1791815580" length="2514909" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Alors que Laurent Ruquier pensait faire plaisir à Karina Marimon et Roselyne Bachelot en plaçant Pierre de Maere à côté d'elles, c'est une nouvelle fois Adil Rami qui les fait craquer !
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns3:description>Alors que Laurent Ruquier pensait faire plaisir à Karina Marimon et Roselyne Bachelot en plaçant Pierre de Maere à côté d'elles, c'est une nouvelle fois Adil Rami qui les fait craquer !
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Alors que Laurent Ruquier pensait faire plaisir à Karina Marimon et Roselyne Bachelot en plaçant Pierre de Maere à côté d'elles, c'est une nouvelle fois Adil Rami qui les fait craquer !
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>02:37</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/4c52f94e-c7a0-4de6-8640-674dca5aa2e4.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/4c52f94e-c7a0-4de6-8640-674dca5aa2e4.jpg" />
-      <ns4:person role="host">Laurent Ruquier</ns4:person>
-      <ns4:txt purpose="smartlink">https://audmns.com/eqOFxoJ</ns4:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
