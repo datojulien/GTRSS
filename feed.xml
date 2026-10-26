@@ -14,7 +14,7 @@
       <link>https://datojulien.github.io/GTRSS/feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Mon, 26 Oct 2026 13:04:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 19:17:59 +0000</lastBuildDate>
     <itunes:author>France Culture</itunes:author>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -24,6 +24,26 @@
     </itunes:owner>
     <itunes:subtitle>Flux personnel généré depuis le site Radio France</itunes:subtitle>
     <itunes:summary>Un flux RSS personnel qui récupère les épisodes depuis le site web de France Culture lorsque le flux officiel n’est pas encore à jour.</itunes:summary>
+    <item>
+      <title>Fosses communes et histoires vraies : épisode du podcast La mort, une histoire à bras-le-corps | France Culture</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/fosses-communes-et-histoires-vraies-9559810</link>
+      <description>AUDIO La mort, une histoire à bras-le-corps, épisode : Fosses communes et histoires vraies. Une série inédite proposée par France Culture. Écoutez Fosses communes et histoires vraies, et découvrez nos podcasts en ligne.</description>
+      <content:encoded><![CDATA[
+        <p>AUDIO La mort, une histoire à bras-le-corps, épisode : Fosses communes et histoires vraies. Une série inédite proposée par France Culture. Écoutez Fosses communes et histoires vraies, et découvrez nos podcasts en ligne.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/fosses-communes-et-histoires-vraies-9559810">France Culture</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/f4abe490-c601-4203-8c3e-69efd66fe8ba/300x300" alt="Fosses communes et histoires vraies : épisode du podcast La mort, une histoire à bras-le-corps | France Culture" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/fosses-communes-et-histoires-vraies-9559810</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26625-26.10.2026-ITEMA_24726589-2026C36128S0299-NET_MFC_F2F5D2B0-DC72-48B8-9EE0-3E9F3592B90A-25-7f70bbe5b21f055edfc9e86e99da78af.m4a" length="85155379" type="audio/mp4"/>
+      <pubDate>Mon, 26 Oct 2026 08:00:00 +0000</pubDate>
+      <itunes:author>France Culture</itunes:author>
+      <itunes:duration>58:40</itunes:duration>
+      <itunes:subtitle>AUDIO La mort, une histoire à bras-le-corps, épisode : Fosses communes et histoires vraies. Une série inédite proposée par France Culture. Écoutez Fosses communes et histoires vraies, et découvrez nos podcasts en ligne.</itunes:subtitle>
+      <itunes:summary>AUDIO La mort, une histoire à bras-le-corps, épisode : Fosses communes et histoires vraies. Une série inédite proposée par France Culture. Écoutez Fosses communes et histoires vraies, et découvrez nos podcasts en ligne.</itunes:summary>
+    </item>
     <item>
       <title>De l’Algérie à la Guadeloupe, maintenir un ordre colonial : épisode du podcast Maintien de l’ordre, une histoire française | France Culture</title>
       <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/de-l-algerie-a-la-guadeloupe-maintenir-un-ordre-colonial-7724146</link>
