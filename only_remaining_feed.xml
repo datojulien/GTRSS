@@ -14,8 +14,8 @@
     <atom:link href="https://datojulien.github.io/GTRSS/only_remaining_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Mon, 26 Oct 2026 06:12:47 GMT</lastBuildDate>
-    <pubDate>Mon, 26 Oct 2026 06:12:47 GMT</pubDate>
+    <lastBuildDate>Mon, 26 Oct 2026 13:04:42 GMT</lastBuildDate>
+    <pubDate>Mon, 26 Oct 2026 13:04:42 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -45,6 +45,35 @@
     <ns3:category text="Comedy" />
     <ns4:person role="host">RTL</ns4:person>
     <ns4:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns4:txt>
+    <item>
+      <title>LE MEILLEUR DE RUQUIER - Comment utiliser le mot "Honolulu"... L'histoire drôle de  Benjamin Castaldi</title>
+      <guid isPermaLink="false">4c14a14d-9801-4bdf-9340-8a336cf8366a</guid>
+      <description>&lt;p&gt;Une technique pour réussir une petite gâterie, une blague irrévérencieuse sur les Portugaises et un mystérieux personnage qui prétend être au-dessus de Dieu... Écoutez dans ce podcast 3 blagues aussi décalées qu'hilarantes racontées par les Grosses Têtes de Laurent Ruquier.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns5:encoded>&lt;p&gt;Une technique pour réussir une petite gâterie, une blague irrévérencieuse sur les Portugaises et un mystérieux personnage qui prétend être au-dessus de Dieu... Écoutez dans ce podcast 3 blagues aussi décalées qu'hilarantes racontées par les Grosses Têtes de Laurent Ruquier.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
+      <pubDate>Mon, 26 Oct 2026 10:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/4c14a14d-9801-4bdf-9340-8a336cf8366a.mp3?_=1792783881" length="2927709" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Une technique pour réussir une petite gâterie, une blague irrévérencieuse sur les Portugaises et un mystérieux personnage qui prétend être au-dessus de Dieu... Écoutez dans ce podcast 3 blagues aussi décalées qu'hilarantes racontées par les Grosses Têtes de Laurent Ruquier.
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
+      <ns3:description>Une technique pour réussir une petite gâterie, une blague irrévérencieuse sur les Portugaises et un mystérieux personnage qui prétend être au-dessus de Dieu... Écoutez dans ce podcast 3 blagues aussi décalées qu'hilarantes racontées par les Grosses Têtes de Laurent Ruquier.
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Une technique pour réussir une petite gâterie, une blague irrévérencieuse sur les Portugaises et un mystérieux personnage qui prétend être au-dessus de Dieu... Écoutez dans ce podcast 3 blagues aussi décalées qu'hilarantes racontées par les Grosses Têtes de Laur...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>03:02</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/0281d70d-1be5-4d7f-a96c-8f6a58a6bb56.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/0281d70d-1be5-4d7f-a96c-8f6a58a6bb56.jpg" />
+      <ns4:person role="host">Laurent Ruquier</ns4:person>
+      <ns4:txt purpose="smartlink">https://audmns.com/CzgmwCW</ns4:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>LE MEILLEUR DE BOUVARD - L'humour grivois de Michel Galabru et Thierry Ardisson</title>
       <guid isPermaLink="false">aa83a01f-8558-4bfa-a33e-d6b3df32f33b</guid>
@@ -2474,35 +2503,6 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <ns3:image href="https://static.audiomeans.fr/img/episode/ab45eaef-deee-4f96-ba0d-993afddecd8b.jpg" />
       <ns4:person role="host">Laurent Ruquier</ns4:person>
       <ns4:txt purpose="smartlink">https://audmns.com/zXRCpEx</ns4:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>FAKE NEWS - "Koh Lanta", blocage des lycéens, pri du carburant... Quelle Grosse Tête dit vrai ?</title>
-      <guid isPermaLink="false">6356e4e4-7c64-44b3-af31-772edeb2adf2</guid>
-      <description>&lt;p&gt;Et vous, saurez-vous démêler le vrai du faux ?&lt;br&gt;&lt;br&gt;&lt;em&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns5:encoded>&lt;p&gt;Et vous, saurez-vous démêler le vrai du faux ?&lt;br&gt;&lt;br&gt;&lt;em&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
-      <pubDate>Tue, 13 Oct 2026 15:54:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/6356e4e4-7c64-44b3-af31-772edeb2adf2.mp3?_=1791896582" length="4096257" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Et vous, saurez-vous démêler le vrai du faux ?Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns3:description>Et vous, saurez-vous démêler le vrai du faux ?Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Et vous, saurez-vous démêler le vrai du faux ?Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-
-Hébergé par Audiomeans. Visitez</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>04:15</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/a0c6570d-89a6-4cb1-95e7-4be9d9dd071e.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/a0c6570d-89a6-4cb1-95e7-4be9d9dd071e.jpg" />
-      <ns4:person role="host">Laurent Ruquier</ns4:person>
-      <ns4:txt purpose="smartlink">https://audmns.com/MnEGcog</ns4:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
