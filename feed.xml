@@ -14,7 +14,7 @@
       <link>https://datojulien.github.io/GTRSS/feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Tue, 27 Oct 2026 05:02:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 10:32:23 +0000</lastBuildDate>
     <itunes:author>France Culture</itunes:author>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -24,6 +24,26 @@
     </itunes:owner>
     <itunes:subtitle>Flux personnel généré depuis le site Radio France</itunes:subtitle>
     <itunes:summary>Un flux RSS personnel qui récupère les épisodes depuis le site web de France Culture lorsque le flux officiel n’est pas encore à jour.</itunes:summary>
+    <item>
+      <title>Sculpture et sépulture, l’art d’enterrer les gens : épisode du podcast La mort, une histoire à bras-le-corps | France Culture</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/sculpture-et-sepulture-l-art-d-enterrer-les-gens-8871237</link>
+      <description>AUDIO La mort, une histoire à bras-le-corps, épisode : Sculpture et sépulture, l’art d’enterrer les gens. Une série inédite proposée par France Culture. Écoutez Sculpture et sépulture, l’art d’enterrer les gens, et découvrez nos podcasts en ligne.</description>
+      <content:encoded><![CDATA[
+        <p>AUDIO La mort, une histoire à bras-le-corps, épisode : Sculpture et sépulture, l’art d’enterrer les gens. Une série inédite proposée par France Culture. Écoutez Sculpture et sépulture, l’art d’enterrer les gens, et découvrez nos podcasts en ligne.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/sculpture-et-sepulture-l-art-d-enterrer-les-gens-8871237">France Culture</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/8daafad3-b7fd-4081-bd2c-91704f42c991/300x300" alt="Sculpture et sépulture, l’art d’enterrer les gens : épisode du podcast La mort, une histoire à bras-le-corps | France Culture" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/sculpture-et-sepulture-l-art-d-enterrer-les-gens-8871237</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26625-27.10.2026-ITEMA_24728177-2026C36128S0300-NET_MFC_2D75C50B-906A-40BC-9D7E-659FD9209286-25-b396aba679ff8a73551c19d904389e7a.m4a" length="85402654" type="audio/mp4"/>
+      <pubDate>Tue, 27 Oct 2026 08:00:00 +0000</pubDate>
+      <itunes:author>France Culture</itunes:author>
+      <itunes:duration>58:50</itunes:duration>
+      <itunes:subtitle>AUDIO La mort, une histoire à bras-le-corps, épisode : Sculpture et sépulture, l’art d’enterrer les gens. Une série inédite proposée par France Culture. Écoutez Sculpture et sépulture, l’art d’enterrer les gens, et découvrez nos podcasts en ligne.</itunes:subtitle>
+      <itunes:summary>AUDIO La mort, une histoire à bras-le-corps, épisode : Sculpture et sépulture, l’art d’enterrer les gens. Une série inédite proposée par France Culture. Écoutez Sculpture et sépulture, l’art d’enterrer les gens, et découvrez nos podcasts en ligne.</itunes:summary>
+    </item>
     <item>
       <title>Fosses communes et histoires vraies : épisode du podcast La mort, une histoire à bras-le-corps | France Culture</title>
       <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/fosses-communes-et-histoires-vraies-9559810</link>
