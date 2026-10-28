@@ -14,8 +14,8 @@
     <atom:link href="https://datojulien.github.io/GTRSS/only_remaining_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Tue, 27 Oct 2026 21:18:43 GMT</lastBuildDate>
-    <pubDate>Tue, 27 Oct 2026 21:18:43 GMT</pubDate>
+    <lastBuildDate>Wed, 28 Oct 2026 01:20:38 GMT</lastBuildDate>
+    <pubDate>Wed, 28 Oct 2026 01:20:38 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -45,6 +45,33 @@
     <ns3:category text="Comedy" />
     <ns4:person role="host">RTL</ns4:person>
     <ns4:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns4:txt>
+    <item>
+      <title>LE MEILLEUR DE BOUVARD - Les blagues animalère de Jean Yanne et Chantal Ladesou</title>
+      <guid isPermaLink="false">47418d17-ecaa-42fd-87c2-11a5a72723cc</guid>
+      <description>&lt;p&gt;Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Des stimulis érotiques du canard aux chiens qui s'accouplent aux yeux de tous, retrouvez dans ce podcast les blagues de Jean Yanne et Chantal Ladesou. &lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns5:encoded>&lt;p&gt;Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Des stimulis érotiques du canard aux chiens qui s'accouplent aux yeux de tous, retrouvez dans ce podcast les blagues de Jean Yanne et Chantal Ladesou. &lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
+      <pubDate>Wed, 28 Oct 2026 01:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/47418d17-ecaa-42fd-87c2-11a5a72723cc.mp3?_=1793117078" length="1235936" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Des stimulis érotiques du canard aux chiens qui s'accouplent aux yeux de tous, retrouvez dans ce podcast les blagues de Jean Yanne et Chantal Ladesou.
+
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
+      <ns3:description>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Des stimulis érotiques du canard aux chiens qui s'accouplent aux yeux de tous, retrouvez dans ce podcast les blagues de Jean Yanne et Chantal Ladesou.
+
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Des stimulis érotiques du canard aux chiens qui s'accouplent aux yeux de tous, retrouvez dans ce podcast les blagues de Jean Yanne et Chantal Ladesou.</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>01:17</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/86c72efb-df28-4e50-84cb-14920a6e9c89.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/86c72efb-df28-4e50-84cb-14920a6e9c89.jpg" />
+      <ns4:person role="host">Laurent Ruquier</ns4:person>
+      <ns4:txt purpose="smartlink">https://audmns.com/UetNykO</ns4:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>RTL SOIR - Laurent Ruquier invité d'Anne-Sophie Lapix pour sa pièce "Chante et tais-toi"</title>
       <guid isPermaLink="false">b8d339c0-ad2c-4cf6-be71-69ca4bcc60ac</guid>
@@ -2432,36 +2459,6 @@ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pou
       <ns3:image href="https://static.audiomeans.fr/img/episode/3bf2ffbf-56d3-4e99-b710-d088cc8b774f.jpg" />
       <ns4:person role="host">Laurent Ruquier</ns4:person>
       <ns4:txt purpose="smartlink">https://audmns.com/mvUXAlI</ns4:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>FACE AUX AUDITEURS - "Un calendrier des Dieux du Stade" : la drôle d'idée pour la fin d'année des Grosses Têtes</title>
-      <guid isPermaLink="false">c55f1ac5-1246-44b3-988e-a0f0d90e7a2e</guid>
-      <description>&lt;p&gt;Plaintes, compliments, interrogations... Cette saison encore, les Grosses Têtes répondent aux différentes questions et messages des auditeurs à l'antenne.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns5:encoded>&lt;p&gt;Plaintes, compliments, interrogations... Cette saison encore, les Grosses Têtes répondent aux différentes questions et messages des auditeurs à l'antenne.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
-      <pubDate>Thu, 15 Oct 2026 15:56:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/c55f1ac5-1246-44b3-988e-a0f0d90e7a2e.mp3?_=1792078082" length="4498997" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Plaintes, compliments, interrogations... Cette saison encore, les Grosses Têtes répondent aux différentes questions et messages des auditeurs à l'antenne.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns3:description>Plaintes, compliments, interrogations... Cette saison encore, les Grosses Têtes répondent aux différentes questions et messages des auditeurs à l'antenne.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Plaintes, compliments, interrogations... Cette saison encore, les Grosses Têtes répondent aux différentes questions et messages des auditeurs à l'antenne.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>04:41</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/0596514c-1503-41d3-aa46-e9e9a75385ac.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/0596514c-1503-41d3-aa46-e9e9a75385ac.jpg" />
-      <ns4:person role="host">Laurent Ruquier</ns4:person>
-      <ns4:txt purpose="smartlink">https://audmns.com/BfqRuoA</ns4:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
