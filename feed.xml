@@ -14,7 +14,7 @@
       <link>https://datojulien.github.io/GTRSS/feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Wed, 28 Oct 2026 08:28:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 16:00:25 +0000</lastBuildDate>
     <itunes:author>France Culture</itunes:author>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -24,6 +24,26 @@
     </itunes:owner>
     <itunes:subtitle>Flux personnel généré depuis le site Radio France</itunes:subtitle>
     <itunes:summary>Un flux RSS personnel qui récupère les épisodes depuis le site web de France Culture lorsque le flux officiel n’est pas encore à jour.</itunes:summary>
+    <item>
+      <title>Mourir au front, corps cherchent sépultures : épisode du podcast La mort, une histoire à bras-le-corps | France Culture</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/mourir-au-front-corps-cherchent-sepultures-5171350</link>
+      <description>AUDIO La mort, une histoire à bras-le-corps, épisode : Mourir au front, corps cherchent sépultures. Une série inédite proposée par France Culture. Écoutez Mourir au front, corps cherchent sépultures, et découvrez nos podcasts en ligne.</description>
+      <content:encoded><![CDATA[
+        <p>AUDIO La mort, une histoire à bras-le-corps, épisode : Mourir au front, corps cherchent sépultures. Une série inédite proposée par France Culture. Écoutez Mourir au front, corps cherchent sépultures, et découvrez nos podcasts en ligne.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/mourir-au-front-corps-cherchent-sepultures-5171350">France Culture</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/7492cc40-cb17-46a5-ae1b-2f116e6911fb/300x300" alt="Mourir au front, corps cherchent sépultures : épisode du podcast La mort, une histoire à bras-le-corps | France Culture" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/mourir-au-front-corps-cherchent-sepultures-5171350</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26625-28.10.2026-ITEMA_24729612-2026C36128S0301-NET_MFC_1FADC0DB-0720-4866-A32E-8F926188FA1C-25-85036cd05918c5a842d42b734fff5964.m4a" length="86037445" type="audio/mp4"/>
+      <pubDate>Wed, 28 Oct 2026 08:00:00 +0000</pubDate>
+      <itunes:author>France Culture</itunes:author>
+      <itunes:duration>59:16</itunes:duration>
+      <itunes:subtitle>AUDIO La mort, une histoire à bras-le-corps, épisode : Mourir au front, corps cherchent sépultures. Une série inédite proposée par France Culture. Écoutez Mourir au front, corps cherchent sépultures, et découvrez nos podcasts en ligne.</itunes:subtitle>
+      <itunes:summary>AUDIO La mort, une histoire à bras-le-corps, épisode : Mourir au front, corps cherchent sépultures. Une série inédite proposée par France Culture. Écoutez Mourir au front, corps cherchent sépultures, et découvrez nos podcasts en ligne.</itunes:summary>
+    </item>
     <item>
       <title>Sculpture et sépulture, l’art d’enterrer les gens : épisode du podcast La mort, une histoire à bras-le-corps | France Culture</title>
       <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/sculpture-et-sepulture-l-art-d-enterrer-les-gens-8871237</link>
