@@ -14,8 +14,8 @@
     <atom:link href="https://datojulien.github.io/GTRSS/only_integrale_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Thu, 29 Oct 2026 14:17:49 GMT</lastBuildDate>
-    <pubDate>Thu, 29 Oct 2026 14:17:49 GMT</pubDate>
+    <lastBuildDate>Thu, 29 Oct 2026 20:16:47 GMT</lastBuildDate>
+    <pubDate>Thu, 29 Oct 2026 20:16:47 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -45,6 +45,38 @@
     <ns3:category text="Comedy" />
     <ns4:person role="host">RTL</ns4:person>
     <ns4:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns4:txt>
+    <item>
+      <title>L'INTÉGRALE - Émission du jeudi 29 octobre 2026</title>
+      <guid isPermaLink="false">0182c420-28af-49d0-85ee-be72351598f1</guid>
+      <description>&lt;p&gt;Avec Ethan Oliel, Caroline Diament, Sofia Belabbes, Franck Ferrand, Christophe Barbier et Paul El Kharrat !&lt;/p&gt;&lt;p&gt;&lt;em&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns5:encoded>&lt;p&gt;Avec Ethan Oliel, Caroline Diament, Sofia Belabbes, Franck Ferrand, Christophe Barbier et Paul El Kharrat !&lt;/p&gt;&lt;p&gt;&lt;em&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
+      <pubDate>Thu, 29 Oct 2026 17:02:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/0182c420-28af-49d0-85ee-be72351598f1.mp3?_=1793287686" length="97247262" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Avec Ethan Oliel, Caroline Diament, Sofia Belabbes, Franck Ferrand, Christophe Barbier et Paul El Kharrat !
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
+      <ns3:description>Avec Ethan Oliel, Caroline Diament, Sofia Belabbes, Franck Ferrand, Christophe Barbier et Paul El Kharrat !
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Avec Ethan Oliel, Caroline Diament, Sofia Belabbes, Franck Ferrand, Christophe Barbier et Paul El Kharrat !
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+
+Hébergé par Audiomeans. Vis...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>01:41:17</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/02d05444-a386-4a82-b8e3-bd1b6ce6e4af.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/02d05444-a386-4a82-b8e3-bd1b6ce6e4af.jpg" />
+      <ns4:person role="host">Laurent Ruquier</ns4:person>
+      <ns4:txt purpose="smartlink">https://audmns.com/yNdGVDW</ns4:txt>
+      <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>L'INTÉGRALE - Émission du mercredi 28 octobre 2026</title>
       <guid isPermaLink="false">d23bf264-2189-4a0e-b4f5-c84a38be4326</guid>
@@ -402,35 +434,6 @@ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pou
       <ns4:person role="host">Rachel Azria</ns4:person>
       <ns4:txt purpose="smartlink">https://audmns.com/anmJFHZ</ns4:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>L'INTÉGRALE - Émission du vendredi 16 octobre 2026</title>
-      <guid isPermaLink="false">17687490-b167-42c9-88b4-3ca24b67a373</guid>
-      <description>&lt;p&gt;Avec Paul El Kharrat, Christophe Barbier, AZ, Caroline Diament, Yoann Riou et Gaël Tchakaloff.&lt;br&gt;&lt;br&gt;&lt;em&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL&lt;/em&gt;.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns5:encoded>&lt;p&gt;Avec Paul El Kharrat, Christophe Barbier, AZ, Caroline Diament, Yoann Riou et Gaël Tchakaloff.&lt;br&gt;&lt;br&gt;&lt;em&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL&lt;/em&gt;.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
-      <pubDate>Fri, 16 Oct 2026 16:03:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/17687490-b167-42c9-88b4-3ca24b67a373.mp3?_=1792159686" length="90735022" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Avec Paul El Kharrat, Christophe Barbier, AZ, Caroline Diament, Yoann Riou et Gaël Tchakaloff.Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns3:description>Avec Paul El Kharrat, Christophe Barbier, AZ, Caroline Diament, Yoann Riou et Gaël Tchakaloff.Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Avec Paul El Kharrat, Christophe Barbier, AZ, Caroline Diament, Yoann Riou et Gaël Tchakaloff.Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-
-Hébergé par Audiomeans. Visitez</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>01:34:30</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/b6df02bf-c788-4cf5-8068-d1d81a41929f.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/b6df02bf-c788-4cf5-8068-d1d81a41929f.jpg" />
-      <ns4:person role="host">Laurent Ruquier</ns4:person>
-      <ns4:txt purpose="smartlink">https://audmns.com/DPRfSwS</ns4:txt>
-      <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
   </channel>
 </rss>
