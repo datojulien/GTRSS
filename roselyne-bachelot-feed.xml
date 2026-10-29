@@ -14,7 +14,7 @@
       <link>https://datojulien.github.io/GTRSS/roselyne-bachelot-feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Thu, 29 Oct 2026 07:04:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 14:17:48 +0000</lastBuildDate>
     <itunes:author>France Musique</itunes:author>
     <itunes:category text="Music"/>
     <itunes:explicit>no</itunes:explicit>
@@ -24,6 +24,26 @@
     </itunes:owner>
     <itunes:subtitle>Flux personnel généré depuis le site Radio France</itunes:subtitle>
     <itunes:summary>Un flux RSS personnel qui récupère les épisodes depuis le site web de France Musique lorsque le flux officiel n’est pas encore à jour.</itunes:summary>
+    <item>
+      <title>En Ukraine, la culture et la musique pour conjurer la guerre</title>
+      <link>https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/en-ukraine-la-culture-et-la-musique-pour-conjurer-la-guerre-8320724</link>
+      <description>Malgré la guerre dévastatrice qui frappe l’Ukraine depuis l’invasion russe de février 2022, des artistes continuent de résister et de créer. Le Chœur de femmes Ukrainessence, la cheffe Oksana Lyniv, encore l'opéra de Maxim Kolomiiets, "Les mères de Kherson", sont autant d'appels à la paix.</description>
+      <content:encoded><![CDATA[
+        <p>Malgré la guerre dévastatrice qui frappe l’Ukraine depuis l’invasion russe de février 2022, des artistes continuent de résister et de créer. Le Chœur de femmes Ukrainessence, la cheffe Oksana Lyniv, encore l&#x27;opéra de Maxim Kolomiiets, &quot;Les mères de Kherson&quot;, sont autant d&#x27;appels à la paix.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/en-ukraine-la-culture-et-la-musique-pour-conjurer-la-guerre-8320724">France Musique</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/b18cb0cc-4d3b-40b6-ae27-56aae5275939/300x300" alt="En Ukraine, la culture et la musique pour conjurer la guerre" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/en-ukraine-la-culture-et-la-musique-pour-conjurer-la-guerre-8320724</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26865-29.10.2026-ITEMA_24731045-2026M26307S0302-NET_MFM_7E9D2FAB-66DB-488F-921A-387CCCA50FC4-25-da9627ecbc368ac58b06bfe0ac3cae61.m4a" length="12541357" type="audio/mp4"/>
+      <pubDate>Thu, 29 Oct 2026 07:45:00 +0000</pubDate>
+      <itunes:author>France Musique</itunes:author>
+      <itunes:duration>8:37</itunes:duration>
+      <itunes:subtitle>Malgré la guerre dévastatrice qui frappe l’Ukraine depuis l’invasion russe de février 2022, des artistes continuent de résister et de créer. Le Chœur de femmes Ukrainessence, la cheffe Oksana Lyniv, encore l'opéra de Maxim Kolomiiets, "Les mères de Kherso</itunes:subtitle>
+      <itunes:summary>Malgré la guerre dévastatrice qui frappe l’Ukraine depuis l’invasion russe de février 2022, des artistes continuent de résister et de créer. Le Chœur de femmes Ukrainessence, la cheffe Oksana Lyniv, encore l'opéra de Maxim Kolomiiets, "Les mères de Kherson", sont autant d'appels à la paix.</itunes:summary>
+    </item>
     <item>
       <title>À la Philharmonie de Paris, des rencontres professionnelles sous haute tension budgétaire</title>
       <link>https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/a-la-philharmonie-de-paris-des-rencontres-professionnelles-sous-haute-tension-budgetaire-2834261</link>
