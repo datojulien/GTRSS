@@ -14,8 +14,8 @@
     <atom:link href="https://datojulien.github.io/GTRSS/only_remaining_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Thu, 29 Oct 2026 20:16:47 GMT</lastBuildDate>
-    <pubDate>Thu, 29 Oct 2026 20:16:47 GMT</pubDate>
+    <lastBuildDate>Fri, 30 Oct 2026 00:58:55 GMT</lastBuildDate>
+    <pubDate>Fri, 30 Oct 2026 00:58:55 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -45,6 +45,35 @@
     <ns3:category text="Comedy" />
     <ns4:person role="host">RTL</ns4:person>
     <ns4:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns4:txt>
+    <item>
+      <title>LE MEILLEUR DE BOUVARD - Les blagues de blonde de Macha Méril et Jean-Jacques Peroni</title>
+      <guid isPermaLink="false">184a6a8c-6add-4e2d-bba5-68a0b2926b4e</guid>
+      <description>&lt;p&gt;Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Dans cet extrait, retrouvez deux blagues de blonde, signées Macha Méril et Jean-Jacques Peroni ! &lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns5:encoded>&lt;p&gt;Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Dans cet extrait, retrouvez deux blagues de blonde, signées Macha Méril et Jean-Jacques Peroni ! &lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
+      <pubDate>Fri, 30 Oct 2026 01:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/184a6a8c-6add-4e2d-bba5-68a0b2926b4e.mp3?_=1793291854" length="1124707" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Dans cet extrait, retrouvez deux blagues de blonde, signées Macha Méril et Jean-Jacques Peroni !
+
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
+      <ns3:description>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Dans cet extrait, retrouvez deux blagues de blonde, signées Macha Méril et Jean-Jacques Peroni !
+
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Dans cet extrait, retrouvez deux blagues de blonde, signées Macha Méril et Jean-Jacques Peroni !
+
+Hébergé par Audiomeans. Visitez</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>01:10</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/084369d6-4d1b-4bd8-97a0-a9d9fb72bb23.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/084369d6-4d1b-4bd8-97a0-a9d9fb72bb23.jpg" />
+      <ns4:person role="host">Laurent Ruquier</ns4:person>
+      <ns4:txt purpose="smartlink">https://audmns.com/RErgaMR</ns4:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>LES IMMANQUABLES - Le meilleur de l'émission du 29 octobre 2026</title>
       <guid isPermaLink="false">3e378722-05fa-4062-a747-8bedf68eb08d</guid>
@@ -2477,32 +2506,6 @@ Hébergé par Audiomeans. ...</itunes:subtitle>
       <ns3:image href="https://static.audiomeans.fr/img/episode/61ee30d4-abec-42c0-b06d-0cbba164aef2.jpg" />
       <ns4:person role="host">Laurent Ruquier</ns4:person>
       <ns4:txt purpose="smartlink">https://audmns.com/GeVLsGM</ns4:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>BEST OF - Les 10 meilleures blagues du dimanche 18 octobre 2026</title>
-      <guid isPermaLink="false">ed530f9a-dc60-4060-ba9d-52e588f02571</guid>
-      <description>Chaque dimanche, retrouvez les meilleures blagues de vos Grosses Têtes préférées. François-Xavier Demaison, Jérémy Ferrari, Christine Bravo... Découvrez dans ce podcast 10 des meilleures blagues passées à l'antenne et racontées par les Grosses Têtes.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns5:encoded>Chaque dimanche, retrouvez les meilleures blagues de vos Grosses Têtes préférées. François-Xavier Demaison, Jérémy Ferrari, Christine Bravo... Découvrez dans ce podcast 10 des meilleures blagues passées à l'antenne et racontées par les Grosses Têtes.&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
-      <pubDate>Sun, 18 Oct 2026 09:00:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/ed530f9a-dc60-4060-ba9d-52e588f02571.mp3?_=1787040437" length="6721509" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Chaque dimanche, retrouvez les meilleures blagues de vos Grosses Têtes préférées. François-Xavier Demaison, Jérémy Ferrari, Christine Bravo... Découvrez dans ce podcast 10 des meilleures blagues passées à l'antenne et racontées par les Grosses Têtes.
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns3:description>Chaque dimanche, retrouvez les meilleures blagues de vos Grosses Têtes préférées. François-Xavier Demaison, Jérémy Ferrari, Christine Bravo... Découvrez dans ce podcast 10 des meilleures blagues passées à l'antenne et racontées par les Grosses Têtes.
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Chaque dimanche, retrouvez les meilleures blagues de vos Grosses Têtes préférées. François-Xavier Demaison, Jérémy Ferrari, Christine Bravo... Découvrez dans ce podcast 10 des meilleures blagues passées à l'antenne et racontées par les Grosses Têtes.
-Héber...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>07:00</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/309efe90-6133-40b3-ad46-e8151a77e455.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/309efe90-6133-40b3-ad46-e8151a77e455.jpg" />
-      <ns4:person role="host">Laurent Ruquier</ns4:person>
-      <ns4:txt purpose="smartlink">https://audmns.com/KdvQbXc</ns4:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
