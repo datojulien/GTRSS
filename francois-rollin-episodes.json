@@ -1,5 +1,17 @@
 [
   {
+    "title": "Jet d'éponge",
+    "description": ".",
+    "audio_url": "https://media.radiofrance-podcast.net/podcast09/26803-30.10.2026-ITEMA_24732306-2026F22864S0303-NET_MFI_BE367111-F6A7-4828-99F4-B8F8FDB8ACCB-27-379852f53ad05607b083da1ba0be9d3c.m4a",
+    "audio_type": "audio/mp4",
+    "duration_seconds": 345,
+    "duration_itunes": "5:45",
+    "published": "2026-10-30T15:49:00+00:00",
+    "image": "https://www.radiofrance.fr/pikapi/images/b66e4080-2221-4df9-9205-35e13f450bdd/300x300",
+    "url": "https://www.radiofrance.fr/franceinter/podcasts/la-semaine-de-campagne-de-francois-rollin/la-semaine-de-campagne-de-francois-rollin-du-vendredi-30-octobre-2026-2457778",
+    "audio_length": 8381684
+  },
+  {
     "title": "N'en parlons plus !",
     "description": ".",
     "audio_url": "https://media.radiofrance-podcast.net/podcast09/26803-02.10.2026-ITEMA_24695857-2026F22864S0275-NET_MFI_FB75DF71-341C-4004-A669-92512A8C08CB-27-ad26c1f563dfe58fe0be6baf6df272c3.m4a",

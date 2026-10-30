@@ -14,7 +14,7 @@
       <link>https://datojulien.github.io/GTRSS/francois-rollin-feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Fri, 30 Oct 2026 14:07:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 19:21:24 +0000</lastBuildDate>
     <itunes:author>France Inter</itunes:author>
     <itunes:category text="Comedy"/>
     <itunes:explicit>no</itunes:explicit>
@@ -24,6 +24,26 @@
     </itunes:owner>
     <itunes:subtitle>Flux personnel généré depuis le site Radio France</itunes:subtitle>
     <itunes:summary>Un flux RSS personnel qui récupère les épisodes depuis le site web de France Inter lorsque le flux officiel n’est pas encore à jour.</itunes:summary>
+    <item>
+      <title>Jet d'éponge</title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/la-semaine-de-campagne-de-francois-rollin/la-semaine-de-campagne-de-francois-rollin-du-vendredi-30-octobre-2026-2457778</link>
+      <description>Jet d'éponge</description>
+      <content:encoded><![CDATA[
+        <p>Jet d&#x27;éponge</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceinter/podcasts/la-semaine-de-campagne-de-francois-rollin/la-semaine-de-campagne-de-francois-rollin-du-vendredi-30-octobre-2026-2457778">France Inter</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/b66e4080-2221-4df9-9205-35e13f450bdd/300x300" alt="Jet d&#x27;éponge" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceinter/podcasts/la-semaine-de-campagne-de-francois-rollin/la-semaine-de-campagne-de-francois-rollin-du-vendredi-30-octobre-2026-2457778</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26803-30.10.2026-ITEMA_24732306-2026F22864S0303-NET_MFI_BE367111-F6A7-4828-99F4-B8F8FDB8ACCB-27-379852f53ad05607b083da1ba0be9d3c.m4a" length="8381684" type="audio/mp4"/>
+      <pubDate>Fri, 30 Oct 2026 15:49:00 +0000</pubDate>
+      <itunes:author>France Inter</itunes:author>
+      <itunes:duration>5:45</itunes:duration>
+      <itunes:subtitle>Jet d'éponge</itunes:subtitle>
+      <itunes:summary>Jet d'éponge</itunes:summary>
+    </item>
     <item>
       <title>N'en parlons plus !</title>
       <link>https://www.radiofrance.fr/franceinter/podcasts/la-semaine-de-campagne-de-francois-rollin/la-semaine-de-campagne-de-francois-rollin-du-vendredi-02-octobre-2026-3557433</link>
