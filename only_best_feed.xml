@@ -14,8 +14,8 @@
     <atom:link href="https://datojulien.github.io/GTRSS/only_best_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Sat, 31 Oct 2026 12:26:43 GMT</lastBuildDate>
-    <pubDate>Sat, 31 Oct 2026 12:26:43 GMT</pubDate>
+    <lastBuildDate>Sat, 31 Oct 2026 17:43:34 GMT</lastBuildDate>
+    <pubDate>Sat, 31 Oct 2026 17:43:34 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -45,6 +45,38 @@
     <ns3:category text="Comedy" />
     <ns4:person role="host">RTL</ns4:person>
     <ns4:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns4:txt>
+    <item>
+      <title>L'INTÉGRALE - Le Best of du samedi 31 octobre 2026</title>
+      <guid isPermaLink="false">ede0a111-8eab-489d-aff5-846ba3e239e9</guid>
+      <description>&lt;p&gt;Ecoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du samedi 31 octobre 2026.&lt;/p&gt;&lt;p&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns5:encoded>&lt;p&gt;Ecoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du samedi 31 octobre 2026.&lt;/p&gt;&lt;p&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
+      <pubDate>Sat, 31 Oct 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/ede0a111-8eab-489d-aff5-846ba3e239e9.mp3?_=1793206685" length="72834272" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Ecoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du samedi 31 octobre 2026.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
+      <ns3:description>Ecoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du samedi 31 octobre 2026.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Ecoutez ou réécoutez l'émission "Best of" des Grosses Têtes avec Laurent Ruquier du samedi 31 octobre 2026.
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+
+Hébergé par Audiomeans. Visitez</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>01:15:52</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/6071e6dc-0e02-4822-91d0-2254a31a851e.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/6071e6dc-0e02-4822-91d0-2254a31a851e.jpg" />
+      <ns4:person role="host">Laurent Ruquier</ns4:person>
+      <ns4:txt purpose="smartlink">https://audmns.com/CBfRZXI</ns4:txt>
+      <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>L'INTÉGRALE - Le Best of du dimanche 25 octobre 2026</title>
       <guid isPermaLink="false">13ee8bd9-cd7b-4e01-aae6-5bc1da893148</guid>
