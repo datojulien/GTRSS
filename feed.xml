@@ -14,7 +14,7 @@
       <link>https://datojulien.github.io/GTRSS/feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Sat, 31 Oct 2026 21:31:32 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 01:08:33 +0000</lastBuildDate>
     <itunes:author>France Culture</itunes:author>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -3143,6 +3143,26 @@
       <itunes:duration>52:05</itunes:duration>
       <itunes:subtitle>AUDIO Prendre l’air, une histoire de la montagne, épisode : Tutoyer les sommets, "histoires verticales" de la montagne. Une série inédite proposée par France Culture. Écoutez Tutoyer les sommets, "histoires verticales" de la montagne, et découvrez nos pod</itunes:subtitle>
       <itunes:summary>AUDIO Prendre l’air, une histoire de la montagne, épisode : Tutoyer les sommets, "histoires verticales" de la montagne. Une série inédite proposée par France Culture. Écoutez Tutoyer les sommets, "histoires verticales" de la montagne, et découvrez nos podcasts en ligne.</itunes:summary>
+    </item>
+    <item>
+      <title>La République, un jeu d’enfant ? : épisode 4/4 du podcast Histoire des expériences républicaines | France Culture</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/la-republique-un-jeu-d-enfant-8297616</link>
+      <description>AUDIO Histoire des expériences républicaines, épisode 4/4 : La République, un jeu d’enfant ?. Une série inédite proposée par France Culture. Écoutez La République, un jeu d’enfant ?, et découvrez nos podcasts en ligne.</description>
+      <content:encoded><![CDATA[
+        <p>AUDIO Histoire des expériences républicaines, épisode 4/4 : La République, un jeu d’enfant ?. Une série inédite proposée par France Culture. Écoutez La République, un jeu d’enfant ?, et découvrez nos podcasts en ligne.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/la-republique-un-jeu-d-enfant-8297616">France Culture</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/be2dc20f-391c-461c-b093-5d6a2f26507a/300x300" alt="La République, un jeu d’enfant ? : épisode 4/4 du podcast Histoire des expériences républicaines | France Culture" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/la-republique-un-jeu-d-enfant-8297616</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26625-01.11.2026-ITEMA_24734433-2020C36128S0247-NET_MFC_83AD80D4-34A7-424D-ACC2-21D9A22123C5-25-4b31d24476d1db56b017cbfb33c8cf1e.m4a" length="74969949" type="audio/mp4"/>
+      <pubDate>Thu, 03 Sep 2020 07:06:15 +0000</pubDate>
+      <itunes:author>France Culture</itunes:author>
+      <itunes:duration>51:38</itunes:duration>
+      <itunes:subtitle>AUDIO Histoire des expériences républicaines, épisode 4/4 : La République, un jeu d’enfant ?. Une série inédite proposée par France Culture. Écoutez La République, un jeu d’enfant ?, et découvrez nos podcasts en ligne.</itunes:subtitle>
+      <itunes:summary>AUDIO Histoire des expériences républicaines, épisode 4/4 : La République, un jeu d’enfant ?. Une série inédite proposée par France Culture. Écoutez La République, un jeu d’enfant ?, et découvrez nos podcasts en ligne.</itunes:summary>
     </item>
   </channel>
 </rss>
