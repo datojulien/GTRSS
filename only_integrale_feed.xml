@@ -14,8 +14,8 @@
     <atom:link href="https://datojulien.github.io/GTRSS/only_integrale_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Mon, 02 Nov 2026 15:49:28 GMT</lastBuildDate>
-    <pubDate>Mon, 02 Nov 2026 15:49:28 GMT</pubDate>
+    <lastBuildDate>Mon, 02 Nov 2026 23:29:57 GMT</lastBuildDate>
+    <pubDate>Mon, 02 Nov 2026 23:29:57 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -45,6 +45,35 @@
     <ns3:category text="Comedy" />
     <ns4:person role="host">RTL</ns4:person>
     <ns4:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns4:txt>
+    <item>
+      <title>L'INTÉGRALE - Émission du lundi 2 novembre 2026</title>
+      <guid isPermaLink="false">c2098204-c188-4682-a735-82f534803964</guid>
+      <description>&lt;p&gt;Avec Christophe Barbier, Gérard Jugnot, Karine Le Marchand, Christine Bravo, Philippe Geluck et Alexis Le Rossignol.&lt;br&gt;&lt;br&gt;&lt;em&gt;Retrouvez tous les jours le meilleur des "Grosses Têtes" en podcast sur RTL.fr et l'application RTL.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns5:encoded>&lt;p&gt;Avec Christophe Barbier, Gérard Jugnot, Karine Le Marchand, Christine Bravo, Philippe Geluck et Alexis Le Rossignol.&lt;br&gt;&lt;br&gt;&lt;em&gt;Retrouvez tous les jours le meilleur des "Grosses Têtes" en podcast sur RTL.fr et l'application RTL.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
+      <pubDate>Mon, 02 Nov 2026 17:03:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/c2098204-c188-4682-a735-82f534803964.mp3?_=1793633286" length="91838058" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Avec Christophe Barbier, Gérard Jugnot, Karine Le Marchand, Christine Bravo, Philippe Geluck et Alexis Le Rossignol.Retrouvez tous les jours le meilleur des "Grosses Têtes" en podcast sur RTL.fr et l'application RTL.
+
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
+      <ns3:description>Avec Christophe Barbier, Gérard Jugnot, Karine Le Marchand, Christine Bravo, Philippe Geluck et Alexis Le Rossignol.Retrouvez tous les jours le meilleur des "Grosses Têtes" en podcast sur RTL.fr et l'application RTL.
+
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Avec Christophe Barbier, Gérard Jugnot, Karine Le Marchand, Christine Bravo, Philippe Geluck et Alexis Le Rossignol.Retrouvez tous les jours le meilleur des "Grosses Têtes" en podcast sur RTL.fr et l'application RTL.
+
+Hébergé par Aud...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>01:35:39</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/ca6ece43-fd66-4229-9d3c-bcf6b1c318c8.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/ca6ece43-fd66-4229-9d3c-bcf6b1c318c8.jpg" />
+      <ns4:person role="host">Laurent Ruquier</ns4:person>
+      <ns4:txt purpose="smartlink">https://audmns.com/ViYgiud</ns4:txt>
+      <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>L'INTÉGRALE - Émission du vendredi 30 octobre 2026</title>
       <guid isPermaLink="false">8d342510-1dfa-4c02-a75c-e4e73d5ae5c7</guid>
@@ -374,35 +403,6 @@ Hébergé par Audiomeans. ...</itunes:subtitle>
       <ns3:image href="https://static.audiomeans.fr/img/episode/b42e9577-7119-4ee6-a5b4-f53966459ceb.jpg" />
       <ns4:person role="host">Laurent Ruquier</ns4:person>
       <ns4:txt purpose="smartlink">https://audmns.com/WriOFBY</ns4:txt>
-      <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>L'INTÉGRALE - Émission du mardi 20 octobre 2026</title>
-      <guid isPermaLink="false">a5bcbeec-e107-4671-b2c8-ac3a766a0318</guid>
-      <description>&lt;p&gt;Avec Samuel Bambi, Booder, Sébastien Thoen, Caroline Diament, Michel Field et Constance.&lt;br&gt;&lt;br&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns5:encoded>&lt;p&gt;Avec Samuel Bambi, Booder, Sébastien Thoen, Caroline Diament, Michel Field et Constance.&lt;br&gt;&lt;br&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
-      <pubDate>Tue, 20 Oct 2026 16:03:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/a5bcbeec-e107-4671-b2c8-ac3a766a0318.mp3?_=1792504085" length="100226021" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Avec Samuel Bambi, Booder, Sébastien Thoen, Caroline Diament, Michel Field et Constance.Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns3:description>Avec Samuel Bambi, Booder, Sébastien Thoen, Caroline Diament, Michel Field et Constance.Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Avec Samuel Bambi, Booder, Sébastien Thoen, Caroline Diament, Michel Field et Constance.Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-
-Hébergé par Audiomeans. Visitez</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>01:44:24</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/24182172-3f24-4067-8ac5-85d6c6477fd0.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/24182172-3f24-4067-8ac5-85d6c6477fd0.jpg" />
-      <ns4:person role="host">Laurent Ruquier</ns4:person>
-      <ns4:txt purpose="smartlink">https://audmns.com/VEdsuio</ns4:txt>
       <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
   </channel>
