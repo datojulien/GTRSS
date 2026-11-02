@@ -14,7 +14,7 @@
       <link>https://datojulien.github.io/GTRSS/feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Mon, 02 Nov 2026 05:59:22 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 15:48:39 +0000</lastBuildDate>
     <itunes:author>France Culture</itunes:author>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -24,6 +24,26 @@
     </itunes:owner>
     <itunes:subtitle>Flux personnel généré depuis le site Radio France</itunes:subtitle>
     <itunes:summary>Un flux RSS personnel qui récupère les épisodes depuis le site web de France Culture lorsque le flux officiel n’est pas encore à jour.</itunes:summary>
+    <item>
+      <title>Les aventures du jeune Malraux : épisode du podcast Malraux, une vie pour la culture | France Culture</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/les-aventures-du-jeune-malraux-1533946</link>
+      <description>AUDIO Malraux, une vie pour la culture, épisode : Les aventures du jeune Malraux. Une série inédite proposée par France Culture. Écoutez Les aventures du jeune Malraux, et découvrez nos podcasts en ligne.</description>
+      <content:encoded><![CDATA[
+        <p>AUDIO Malraux, une vie pour la culture, épisode : Les aventures du jeune Malraux. Une série inédite proposée par France Culture. Écoutez Les aventures du jeune Malraux, et découvrez nos podcasts en ligne.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/les-aventures-du-jeune-malraux-1533946">France Culture</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/5774d2c2-eecf-465b-8cc6-7dac62c54858/300x300" alt="Les aventures du jeune Malraux : épisode du podcast Malraux, une vie pour la culture | France Culture" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/les-aventures-du-jeune-malraux-1533946</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26625-02.11.2026-ITEMA_24735546-2026C36128S0306-NET_MFC_5FB76BD3-B31A-430A-BAB8-8C216D283020-25-0bc3d2e955e5771de8030a2c5cd65004.m4a" length="85429913" type="audio/mp4"/>
+      <pubDate>Mon, 02 Nov 2026 08:00:00 +0000</pubDate>
+      <itunes:author>France Culture</itunes:author>
+      <itunes:duration>58:51</itunes:duration>
+      <itunes:subtitle>AUDIO Malraux, une vie pour la culture, épisode : Les aventures du jeune Malraux. Une série inédite proposée par France Culture. Écoutez Les aventures du jeune Malraux, et découvrez nos podcasts en ligne.</itunes:subtitle>
+      <itunes:summary>AUDIO Malraux, une vie pour la culture, épisode : Les aventures du jeune Malraux. Une série inédite proposée par France Culture. Écoutez Les aventures du jeune Malraux, et découvrez nos podcasts en ligne.</itunes:summary>
+    </item>
     <item>
       <title>Passions morbides, l’histoire a du nécrophile à retordre : épisode du podcast La mort, une histoire à bras-le-corps | France Culture</title>
       <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/passions-morbides-l-histoire-a-du-necrophile-a-retordre-4261582</link>
