@@ -14,7 +14,7 @@
       <link>https://datojulien.github.io/GTRSS/feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Tue, 03 Nov 2026 06:45:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 15:05:28 +0000</lastBuildDate>
     <itunes:author>France Culture</itunes:author>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -24,6 +24,26 @@
     </itunes:owner>
     <itunes:subtitle>Flux personnel généré depuis le site Radio France</itunes:subtitle>
     <itunes:summary>Un flux RSS personnel qui récupère les épisodes depuis le site web de France Culture lorsque le flux officiel n’est pas encore à jour.</itunes:summary>
+    <item>
+      <title>S'engager, Malraux en guerre contre le fascisme : épisode du podcast Malraux, une vie pour la culture | France Culture</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/s-engager-malraux-en-guerre-contre-le-fascisme-5588557</link>
+      <description>AUDIO Malraux, une vie pour la culture, épisode : S'engager, Malraux en guerre contre le fascisme. Une série inédite proposée par France Culture. Écoutez S'engager, Malraux en guerre contre le fascisme, et découvrez nos podcasts en ligne.</description>
+      <content:encoded><![CDATA[
+        <p>AUDIO Malraux, une vie pour la culture, épisode : S&#x27;engager, Malraux en guerre contre le fascisme. Une série inédite proposée par France Culture. Écoutez S&#x27;engager, Malraux en guerre contre le fascisme, et découvrez nos podcasts en ligne.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/s-engager-malraux-en-guerre-contre-le-fascisme-5588557">France Culture</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/7bd661eb-c80c-4fb9-a69b-e64132770375/300x300" alt="S&#x27;engager, Malraux en guerre contre le fascisme : épisode du podcast Malraux, une vie pour la culture | France Culture" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/s-engager-malraux-en-guerre-contre-le-fascisme-5588557</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26625-03.11.2026-ITEMA_24737274-2026C36128S0307-NET_MFC_3D1AB071-BC90-4105-A466-08E1C0967DFF-25-e5a5dfc984f2d8dceadd7917b194a948.m4a" length="84946687" type="audio/mp4"/>
+      <pubDate>Tue, 03 Nov 2026 08:00:00 +0000</pubDate>
+      <itunes:author>France Culture</itunes:author>
+      <itunes:duration>58:31</itunes:duration>
+      <itunes:subtitle>AUDIO Malraux, une vie pour la culture, épisode : S'engager, Malraux en guerre contre le fascisme. Une série inédite proposée par France Culture. Écoutez S'engager, Malraux en guerre contre le fascisme, et découvrez nos podcasts en ligne.</itunes:subtitle>
+      <itunes:summary>AUDIO Malraux, une vie pour la culture, épisode : S'engager, Malraux en guerre contre le fascisme. Une série inédite proposée par France Culture. Écoutez S'engager, Malraux en guerre contre le fascisme, et découvrez nos podcasts en ligne.</itunes:summary>
+    </item>
     <item>
       <title>Les aventures du jeune Malraux : épisode du podcast Malraux, une vie pour la culture | France Culture</title>
       <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/les-aventures-du-jeune-malraux-1533946</link>
