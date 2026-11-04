@@ -14,7 +14,7 @@
       <link>https://datojulien.github.io/GTRSS/feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Wed, 04 Nov 2026 09:09:58 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 17:13:45 +0000</lastBuildDate>
     <itunes:author>France Culture</itunes:author>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -24,6 +24,26 @@
     </itunes:owner>
     <itunes:subtitle>Flux personnel généré depuis le site Radio France</itunes:subtitle>
     <itunes:summary>Un flux RSS personnel qui récupère les épisodes depuis le site web de France Culture lorsque le flux officiel n’est pas encore à jour.</itunes:summary>
+    <item>
+      <title>Malraux ministre, culture intensive : épisode du podcast Malraux, une vie pour la culture | France Culture</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/malraux-ministre-culture-intensive-3320980</link>
+      <description>AUDIO Malraux, une vie pour la culture, épisode : Malraux ministre, culture intensive. Une série inédite proposée par France Culture. Écoutez Malraux ministre, culture intensive, et découvrez nos podcasts en ligne.</description>
+      <content:encoded><![CDATA[
+        <p>AUDIO Malraux, une vie pour la culture, épisode : Malraux ministre, culture intensive. Une série inédite proposée par France Culture. Écoutez Malraux ministre, culture intensive, et découvrez nos podcasts en ligne.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/malraux-ministre-culture-intensive-3320980">France Culture</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/17b38150-8398-4764-b0d5-cdc754699660/300x300" alt="Malraux ministre, culture intensive : épisode du podcast Malraux, une vie pour la culture | France Culture" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/malraux-ministre-culture-intensive-3320980</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26625-04.11.2026-ITEMA_24738843-2026C36128S0308-NET_MFC_A20BC640-A6E0-467E-924F-7F23622612E7-25-b0b2cc2278467a8ef2b1cc94e1debd53.m4a" length="85393278" type="audio/mp4"/>
+      <pubDate>Wed, 04 Nov 2026 08:00:00 +0000</pubDate>
+      <itunes:author>France Culture</itunes:author>
+      <itunes:duration>58:49</itunes:duration>
+      <itunes:subtitle>AUDIO Malraux, une vie pour la culture, épisode : Malraux ministre, culture intensive. Une série inédite proposée par France Culture. Écoutez Malraux ministre, culture intensive, et découvrez nos podcasts en ligne.</itunes:subtitle>
+      <itunes:summary>AUDIO Malraux, une vie pour la culture, épisode : Malraux ministre, culture intensive. Une série inédite proposée par France Culture. Écoutez Malraux ministre, culture intensive, et découvrez nos podcasts en ligne.</itunes:summary>
+    </item>
     <item>
       <title>S'engager, Malraux en guerre contre le fascisme : épisode du podcast Malraux, une vie pour la culture | France Culture</title>
       <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/s-engager-malraux-en-guerre-contre-le-fascisme-5588557</link>

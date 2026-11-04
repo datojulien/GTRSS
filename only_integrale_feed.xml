@@ -14,8 +14,8 @@
     <atom:link href="https://datojulien.github.io/GTRSS/only_integrale_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Wed, 04 Nov 2026 09:10:57 GMT</lastBuildDate>
-    <pubDate>Wed, 04 Nov 2026 09:10:57 GMT</pubDate>
+    <lastBuildDate>Wed, 04 Nov 2026 17:14:40 GMT</lastBuildDate>
+    <pubDate>Wed, 04 Nov 2026 17:14:40 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -45,6 +45,35 @@
     <ns3:category text="Comedy" />
     <ns4:person role="host">RTL</ns4:person>
     <ns4:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns4:txt>
+    <item>
+      <title>L'INTÉGRALE - Émission du mercredi 4 novembre 2026</title>
+      <guid isPermaLink="false">2abcc47b-0167-4d16-98ea-748788c9fad9</guid>
+      <description>&lt;p&gt;Avec Charlotte de Turckheim, Gérard Jugnot, Az, Karina Marimon, Jeanfi Janssens et Gérard Jugnot.&lt;br&gt;&lt;br&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns5:encoded>&lt;p&gt;Avec Charlotte de Turckheim, Gérard Jugnot, Az, Karina Marimon, Jeanfi Janssens et Gérard Jugnot.&lt;br&gt;&lt;br&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
+      <pubDate>Wed, 04 Nov 2026 17:03:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/2abcc47b-0167-4d16-98ea-748788c9fad9.mp3?_=1793806088" length="91053513" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Avec Charlotte de Turckheim, Gérard Jugnot, Az, Karina Marimon, Jeanfi Janssens et Gérard Jugnot.Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
+      <ns3:description>Avec Charlotte de Turckheim, Gérard Jugnot, Az, Karina Marimon, Jeanfi Janssens et Gérard Jugnot.Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Avec Charlotte de Turckheim, Gérard Jugnot, Az, Karina Marimon, Jeanfi Janssens et Gérard Jugnot.Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+
+Hébergé par Audiomeans. Visitez</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>01:34:50</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/1696c4ec-37aa-4c7b-9632-c1ca7667c3bc.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/1696c4ec-37aa-4c7b-9632-c1ca7667c3bc.jpg" />
+      <ns4:person role="host">Laurent Ruquier</ns4:person>
+      <ns4:txt purpose="smartlink">https://audmns.com/GRijrSQ</ns4:txt>
+      <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>L'INTÉGRALE - Émission du mardi 3 novembre 2026</title>
       <guid isPermaLink="false">9c7c8761-c547-437e-a365-f7d41a6c5c51</guid>
@@ -375,66 +404,6 @@ Hébergé par Aud...</itunes:subtitle>
       <ns4:person role="host">Laurent Ruquier</ns4:person>
       <ns4:txt purpose="smartlink">https://audmns.com/addtMGs</ns4:txt>
       <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>L'INTÉGRALE - Émission du jeudi 22 octobre 2026</title>
-      <guid isPermaLink="false">2896b4a4-11d5-46d5-829f-a1460298f760</guid>
-      <description>&lt;p&gt;Avec Alexis le Rossignol, Charlotte de Turckheim, Az, Jeanfi Janssens, Roselyne Bachelot et Philippe Claudel.&lt;br&gt;&lt;br&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns5:encoded>&lt;p&gt;Avec Alexis le Rossignol, Charlotte de Turckheim, Az, Jeanfi Janssens, Roselyne Bachelot et Philippe Claudel.&lt;br&gt;&lt;br&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
-      <pubDate>Thu, 22 Oct 2026 16:03:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/2896b4a4-11d5-46d5-829f-a1460298f760.mp3?_=1792679584" length="94091676" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Avec Alexis le Rossignol, Charlotte de Turckheim, Az, Jeanfi Janssens, Roselyne Bachelot et Philippe Claudel.Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns3:description>Avec Alexis le Rossignol, Charlotte de Turckheim, Az, Jeanfi Janssens, Roselyne Bachelot et Philippe Claudel.Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Avec Alexis le Rossignol, Charlotte de Turckheim, Az, Jeanfi Janssens, Roselyne Bachelot et Philippe Claudel.Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-
-Hébergé par Audiomeans. Visitez</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>01:38:00</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/4e6cf93f-6060-49ce-8d89-3c9ca7195878.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/4e6cf93f-6060-49ce-8d89-3c9ca7195878.jpg" />
-      <ns4:person role="host">Laurent Ruquier</ns4:person>
-      <ns4:txt purpose="smartlink">https://audmns.com/eTOqnDx</ns4:txt>
-      <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>DÉBRIEF - "Tu sens qu'il y a des affinités directes !" : Jeanfi Janssens revient sur l'émission du jour</title>
-      <guid isPermaLink="false">49b8112b-328a-48e9-9ab1-715c69bc95b6</guid>
-      <description>&lt;p&gt;À la fin de chaque émission, retrouvez en exclusivité sur les plateformes de podcast le débrief des 2h30 d'antenne qui viennent de s'écouler, en compagnie d'une des Grosses Têtes du jour... Ce jeudi 22 octobre 2026, Jeanfi Janssens se confie au micro de Rachel Azria.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;em&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns5:encoded>&lt;p&gt;À la fin de chaque émission, retrouvez en exclusivité sur les plateformes de podcast le débrief des 2h30 d'antenne qui viennent de s'écouler, en compagnie d'une des Grosses Têtes du jour... Ce jeudi 22 octobre 2026, Jeanfi Janssens se confie au micro de Rachel Azria.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;em&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
-      <pubDate>Thu, 22 Oct 2026 16:02:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/49b8112b-328a-48e9-9ab1-715c69bc95b6.mp3?_=1792677782" length="11807625" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>À la fin de chaque émission, retrouvez en exclusivité sur les plateformes de podcast le débrief des 2h30 d'antenne qui viennent de s'écouler, en compagnie d'une des Grosses Têtes du jour... Ce jeudi 22 octobre 2026, Jeanfi Janssens se confie au micro de Rachel Azria.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns3:description>À la fin de chaque émission, retrouvez en exclusivité sur les plateformes de podcast le débrief des 2h30 d'antenne qui viennent de s'écouler, en compagnie d'une des Grosses Têtes du jour... Ce jeudi 22 octobre 2026, Jeanfi Janssens se confie au micro de Rachel Azria.
-
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
-      <itunes:author>Rachel Azria</itunes:author>
-      <author>Rachel Azria</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>À la fin de chaque émission, retrouvez en exclusivité sur les plateformes de podcast le débrief des 2h30 d'antenne qui viennent de s'écouler, en compagnie d'une des Grosses Têtes du jour... Ce jeudi 22 octobre 2026, Jeanfi Janssens se confie au micro de Rachel A...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>12:17</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/0bc78d15-36ec-4e3b-994c-65bc6de3ec13.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/0bc78d15-36ec-4e3b-994c-65bc6de3ec13.jpg" />
-      <ns4:person role="host">Rachel Azria</ns4:person>
-      <ns4:txt purpose="smartlink">https://audmns.com/KEJVMeR</ns4:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
   </channel>
 </rss>
