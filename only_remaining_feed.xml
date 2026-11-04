@@ -14,8 +14,8 @@
     <atom:link href="https://datojulien.github.io/GTRSS/only_remaining_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Wed, 04 Nov 2026 17:14:40 GMT</lastBuildDate>
-    <pubDate>Wed, 04 Nov 2026 17:14:40 GMT</pubDate>
+    <lastBuildDate>Wed, 04 Nov 2026 22:39:54 GMT</lastBuildDate>
+    <pubDate>Wed, 04 Nov 2026 22:39:54 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -69,6 +69,37 @@ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pou
       <itunes:image href="https://static.audiomeans.fr/img/episode/3c0cb107-5ee1-4bf6-bb5f-920737cac8b2.jpg" />
       <ns3:image href="https://static.audiomeans.fr/img/episode/3c0cb107-5ee1-4bf6-bb5f-920737cac8b2.jpg" />
       <ns4:person role="host">Laurent Ruquier</ns4:person>
+      <ns4:txt purpose="smartlink">https://audmns.com/pUAOQri</ns4:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
+    <item>
+      <title>PÉPITE - Quand Charlotte de Turckheim et Booder font la Une de la presse people</title>
+      <guid isPermaLink="false">7a04d94d-3d04-46b0-a09d-d36b6c513f18</guid>
+      <description>&lt;p&gt;Prix Goncourt 2026, Philippe Jaenada a une autre particularité : écrire pour la presse people. De quoi donner des idées aux Grosses Têtes...&lt;em&gt;&lt;br&gt;&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns5:encoded>&lt;p&gt;Prix Goncourt 2026, Philippe Jaenada a une autre particularité : écrire pour la presse people. De quoi donner des idées aux Grosses Têtes...&lt;em&gt;&lt;br&gt;&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
+      <pubDate>Wed, 04 Nov 2026 16:58:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/7a04d94d-3d04-46b0-a09d-d36b6c513f18.mp3?_=1793812738" length="1454491" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Prix Goncourt 2026, Philippe Jaenada a une autre particularité : écrire pour la presse people. De quoi donner des idées aux Grosses Têtes...
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
+      <ns3:description>Prix Goncourt 2026, Philippe Jaenada a une autre particularité : écrire pour la presse people. De quoi donner des idées aux Grosses Têtes...
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Prix Goncourt 2026, Philippe Jaenada a une autre particularité : écrire pour la presse people. De quoi donner des idées aux Grosses Têtes...
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL....</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>01:30</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/fe3a979e-29d6-4723-8531-7b62d4bf9a37.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/fe3a979e-29d6-4723-8531-7b62d4bf9a37.jpg" />
+      <ns4:person role="host">Laurent Ruquier</ns4:person>
+      <ns4:txt purpose="smartlink">https://audmns.com/MYRbzvf</ns4:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
@@ -178,6 +209,7 @@ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pou
       <itunes:image href="https://static.audiomeans.fr/img/episode/de9ab2be-3fec-4932-90e1-33d8f98ebf34.jpg" />
       <ns3:image href="https://static.audiomeans.fr/img/episode/de9ab2be-3fec-4932-90e1-33d8f98ebf34.jpg" />
       <ns4:person role="host">Laurent Ruquier</ns4:person>
+      <ns4:txt purpose="smartlink">https://audmns.com/mytngfL</ns4:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
@@ -2440,35 +2472,6 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <ns3:image href="https://static.audiomeans.fr/img/episode/942fb4f9-e3c6-42ed-9b1a-64dfb39bac4f.jpg" />
       <ns4:person role="host">Laurent Ruquier</ns4:person>
       <ns4:txt purpose="smartlink">https://audmns.com/SnPQldQ</ns4:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>FAKE NEWS - Apple, Laurent Nunez, manifestations... Quelle Grosse Tête dit vrai ?</title>
-      <guid isPermaLink="false">933a7374-1c66-4e99-b231-ad9495a85bd0</guid>
-      <description>&lt;p&gt;Et vous, saurez-vous démêler le vrai du faux ?&lt;br&gt;&lt;br&gt;&lt;em&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns5:encoded>&lt;p&gt;Et vous, saurez-vous démêler le vrai du faux ?&lt;br&gt;&lt;br&gt;&lt;em&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
-      <pubDate>Fri, 23 Oct 2026 15:55:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/933a7374-1c66-4e99-b231-ad9495a85bd0.mp3?_=1792760282" length="4000934" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Et vous, saurez-vous démêler le vrai du faux ?Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns3:description>Et vous, saurez-vous démêler le vrai du faux ?Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Et vous, saurez-vous démêler le vrai du faux ?Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-
-Hébergé par Audiomeans. Visitez</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>04:09</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/27dd35c5-0f79-42c7-ae2f-6a886a780c92.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/27dd35c5-0f79-42c7-ae2f-6a886a780c92.jpg" />
-      <ns4:person role="host">Laurent Ruquier</ns4:person>
-      <ns4:txt purpose="smartlink">https://audmns.com/RkCdeWI</ns4:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
