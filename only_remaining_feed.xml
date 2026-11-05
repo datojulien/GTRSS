@@ -14,8 +14,8 @@
     <atom:link href="https://datojulien.github.io/GTRSS/only_remaining_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Thu, 05 Nov 2026 03:29:39 GMT</lastBuildDate>
-    <pubDate>Thu, 05 Nov 2026 03:29:39 GMT</pubDate>
+    <lastBuildDate>Thu, 05 Nov 2026 12:19:05 GMT</lastBuildDate>
+    <pubDate>Thu, 05 Nov 2026 12:19:05 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -45,6 +45,37 @@
     <ns3:category text="Comedy" />
     <ns4:person role="host">RTL</ns4:person>
     <ns4:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns4:txt>
+    <item>
+      <title>LE MEILLEUR DE RUQUIER - Celui qui aurait mieux fait de changer de prénom... L'histoire drôle de Booder</title>
+      <guid isPermaLink="false">87b36e9b-bd47-4e18-aff4-4c113db50d72</guid>
+      <description>&lt;p&gt;Deux hommes perdus dans le désert qui trouvent refuge dans une mosquée, un curé avide d'histoires lubriques et un chinois qui a une drôle d'interprétation du sport... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&amp;nbsp;&lt;/em&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns5:encoded>&lt;p&gt;Deux hommes perdus dans le désert qui trouvent refuge dans une mosquée, un curé avide d'histoires lubriques et un chinois qui a une drôle d'interprétation du sport... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&amp;nbsp;&lt;/em&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
+      <pubDate>Thu, 05 Nov 2026 10:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/87b36e9b-bd47-4e18-aff4-4c113db50d72.mp3?_=1793806706" length="2111450" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Deux hommes perdus dans le désert qui trouvent refuge dans une mosquée, un curé avide d'histoires lubriques et un chinois qui a une drôle d'interprétation du sport... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+
+
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
+      <ns3:description>Deux hommes perdus dans le désert qui trouvent refuge dans une mosquée, un curé avide d'histoires lubriques et un chinois qui a une drôle d'interprétation du sport... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+
+
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Deux hommes perdus dans le désert qui trouvent refuge dans une mosquée, un curé avide d'histoires lubriques et un chinois qui a une drôle d'interprétation du sport... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruq...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>02:11</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/5e7236b2-d6d9-49d6-9862-799077ccec91.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/5e7236b2-d6d9-49d6-9862-799077ccec91.jpg" />
+      <ns4:person role="host">Laurent Ruquier</ns4:person>
+      <ns4:txt purpose="smartlink">https://audmns.com/aQeUWLo</ns4:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>LE MEILLEUR DE BOUVARD - La blague d' Enrico Macias</title>
       <guid isPermaLink="false">1d6d65a2-08d3-4a8d-b4f3-b7d9306bce1f</guid>
@@ -2444,33 +2475,6 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
       <ns3:image href="https://static.audiomeans.fr/img/episode/073f75fb-c801-4251-bfdd-e7cf5a536ec5.jpg" />
       <ns4:person role="host">Laurent Ruquier</ns4:person>
       <ns4:txt purpose="smartlink">https://audmns.com/aiVxWQc</ns4:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>EN RÉSUMÉ - Caroline Diament fait le bilan de l'émission</title>
-      <guid isPermaLink="false">80d0fdd8-d7ef-48ec-b64d-2484676212b2</guid>
-      <description>&lt;p&gt;C'est une nouvelle séquence dans "Les Grosses Têtes" cette saison ! Chaque jour en fin d'émission, une Grosse Tête est désignée par Laurent Ruquier pour distribuer les bons et les mauvais points... À la fin de l'émission, Caroline Diament a dressé le bilan des 2h30 d'antenne !&lt;br&gt;&lt;br&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns5:encoded>&lt;p&gt;C'est une nouvelle séquence dans "Les Grosses Têtes" cette saison ! Chaque jour en fin d'émission, une Grosse Tête est désignée par Laurent Ruquier pour distribuer les bons et les mauvais points... À la fin de l'émission, Caroline Diament a dressé le bilan des 2h30 d'antenne !&lt;br&gt;&lt;br&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
-      <pubDate>Fri, 23 Oct 2026 15:58:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/80d0fdd8-d7ef-48ec-b64d-2484676212b2.mp3?_=1792760281" length="6012983" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>C'est une nouvelle séquence dans "Les Grosses Têtes" cette saison ! Chaque jour en fin d'émission, une Grosse Tête est désignée par Laurent Ruquier pour distribuer les bons et les mauvais points... À la fin de l'émission, Caroline Diament a dressé le bilan des 2h30 d'antenne !Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns3:description>C'est une nouvelle séquence dans "Les Grosses Têtes" cette saison ! Chaque jour en fin d'émission, une Grosse Tête est désignée par Laurent Ruquier pour distribuer les bons et les mauvais points... À la fin de l'émission, Caroline Diament a dressé le bilan des 2h30 d'antenne !Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>C'est une nouvelle séquence dans "Les Grosses Têtes" cette saison ! Chaque jour en fin d'émission, une Grosse Tête est désignée par Laurent Ruquier pour distribuer les bons et les mauvais points... À la fin de l'émission, Caroline Diament a dressé le bilan des 2...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>06:15</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/3394098f-9fc6-4cc6-ad6a-934fcc2f4bf8.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/3394098f-9fc6-4cc6-ad6a-934fcc2f4bf8.jpg" />
-      <ns4:person role="host">Laurent Ruquier</ns4:person>
-      <ns4:txt purpose="smartlink">https://audmns.com/mfTXFyM</ns4:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>

@@ -14,7 +14,7 @@
       <link>https://datojulien.github.io/GTRSS/roselyne-bachelot-feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Thu, 05 Nov 2026 03:29:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 12:19:05 +0000</lastBuildDate>
     <itunes:author>France Musique</itunes:author>
     <itunes:category text="Music"/>
     <itunes:explicit>no</itunes:explicit>
@@ -24,6 +24,26 @@
     </itunes:owner>
     <itunes:subtitle>Flux personnel généré depuis le site Radio France</itunes:subtitle>
     <itunes:summary>Un flux RSS personnel qui récupère les épisodes depuis le site web de France Musique lorsque le flux officiel n’est pas encore à jour.</itunes:summary>
+    <item>
+      <title>Fête des morts : quand la marche devient funèbre</title>
+      <link>https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/fete-des-morts-quand-la-marche-devient-funebre-9721124</link>
+      <description>À l'occasion de la Fête des morts, Roselyne Bachelot s'attarde sur le genre musical de la marche funèbre. De Chopin à Mahler, en passant par Wagner, nombreux sont les compositeurs qui ont expérimenté cet air solennel, au rythme lent et marqué.</description>
+      <content:encoded><![CDATA[
+        <p>À l&#x27;occasion de la Fête des morts, Roselyne Bachelot s&#x27;attarde sur le genre musical de la marche funèbre. De Chopin à Mahler, en passant par Wagner, nombreux sont les compositeurs qui ont expérimenté cet air solennel, au rythme lent et marqué.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/fete-des-morts-quand-la-marche-devient-funebre-9721124">France Musique</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/9c76e002-1f73-4841-8fd9-4eab3dce08dc/300x300" alt="Fête des morts : quand la marche devient funèbre" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/fete-des-morts-quand-la-marche-devient-funebre-9721124</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26865-05.11.2026-ITEMA_24739658-2026M26307S0309-NET_MFM_CAC4D517-11B6-4F09-B9B7-03A28A0EF5D3-25-7f741d42c39a923c1ac70e829773bd47.m4a" length="12343345" type="audio/mp4"/>
+      <pubDate>Thu, 05 Nov 2026 07:45:00 +0000</pubDate>
+      <itunes:author>France Musique</itunes:author>
+      <itunes:duration>8:29</itunes:duration>
+      <itunes:subtitle>À l'occasion de la Fête des morts, Roselyne Bachelot s'attarde sur le genre musical de la marche funèbre. De Chopin à Mahler, en passant par Wagner, nombreux sont les compositeurs qui ont expérimenté cet air solennel, au rythme lent et marqué.</itunes:subtitle>
+      <itunes:summary>À l'occasion de la Fête des morts, Roselyne Bachelot s'attarde sur le genre musical de la marche funèbre. De Chopin à Mahler, en passant par Wagner, nombreux sont les compositeurs qui ont expérimenté cet air solennel, au rythme lent et marqué.</itunes:summary>
+    </item>
     <item>
       <title>En Ukraine, la culture et la musique pour conjurer la guerre</title>
       <link>https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/en-ukraine-la-culture-et-la-musique-pour-conjurer-la-guerre-8320724</link>
