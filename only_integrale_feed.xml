@@ -14,8 +14,8 @@
     <atom:link href="https://datojulien.github.io/GTRSS/only_integrale_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Fri, 06 Nov 2026 09:22:56 GMT</lastBuildDate>
-    <pubDate>Fri, 06 Nov 2026 09:22:56 GMT</pubDate>
+    <lastBuildDate>Fri, 06 Nov 2026 17:29:35 GMT</lastBuildDate>
+    <pubDate>Fri, 06 Nov 2026 17:29:35 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -45,6 +45,36 @@
     <ns3:category text="Comedy" />
     <ns4:person role="host">RTL</ns4:person>
     <ns4:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns4:txt>
+    <item>
+      <title>L'INTÉGRALE - Émission spéciale à Brive-la-Gaillarde pour la Foire du Livre !</title>
+      <guid isPermaLink="false">ce5f89c2-cc01-4cc5-8d98-c613e5df84ff</guid>
+      <description>&lt;p&gt;À l'occasion de la 44e Foire du Livre, les "Grosses Têtes" sont délocalisées à Brive-la-Gaillarde ! Avec Sébastien Thoen, Stomy Bugsy, Joyce Jonathan, Yoann Riou, Michel Field et Gaël Tchakaloff ! &lt;/p&gt;&lt;p&gt;&lt;em&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns5:encoded>&lt;p&gt;À l'occasion de la 44e Foire du Livre, les "Grosses Têtes" sont délocalisées à Brive-la-Gaillarde ! Avec Sébastien Thoen, Stomy Bugsy, Joyce Jonathan, Yoann Riou, Michel Field et Gaël Tchakaloff ! &lt;/p&gt;&lt;p&gt;&lt;em&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
+      <pubDate>Fri, 06 Nov 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/ce5f89c2-cc01-4cc5-8d98-c613e5df84ff.mp3?_=1793975883" length="91598366" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>À l'occasion de la 44e Foire du Livre, les "Grosses Têtes" sont délocalisées à Brive-la-Gaillarde ! Avec Sébastien Thoen, Stomy Bugsy, Joyce Jonathan, Yoann Riou, Michel Field et Gaël Tchakaloff !
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
+      <ns3:description>À l'occasion de la 44e Foire du Livre, les "Grosses Têtes" sont délocalisées à Brive-la-Gaillarde ! Avec Sébastien Thoen, Stomy Bugsy, Joyce Jonathan, Yoann Riou, Michel Field et Gaël Tchakaloff !
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>À l'occasion de la 44e Foire du Livre, les "Grosses Têtes" sont délocalisées à Brive-la-Gaillarde ! Avec Sébastien Thoen, Stomy Bugsy, Joyce Jonathan, Yoann Riou, Michel Field et Gaël Tchakaloff !
+Retrouvez tous les jours le meilleur des Grosses Têtes...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>01:35:24</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/17382b1b-450a-4283-9667-df80ccae16f3.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/17382b1b-450a-4283-9667-df80ccae16f3.jpg" />
+      <ns4:person role="host">Laurent Ruquier</ns4:person>
+      <ns4:txt purpose="smartlink">https://audmns.com/REFNaXT</ns4:txt>
+      <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>L'INTÉGRALE - Émission du jeudi 5 novembre 2026</title>
       <guid isPermaLink="false">a16b3aac-9195-4573-82f7-4baa5b3a4265</guid>
