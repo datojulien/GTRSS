@@ -14,7 +14,7 @@
       <link>https://datojulien.github.io/GTRSS/feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Fri, 06 Nov 2026 01:31:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 09:22:14 +0000</lastBuildDate>
     <itunes:author>France Culture</itunes:author>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -24,6 +24,26 @@
     </itunes:owner>
     <itunes:subtitle>Flux personnel généré depuis le site Radio France</itunes:subtitle>
     <itunes:summary>Un flux RSS personnel qui récupère les épisodes depuis le site web de France Culture lorsque le flux officiel n’est pas encore à jour.</itunes:summary>
+    <item>
+      <title>Le clairon à l'école, enjeux politiques des commémorations</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/le-clairon-a-l-ecole-enjeux-politiques-des-commemorations-2706356</link>
+      <description>Depuis la rentrée 2026, les élèves doivent participer à une cérémonie commémorative au sein de leur école pour rendre hommage aux soldats "morts pour la France" de la Première Guerre mondiale et se souvenir de l’ensemble des morts dans les conflits contemporains.</description>
+      <content:encoded><![CDATA[
+        <p>Depuis la rentrée 2026, les élèves doivent participer à une cérémonie commémorative au sein de leur école pour rendre hommage aux soldats &quot;morts pour la France&quot; de la Première Guerre mondiale et se souvenir de l’ensemble des morts dans les conflits contemporains.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/le-clairon-a-l-ecole-enjeux-politiques-des-commemorations-2706356">France Culture</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/6dc4de88-c604-49f8-a039-de518860112c/300x300" alt="Le clairon à l&#x27;école, enjeux politiques des commémorations" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/le-clairon-a-l-ecole-enjeux-politiques-des-commemorations-2706356</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26625-06.11.2026-ITEMA_24741832-2026C36128S0310-NET_MFC_F55F7A55-7C07-4D0A-B0C8-17AF3B992AC0-25-78a919cdf44c85bef2de9faf7bde93d9.m4a" length="84594261" type="audio/mp4"/>
+      <pubDate>Fri, 06 Nov 2026 08:00:00 +0000</pubDate>
+      <itunes:author>France Culture</itunes:author>
+      <itunes:duration>58:16</itunes:duration>
+      <itunes:subtitle>Depuis la rentrée 2026, les élèves doivent participer à une cérémonie commémorative au sein de leur école pour rendre hommage aux soldats "morts pour la France" de la Première Guerre mondiale et se souvenir de l’ensemble des morts dans les conflits contem</itunes:subtitle>
+      <itunes:summary>Depuis la rentrée 2026, les élèves doivent participer à une cérémonie commémorative au sein de leur école pour rendre hommage aux soldats "morts pour la France" de la Première Guerre mondiale et se souvenir de l’ensemble des morts dans les conflits contemporains.</itunes:summary>
+    </item>
     <item>
       <title>Malraux ministre, culture intensive : épisode du podcast Malraux, une vie pour la culture | France Culture</title>
       <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/malraux-ministre-culture-intensive-3320980</link>
