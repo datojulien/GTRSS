@@ -14,8 +14,8 @@
     <atom:link href="https://datojulien.github.io/GTRSS/only_remaining_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Thu, 05 Nov 2026 20:40:30 GMT</lastBuildDate>
-    <pubDate>Thu, 05 Nov 2026 20:40:30 GMT</pubDate>
+    <lastBuildDate>Fri, 06 Nov 2026 01:32:09 GMT</lastBuildDate>
+    <pubDate>Fri, 06 Nov 2026 01:32:09 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -45,6 +45,33 @@
     <ns3:category text="Comedy" />
     <ns4:person role="host">RTL</ns4:person>
     <ns4:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns4:txt>
+    <item>
+      <title>LE MEILLEUR DE BOUVARD - Un Anglais qui passe ses vacances en France... La blague de Philippe Chevallier</title>
+      <guid isPermaLink="false">8bbf42f8-e46d-45e7-b0aa-251da322fc3b</guid>
+      <description>&lt;p&gt;Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Dans cet extrait, un touriste en quête d'un rasoir &lt;em&gt;Wilkinson&lt;/em&gt; se laisse persuader par la marque &lt;em&gt;Gillette&lt;/em&gt;. Une blague signée Philippe Chevallier ! &lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns5:encoded>&lt;p&gt;Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Dans cet extrait, un touriste en quête d'un rasoir &lt;em&gt;Wilkinson&lt;/em&gt; se laisse persuader par la marque &lt;em&gt;Gillette&lt;/em&gt;. Une blague signée Philippe Chevallier ! &lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
+      <pubDate>Fri, 06 Nov 2026 01:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/8bbf42f8-e46d-45e7-b0aa-251da322fc3b.mp3?_=1793896415" length="1153099" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Dans cet extrait, un touriste en quête d'un rasoir Wilkinson se laisse persuader par la marque Gillette. Une blague signée Philippe Chevallier !
+
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
+      <ns3:description>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Dans cet extrait, un touriste en quête d'un rasoir Wilkinson se laisse persuader par la marque Gillette. Une blague signée Philippe Chevallier !
+
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Dans cet extrait, un touriste en quête d'un rasoir Wilkinson se laisse persuader par la marque Gillette. Une blague signée Philippe Chevallier...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>01:11</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/4d45a47a-725d-45d2-a4a1-b5dcc9b643bf.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/4d45a47a-725d-45d2-a4a1-b5dcc9b643bf.jpg" />
+      <ns4:person role="host">Laurent Ruquier</ns4:person>
+      <ns4:txt purpose="smartlink">https://audmns.com/gTkpAPu</ns4:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>LES IMMANQUABLES - Le meilleur de l'émission du 5 novembre 2026</title>
       <guid isPermaLink="false">a7c21ba4-4e4f-43d2-bd66-7e12003b0eaa</guid>
@@ -2468,35 +2495,6 @@ Hébergé par Audiomean...</itunes:subtitle>
       <ns3:image href="https://static.audiomeans.fr/img/episode/6e9b366a-68b8-49b2-a7f3-5cca0b3c734c.jpg" />
       <ns4:person role="host">Laurent Ruquier</ns4:person>
       <ns4:txt purpose="smartlink">https://audmns.com/iMYNcta</ns4:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>LE MEILLEUR DE BOUVARD  - Un perroquet à deux doigts du miracle... La blague François Pirette</title>
-      <guid isPermaLink="false">f3f12273-a0c4-4bda-8daf-609206339dce</guid>
-      <description>&lt;p&gt;Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Dans cet extrait, Un perroquet prétendument savant est à deux doigts de sauver ses propriétaires... Une blague signée François Pirette ! &lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns5:encoded>&lt;p&gt;Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Dans cet extrait, Un perroquet prétendument savant est à deux doigts de sauver ses propriétaires... Une blague signée François Pirette ! &lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
-      <pubDate>Sun, 25 Oct 2026 01:00:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/f3f12273-a0c4-4bda-8daf-609206339dce.mp3?_=1792784028" length="973454" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Dans cet extrait, Un perroquet prétendument savant est à deux doigts de sauver ses propriétaires... Une blague signée François Pirette !
-
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns3:description>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Dans cet extrait, Un perroquet prétendument savant est à deux doigts de sauver ses propriétaires... Une blague signée François Pirette !
-
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Dans cet extrait, Un perroquet prétendument savant est à deux doigts de sauver ses propriétaires... Une blague signée François Pirette !
-
-Hébergé p...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>01:00</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/90544b6d-feca-483b-b468-ba96b886fe95.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/90544b6d-feca-483b-b468-ba96b886fe95.jpg" />
-      <ns4:person role="host">Laurent Ruquier</ns4:person>
-      <ns4:txt purpose="smartlink">https://audmns.com/aHCIXLs</ns4:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
