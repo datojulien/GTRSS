@@ -14,7 +14,7 @@
       <link>https://datojulien.github.io/GTRSS/feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Fri, 06 Nov 2026 17:28:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 23:06:36 +0000</lastBuildDate>
     <itunes:author>France Culture</itunes:author>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -2343,6 +2343,26 @@
       <itunes:duration>59:00</itunes:duration>
       <itunes:subtitle>AUDIO Fou d'histoire, épisode : Adélaïde de Clermont-Tonnerre et les mousquetaires, l'histoire de Milady. Une série inédite proposée par France Culture. Écoutez Adélaïde de Clermont-Tonnerre et les mousquetaires, l'histoire de Milady, et découvrez nos pod</itunes:subtitle>
       <itunes:summary>AUDIO Fou d'histoire, épisode : Adélaïde de Clermont-Tonnerre et les mousquetaires, l'histoire de Milady. Une série inédite proposée par France Culture. Écoutez Adélaïde de Clermont-Tonnerre et les mousquetaires, l'histoire de Milady, et découvrez nos podcasts en ligne.</itunes:summary>
+    </item>
+    <item>
+      <title>Planifier, réformer, et bricoler, histoire du budget de l’école : épisode du podcast Dépenses publiques, une histoire sous contrôle | France Culture</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/planifier-reformer-et-bricoler-histoire-du-budget-de-l-ecole-7914412</link>
+      <description>AUDIO Dépenses publiques, une histoire sous contrôle, épisode : Planifier, réformer, et bricoler, histoire du budget de l’école. Une série inédite proposée par France Culture. Écoutez Planifier, réformer, et bricoler, histoire du budget de l’école, et découvrez nos podcasts en ligne.</description>
+      <content:encoded><![CDATA[
+        <p>AUDIO Dépenses publiques, une histoire sous contrôle, épisode : Planifier, réformer, et bricoler, histoire du budget de l’école. Une série inédite proposée par France Culture. Écoutez Planifier, réformer, et bricoler, histoire du budget de l’école, et découvrez nos podcasts en ligne.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/planifier-reformer-et-bricoler-histoire-du-budget-de-l-ecole-7914412">France Culture</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/0ac8f95c-3ebe-4a8c-a371-af7d6f592082/300x300" alt="Planifier, réformer, et bricoler, histoire du budget de l’école : épisode du podcast Dépenses publiques, une histoire sous contrôle | France Culture" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/planifier-reformer-et-bricoler-histoire-du-budget-de-l-ecole-7914412</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26625-07.11.2026-ITEMA_24742531-2025C36128S0254-NET_MFC_1D1EC236-AAC9-473C-84AA-22C8415F60BE-25-09f2593674e5e808bdf99dda462a1efd.m4a" length="85153639" type="audio/mp4"/>
+      <pubDate>Thu, 11 Sep 2025 07:00:00 +0000</pubDate>
+      <itunes:author>France Culture</itunes:author>
+      <itunes:duration>58:39</itunes:duration>
+      <itunes:subtitle>AUDIO Dépenses publiques, une histoire sous contrôle, épisode : Planifier, réformer, et bricoler, histoire du budget de l’école. Une série inédite proposée par France Culture. Écoutez Planifier, réformer, et bricoler, histoire du budget de l’école, et déc</itunes:subtitle>
+      <itunes:summary>AUDIO Dépenses publiques, une histoire sous contrôle, épisode : Planifier, réformer, et bricoler, histoire du budget de l’école. Une série inédite proposée par France Culture. Écoutez Planifier, réformer, et bricoler, histoire du budget de l’école, et découvrez nos podcasts en ligne.</itunes:summary>
     </item>
     <item>
       <title>De Pearl Harbor à Hiroshima, la guerre dans le Pacifique : épisode du podcast Seconde Guerre mondiale, le Pacifique en guerre | France Culture</title>
