@@ -14,7 +14,7 @@
       <link>https://datojulien.github.io/GTRSS/feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Mon, 09 Nov 2026 06:23:37 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 17:27:57 +0000</lastBuildDate>
     <itunes:author>France Culture</itunes:author>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -24,6 +24,26 @@
     </itunes:owner>
     <itunes:subtitle>Flux personnel généré depuis le site Radio France</itunes:subtitle>
     <itunes:summary>Un flux RSS personnel qui récupère les épisodes depuis le site web de France Culture lorsque le flux officiel n’est pas encore à jour.</itunes:summary>
+    <item>
+      <title>Le long du fleuve Jaune, les premières dynasties chinoises : épisode du podcast Histoire de la Chine ancienne | France Culture</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/le-long-du-fleuve-jaune-les-premieres-dynasties-chinoises-6000711</link>
+      <description>AUDIO Histoire de la Chine ancienne, épisode : Le long du fleuve Jaune, les premières dynasties chinoises. Une série inédite proposée par France Culture. Écoutez Le long du fleuve Jaune, les premières dynasties chinoises, et découvrez nos podcasts en ligne.</description>
+      <content:encoded><![CDATA[
+        <p>AUDIO Histoire de la Chine ancienne, épisode : Le long du fleuve Jaune, les premières dynasties chinoises. Une série inédite proposée par France Culture. Écoutez Le long du fleuve Jaune, les premières dynasties chinoises, et découvrez nos podcasts en ligne.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/le-long-du-fleuve-jaune-les-premieres-dynasties-chinoises-6000711">France Culture</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/17489db0-09cb-427e-bfc2-4e80124022d8/300x300" alt="Le long du fleuve Jaune, les premières dynasties chinoises : épisode du podcast Histoire de la Chine ancienne | France Culture" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/le-long-du-fleuve-jaune-les-premieres-dynasties-chinoises-6000711</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26625-09.11.2026-ITEMA_24744967-2026C36128S0313-NET_MFC_68975EE0-E64C-4B80-8B2A-3FD42C9ED4EF-25-7bc0b66602ff5bd8fe30d9a3780e8819.m4a" length="85608414" type="audio/mp4"/>
+      <pubDate>Mon, 09 Nov 2026 08:00:00 +0000</pubDate>
+      <itunes:author>France Culture</itunes:author>
+      <itunes:duration>58:58</itunes:duration>
+      <itunes:subtitle>AUDIO Histoire de la Chine ancienne, épisode : Le long du fleuve Jaune, les premières dynasties chinoises. Une série inédite proposée par France Culture. Écoutez Le long du fleuve Jaune, les premières dynasties chinoises, et découvrez nos podcasts en lign</itunes:subtitle>
+      <itunes:summary>AUDIO Histoire de la Chine ancienne, épisode : Le long du fleuve Jaune, les premières dynasties chinoises. Une série inédite proposée par France Culture. Écoutez Le long du fleuve Jaune, les premières dynasties chinoises, et découvrez nos podcasts en ligne.</itunes:summary>
+    </item>
     <item>
       <title>Le clairon à l'école, enjeux politiques des commémorations</title>
       <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/le-clairon-a-l-ecole-enjeux-politiques-des-commemorations-2706356</link>
