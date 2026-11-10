@@ -14,8 +14,8 @@
     <atom:link href="https://datojulien.github.io/GTRSS/only_remaining_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Mon, 09 Nov 2026 17:28:48 GMT</lastBuildDate>
-    <pubDate>Mon, 09 Nov 2026 17:28:48 GMT</pubDate>
+    <lastBuildDate>Tue, 10 Nov 2026 01:30:42 GMT</lastBuildDate>
+    <pubDate>Tue, 10 Nov 2026 01:30:42 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -45,6 +45,35 @@
     <ns3:category text="Comedy" />
     <ns4:person role="host">RTL</ns4:person>
     <ns4:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns4:txt>
+    <item>
+      <title>LE MEILLEUR DE BOUVARD - Le roi des Belges invité à Buckingham... La blague Carlos</title>
+      <guid isPermaLink="false">1cd3ec48-3d39-4734-8e09-877b6583b04f</guid>
+      <description>&lt;p&gt;Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Dans cet extrait, le roi des Belges, invité à une réception à Buckingham Palace, enchaîne les verres et tente de séduire une ravissante invitée... Une blague signée Carlos !&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns5:encoded>&lt;p&gt;Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Dans cet extrait, le roi des Belges, invité à une réception à Buckingham Palace, enchaîne les verres et tente de séduire une ravissante invitée... Une blague signée Carlos !&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
+      <pubDate>Tue, 10 Nov 2026 01:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/1cd3ec48-3d39-4734-8e09-877b6583b04f.mp3?_=1794241872" length="1315422" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Dans cet extrait, le roi des Belges, invité à une réception à Buckingham Palace, enchaîne les verres et tente de séduire une ravissante invitée... Une blague signée Carlos !
+
+
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
+      <ns3:description>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Dans cet extrait, le roi des Belges, invité à une réception à Buckingham Palace, enchaîne les verres et tente de séduire une ravissante invitée... Une blague signée Carlos !
+
+
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Dans cet extrait, le roi des Belges, invité à une réception à Buckingham Palace, enchaîne les verres et tente de séduire une ravissante invitée... Une blague si...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>01:22</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/a1d306b3-6bf8-42a2-b805-93a880825e26.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/a1d306b3-6bf8-42a2-b805-93a880825e26.jpg" />
+      <ns4:person role="host">Laurent Ruquier</ns4:person>
+      <ns4:txt purpose="smartlink">https://audmns.com/WaHUxMk</ns4:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>LES IMMANQUABLES - Le meilleur de l'émission du 9 novembre 2026</title>
       <guid isPermaLink="false">4962c2d3-8b94-4c2a-82ba-7c5209d7e7de</guid>
@@ -2481,33 +2510,6 @@ Hébergé par Audiomeans. Visitez</itunes:subtitle>
       <ns3:image href="https://static.audiomeans.fr/img/episode/ed807134-8624-4ce1-a62a-8b0bd2e74128.jpg" />
       <ns4:person role="host">Laurent Ruquier</ns4:person>
       <ns4:txt purpose="smartlink">https://audmns.com/PadXiOK</ns4:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>QUI QUI EXPRESS - Quelle romancière, actrice, sort actuellement son 3è livre ?</title>
-      <guid isPermaLink="false">b69f2edb-8e69-4b7b-a99a-194610fe2ec6</guid>
-      <description>&lt;p&gt;Dans ce jeu du "Qui Qui Express", la règle est simple : à chaque personnalité ou évènement retrouvé par les Grosses Têtes, l'auditeur ou l'auditrice remporte 50 euros !&lt;br&gt;&lt;br&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns5:encoded>&lt;p&gt;Dans ce jeu du "Qui Qui Express", la règle est simple : à chaque personnalité ou évènement retrouvé par les Grosses Têtes, l'auditeur ou l'auditrice remporte 50 euros !&lt;br&gt;&lt;br&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
-      <pubDate>Wed, 28 Oct 2026 16:53:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/b69f2edb-8e69-4b7b-a99a-194610fe2ec6.mp3?_=1793205781" length="9005397" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Dans ce jeu du "Qui Qui Express", la règle est simple : à chaque personnalité ou évènement retrouvé par les Grosses Têtes, l'auditeur ou l'auditrice remporte 50 euros !Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns3:description>Dans ce jeu du "Qui Qui Express", la règle est simple : à chaque personnalité ou évènement retrouvé par les Grosses Têtes, l'auditeur ou l'auditrice remporte 50 euros !Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Dans ce jeu du "Qui Qui Express", la règle est simple : à chaque personnalité ou évènement retrouvé par les Grosses Têtes, l'auditeur ou l'auditrice remporte 50 euros !Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'appl...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>09:22</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/88f6b8f5-ce8e-43a1-8e91-8cbbe3ab65e4.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/88f6b8f5-ce8e-43a1-8e91-8cbbe3ab65e4.jpg" />
-      <ns4:person role="host">Laurent Ruquier</ns4:person>
-      <ns4:txt purpose="smartlink">https://audmns.com/YkhQZmI</ns4:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
