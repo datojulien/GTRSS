@@ -14,7 +14,7 @@
       <link>https://datojulien.github.io/GTRSS/feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Tue, 10 Nov 2026 01:29:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 09:47:58 +0000</lastBuildDate>
     <itunes:author>France Culture</itunes:author>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -24,6 +24,26 @@
     </itunes:owner>
     <itunes:subtitle>Flux personnel généré depuis le site Radio France</itunes:subtitle>
     <itunes:summary>Un flux RSS personnel qui récupère les épisodes depuis le site web de France Culture lorsque le flux officiel n’est pas encore à jour.</itunes:summary>
+    <item>
+      <title>Confucianisme et taoïsme, aux sources de la pensée chinoise : épisode du podcast Histoire de la Chine ancienne | France Culture</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/confucianisme-et-taoisme-aux-sources-de-la-pensee-chinoise-3746437</link>
+      <description>AUDIO Histoire de la Chine ancienne, épisode : Confucianisme et taoïsme, aux sources de la pensée chinoise. Une série inédite proposée par France Culture. Écoutez Confucianisme et taoïsme, aux sources de la pensée chinoise, et découvrez nos podcasts en ligne.</description>
+      <content:encoded><![CDATA[
+        <p>AUDIO Histoire de la Chine ancienne, épisode : Confucianisme et taoïsme, aux sources de la pensée chinoise. Une série inédite proposée par France Culture. Écoutez Confucianisme et taoïsme, aux sources de la pensée chinoise, et découvrez nos podcasts en ligne.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/confucianisme-et-taoisme-aux-sources-de-la-pensee-chinoise-3746437">France Culture</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/0db065b0-6d42-432d-97ae-c59caf559c9f/300x300" alt="Confucianisme et taoïsme, aux sources de la pensée chinoise : épisode du podcast Histoire de la Chine ancienne | France Culture" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/confucianisme-et-taoisme-aux-sources-de-la-pensee-chinoise-3746437</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26625-10.11.2026-ITEMA_24746611-2026C36128S0314-NET_MFC_1175CE07-6BDE-4CEA-A662-DDDFE39BA817-25-e02a4a1d319df736bb44d10fb0c0bd6e.m4a" length="85923962" type="audio/mp4"/>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 +0000</pubDate>
+      <itunes:author>France Culture</itunes:author>
+      <itunes:duration>59:11</itunes:duration>
+      <itunes:subtitle>AUDIO Histoire de la Chine ancienne, épisode : Confucianisme et taoïsme, aux sources de la pensée chinoise. Une série inédite proposée par France Culture. Écoutez Confucianisme et taoïsme, aux sources de la pensée chinoise, et découvrez nos podcasts en li</itunes:subtitle>
+      <itunes:summary>AUDIO Histoire de la Chine ancienne, épisode : Confucianisme et taoïsme, aux sources de la pensée chinoise. Une série inédite proposée par France Culture. Écoutez Confucianisme et taoïsme, aux sources de la pensée chinoise, et découvrez nos podcasts en ligne.</itunes:summary>
+    </item>
     <item>
       <title>Le long du fleuve Jaune, les premières dynasties chinoises : épisode du podcast Histoire de la Chine ancienne | France Culture</title>
       <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/le-long-du-fleuve-jaune-les-premieres-dynasties-chinoises-6000711</link>
