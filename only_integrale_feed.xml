@@ -14,8 +14,8 @@
     <atom:link href="https://datojulien.github.io/GTRSS/only_integrale_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Tue, 10 Nov 2026 23:19:19 GMT</lastBuildDate>
-    <pubDate>Tue, 10 Nov 2026 23:19:19 GMT</pubDate>
+    <lastBuildDate>Wed, 11 Nov 2026 06:15:24 GMT</lastBuildDate>
+    <pubDate>Wed, 11 Nov 2026 06:15:24 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -348,35 +348,6 @@ Hébergé par Audiomeans. Vis...</itunes:subtitle>
       <ns3:image href="https://static.audiomeans.fr/img/episode/02d05444-a386-4a82-b8e3-bd1b6ce6e4af.jpg" />
       <ns4:person role="host">Laurent Ruquier</ns4:person>
       <ns4:txt purpose="smartlink">https://audmns.com/yNdGVDW</ns4:txt>
-      <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>L'INTÉGRALE - Émission du mercredi 28 octobre 2026</title>
-      <guid isPermaLink="false">d23bf264-2189-4a0e-b4f5-c84a38be4326</guid>
-      <description>&lt;p&gt;Avec Ethan Oliel, Guillaume Gomez, Roselyne Bachelot, Chantal Ladesou, Christophe Barbier et Jérémy Ferrari.&lt;br&gt;&lt;br&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns5:encoded>&lt;p&gt;Avec Ethan Oliel, Guillaume Gomez, Roselyne Bachelot, Chantal Ladesou, Christophe Barbier et Jérémy Ferrari.&lt;br&gt;&lt;br&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
-      <pubDate>Wed, 28 Oct 2026 17:03:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/d23bf264-2189-4a0e-b4f5-c84a38be4326.mp3?_=1793203686" length="100183855" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Avec Ethan Oliel, Guillaume Gomez, Roselyne Bachelot, Chantal Ladesou, Christophe Barbier et Jérémy Ferrari.Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns3:description>Avec Ethan Oliel, Guillaume Gomez, Roselyne Bachelot, Chantal Ladesou, Christophe Barbier et Jérémy Ferrari.Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Avec Ethan Oliel, Guillaume Gomez, Roselyne Bachelot, Chantal Ladesou, Christophe Barbier et Jérémy Ferrari.Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-
-Hébergé par Audiomeans. Visitez</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>01:44:21</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/027b404f-cc49-44e8-9996-a2af587a2232.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/027b404f-cc49-44e8-9996-a2af587a2232.jpg" />
-      <ns4:person role="host">Laurent Ruquier</ns4:person>
-      <ns4:txt purpose="smartlink">https://audmns.com/SuteQCx</ns4:txt>
       <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
   </channel>
