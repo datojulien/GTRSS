@@ -14,7 +14,7 @@
       <link>https://datojulien.github.io/GTRSS/roselyne-bachelot-feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Thu, 12 Nov 2026 02:58:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 11:06:08 +0000</lastBuildDate>
     <itunes:author>France Musique</itunes:author>
     <itunes:category text="Music"/>
     <itunes:explicit>no</itunes:explicit>
@@ -24,6 +24,26 @@
     </itunes:owner>
     <itunes:subtitle>Flux personnel généré depuis le site Radio France</itunes:subtitle>
     <itunes:summary>Un flux RSS personnel qui récupère les épisodes depuis le site web de France Musique lorsque le flux officiel n’est pas encore à jour.</itunes:summary>
+    <item>
+      <title>Le triomphe de Roberto Alagna au Théâtre des Champs-Élysées</title>
+      <link>https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/le-triomphe-de-roberto-alagna-au-theatre-des-champs-elysees-1121129</link>
+      <description>Roselyne Bachelot revient sur la production de "Manon Lescaut" de Puccini, un opéra de jeunesse du compositeur italien joué pour la première fois depuis 30 ans à Paris, porté par le duo Ailyn Pérez et Roberto Alagna. À 63 ans, ce dernier poursuit avec succès son entreprise de séduction vocale.</description>
+      <content:encoded><![CDATA[
+        <p>Roselyne Bachelot revient sur la production de &quot;Manon Lescaut&quot; de Puccini, un opéra de jeunesse du compositeur italien joué pour la première fois depuis 30 ans à Paris, porté par le duo Ailyn Pérez et Roberto Alagna. À 63 ans, ce dernier poursuit avec succès son entreprise de séduction vocale.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/le-triomphe-de-roberto-alagna-au-theatre-des-champs-elysees-1121129">France Musique</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/ce27e34c-8808-41a1-a71e-8ad92677e1db/300x300" alt="Le triomphe de Roberto Alagna au Théâtre des Champs-Élysées" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/le-triomphe-de-roberto-alagna-au-theatre-des-champs-elysees-1121129</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26865-12.11.2026-ITEMA_24749521-2026M26307S0316-NET_MFM_DC0AD46A-C676-4B79-8627-3D13E306654D-25-1d4b7d5b044ad9c201b442c42cfd3304.m4a" length="14137003" type="audio/mp4"/>
+      <pubDate>Thu, 12 Nov 2026 07:45:00 +0000</pubDate>
+      <itunes:author>France Musique</itunes:author>
+      <itunes:duration>9:43</itunes:duration>
+      <itunes:subtitle>Roselyne Bachelot revient sur la production de "Manon Lescaut" de Puccini, un opéra de jeunesse du compositeur italien joué pour la première fois depuis 30 ans à Paris, porté par le duo Ailyn Pérez et Roberto Alagna. À 63 ans, ce dernier poursuit avec suc</itunes:subtitle>
+      <itunes:summary>Roselyne Bachelot revient sur la production de "Manon Lescaut" de Puccini, un opéra de jeunesse du compositeur italien joué pour la première fois depuis 30 ans à Paris, porté par le duo Ailyn Pérez et Roberto Alagna. À 63 ans, ce dernier poursuit avec succès son entreprise de séduction vocale.</itunes:summary>
+    </item>
     <item>
       <title>Fête des morts : quand la marche devient funèbre</title>
       <link>https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/fete-des-morts-quand-la-marche-devient-funebre-9721124</link>

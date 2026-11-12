@@ -14,7 +14,7 @@
       <link>https://datojulien.github.io/GTRSS/feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Thu, 12 Nov 2026 02:57:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 11:04:55 +0000</lastBuildDate>
     <itunes:author>France Culture</itunes:author>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -24,6 +24,26 @@
     </itunes:owner>
     <itunes:subtitle>Flux personnel généré depuis le site Radio France</itunes:subtitle>
     <itunes:summary>Un flux RSS personnel qui récupère les épisodes depuis le site web de France Culture lorsque le flux officiel n’est pas encore à jour.</itunes:summary>
+    <item>
+      <title>Manuscrits de Dunhuang, la bibliothèque retrouvée : épisode du podcast Histoire de la Chine ancienne | France Culture</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/manuscrits-de-dunhuang-la-bibliotheque-retrouvee-8520739</link>
+      <description>AUDIO Histoire de la Chine ancienne, épisode : Manuscrits de Dunhuang, la bibliothèque retrouvée. Une série inédite proposée par France Culture. Écoutez Manuscrits de Dunhuang, la bibliothèque retrouvée, et découvrez nos podcasts en ligne.</description>
+      <content:encoded><![CDATA[
+        <p>AUDIO Histoire de la Chine ancienne, épisode : Manuscrits de Dunhuang, la bibliothèque retrouvée. Une série inédite proposée par France Culture. Écoutez Manuscrits de Dunhuang, la bibliothèque retrouvée, et découvrez nos podcasts en ligne.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/manuscrits-de-dunhuang-la-bibliotheque-retrouvee-8520739">France Culture</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/23501e0d-3838-4f5c-9064-c82c85c9c1c5/300x300" alt="Manuscrits de Dunhuang, la bibliothèque retrouvée : épisode du podcast Histoire de la Chine ancienne | France Culture" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/manuscrits-de-dunhuang-la-bibliotheque-retrouvee-8520739</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26625-12.11.2026-ITEMA_24749485-2026C36128S0316-NET_MFC_41BC790A-88A8-451E-AD82-FFF8EDB7DADD-25-9c17f7348e5a51dd9fed6c974067e858.m4a" length="86310419" type="audio/mp4"/>
+      <pubDate>Thu, 12 Nov 2026 08:00:00 +0000</pubDate>
+      <itunes:author>France Culture</itunes:author>
+      <itunes:duration>59:27</itunes:duration>
+      <itunes:subtitle>AUDIO Histoire de la Chine ancienne, épisode : Manuscrits de Dunhuang, la bibliothèque retrouvée. Une série inédite proposée par France Culture. Écoutez Manuscrits de Dunhuang, la bibliothèque retrouvée, et découvrez nos podcasts en ligne.</itunes:subtitle>
+      <itunes:summary>AUDIO Histoire de la Chine ancienne, épisode : Manuscrits de Dunhuang, la bibliothèque retrouvée. Une série inédite proposée par France Culture. Écoutez Manuscrits de Dunhuang, la bibliothèque retrouvée, et découvrez nos podcasts en ligne.</itunes:summary>
+    </item>
     <item>
       <title>Et la Chine impériale construit une Grande Muraille : épisode du podcast Histoire de la Chine ancienne | France Culture</title>
       <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/et-la-chine-imperiale-construit-une-grande-muraille-9722728</link>

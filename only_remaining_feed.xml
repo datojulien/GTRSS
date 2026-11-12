@@ -14,8 +14,8 @@
     <atom:link href="https://datojulien.github.io/GTRSS/only_remaining_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Thu, 12 Nov 2026 02:58:41 GMT</lastBuildDate>
-    <pubDate>Thu, 12 Nov 2026 02:58:41 GMT</pubDate>
+    <lastBuildDate>Thu, 12 Nov 2026 11:06:09 GMT</lastBuildDate>
+    <pubDate>Thu, 12 Nov 2026 11:06:09 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -46,6 +46,35 @@
     <ns4:person role="host">RTL</ns4:person>
     <ns4:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns4:txt>
     <item>
+      <title>LE MEILLEUR DE RUQUIER - L'histoire drôle de Chirstophe Barbier</title>
+      <guid isPermaLink="false">0d40243b-5f41-404a-8381-594b413ca688</guid>
+      <description>&lt;p&gt;Une chanteuse qui prouve son identité par son ignorance, un père qui vante les qualités très particulières de sa fille et un octogénaire qui a perdu le sens de l'orientation malgré une vie conjugale particulièrement stimulante... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&amp;nbsp;&lt;/em&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns5:encoded>&lt;p&gt;Une chanteuse qui prouve son identité par son ignorance, un père qui vante les qualités très particulières de sa fille et un octogénaire qui a perdu le sens de l'orientation malgré une vie conjugale particulièrement stimulante... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&amp;nbsp;&lt;/em&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
+      <pubDate>Thu, 12 Nov 2026 10:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/0d40243b-5f41-404a-8381-594b413ca688.mp3?_=1794320991" length="2009932" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Une chanteuse qui prouve son identité par son ignorance, un père qui vante les qualités très particulières de sa fille et un octogénaire qui a perdu le sens de l'orientation malgré une vie conjugale particulièrement stimulante... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
+      <ns3:description>Une chanteuse qui prouve son identité par son ignorance, un père qui vante les qualités très particulières de sa fille et un octogénaire qui a perdu le sens de l'orientation malgré une vie conjugale particulièrement stimulante... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Une chanteuse qui prouve son identité par son ignorance, un père qui vante les qualités très particulières de sa fille et un octogénaire qui a perdu le sens de l'orientation malgré une vie conjugale particulièrement stimulante... Écoutez dans ce podcast 3 des me...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>02:05</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/0f309bd8-12ba-41ce-8f5e-698440d321f4.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/0f309bd8-12ba-41ce-8f5e-698440d321f4.jpg" />
+      <ns4:person role="host">Laurent Ruquier</ns4:person>
+      <ns4:txt purpose="smartlink">https://audmns.com/nGuUDSt</ns4:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
+    <item>
       <title>LE MEILLEUR DE BOUVARD - Les 100 euros qui sauvent le village : la blague de Jacques Mailhot</title>
       <guid isPermaLink="false">fe7fa58c-5643-4a0c-b797-4d2766ef17cc</guid>
       <description>&lt;p&gt;Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Dans cet extrait, un billet de 100 euros qui passe de main en main, efface toutes les dettes du village... une blague signée Jacques Mailhot ! &lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
@@ -72,6 +101,40 @@ Héb...</itunes:subtitle>
       <ns3:image href="https://static.audiomeans.fr/img/episode/59f80469-147f-4b62-8f0c-15e0e39054fd.jpg" />
       <ns4:person role="host">Laurent Ruquier</ns4:person>
       <ns4:txt purpose="smartlink">https://audmns.com/adOIfEP</ns4:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
+    <item>
+      <title>BEST OF - Le meilleur des auditeurs depuis le début de la saison</title>
+      <guid isPermaLink="false">278043b2-e924-42e3-8ddb-1c681a13825f</guid>
+      <description>&lt;p&gt;Requêtes, compliments, coups de gueule... Depuis le début de la saison, les auditeurs se succèdent pour laisser un message aux Grosses Têtes !&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns5:encoded>&lt;p&gt;Requêtes, compliments, coups de gueule... Depuis le début de la saison, les auditeurs se succèdent pour laisser un message aux Grosses Têtes !&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
+      <pubDate>Wed, 11 Nov 2026 14:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/278043b2-e924-42e3-8ddb-1c681a13825f.mp3?_=1794474782" length="4205474" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Requêtes, compliments, coups de gueule... Depuis le début de la saison, les auditeurs se succèdent pour laisser un message aux Grosses Têtes !
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
+      <ns3:description>Requêtes, compliments, coups de gueule... Depuis le début de la saison, les auditeurs se succèdent pour laisser un message aux Grosses Têtes !
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Requêtes, compliments, coups de gueule... Depuis le début de la saison, les auditeurs se succèdent pour laisser un message aux Grosses Têtes !
+
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>04:22</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/f417e11a-87c2-4fff-92ef-24d84eb78281.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/f417e11a-87c2-4fff-92ef-24d84eb78281.jpg" />
+      <ns4:person role="host">Laurent Ruquier</ns4:person>
+      <ns4:txt purpose="smartlink">https://audmns.com/bYlArGq</ns4:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
@@ -2438,68 +2501,6 @@ Retrouvez tous les jours le meilleur des Gro...</itunes:subtitle>
       <ns3:image href="https://static.audiomeans.fr/img/episode/6a5978dd-a943-4cb5-b834-2d616bd93445.jpg" />
       <ns4:person role="host">Laurent Ruquier</ns4:person>
       <ns4:txt purpose="smartlink">https://audmns.com/HRUcAIN</ns4:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>FACE AUX AUDITEURS - "30 piges à te voir ou t'entendre", il se sent très proche de Laurent Ruquier</title>
-      <guid isPermaLink="false">78cd1017-2c49-414a-8f38-98e282f2ef8d</guid>
-      <description>&lt;p&gt;Plaintes, compliments, interrogations... Cette saison encore, les Grosses Têtes répondent aux différentes questions et messages des auditeurs à l'antenne.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns5:encoded>&lt;p&gt;Plaintes, compliments, interrogations... Cette saison encore, les Grosses Têtes répondent aux différentes questions et messages des auditeurs à l'antenne.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
-      <pubDate>Thu, 29 Oct 2026 16:56:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/78cd1017-2c49-414a-8f38-98e282f2ef8d.mp3?_=1793287384" length="6664000" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Plaintes, compliments, interrogations... Cette saison encore, les Grosses Têtes répondent aux différentes questions et messages des auditeurs à l'antenne.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns3:description>Plaintes, compliments, interrogations... Cette saison encore, les Grosses Têtes répondent aux différentes questions et messages des auditeurs à l'antenne.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Plaintes, compliments, interrogations... Cette saison encore, les Grosses Têtes répondent aux différentes questions et messages des auditeurs à l'antenne.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>06:56</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/67d41fb9-7224-45d0-8a16-5b5e8632e0af.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/67d41fb9-7224-45d0-8a16-5b5e8632e0af.jpg" />
-      <ns4:person role="host">Laurent Ruquier</ns4:person>
-      <ns4:txt purpose="smartlink">https://audmns.com/nuJERuP</ns4:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>FAKE NEWS - Présidentielles, manifestations, Iphone... Quelle Grosse Tête dit vrai ?</title>
-      <guid isPermaLink="false">bc01c8dc-4d7f-4337-af08-19e236e1596b</guid>
-      <description>&lt;p&gt;Et vous, saurez-vous démêler le vrai du faux ?&lt;/p&gt;&lt;p&gt;&lt;em&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns5:encoded>&lt;p&gt;Et vous, saurez-vous démêler le vrai du faux ?&lt;/p&gt;&lt;p&gt;&lt;em&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
-      <pubDate>Thu, 29 Oct 2026 16:55:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/bc01c8dc-4d7f-4337-af08-19e236e1596b.mp3?_=1793287385" length="8532033" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Et vous, saurez-vous démêler le vrai du faux ?
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns3:description>Et vous, saurez-vous démêler le vrai du faux ?
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Et vous, saurez-vous démêler le vrai du faux ?
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-
-Hébergé par Audiomeans. Visitez</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>08:53</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/052cce69-7068-4819-b39c-0c5f3b72419a.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/052cce69-7068-4819-b39c-0c5f3b72419a.jpg" />
-      <ns4:person role="host">Laurent Ruquier</ns4:person>
-      <ns4:txt purpose="smartlink">https://audmns.com/AQFOXVW</ns4:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
