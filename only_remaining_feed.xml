@@ -14,8 +14,8 @@
     <atom:link href="https://datojulien.github.io/GTRSS/only_remaining_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Fri, 13 Nov 2026 07:56:45 GMT</lastBuildDate>
-    <pubDate>Fri, 13 Nov 2026 07:56:45 GMT</pubDate>
+    <lastBuildDate>Fri, 13 Nov 2026 16:21:24 GMT</lastBuildDate>
+    <pubDate>Fri, 13 Nov 2026 16:21:24 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -46,30 +46,59 @@
     <ns4:person role="host">RTL</ns4:person>
     <ns4:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns4:txt>
     <item>
-      <title>LE MEILLEUR DE BOUVARD - Le poulet qui sèmes les Ferrari ! La blague de Philippe Chevallier</title>
-      <guid isPermaLink="false">0dbe9cef-f118-476e-ba64-1b4e1b9bf418</guid>
-      <description>&lt;p&gt;Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Dans cet extrait, un automobiliste au volant de sa Ferrari se retrouve confronté à un poulet à trois pattes qui roule plus vite que lui&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns5:encoded>&lt;p&gt;Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Dans cet extrait, un automobiliste au volant de sa Ferrari se retrouve confronté à un poulet à trois pattes qui roule plus vite que lui&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
-      <pubDate>Fri, 13 Nov 2026 01:00:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/0dbe9cef-f118-476e-ba64-1b4e1b9bf418.mp3?_=1794500793" length="961737" type="audio/mpeg" />
+      <title>LE MEILLEUR DE RUQUIER - "Bonjour Monsieur Lanus !" : La blague de Jean-Jacques Peroni</title>
+      <guid isPermaLink="false">243b5ad6-6a1c-4439-b54b-f974d039a659</guid>
+      <description>&lt;p&gt;Un homme qui porte très bien son nom, une femme qui raconte une drôle de rencontre extraconjugale et un propriétaire confronté à des rats particulièrement gourmands... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&amp;nbsp;&lt;/em&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns5:encoded>&lt;p&gt;Un homme qui porte très bien son nom, une femme qui raconte une drôle de rencontre extraconjugale et un propriétaire confronté à des rats particulièrement gourmands... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&amp;nbsp;&lt;/em&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
+      <pubDate>Fri, 13 Nov 2026 10:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/243b5ad6-6a1c-4439-b54b-f974d039a659.mp3?_=1794501181" length="1744430" type="audio/mpeg" />
       <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Dans cet extrait, un automobiliste au volant de sa Ferrari se retrouve confronté à un poulet à trois pattes qui roule plus vite que lui
+      <itunes:summary>Un homme qui porte très bien son nom, une femme qui raconte une drôle de rencontre extraconjugale et un propriétaire confronté à des rats particulièrement gourmands... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
 
 Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns3:description>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Dans cet extrait, un automobiliste au volant de sa Ferrari se retrouve confronté à un poulet à trois pattes qui roule plus vite que lui
+      <ns3:description>Un homme qui porte très bien son nom, une femme qui raconte une drôle de rencontre extraconjugale et un propriétaire confronté à des rats particulièrement gourmands... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
 
 Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
       <itunes:author>Laurent Ruquier</itunes:author>
       <author>Laurent Ruquier</author>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Dans cet extrait, un automobiliste au volant de sa Ferrari se retrouve confronté à un poulet à trois pattes qui roule plus vite que lui
+      <itunes:subtitle>Un homme qui porte très bien son nom, une femme qui raconte une drôle de rencontre extraconjugale et un propriétaire confronté à des rats particulièrement gourmands... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ru...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>01:48</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/3b061fa5-f4e6-4a94-9f00-35b1a2f8ca1a.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/3b061fa5-f4e6-4a94-9f00-35b1a2f8ca1a.jpg" />
+      <ns4:person role="host">Laurent Ruquier</ns4:person>
+      <ns4:txt purpose="smartlink">https://audmns.com/AQOdRqg</ns4:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
+    <item>
+      <title>LE MEILLEUR DE BOUVARD - Le poulet qui sème les Ferrari ! La blague de Philippe Chevallier</title>
+      <guid isPermaLink="false">0dbe9cef-f118-476e-ba64-1b4e1b9bf418</guid>
+      <description>&lt;p&gt;Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Dans cet extrait, un automobiliste au volant de sa Ferrari se retrouve confronté à un poulet à trois pattes qui courre à une vitesse folle. &lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns5:encoded>&lt;p&gt;Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Dans cet extrait, un automobiliste au volant de sa Ferrari se retrouve confronté à un poulet à trois pattes qui courre à une vitesse folle. &lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
+      <pubDate>Fri, 13 Nov 2026 01:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/0dbe9cef-f118-476e-ba64-1b4e1b9bf418.mp3?_=1794500793" length="961737" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Dans cet extrait, un automobiliste au volant de sa Ferrari se retrouve confronté à un poulet à trois pattes qui courre à une vitesse folle.
 
-Hébergé par...</itunes:subtitle>
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
+      <ns3:description>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Dans cet extrait, un automobiliste au volant de sa Ferrari se retrouve confronté à un poulet à trois pattes qui courre à une vitesse folle.
+
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Dans cet extrait, un automobiliste au volant de sa Ferrari se retrouve confronté à un poulet à trois pattes qui courre à une vitesse folle.
+
+Héberg...</itunes:subtitle>
       <itunes:block>no</itunes:block>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>01:00</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/d8c3626d-1414-47da-9f70-37c77c4067e2.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/d8c3626d-1414-47da-9f70-37c77c4067e2.jpg" />
+      <itunes:image href="https://static.audiomeans.fr/img/episode/59845455-a305-4f2d-8ec7-bc677a3284ff.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/59845455-a305-4f2d-8ec7-bc677a3284ff.jpg" />
       <ns4:person role="host">Laurent Ruquier</ns4:person>
       <ns4:txt purpose="smartlink">https://audmns.com/PPXGIkJ</ns4:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
@@ -277,7 +306,7 @@ Retrouvez tous les jours le meilleur...</itunes:subtitle>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
-      <title>LE MEILLEUR DE RUQUIER - L'histoire drôle de Chirstophe Barbier</title>
+      <title>LE MEILLEUR DE RUQUIER - L'histoire drôle de Christophe Barbier</title>
       <guid isPermaLink="false">0d40243b-5f41-404a-8381-594b413ca688</guid>
       <description>&lt;p&gt;Une chanteuse qui prouve son identité par son ignorance, un père qui vante les qualités très particulières de sa fille et un octogénaire qui a perdu le sens de l'orientation malgré une vie conjugale particulièrement stimulante... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&amp;nbsp;&lt;/em&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
       <ns5:encoded>&lt;p&gt;Une chanteuse qui prouve son identité par son ignorance, un père qui vante les qualités très particulières de sa fille et un octogénaire qui a perdu le sens de l'orientation malgré une vie conjugale particulièrement stimulante... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&amp;nbsp;&lt;/em&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
@@ -299,8 +328,8 @@ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pou
       <itunes:block>no</itunes:block>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>02:05</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/0f309bd8-12ba-41ce-8f5e-698440d321f4.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/0f309bd8-12ba-41ce-8f5e-698440d321f4.jpg" />
+      <itunes:image href="https://static.audiomeans.fr/img/episode/7c115b86-c622-48b6-b708-7e2e303b6698.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/7c115b86-c622-48b6-b708-7e2e303b6698.jpg" />
       <ns4:person role="host">Laurent Ruquier</ns4:person>
       <ns4:txt purpose="smartlink">https://audmns.com/nGuUDSt</ns4:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
@@ -371,28 +400,26 @@ Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et
     <item>
       <title>LE MEILLEUR DE BOUVARD - "Sarkozy, moi j'en ai plein les burnes" : La blague d'Éric Laugérias</title>
       <guid isPermaLink="false">74f03d83-7c70-4efe-b3d5-b62a0497f5ef</guid>
-      <description>&lt;p&gt;Dans cet extrait, une jeune maman bouleversée par la ressemblance troublante entre son bébé et Nicolas Sarkozy... une blague signée Éric Laugérias !&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns5:encoded>&lt;p&gt;Dans cet extrait, une jeune maman bouleversée par la ressemblance troublante entre son bébé et Nicolas Sarkozy... une blague signée Éric Laugérias !&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
+      <description>&lt;p&gt;Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Dans cet extrait, une jeune maman bouleversée par la ressemblance troublante entre son bébé et Nicolas Sarkozy... une blague signée Éric Laugérias !&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns5:encoded>&lt;p&gt;Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Dans cet extrait, une jeune maman bouleversée par la ressemblance troublante entre son bébé et Nicolas Sarkozy... une blague signée Éric Laugérias !&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
       <pubDate>Wed, 11 Nov 2026 10:00:00 GMT</pubDate>
       <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/74f03d83-7c70-4efe-b3d5-b62a0497f5ef.mp3?_=1794321545" length="985804" type="audio/mpeg" />
       <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Dans cet extrait, une jeune maman bouleversée par la ressemblance troublante entre son bébé et Nicolas Sarkozy... une blague signée Éric Laugérias !
+      <itunes:summary>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Dans cet extrait, une jeune maman bouleversée par la ressemblance troublante entre son bébé et Nicolas Sarkozy... une blague signée Éric Laugérias !
 
 Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns3:description>Dans cet extrait, une jeune maman bouleversée par la ressemblance troublante entre son bébé et Nicolas Sarkozy... une blague signée Éric Laugérias !
+      <ns3:description>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Dans cet extrait, une jeune maman bouleversée par la ressemblance troublante entre son bébé et Nicolas Sarkozy... une blague signée Éric Laugérias !
 
 Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
       <itunes:author>Laurent Ruquier</itunes:author>
       <author>Laurent Ruquier</author>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Dans cet extrait, une jeune maman bouleversée par la ressemblance troublante entre son bébé et Nicolas Sarkozy... une blague signée Éric Laugérias !
-
-Hébergé par Audiomeans. Visitez aud...</itunes:subtitle>
+      <itunes:subtitle>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Dans cet extrait, une jeune maman bouleversée par la ressemblance troublante entre son bébé et Nicolas Sarkozy... une blague signée Éric Laugérias !</itunes:subtitle>
       <itunes:block>no</itunes:block>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>01:01</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/2662fec5-b4d1-40e3-995d-18ac789541d0.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/2662fec5-b4d1-40e3-995d-18ac789541d0.jpg" />
+      <itunes:image href="https://static.audiomeans.fr/img/episode/b3b315dd-615a-4873-bc1d-e7dfd413c111.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/b3b315dd-615a-4873-bc1d-e7dfd413c111.jpg" />
       <ns4:person role="host">Laurent Ruquier</ns4:person>
       <ns4:txt purpose="smartlink">https://audmns.com/vdpBjyh</ns4:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
@@ -420,8 +447,8 @@ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pou
       <itunes:block>no</itunes:block>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>02:11</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/79c7e1c0-1ea3-4d59-80cb-a1124db5e6c2.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/79c7e1c0-1ea3-4d59-80cb-a1124db5e6c2.jpg" />
+      <itunes:image href="https://static.audiomeans.fr/img/episode/72a6d3da-b7ac-4526-99bb-0fcc41176bcd.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/72a6d3da-b7ac-4526-99bb-0fcc41176bcd.jpg" />
       <ns4:person role="host">Laurent Ruquier</ns4:person>
       <ns4:txt purpose="smartlink">https://audmns.com/wxSiTKr</ns4:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
@@ -2467,38 +2494,6 @@ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pou
       <ns3:image href="https://static.audiomeans.fr/img/episode/fadd467b-2ac6-42b5-a40d-0fe00acda348.jpg" />
       <ns4:person role="host">Laurent Ruquier</ns4:person>
       <ns4:txt purpose="smartlink">https://audmns.com/xQvjAnv</ns4:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>PÉPITE - Le robinet : un sujet d'État pour les Grosses Têtes</title>
-      <guid isPermaLink="false">4839c268-37a6-44a5-a7e6-e32492f94080</guid>
-      <description>&lt;p&gt;Plutôt mitigeur, mélangeur, col de cygne ou douchette extractive ? C'est le débat - peu commun - des Grosses Têtes du jour ! &lt;/p&gt;&lt;p&gt;&lt;em&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns5:encoded>&lt;p&gt;Plutôt mitigeur, mélangeur, col de cygne ou douchette extractive ? C'est le débat - peu commun - des Grosses Têtes du jour ! &lt;/p&gt;&lt;p&gt;&lt;em&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
-      <pubDate>Fri, 30 Oct 2026 16:58:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/4839c268-37a6-44a5-a7e6-e32492f94080.mp3?_=1793374085" length="4503017" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Plutôt mitigeur, mélangeur, col de cygne ou douchette extractive ? C'est le débat - peu commun - des Grosses Têtes du jour !
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-
-
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns3:description>Plutôt mitigeur, mélangeur, col de cygne ou douchette extractive ? C'est le débat - peu commun - des Grosses Têtes du jour !
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-
-
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Plutôt mitigeur, mélangeur, col de cygne ou douchette extractive ? C'est le débat - peu commun - des Grosses Têtes du jour !
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>04:41</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/5e74f02c-7144-494b-8564-9ed026245680.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/5e74f02c-7144-494b-8564-9ed026245680.jpg" />
-      <ns4:person role="host">Laurent Ruquier</ns4:person>
-      <ns4:txt purpose="smartlink">https://audmns.com/XVgapsn</ns4:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
