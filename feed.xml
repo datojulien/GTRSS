@@ -14,7 +14,7 @@
       <link>https://datojulien.github.io/GTRSS/feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Sat, 14 Nov 2026 21:28:36 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 01:54:11 +0000</lastBuildDate>
     <itunes:author>France Culture</itunes:author>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -3303,6 +3303,26 @@
       <itunes:duration>51:45</itunes:duration>
       <itunes:subtitle>AUDIO Histoire de la Hongrie, au cœur de l’Europe centrale, épisode : Budapest 1956, briser le bloc. Une série inédite proposée par France Culture. Écoutez Budapest 1956, briser le bloc, et découvrez nos podcasts en ligne.</itunes:subtitle>
       <itunes:summary>AUDIO Histoire de la Hongrie, au cœur de l’Europe centrale, épisode : Budapest 1956, briser le bloc. Une série inédite proposée par France Culture. Écoutez Budapest 1956, briser le bloc, et découvrez nos podcasts en ligne.</itunes:summary>
+    </item>
+    <item>
+      <title>La forêt contre l’usine, les premiers combats environnementaux : épisode du podcast Histoire de l'écologie politique | France Culture</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/la-foret-contre-l-usine-les-premiers-combats-environnementaux-2210119</link>
+      <description>AUDIO Histoire de l'écologie politique, épisode : La forêt contre l’usine, les premiers combats environnementaux. Une série inédite proposée par France Culture. Écoutez La forêt contre l’usine, les premiers combats environnementaux, et découvrez nos podcasts en ligne.</description>
+      <content:encoded><![CDATA[
+        <p>AUDIO Histoire de l&#x27;écologie politique, épisode : La forêt contre l’usine, les premiers combats environnementaux. Une série inédite proposée par France Culture. Écoutez La forêt contre l’usine, les premiers combats environnementaux, et découvrez nos podcasts en ligne.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/la-foret-contre-l-usine-les-premiers-combats-environnementaux-2210119">France Culture</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/d8a5e207-6589-4b97-bb04-cd8fe2a32f36/300x300" alt="La forêt contre l’usine, les premiers combats environnementaux : épisode du podcast Histoire de l&#x27;écologie politique | France Culture" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/la-foret-contre-l-usine-les-premiers-combats-environnementaux-2210119</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26625-15.11.2026-ITEMA_24753111-2021C36128S0265-NET_MFC_60E9F78C-80D4-4F82-ACC1-B9430E31E0B4-25-b276e2efd3b4df9841c48b609a359691.m4a" length="74907621" type="audio/mp4"/>
+      <pubDate>Wed, 22 Sep 2021 07:06:25 +0000</pubDate>
+      <itunes:author>France Culture</itunes:author>
+      <itunes:duration>51:36</itunes:duration>
+      <itunes:subtitle>AUDIO Histoire de l'écologie politique, épisode : La forêt contre l’usine, les premiers combats environnementaux. Une série inédite proposée par France Culture. Écoutez La forêt contre l’usine, les premiers combats environnementaux, et découvrez nos podca</itunes:subtitle>
+      <itunes:summary>AUDIO Histoire de l'écologie politique, épisode : La forêt contre l’usine, les premiers combats environnementaux. Une série inédite proposée par France Culture. Écoutez La forêt contre l’usine, les premiers combats environnementaux, et découvrez nos podcasts en ligne.</itunes:summary>
     </item>
     <item>
       <title>Quand le rire s’empare de la radio, les ondes se gondolent : épisode du podcast Histoire du rire | France Culture</title>
