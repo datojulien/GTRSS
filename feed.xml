@@ -14,7 +14,7 @@
       <link>https://datojulien.github.io/GTRSS/feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Mon, 16 Nov 2026 02:04:59 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 09:40:22 +0000</lastBuildDate>
     <itunes:author>France Culture</itunes:author>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -24,6 +24,26 @@
     </itunes:owner>
     <itunes:subtitle>Flux personnel généré depuis le site Radio France</itunes:subtitle>
     <itunes:summary>Un flux RSS personnel qui récupère les épisodes depuis le site web de France Culture lorsque le flux officiel n’est pas encore à jour.</itunes:summary>
+    <item>
+      <title>Locataires juifs, histoire de spoliations : épisode du podcast Se loger, entre rêve et entraves | France Culture</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/locataires-juifs-histoire-de-spoliations-8134230</link>
+      <description>AUDIO Se loger, entre rêve et entraves, épisode : Locataires juifs, histoire de spoliations. Une série inédite proposée par France Culture. Écoutez Locataires juifs, histoire de spoliations, et découvrez nos podcasts en ligne.</description>
+      <content:encoded><![CDATA[
+        <p>AUDIO Se loger, entre rêve et entraves, épisode : Locataires juifs, histoire de spoliations. Une série inédite proposée par France Culture. Écoutez Locataires juifs, histoire de spoliations, et découvrez nos podcasts en ligne.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/locataires-juifs-histoire-de-spoliations-8134230">France Culture</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/3b3470db-e2b0-4e76-bf7d-492bfa640075/300x300" alt="Locataires juifs, histoire de spoliations : épisode du podcast Se loger, entre rêve et entraves | France Culture" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/locataires-juifs-histoire-de-spoliations-8134230</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26625-16.11.2026-ITEMA_24754232-2026C36128S0320-NET_MFC_0D7DF8D2-323E-4F86-82C5-B2DC2DAB9FCA-25-5bd8390b8f3f7475a404812d35eae7a7.m4a" length="85216065" type="audio/mp4"/>
+      <pubDate>Mon, 16 Nov 2026 08:00:00 +0000</pubDate>
+      <itunes:author>France Culture</itunes:author>
+      <itunes:duration>58:42</itunes:duration>
+      <itunes:subtitle>AUDIO Se loger, entre rêve et entraves, épisode : Locataires juifs, histoire de spoliations. Une série inédite proposée par France Culture. Écoutez Locataires juifs, histoire de spoliations, et découvrez nos podcasts en ligne.</itunes:subtitle>
+      <itunes:summary>AUDIO Se loger, entre rêve et entraves, épisode : Locataires juifs, histoire de spoliations. Une série inédite proposée par France Culture. Écoutez Locataires juifs, histoire de spoliations, et découvrez nos podcasts en ligne.</itunes:summary>
+    </item>
     <item>
       <title>Manuscrits de Dunhuang, la bibliothèque retrouvée : épisode du podcast Histoire de la Chine ancienne | France Culture</title>
       <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/manuscrits-de-dunhuang-la-bibliotheque-retrouvee-8520739</link>
