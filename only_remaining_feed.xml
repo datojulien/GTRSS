@@ -14,8 +14,8 @@
     <atom:link href="https://datojulien.github.io/GTRSS/only_remaining_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Tue, 17 Nov 2026 03:53:07 GMT</lastBuildDate>
-    <pubDate>Tue, 17 Nov 2026 03:53:07 GMT</pubDate>
+    <lastBuildDate>Tue, 17 Nov 2026 13:24:30 GMT</lastBuildDate>
+    <pubDate>Tue, 17 Nov 2026 13:24:30 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -45,6 +45,35 @@
     <ns3:category text="Comedy" />
     <ns4:person role="host">RTL</ns4:person>
     <ns4:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns4:txt>
+    <item>
+      <title>LE MEILLEUR DE RUQUIER - Quand un compositeur se retrouve sur un projet sordide... L'histoire drôle de Stomy Bugsy</title>
+      <guid isPermaLink="false">b6ed43b5-1653-4d9f-ac36-ed7eaf09c689</guid>
+      <description>&lt;p&gt;Un compositeur qui arrive enfin à vendre sa musique, un homme qui demande à son épouse d'épicer leur rapports intimes et un corse particulièrement susceptible... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&amp;nbsp;&lt;/em&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns5:encoded>&lt;p&gt;Un compositeur qui arrive enfin à vendre sa musique, un homme qui demande à son épouse d'épicer leur rapports intimes et un corse particulièrement susceptible... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&amp;nbsp;&lt;/em&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
+      <pubDate>Tue, 17 Nov 2026 10:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/b6ed43b5-1653-4d9f-ac36-ed7eaf09c689.mp3?_=1794830134" length="3794584" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Un compositeur qui arrive enfin à vendre sa musique, un homme qui demande à son épouse d'épicer leur rapports intimes et un corse particulièrement susceptible... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
+      <ns3:description>Un compositeur qui arrive enfin à vendre sa musique, un homme qui demande à son épouse d'épicer leur rapports intimes et un corse particulièrement susceptible... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Un compositeur qui arrive enfin à vendre sa musique, un homme qui demande à son épouse d'épicer leur rapports intimes et un corse particulièrement susceptible... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier....</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>03:57</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/c7856ece-3eee-4ef1-9cc9-e95aceaf2cee.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/c7856ece-3eee-4ef1-9cc9-e95aceaf2cee.jpg" />
+      <ns4:person role="host">Laurent Ruquier</ns4:person>
+      <ns4:txt purpose="smartlink">https://audmns.com/wBcagxx</ns4:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>LE MEILLEUR DE BOUVARD - Les blagues de Jean Dutourd</title>
       <guid isPermaLink="false">79534765-d5a4-4984-8a47-c82314e2724c</guid>
@@ -2435,33 +2464,6 @@ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pou
       <ns3:image href="https://static.audiomeans.fr/img/episode/0b649985-7a11-4b2e-b7c6-0f16861c84af.jpg" />
       <ns4:person role="host">Laurent Ruquier</ns4:person>
       <ns4:txt purpose="smartlink">https://audmns.com/rvXhbiM</ns4:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>PÉPITE - Quand Philippe Katerine reprend son tube "Louxor j'adore" avec les Grosses Têtes</title>
-      <guid isPermaLink="false">f72fc5df-608e-47f5-89e8-084507386c71</guid>
-      <description>&lt;p&gt;Invité exceptionnel de l'émission ce 3 novembre 2026, Philippe Katerine a repris avec les Grosses Têtes son célèbre tube sorti en 2005...&lt;br&gt;&lt;br&gt;&lt;em&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns5:encoded>&lt;p&gt;Invité exceptionnel de l'émission ce 3 novembre 2026, Philippe Katerine a repris avec les Grosses Têtes son célèbre tube sorti en 2005...&lt;br&gt;&lt;br&gt;&lt;em&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
-      <pubDate>Tue, 03 Nov 2026 16:59:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/f72fc5df-608e-47f5-89e8-084507386c71.mp3?_=1793723281" length="5899085" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Invité exceptionnel de l'émission ce 3 novembre 2026, Philippe Katerine a repris avec les Grosses Têtes son célèbre tube sorti en 2005...Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns3:description>Invité exceptionnel de l'émission ce 3 novembre 2026, Philippe Katerine a repris avec les Grosses Têtes son célèbre tube sorti en 2005...Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Invité exceptionnel de l'émission ce 3 novembre 2026, Philippe Katerine a repris avec les Grosses Têtes son célèbre tube sorti en 2005...Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>06:08</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/2cf405e3-4aaa-42de-b697-f7b4d523595a.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/2cf405e3-4aaa-42de-b697-f7b4d523595a.jpg" />
-      <ns4:person role="host">Laurent Ruquier</ns4:person>
-      <ns4:txt purpose="smartlink">https://audmns.com/lxuDEwb</ns4:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
