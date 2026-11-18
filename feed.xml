@@ -14,7 +14,7 @@
       <link>https://datojulien.github.io/GTRSS/feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Wed, 18 Nov 2026 04:18:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 13:57:05 +0000</lastBuildDate>
     <itunes:author>France Culture</itunes:author>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -24,6 +24,26 @@
     </itunes:owner>
     <itunes:subtitle>Flux personnel généré depuis le site Radio France</itunes:subtitle>
     <itunes:summary>Un flux RSS personnel qui récupère les épisodes depuis le site web de France Culture lorsque le flux officiel n’est pas encore à jour.</itunes:summary>
+    <item>
+      <title>Une maison à soi, histoire du rêve pavillonnaire : épisode du podcast Se loger, entre rêve et entraves | France Culture</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/une-maison-a-soi-histoire-du-reve-pavillonnaire-9463909</link>
+      <description>AUDIO Se loger, entre rêve et entraves, épisode : Une maison à soi, histoire du rêve pavillonnaire. Une série inédite proposée par France Culture. Écoutez Une maison à soi, histoire du rêve pavillonnaire, et découvrez nos podcasts en ligne.</description>
+      <content:encoded><![CDATA[
+        <p>AUDIO Se loger, entre rêve et entraves, épisode : Une maison à soi, histoire du rêve pavillonnaire. Une série inédite proposée par France Culture. Écoutez Une maison à soi, histoire du rêve pavillonnaire, et découvrez nos podcasts en ligne.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/une-maison-a-soi-histoire-du-reve-pavillonnaire-9463909">France Culture</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/fd078876-53a4-48a9-b778-08ada62aaa96/300x300" alt="Une maison à soi, histoire du rêve pavillonnaire : épisode du podcast Se loger, entre rêve et entraves | France Culture" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/une-maison-a-soi-histoire-du-reve-pavillonnaire-9463909</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26625-18.11.2026-ITEMA_24757621-2026C36128S0322-NET_MFC_425CB5D1-9839-444F-9F8F-234C4C563BC1-25-7ed82ca06734fcfc470708bbe3ee6255.m4a" length="84536607" type="audio/mp4"/>
+      <pubDate>Wed, 18 Nov 2026 08:00:00 +0000</pubDate>
+      <itunes:author>France Culture</itunes:author>
+      <itunes:duration>58:14</itunes:duration>
+      <itunes:subtitle>AUDIO Se loger, entre rêve et entraves, épisode : Une maison à soi, histoire du rêve pavillonnaire. Une série inédite proposée par France Culture. Écoutez Une maison à soi, histoire du rêve pavillonnaire, et découvrez nos podcasts en ligne.</itunes:subtitle>
+      <itunes:summary>AUDIO Se loger, entre rêve et entraves, épisode : Une maison à soi, histoire du rêve pavillonnaire. Une série inédite proposée par France Culture. Écoutez Une maison à soi, histoire du rêve pavillonnaire, et découvrez nos podcasts en ligne.</itunes:summary>
+    </item>
     <item>
       <title>Locataires juifs, histoire de spoliations : épisode du podcast Se loger, entre rêve et entraves | France Culture</title>
       <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/locataires-juifs-histoire-de-spoliations-8134230</link>
