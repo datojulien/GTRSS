@@ -14,7 +14,7 @@
       <link>https://datojulien.github.io/GTRSS/roselyne-bachelot-feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Thu, 19 Nov 2026 03:25:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 13:03:47 +0000</lastBuildDate>
     <itunes:author>France Musique</itunes:author>
     <itunes:category text="Music"/>
     <itunes:explicit>no</itunes:explicit>
@@ -24,6 +24,26 @@
     </itunes:owner>
     <itunes:subtitle>Flux personnel généré depuis le site Radio France</itunes:subtitle>
     <itunes:summary>Un flux RSS personnel qui récupère les épisodes depuis le site web de France Musique lorsque le flux officiel n’est pas encore à jour.</itunes:summary>
+    <item>
+      <title>Une mise en scène peut-elle desservir un opéra ?</title>
+      <link>https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/-une-mise-en-scene-peut-elle-desservir-un-opera-7853831</link>
+      <description>Les mises en scène contemporaines renouvellent le regard porté sur des œuvres centenaires, prouvant, dans le cas de l'opéra, qu'il s'agit d'un art en prise avec son temps. Mais certains partis pris nuisent parfois à la lisibilité des œuvres et renforcent l'image élitiste du monde de l'opéra.</description>
+      <content:encoded><![CDATA[
+        <p>Les mises en scène contemporaines renouvellent le regard porté sur des œuvres centenaires, prouvant, dans le cas de l&#x27;opéra, qu&#x27;il s&#x27;agit d&#x27;un art en prise avec son temps. Mais certains partis pris nuisent parfois à la lisibilité des œuvres et renforcent l&#x27;image élitiste du monde de l&#x27;opéra.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/-une-mise-en-scene-peut-elle-desservir-un-opera-7853831">France Musique</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/b1233fb0-4cc0-452d-b744-6f8200d72da6/300x300" alt="Une mise en scène peut-elle desservir un opéra ?" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/-une-mise-en-scene-peut-elle-desservir-un-opera-7853831</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26865-19.11.2026-ITEMA_24758501-2026M26307S0323-NET_MFM_A51E6FF1-662C-439B-BE00-7F1116D83893-25-00bccc9772034be149ecc6e3fb779f1f.m4a" length="11888990" type="audio/mp4"/>
+      <pubDate>Thu, 19 Nov 2026 07:45:00 +0000</pubDate>
+      <itunes:author>France Musique</itunes:author>
+      <itunes:duration>8:10</itunes:duration>
+      <itunes:subtitle>Les mises en scène contemporaines renouvellent le regard porté sur des œuvres centenaires, prouvant, dans le cas de l'opéra, qu'il s'agit d'un art en prise avec son temps. Mais certains partis pris nuisent parfois à la lisibilité des œuvres et renforcent </itunes:subtitle>
+      <itunes:summary>Les mises en scène contemporaines renouvellent le regard porté sur des œuvres centenaires, prouvant, dans le cas de l'opéra, qu'il s'agit d'un art en prise avec son temps. Mais certains partis pris nuisent parfois à la lisibilité des œuvres et renforcent l'image élitiste du monde de l'opéra.</itunes:summary>
+    </item>
     <item>
       <title>Le triomphe de Roberto Alagna au Théâtre des Champs-Élysées</title>
       <link>https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/le-triomphe-de-roberto-alagna-au-theatre-des-champs-elysees-1121129</link>

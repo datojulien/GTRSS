@@ -14,7 +14,7 @@
       <link>https://datojulien.github.io/GTRSS/feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Thu, 19 Nov 2026 03:24:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 13:03:04 +0000</lastBuildDate>
     <itunes:author>France Culture</itunes:author>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -24,6 +24,26 @@
     </itunes:owner>
     <itunes:subtitle>Flux personnel généré depuis le site Radio France</itunes:subtitle>
     <itunes:summary>Un flux RSS personnel qui récupère les épisodes depuis le site web de France Culture lorsque le flux officiel n’est pas encore à jour.</itunes:summary>
+    <item>
+      <title>Besoin de toit, se mobiliser pour le logement : épisode du podcast Se loger, entre rêve et entraves | France Culture</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/besoin-de-toit-se-mobiliser-pour-le-logement-3193856</link>
+      <description>AUDIO Se loger, entre rêve et entraves, épisode : Besoin de toit, se mobiliser pour le logement. Une série inédite proposée par France Culture. Écoutez Besoin de toit, se mobiliser pour le logement, et découvrez nos podcasts en ligne.</description>
+      <content:encoded><![CDATA[
+        <p>AUDIO Se loger, entre rêve et entraves, épisode : Besoin de toit, se mobiliser pour le logement. Une série inédite proposée par France Culture. Écoutez Besoin de toit, se mobiliser pour le logement, et découvrez nos podcasts en ligne.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/besoin-de-toit-se-mobiliser-pour-le-logement-3193856">France Culture</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/db72371e-889a-4c30-8d87-791a9490f3d0/300x300" alt="Besoin de toit, se mobiliser pour le logement : épisode du podcast Se loger, entre rêve et entraves | France Culture" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/besoin-de-toit-se-mobiliser-pour-le-logement-3193856</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26625-19.11.2026-ITEMA_24759103-2026C36128S0323-NET_MFC_4CFB4673-1C5E-4FEB-868A-A8FFCA1DFBF2-25-ec4289552b2099979de540dadcaf5f29.m4a" length="84962948" type="audio/mp4"/>
+      <pubDate>Thu, 19 Nov 2026 08:00:00 +0000</pubDate>
+      <itunes:author>France Culture</itunes:author>
+      <itunes:duration>58:32</itunes:duration>
+      <itunes:subtitle>AUDIO Se loger, entre rêve et entraves, épisode : Besoin de toit, se mobiliser pour le logement. Une série inédite proposée par France Culture. Écoutez Besoin de toit, se mobiliser pour le logement, et découvrez nos podcasts en ligne.</itunes:subtitle>
+      <itunes:summary>AUDIO Se loger, entre rêve et entraves, épisode : Besoin de toit, se mobiliser pour le logement. Une série inédite proposée par France Culture. Écoutez Besoin de toit, se mobiliser pour le logement, et découvrez nos podcasts en ligne.</itunes:summary>
+    </item>
     <item>
       <title>Une maison à soi, histoire du rêve pavillonnaire : épisode du podcast Se loger, entre rêve et entraves | France Culture</title>
       <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/une-maison-a-soi-histoire-du-reve-pavillonnaire-9463909</link>
