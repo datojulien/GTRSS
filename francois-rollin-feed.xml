@@ -14,7 +14,7 @@
       <link>https://datojulien.github.io/GTRSS/francois-rollin-feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Fri, 20 Nov 2026 11:44:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 20:16:08 +0000</lastBuildDate>
     <itunes:author>France Inter</itunes:author>
     <itunes:category text="Comedy"/>
     <itunes:explicit>no</itunes:explicit>
@@ -24,6 +24,26 @@
     </itunes:owner>
     <itunes:subtitle>Flux personnel généré depuis le site Radio France</itunes:subtitle>
     <itunes:summary>Un flux RSS personnel qui récupère les épisodes depuis le site web de France Inter lorsque le flux officiel n’est pas encore à jour.</itunes:summary>
+    <item>
+      <title>La semaine de campagne de François Rollin du vendredi 20 novembre 2026</title>
+      <link>https://www.radiofrance.fr/franceinter/podcasts/la-semaine-de-campagne-de-francois-rollin/la-semaine-de-campagne-de-francois-rollin-du-vendredi-20-novembre-2026-7796994</link>
+      <description>La semaine de campagne de François Rollin du vendredi 20 novembre 2026</description>
+      <content:encoded><![CDATA[
+        <p>La semaine de campagne de François Rollin du vendredi 20 novembre 2026</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceinter/podcasts/la-semaine-de-campagne-de-francois-rollin/la-semaine-de-campagne-de-francois-rollin-du-vendredi-20-novembre-2026-7796994">France Inter</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/b66e4080-2221-4df9-9205-35e13f450bdd/300x300" alt="La semaine de campagne de François Rollin du vendredi 20 novembre 2026" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceinter/podcasts/la-semaine-de-campagne-de-francois-rollin/la-semaine-de-campagne-de-francois-rollin-du-vendredi-20-novembre-2026-7796994</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26803-20.11.2026-ITEMA_24760522-2026F22864S0324-NET_MFI_16930B44-558F-4316-91A3-7C4D773410D5-27-0e4f4082cbd8d858dda3ab8411c12651.m4a" length="4738296" type="audio/mp4"/>
+      <pubDate>Fri, 20 Nov 2026 15:49:00 +0000</pubDate>
+      <itunes:author>France Inter</itunes:author>
+      <itunes:duration>3:15</itunes:duration>
+      <itunes:subtitle>La semaine de campagne de François Rollin du vendredi 20 novembre 2026</itunes:subtitle>
+      <itunes:summary>La semaine de campagne de François Rollin du vendredi 20 novembre 2026</itunes:summary>
+    </item>
     <item>
       <title>Vérité en deçà</title>
       <link>https://www.radiofrance.fr/franceinter/podcasts/la-semaine-de-campagne-de-francois-rollin/la-semaine-de-campagne-de-francois-rollin-du-vendredi-13-novembre-2026-3777176</link>
