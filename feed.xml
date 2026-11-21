@@ -14,7 +14,7 @@
       <link>https://datojulien.github.io/GTRSS/feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Fri, 20 Nov 2026 20:15:26 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 02:12:04 +0000</lastBuildDate>
     <itunes:author>France Culture</itunes:author>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -3423,6 +3423,26 @@
       <itunes:duration>52:05</itunes:duration>
       <itunes:subtitle>AUDIO Prendre l’air, une histoire de la montagne, épisode : Tutoyer les sommets, "histoires verticales" de la montagne. Une série inédite proposée par France Culture. Écoutez Tutoyer les sommets, "histoires verticales" de la montagne, et découvrez nos pod</itunes:subtitle>
       <itunes:summary>AUDIO Prendre l’air, une histoire de la montagne, épisode : Tutoyer les sommets, "histoires verticales" de la montagne. Une série inédite proposée par France Culture. Écoutez Tutoyer les sommets, "histoires verticales" de la montagne, et découvrez nos podcasts en ligne.</itunes:summary>
+    </item>
+    <item>
+      <title>L'impôt peut-il nous sauver des inégalités ? : épisode du podcast Tant qu’il y aura des riches, une histoire des inégalités | France Culture</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/l-impot-peut-il-nous-sauver-des-inegalites-1610561</link>
+      <description>AUDIO Tant qu’il y aura des riches, une histoire des inégalités, épisode : L'impôt peut-il nous sauver des inégalités ?. Une série inédite proposée par France Culture. Écoutez L'impôt peut-il nous sauver des inégalités ?, et découvrez nos podcasts en ligne.</description>
+      <content:encoded><![CDATA[
+        <p>AUDIO Tant qu’il y aura des riches, une histoire des inégalités, épisode : L&#x27;impôt peut-il nous sauver des inégalités ?. Une série inédite proposée par France Culture. Écoutez L&#x27;impôt peut-il nous sauver des inégalités ?, et découvrez nos podcasts en ligne.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/l-impot-peut-il-nous-sauver-des-inegalites-1610561">France Culture</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/ecfbf419-1ec1-4eeb-b02d-92ca41860bf5/300x300" alt="L&#x27;impôt peut-il nous sauver des inégalités ? : épisode du podcast Tant qu’il y aura des riches, une histoire des inégalités | France Culture" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/l-impot-peut-il-nous-sauver-des-inegalites-1610561</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26625-21.11.2026-ITEMA_24761287-2021C36128S0034-NET_MFC_B24FF98B-1306-4645-A1DE-72D4F11472F4-25-6625fd5926f312c61a9182ae3e608e93.m4a" length="74344604" type="audio/mp4"/>
+      <pubDate>Wed, 03 Feb 2021 08:06:25 +0000</pubDate>
+      <itunes:author>France Culture</itunes:author>
+      <itunes:duration>51:13</itunes:duration>
+      <itunes:subtitle>AUDIO Tant qu’il y aura des riches, une histoire des inégalités, épisode : L'impôt peut-il nous sauver des inégalités ?. Une série inédite proposée par France Culture. Écoutez L'impôt peut-il nous sauver des inégalités ?, et découvrez nos podcasts en lign</itunes:subtitle>
+      <itunes:summary>AUDIO Tant qu’il y aura des riches, une histoire des inégalités, épisode : L'impôt peut-il nous sauver des inégalités ?. Une série inédite proposée par France Culture. Écoutez L'impôt peut-il nous sauver des inégalités ?, et découvrez nos podcasts en ligne.</itunes:summary>
     </item>
     <item>
       <title>La République, un jeu d’enfant ? : épisode 4/4 du podcast Histoire des expériences républicaines | France Culture</title>
