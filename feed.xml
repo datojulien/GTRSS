@@ -14,7 +14,7 @@
       <link>https://datojulien.github.io/GTRSS/feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Sat, 21 Nov 2026 17:29:55 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 23:14:20 +0000</lastBuildDate>
     <itunes:author>France Culture</itunes:author>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -3423,6 +3423,26 @@
       <itunes:duration>52:05</itunes:duration>
       <itunes:subtitle>AUDIO Prendre l’air, une histoire de la montagne, épisode : Tutoyer les sommets, "histoires verticales" de la montagne. Une série inédite proposée par France Culture. Écoutez Tutoyer les sommets, "histoires verticales" de la montagne, et découvrez nos pod</itunes:subtitle>
       <itunes:summary>AUDIO Prendre l’air, une histoire de la montagne, épisode : Tutoyer les sommets, "histoires verticales" de la montagne. Une série inédite proposée par France Culture. Écoutez Tutoyer les sommets, "histoires verticales" de la montagne, et découvrez nos podcasts en ligne.</itunes:summary>
+    </item>
+    <item>
+      <title>Handicap et guerres mondiales : de la réparation à “l’extermination douce” ? : épisode 2/4 du podcast Handicap, une histoire | France Culture</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/handicap-et-guerres-mondiales-de-la-reparation-a-l-extermination-douce-4214530</link>
+      <description>AUDIO Handicap, une histoire, épisode 2/4 : Handicap et guerres mondiales : de la réparation à “l’extermination douce” ?. Une série inédite proposée par France Culture. Écoutez Handicap et guerres mondiales : de la réparation à “l’extermination douce” ?, et découvrez nos podcasts en ligne.</description>
+      <content:encoded><![CDATA[
+        <p>AUDIO Handicap, une histoire, épisode 2/4 : Handicap et guerres mondiales : de la réparation à “l’extermination douce” ?. Une série inédite proposée par France Culture. Écoutez Handicap et guerres mondiales : de la réparation à “l’extermination douce” ?, et découvrez nos podcasts en ligne.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/handicap-et-guerres-mondiales-de-la-reparation-a-l-extermination-douce-4214530">France Culture</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/b3b441f2-f024-449f-ac74-ab4167210b7f/300x300" alt="Handicap et guerres mondiales : de la réparation à “l’extermination douce” ? : épisode 2/4 du podcast Handicap, une histoire | France Culture" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/handicap-et-guerres-mondiales-de-la-reparation-a-l-extermination-douce-4214530</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26625-22.11.2026-ITEMA_24762623-2021C36128S0040-NET_MFC_93049D6B-4E4D-45D4-B0AB-DB72FA3BBF76-25-e6c4dbc0ea71e3028b68bfe0971580ae.m4a" length="76068888" type="audio/mp4"/>
+      <pubDate>Tue, 09 Feb 2021 08:06:25 +0000</pubDate>
+      <itunes:author>France Culture</itunes:author>
+      <itunes:duration>52:24</itunes:duration>
+      <itunes:subtitle>AUDIO Handicap, une histoire, épisode 2/4 : Handicap et guerres mondiales : de la réparation à “l’extermination douce” ?. Une série inédite proposée par France Culture. Écoutez Handicap et guerres mondiales : de la réparation à “l’extermination douce” ?, </itunes:subtitle>
+      <itunes:summary>AUDIO Handicap, une histoire, épisode 2/4 : Handicap et guerres mondiales : de la réparation à “l’extermination douce” ?. Une série inédite proposée par France Culture. Écoutez Handicap et guerres mondiales : de la réparation à “l’extermination douce” ?, et découvrez nos podcasts en ligne.</itunes:summary>
     </item>
     <item>
       <title>L'impôt peut-il nous sauver des inégalités ? : épisode du podcast Tant qu’il y aura des riches, une histoire des inégalités | France Culture</title>
