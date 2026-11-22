@@ -14,8 +14,8 @@
     <atom:link href="https://datojulien.github.io/GTRSS/only_integrale_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Sun, 22 Nov 2026 11:35:26 GMT</lastBuildDate>
-    <pubDate>Sun, 22 Nov 2026 11:35:26 GMT</pubDate>
+    <lastBuildDate>Sun, 22 Nov 2026 19:38:50 GMT</lastBuildDate>
+    <pubDate>Sun, 22 Nov 2026 19:38:50 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -382,38 +382,6 @@ Hébergé par Audiomeans. Visitez</itunes:subtitle>
       <ns3:image href="https://static.audiomeans.fr/img/episode/b8729e66-dea9-4e28-ba86-c7bacaddc9b8.jpg" />
       <ns4:person role="host">Laurent Ruquier</ns4:person>
       <ns4:txt purpose="smartlink">https://audmns.com/hfgxxwO</ns4:txt>
-      <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>L'INTÉGRALE - Émission du lundi 9 novembre 2026</title>
-      <guid isPermaLink="false">5ee8b15c-1371-494d-8e02-a19981e59313</guid>
-      <description>&lt;p&gt;Avec Michèle Bernier, Titoff, Roselyne Bachelot, Laurent Baffie, Christophe Beaugrand et Roman Doduik.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns5:encoded>&lt;p&gt;Avec Michèle Bernier, Titoff, Roselyne Bachelot, Laurent Baffie, Christophe Beaugrand et Roman Doduik.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
-      <pubDate>Mon, 09 Nov 2026 17:01:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/5ee8b15c-1371-494d-8e02-a19981e59313.mp3?_=1794240786" length="90770974" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Avec Michèle Bernier, Titoff, Roselyne Bachelot, Laurent Baffie, Christophe Beaugrand et Roman Doduik.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns3:description>Avec Michèle Bernier, Titoff, Roselyne Bachelot, Laurent Baffie, Christophe Beaugrand et Roman Doduik.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Avec Michèle Bernier, Titoff, Roselyne Bachelot, Laurent Baffie, Christophe Beaugrand et Roman Doduik.
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-
-Hébergé par Audiomeans. Visitez ...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>01:34:33</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/d2885b32-2721-46d7-bd2e-ada33f7dbfee.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/d2885b32-2721-46d7-bd2e-ada33f7dbfee.jpg" />
-      <ns4:person role="host">Laurent Ruquier</ns4:person>
-      <ns4:txt purpose="smartlink">https://audmns.com/TukFeyJ</ns4:txt>
       <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
   </channel>
