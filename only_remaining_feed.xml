@@ -14,8 +14,8 @@
     <atom:link href="https://datojulien.github.io/GTRSS/only_remaining_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Sun, 22 Nov 2026 03:15:28 GMT</lastBuildDate>
-    <pubDate>Sun, 22 Nov 2026 03:15:28 GMT</pubDate>
+    <lastBuildDate>Sun, 22 Nov 2026 11:35:26 GMT</lastBuildDate>
+    <pubDate>Sun, 22 Nov 2026 11:35:26 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -45,6 +45,66 @@
     <ns3:category text="Comedy" />
     <ns4:person role="host">RTL</ns4:person>
     <ns4:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns4:txt>
+    <item>
+      <title>LIVRE DU JOUR - "Atlas des mondes souterains" d'Eric Gilli : le coup de cœur de Laurent Ruquier</title>
+      <guid isPermaLink="false">021ae061-680b-4eed-ace4-ce8085493336</guid>
+      <description>&lt;p&gt;Le "Livre du jour" ce vendredi 20 novembre 2026, "Atlas des mondes souterains" d'Eric Gilli (Ed.Arthaud) est l'un des coups de cœur de Laurent Ruquier !&lt;/p&gt;&lt;p&gt;&lt;em&gt;Nouveautés podcasts - Retrouvez désormais chaque weekend, les deux "Livre du jour"&lt;/em&gt; &lt;em&gt;qui ont marqué l'animateur des Grosses Têtes !&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns5:encoded>&lt;p&gt;Le "Livre du jour" ce vendredi 20 novembre 2026, "Atlas des mondes souterains" d'Eric Gilli (Ed.Arthaud) est l'un des coups de cœur de Laurent Ruquier !&lt;/p&gt;&lt;p&gt;&lt;em&gt;Nouveautés podcasts - Retrouvez désormais chaque weekend, les deux "Livre du jour"&lt;/em&gt; &lt;em&gt;qui ont marqué l'animateur des Grosses Têtes !&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
+      <pubDate>Sun, 22 Nov 2026 07:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/021ae061-680b-4eed-ace4-ce8085493336.mp3?_=1795184281" length="7724818" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Le "Livre du jour" ce vendredi 20 novembre 2026, "Atlas des mondes souterains" d'Eric Gilli (Ed.Arthaud) est l'un des coups de cœur de Laurent Ruquier !
+Nouveautés podcasts - Retrouvez désormais chaque weekend, les deux "Livre du jour" qui ont marqué l'animateur des Grosses Têtes !
+
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
+      <ns3:description>Le "Livre du jour" ce vendredi 20 novembre 2026, "Atlas des mondes souterains" d'Eric Gilli (Ed.Arthaud) est l'un des coups de cœur de Laurent Ruquier !
+Nouveautés podcasts - Retrouvez désormais chaque weekend, les deux "Livre du jour" qui ont marqué l'animateur des Grosses Têtes !
+
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Le "Livre du jour" ce vendredi 20 novembre 2026, "Atlas des mondes souterains" d'Eric Gilli (Ed.Arthaud) est l'un des coups de cœur de Laurent Ruquier !
+Nouveautés podcasts - Retrouvez désormais chaque weekend, les deux "Livre du jour" qui ont...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>08:02</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/28776f8c-c5be-4a61-b94d-dbb76dcec805.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/28776f8c-c5be-4a61-b94d-dbb76dcec805.jpg" />
+      <ns4:person role="host">Laurent Ruquier</ns4:person>
+      <ns4:txt purpose="smartlink">https://audmns.com/QHCnnPO</ns4:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
+    <item>
+      <title>PÉPITE - Les Grosses Têtes et la sortie de GTA VI</title>
+      <guid isPermaLink="false">ee76d9b7-db13-4485-9d44-8017a72115d7</guid>
+      <description>&lt;p&gt;Même les Grosses Têtes n'ont pu passer à côté de la sortie tant attendue de GTA VI cette semaine. Mais Laurent Ruquier semble ne pas encore avoir compris le principe du jeu... &lt;br&gt;&lt;/p&gt;&lt;p&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns5:encoded>&lt;p&gt;Même les Grosses Têtes n'ont pu passer à côté de la sortie tant attendue de GTA VI cette semaine. Mais Laurent Ruquier semble ne pas encore avoir compris le principe du jeu... &lt;br&gt;&lt;/p&gt;&lt;p&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
+      <pubDate>Sun, 22 Nov 2026 05:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/ee76d9b7-db13-4485-9d44-8017a72115d7.mp3?_=1795183982" length="3550568" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Même les Grosses Têtes n'ont pu passer à côté de la sortie tant attendue de GTA VI cette semaine. Mais Laurent Ruquier semble ne pas encore avoir compris le principe du jeu...
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
+      <ns3:description>Même les Grosses Têtes n'ont pu passer à côté de la sortie tant attendue de GTA VI cette semaine. Mais Laurent Ruquier semble ne pas encore avoir compris le principe du jeu...
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Même les Grosses Têtes n'ont pu passer à côté de la sortie tant attendue de GTA VI cette semaine. Mais Laurent Ruquier semble ne pas encore avoir compris le principe du jeu...
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.f...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>03:41</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/14e09350-6d83-4d9b-b7e3-de771ab8c67e.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/14e09350-6d83-4d9b-b7e3-de771ab8c67e.jpg" />
+      <ns4:person role="host">Laurent Ruquier</ns4:person>
+      <ns4:txt purpose="smartlink">https://audmns.com/VlxAPmR</ns4:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>LE MEILLEUR DE BOUVARD - Les blagues écolières Macha Méril et Jacques Balutin</title>
       <guid isPermaLink="false">bb75b483-f3a0-426b-b59d-2af05c4703b3</guid>
@@ -2399,65 +2459,6 @@ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pou
       <ns3:image href="https://static.audiomeans.fr/img/episode/795d7f3a-cb32-4cc3-8495-2aab7fd144db.jpg" />
       <ns4:person role="host">Laurent Ruquier</ns4:person>
       <ns4:txt purpose="smartlink">https://audmns.com/jEgJSpE</ns4:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>PÉPITE - Quand Roselyne Bachelot parle de préservatifs</title>
-      <guid isPermaLink="false">387fdc60-6a2e-4ca0-b096-0e7c48e003d5</guid>
-      <description>&lt;p&gt;Ministre de la Santé de 2007 à 2010, Roselyne Bachelot revient dans l'émission sur une anecdote, assez incongrue, durant son mandat ! &lt;/p&gt;&lt;p&gt;&lt;em&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns5:encoded>&lt;p&gt;Ministre de la Santé de 2007 à 2010, Roselyne Bachelot revient dans l'émission sur une anecdote, assez incongrue, durant son mandat ! &lt;/p&gt;&lt;p&gt;&lt;em&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
-      <pubDate>Mon, 09 Nov 2026 16:58:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/387fdc60-6a2e-4ca0-b096-0e7c48e003d5.mp3?_=1794241987" length="2898060" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Ministre de la Santé de 2007 à 2010, Roselyne Bachelot revient dans l'émission sur une anecdote, assez incongrue, durant son mandat !
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns3:description>Ministre de la Santé de 2007 à 2010, Roselyne Bachelot revient dans l'émission sur une anecdote, assez incongrue, durant son mandat !
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Ministre de la Santé de 2007 à 2010, Roselyne Bachelot revient dans l'émission sur une anecdote, assez incongrue, durant son mandat !
-Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-
-...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>03:01</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/fbdbaab0-1470-4844-b83e-84a8dd5690ec.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/fbdbaab0-1470-4844-b83e-84a8dd5690ec.jpg" />
-      <ns4:person role="host">Laurent Ruquier</ns4:person>
-      <ns4:txt purpose="smartlink">https://audmns.com/YmZbEMZ</ns4:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>EN RÉSUMÉ - Christophe Beaugrand fait le bilan de l'émission</title>
-      <guid isPermaLink="false">14bbf21b-cf79-4a20-94c4-c7097e499329</guid>
-      <description>&lt;p&gt;Chaque jour en fin d'émission, une Grosse Tête est désignée par Laurent Ruquier pour distribuer les bons et les mauvais points... À la fin de l'émission, Christophe Beaugrand a dressé le bilan des 2h30 d'antenne !&lt;br&gt;&lt;br&gt;&lt;em&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns5:encoded>&lt;p&gt;Chaque jour en fin d'émission, une Grosse Tête est désignée par Laurent Ruquier pour distribuer les bons et les mauvais points... À la fin de l'émission, Christophe Beaugrand a dressé le bilan des 2h30 d'antenne !&lt;br&gt;&lt;br&gt;&lt;em&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
-      <pubDate>Mon, 09 Nov 2026 16:58:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/14bbf21b-cf79-4a20-94c4-c7097e499329.mp3?_=1794240781" length="4402467" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Chaque jour en fin d'émission, une Grosse Tête est désignée par Laurent Ruquier pour distribuer les bons et les mauvais points... À la fin de l'émission, Christophe Beaugrand a dressé le bilan des 2h30 d'antenne !Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns3:description>Chaque jour en fin d'émission, une Grosse Tête est désignée par Laurent Ruquier pour distribuer les bons et les mauvais points... À la fin de l'émission, Christophe Beaugrand a dressé le bilan des 2h30 d'antenne !Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Chaque jour en fin d'émission, une Grosse Tête est désignée par Laurent Ruquier pour distribuer les bons et les mauvais points... À la fin de l'émission, Christophe Beaugrand a dressé le bilan des 2h30 d'antenne !Retrouvez tous les jours le meilleur ...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>04:35</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/e89e74a3-111d-4610-8ebe-807524c80dc2.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/e89e74a3-111d-4610-8ebe-807524c80dc2.jpg" />
-      <ns4:person role="host">Laurent Ruquier</ns4:person>
-      <ns4:txt purpose="smartlink">https://audmns.com/nGWvupY</ns4:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
