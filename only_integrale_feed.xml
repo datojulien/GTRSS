@@ -14,8 +14,8 @@
     <atom:link href="https://datojulien.github.io/GTRSS/only_integrale_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Tue, 24 Nov 2026 06:01:51 GMT</lastBuildDate>
-    <pubDate>Tue, 24 Nov 2026 06:01:51 GMT</pubDate>
+    <lastBuildDate>Tue, 24 Nov 2026 17:43:04 GMT</lastBuildDate>
+    <pubDate>Tue, 24 Nov 2026 17:43:04 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -45,6 +45,35 @@
     <ns3:category text="Comedy" />
     <ns4:person role="host">RTL</ns4:person>
     <ns4:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns4:txt>
+    <item>
+      <title>L'INTÉGRALE - Émission du mardi 24 novembre 2026</title>
+      <guid isPermaLink="false">c6be2920-a6e8-4751-b028-8703b25c2093</guid>
+      <description>&lt;p&gt;Avec Péri Cochin, Titoff, Michèle Bernier, Sébastien Thoen, Karina Marimon, Jeanfi Janssens et Booder.&lt;br&gt;&lt;br&gt;&lt;em&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/em&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns5:encoded>&lt;p&gt;Avec Péri Cochin, Titoff, Michèle Bernier, Sébastien Thoen, Karina Marimon, Jeanfi Janssens et Booder.&lt;br&gt;&lt;br&gt;&lt;em&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/em&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
+      <pubDate>Tue, 24 Nov 2026 17:03:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/c6be2920-a6e8-4751-b028-8703b25c2093.mp3?_=1795533185" length="98471040" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Avec Péri Cochin, Titoff, Michèle Bernier, Sébastien Thoen, Karina Marimon, Jeanfi Janssens et Booder.Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
+      <ns3:description>Avec Péri Cochin, Titoff, Michèle Bernier, Sébastien Thoen, Karina Marimon, Jeanfi Janssens et Booder.Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Avec Péri Cochin, Titoff, Michèle Bernier, Sébastien Thoen, Karina Marimon, Jeanfi Janssens et Booder.Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+
+Hébergé par Audiomeans....</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>01:42:34</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/8fc3c070-78fd-485d-ac75-5a2121942ec7.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/8fc3c070-78fd-485d-ac75-5a2121942ec7.jpg" />
+      <ns4:person role="host">Laurent Ruquier</ns4:person>
+      <ns4:txt purpose="smartlink">https://audmns.com/cXOsFrE</ns4:txt>
+      <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>L'INTÉGRALE - Émission du lundi 23 novembre 2026</title>
       <guid isPermaLink="false">12b299e9-f771-45f9-be64-d749f8e3e99a</guid>
