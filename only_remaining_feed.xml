@@ -14,8 +14,8 @@
     <atom:link href="https://datojulien.github.io/GTRSS/only_remaining_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Tue, 24 Nov 2026 17:43:04 GMT</lastBuildDate>
-    <pubDate>Tue, 24 Nov 2026 17:43:04 GMT</pubDate>
+    <lastBuildDate>Wed, 25 Nov 2026 02:26:39 GMT</lastBuildDate>
+    <pubDate>Wed, 25 Nov 2026 02:26:39 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -45,6 +45,35 @@
     <ns3:category text="Comedy" />
     <ns4:person role="host">RTL</ns4:person>
     <ns4:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns4:txt>
+    <item>
+      <title>LE MEILLEUR DE BOUVARD  - La blague de Carlos</title>
+      <guid isPermaLink="false">ed36d094-c2e8-49e1-9967-613c537e3a76</guid>
+      <description>&lt;p&gt;Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Dans cet extrait, un homme affolé appelle un médecin à en plein milieu de la nuit...  Une blague signée Carlos ! &lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns5:encoded>&lt;p&gt;Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Dans cet extrait, un homme affolé appelle un médecin à en plein milieu de la nuit...  Une blague signée Carlos ! &lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
+      <pubDate>Wed, 25 Nov 2026 01:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/ed36d094-c2e8-49e1-9967-613c537e3a76.mp3?_=1795433881" length="1434263" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Dans cet extrait, un homme affolé appelle un médecin à en plein milieu de la nuit...  Une blague signée Carlos !
+
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
+      <ns3:description>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Dans cet extrait, un homme affolé appelle un médecin à en plein milieu de la nuit...  Une blague signée Carlos !
+
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Chaque jour, retrouvez une histoire drôle racontée par un sociétaire de l'époque de Philippe Bouvard. Dans cet extrait, un homme affolé appelle un médecin à en plein milieu de la nuit...  Une blague signée Carlos !
+
+Hébergé par Audiomeans. Visitez</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>01:29</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/22783fe8-fd18-4e80-937f-01fcd2801d5b.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/22783fe8-fd18-4e80-937f-01fcd2801d5b.jpg" />
+      <ns4:person role="host">Laurent Ruquier</ns4:person>
+      <ns4:txt purpose="smartlink">https://audmns.com/RaMyWOw</ns4:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>LES IMMANQUABLES - Le meilleur de l'émission du 24 novembre 2026</title>
       <guid isPermaLink="false">149a2673-534c-4057-8e6b-9088fae281af</guid>
@@ -2411,41 +2440,6 @@ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pou
       <ns3:image href="https://static.audiomeans.fr/img/episode/55598553-7e80-4901-ac85-1d6cbf7fdcce.jpg" />
       <ns4:person role="host">Laurent Ruquier</ns4:person>
       <ns4:txt purpose="smartlink">https://audmns.com/fgqWohq</ns4:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>PÉPITE - "Je voudrais que l'avion se pose maintenant" : l'anecdote de Charlotte de Turckheim</title>
-      <guid isPermaLink="false">73c4844a-ea52-4815-af65-ab976f102493</guid>
-      <description>&lt;p&gt;Charlotte de Turckheim aurait une légère tendance à la claustrophobie ! Aux grands maux, les grands moyens.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;Retrouvez tous les jours le meilleur des "Grosses Têtes" en podcast sur RTL.fr et l'application RTL.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns5:encoded>&lt;p&gt;Charlotte de Turckheim aurait une légère tendance à la claustrophobie ! Aux grands maux, les grands moyens.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;Retrouvez tous les jours le meilleur des "Grosses Têtes" en podcast sur RTL.fr et l'application RTL.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
-      <pubDate>Thu, 12 Nov 2026 16:57:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/73c4844a-ea52-4815-af65-ab976f102493.mp3?_=1794499981" length="1611191" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Charlotte de Turckheim aurait une légère tendance à la claustrophobie ! Aux grands maux, les grands moyens.
-
-Retrouvez tous les jours le meilleur des "Grosses Têtes" en podcast sur RTL.fr et l'application RTL.
-
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns3:description>Charlotte de Turckheim aurait une légère tendance à la claustrophobie ! Aux grands maux, les grands moyens.
-
-Retrouvez tous les jours le meilleur des "Grosses Têtes" en podcast sur RTL.fr et l'application RTL.
-
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Charlotte de Turckheim aurait une légère tendance à la claustrophobie ! Aux grands maux, les grands moyens.
-
-Retrouvez tous les jours le meilleur des "Grosses Têtes" en podcast sur RTL.fr et l'application RTL.
-
-Hébergé par Au...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>01:40</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/e249d6fb-de47-423b-a07c-6a066f50374d.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/e249d6fb-de47-423b-a07c-6a066f50374d.jpg" />
-      <ns4:person role="host">Laurent Ruquier</ns4:person>
-      <ns4:txt purpose="smartlink">https://audmns.com/haTVlOu</ns4:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
