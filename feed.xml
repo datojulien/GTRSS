@@ -14,7 +14,7 @@
       <link>https://datojulien.github.io/GTRSS/feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Wed, 25 Nov 2026 02:25:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 12:52:13 +0000</lastBuildDate>
     <itunes:author>France Culture</itunes:author>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -24,6 +24,26 @@
     </itunes:owner>
     <itunes:subtitle>Flux personnel généré depuis le site Radio France</itunes:subtitle>
     <itunes:summary>Un flux RSS personnel qui récupère les épisodes depuis le site web de France Culture lorsque le flux officiel n’est pas encore à jour.</itunes:summary>
+    <item>
+      <title>Fanfares et sonos, la musique en manif : épisode du podcast Manifester, une histoire de fête | France Culture</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/fanfares-et-sonos-la-musique-en-manif-4648362</link>
+      <description>AUDIO Manifester, une histoire de fête, épisode : Fanfares et sonos, la musique en manif. Une série inédite proposée par France Culture. Écoutez Fanfares et sonos, la musique en manif, et découvrez nos podcasts en ligne.</description>
+      <content:encoded><![CDATA[
+        <p>AUDIO Manifester, une histoire de fête, épisode : Fanfares et sonos, la musique en manif. Une série inédite proposée par France Culture. Écoutez Fanfares et sonos, la musique en manif, et découvrez nos podcasts en ligne.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/fanfares-et-sonos-la-musique-en-manif-4648362">France Culture</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/54daf149-2b44-4b3c-b9ab-a91d59fd4e7e/300x300" alt="Fanfares et sonos, la musique en manif : épisode du podcast Manifester, une histoire de fête | France Culture" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/fanfares-et-sonos-la-musique-en-manif-4648362</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26625-25.11.2026-ITEMA_24766933-2026C36128S0329-NET_MFC_8DA7F9E0-A771-479E-9C9C-5C447121346E-25-872eae258cec390402eb3b35f85a11e3.m4a" length="85191322" type="audio/mp4"/>
+      <pubDate>Wed, 25 Nov 2026 08:00:00 +0000</pubDate>
+      <itunes:author>France Culture</itunes:author>
+      <itunes:duration>58:41</itunes:duration>
+      <itunes:subtitle>AUDIO Manifester, une histoire de fête, épisode : Fanfares et sonos, la musique en manif. Une série inédite proposée par France Culture. Écoutez Fanfares et sonos, la musique en manif, et découvrez nos podcasts en ligne.</itunes:subtitle>
+      <itunes:summary>AUDIO Manifester, une histoire de fête, épisode : Fanfares et sonos, la musique en manif. Une série inédite proposée par France Culture. Écoutez Fanfares et sonos, la musique en manif, et découvrez nos podcasts en ligne.</itunes:summary>
+    </item>
     <item>
       <title>Banquets républicains, la révolte met les pieds dans le plat : épisode du podcast Manifester, une histoire de fête | France Culture</title>
       <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/banquets-republicains-la-revolte-met-les-pieds-dans-le-plat-9131761</link>

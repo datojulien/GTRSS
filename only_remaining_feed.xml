@@ -14,8 +14,8 @@
     <atom:link href="https://datojulien.github.io/GTRSS/only_remaining_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Wed, 25 Nov 2026 02:26:39 GMT</lastBuildDate>
-    <pubDate>Wed, 25 Nov 2026 02:26:39 GMT</pubDate>
+    <lastBuildDate>Wed, 25 Nov 2026 12:53:10 GMT</lastBuildDate>
+    <pubDate>Wed, 25 Nov 2026 12:53:10 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -45,6 +45,35 @@
     <ns3:category text="Comedy" />
     <ns4:person role="host">RTL</ns4:person>
     <ns4:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns4:txt>
+    <item>
+      <title>LE MEILLEUR DE RUQUIER - L'histoire drôle de Thomas</title>
+      <guid isPermaLink="false">3fa4aba8-a2b2-4623-acd7-334d738e5c73</guid>
+      <description>&lt;p&gt;Deux vieux qui recréent un souvenir de jeunesse, un petit garçon qui trouve un masque de soudeur dans un terrain vague, et la manière dont Rockefeller a fait fructifier sa fortune... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&amp;nbsp;&lt;/em&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns5:encoded>&lt;p&gt;Deux vieux qui recréent un souvenir de jeunesse, un petit garçon qui trouve un masque de soudeur dans un terrain vague, et la manière dont Rockefeller a fait fructifier sa fortune... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&amp;nbsp;&lt;/em&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
+      <pubDate>Wed, 25 Nov 2026 10:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/3fa4aba8-a2b2-4623-acd7-334d738e5c73.mp3?_=1795538000" length="2500087" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Deux vieux qui recréent un souvenir de jeunesse, un petit garçon qui trouve un masque de soudeur dans un terrain vague, et la manière dont Rockefeller a fait fructifier sa fortune... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
+      <ns3:description>Deux vieux qui recréent un souvenir de jeunesse, un petit garçon qui trouve un masque de soudeur dans un terrain vague, et la manière dont Rockefeller a fait fructifier sa fortune... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Deux vieux qui recréent un souvenir de jeunesse, un petit garçon qui trouve un masque de soudeur dans un terrain vague, et la manière dont Rockefeller a fait fructifier sa fortune... Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Tête...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>02:36</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/f62b52cb-8934-4e16-b628-80d13b143f52.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/f62b52cb-8934-4e16-b628-80d13b143f52.jpg" />
+      <ns4:person role="host">Laurent Ruquier</ns4:person>
+      <ns4:txt purpose="smartlink">https://audmns.com/ASHNWXp</ns4:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>LE MEILLEUR DE BOUVARD  - La blague de Carlos</title>
       <guid isPermaLink="false">ed36d094-c2e8-49e1-9967-613c537e3a76</guid>
@@ -2413,33 +2442,6 @@ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pou
       <ns3:image href="https://static.audiomeans.fr/img/episode/1af71cf3-02a6-46bc-92fb-277e6ae3ac0c.jpg" />
       <ns4:person role="host">Laurent Ruquier</ns4:person>
       <ns4:txt purpose="smartlink">https://audmns.com/bgiuvYD</ns4:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>EN RÉSUMÉ - Adil Rami fait le bilan de l'émission</title>
-      <guid isPermaLink="false">a38efa3d-ecb5-49ed-bab9-f23e7d76cc7b</guid>
-      <description>&lt;p&gt;Chaque jour en fin d'émission, une Grosse Tête est désignée par Laurent Ruquier pour distribuer les bons et les mauvais points... À la fin de l'émission, Adil Rami a dressé le bilan des 2h30 d'antenne !&lt;br&gt;&lt;br&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns5:encoded>&lt;p&gt;Chaque jour en fin d'émission, une Grosse Tête est désignée par Laurent Ruquier pour distribuer les bons et les mauvais points... À la fin de l'émission, Adil Rami a dressé le bilan des 2h30 d'antenne !&lt;br&gt;&lt;br&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
-      <pubDate>Thu, 12 Nov 2026 16:58:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/a38efa3d-ecb5-49ed-bab9-f23e7d76cc7b.mp3?_=1794499984" length="10232535" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>Chaque jour en fin d'émission, une Grosse Tête est désignée par Laurent Ruquier pour distribuer les bons et les mauvais points... À la fin de l'émission, Adil Rami a dressé le bilan des 2h30 d'antenne !Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns3:description>Chaque jour en fin d'émission, une Grosse Tête est désignée par Laurent Ruquier pour distribuer les bons et les mauvais points... À la fin de l'émission, Adil Rami a dressé le bilan des 2h30 d'antenne !Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Chaque jour en fin d'émission, une Grosse Tête est désignée par Laurent Ruquier pour distribuer les bons et les mauvais points... À la fin de l'émission, Adil Rami a dressé le bilan des 2h30 d'antenne !Retrouvez tous les jours le meilleur des Grosses Têt...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>10:39</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/55598553-7e80-4901-ac85-1d6cbf7fdcce.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/55598553-7e80-4901-ac85-1d6cbf7fdcce.jpg" />
-      <ns4:person role="host">Laurent Ruquier</ns4:person>
-      <ns4:txt purpose="smartlink">https://audmns.com/fgqWohq</ns4:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
