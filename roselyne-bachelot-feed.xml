@@ -14,7 +14,7 @@
       <link>https://datojulien.github.io/GTRSS/roselyne-bachelot-feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Thu, 26 Nov 2026 05:02:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 15:14:06 +0000</lastBuildDate>
     <itunes:author>France Musique</itunes:author>
     <itunes:category text="Music"/>
     <itunes:explicit>no</itunes:explicit>
@@ -24,6 +24,26 @@
     </itunes:owner>
     <itunes:subtitle>Flux personnel généré depuis le site Radio France</itunes:subtitle>
     <itunes:summary>Un flux RSS personnel qui récupère les épisodes depuis le site web de France Musique lorsque le flux officiel n’est pas encore à jour.</itunes:summary>
+    <item>
+      <title>La "folie" dans l'opéra : une affaire de femmes ?</title>
+      <link>https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-folie-dans-l-opera-une-affaire-de-femmes-4011369</link>
+      <description>Les productions lyriques n'ont-elles pas contribué à façonner une image stéréotypée de la folie, et plus précisément de la folle ? De la même manière que l'hystérie a été construite comme une pathologie féminine, les héroïnes en proie à la démence sont un motif récurrent du répertoire de l'opéra.</description>
+      <content:encoded><![CDATA[
+        <p>Les productions lyriques n&#x27;ont-elles pas contribué à façonner une image stéréotypée de la folie, et plus précisément de la folle ? De la même manière que l&#x27;hystérie a été construite comme une pathologie féminine, les héroïnes en proie à la démence sont un motif récurrent du répertoire de l&#x27;opéra.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-folie-dans-l-opera-une-affaire-de-femmes-4011369">France Musique</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/30424ad6-777c-429c-b9c1-553f05dfd1a3/300x300" alt="La &quot;folie&quot; dans l&#x27;opéra : une affaire de femmes ?" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/la-folie-dans-l-opera-une-affaire-de-femmes-4011369</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26865-26.11.2026-ITEMA_24768469-2026M26307S0330-NET_MFM_A00BA847-6916-48F7-931F-79B1E7E8060D-25-0e0193567e00e49114f49b296efe566e.m4a" length="16112475" type="audio/mp4"/>
+      <pubDate>Thu, 26 Nov 2026 07:45:00 +0000</pubDate>
+      <itunes:author>France Musique</itunes:author>
+      <itunes:duration>11:05</itunes:duration>
+      <itunes:subtitle>Les productions lyriques n'ont-elles pas contribué à façonner une image stéréotypée de la folie, et plus précisément de la folle ? De la même manière que l'hystérie a été construite comme une pathologie féminine, les héroïnes en proie à la démence sont un</itunes:subtitle>
+      <itunes:summary>Les productions lyriques n'ont-elles pas contribué à façonner une image stéréotypée de la folie, et plus précisément de la folle ? De la même manière que l'hystérie a été construite comme une pathologie féminine, les héroïnes en proie à la démence sont un motif récurrent du répertoire de l'opéra.</itunes:summary>
+    </item>
     <item>
       <title>Une mise en scène peut-elle desservir un opéra ?</title>
       <link>https://www.radiofrance.fr/francemusique/podcasts/la-chronique-de-roselyne-bachelot/-une-mise-en-scene-peut-elle-desservir-un-opera-7853831</link>

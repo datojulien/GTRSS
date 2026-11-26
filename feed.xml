@@ -14,7 +14,7 @@
       <link>https://datojulien.github.io/GTRSS/feed.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Thu, 26 Nov 2026 05:01:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 15:13:15 +0000</lastBuildDate>
     <itunes:author>France Culture</itunes:author>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -24,6 +24,26 @@
     </itunes:owner>
     <itunes:subtitle>Flux personnel généré depuis le site Radio France</itunes:subtitle>
     <itunes:summary>Un flux RSS personnel qui récupère les épisodes depuis le site web de France Culture lorsque le flux officiel n’est pas encore à jour.</itunes:summary>
+    <item>
+      <title>Des slogans à la performance, l'art de manifester : épisode du podcast Manifester, une histoire de fête | France Culture</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/des-slogans-a-la-performance-l-art-de-manifester-6530920</link>
+      <description>AUDIO Manifester, une histoire de fête, épisode : Des slogans à la performance, l'art de manifester. Une série inédite proposée par France Culture. Écoutez Des slogans à la performance, l'art de manifester, et découvrez nos podcasts en ligne.</description>
+      <content:encoded><![CDATA[
+        <p>AUDIO Manifester, une histoire de fête, épisode : Des slogans à la performance, l&#x27;art de manifester. Une série inédite proposée par France Culture. Écoutez Des slogans à la performance, l&#x27;art de manifester, et découvrez nos podcasts en ligne.</p>
+        <p><strong>Source:</strong> <a href="https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/des-slogans-a-la-performance-l-art-de-manifester-6530920">France Culture</a></p>
+        
+            <p>
+              <img src="https://www.radiofrance.fr/pikapi/images/ec4cad43-9140-49e6-83e7-f9dcac2a6def/300x300" alt="Des slogans à la performance, l&#x27;art de manifester : épisode du podcast Manifester, une histoire de fête | France Culture" />
+            </p>
+            ]]></content:encoded>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/des-slogans-a-la-performance-l-art-de-manifester-6530920</guid>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/26625-26.11.2026-ITEMA_24768434-2026C36128S0330-NET_MFC_ED13420A-0551-4C37-8B2F-35A329336D39-25-a6a0d1f4a2de26d6a8b19c2f85858b1d.m4a" length="84675283" type="audio/mp4"/>
+      <pubDate>Thu, 26 Nov 2026 08:00:00 +0000</pubDate>
+      <itunes:author>France Culture</itunes:author>
+      <itunes:duration>58:20</itunes:duration>
+      <itunes:subtitle>AUDIO Manifester, une histoire de fête, épisode : Des slogans à la performance, l'art de manifester. Une série inédite proposée par France Culture. Écoutez Des slogans à la performance, l'art de manifester, et découvrez nos podcasts en ligne.</itunes:subtitle>
+      <itunes:summary>AUDIO Manifester, une histoire de fête, épisode : Des slogans à la performance, l'art de manifester. Une série inédite proposée par France Culture. Écoutez Des slogans à la performance, l'art de manifester, et découvrez nos podcasts en ligne.</itunes:summary>
+    </item>
     <item>
       <title>Fanfares et sonos, la musique en manif : épisode du podcast Manifester, une histoire de fête | France Culture</title>
       <link>https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/fanfares-et-sonos-la-musique-en-manif-4648362</link>

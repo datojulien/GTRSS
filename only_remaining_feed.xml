@@ -14,8 +14,8 @@
     <atom:link href="https://datojulien.github.io/GTRSS/only_remaining_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Thu, 26 Nov 2026 05:02:01 GMT</lastBuildDate>
-    <pubDate>Thu, 26 Nov 2026 05:02:01 GMT</pubDate>
+    <lastBuildDate>Thu, 26 Nov 2026 15:14:07 GMT</lastBuildDate>
+    <pubDate>Thu, 26 Nov 2026 15:14:07 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -45,6 +45,36 @@
     <ns3:category text="Comedy" />
     <ns4:person role="host">RTL</ns4:person>
     <ns4:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns4:txt>
+    <item>
+      <title>LE MEILLEUR DE RUQUIER - Deux Belges à la pompe à essence... L'histoire drôle d'Isabelle Mergault</title>
+      <guid isPermaLink="false">49cb14c7-5a71-41f3-b603-ebb5eba41207</guid>
+      <description>&lt;p&gt;Deux Belges qui se laissent tenter par une affiche racoleuse, un touriste en Bretagne hébété par et un recordman d'apnée aux exploits inégalés...  Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&amp;nbsp;&lt;/em&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns5:encoded>&lt;p&gt;Deux Belges qui se laissent tenter par une affiche racoleuse, un touriste en Bretagne hébété par et un recordman d'apnée aux exploits inégalés...  Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.&amp;nbsp;&lt;/em&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
+      <pubDate>Thu, 26 Nov 2026 10:00:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/49cb14c7-5a71-41f3-b603-ebb5eba41207.mp3?_=1795612804" length="1955082" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Deux Belges qui se laissent tenter par une affiche racoleuse, un touriste en Bretagne hébété par et un recordman d'apnée aux exploits inégalés...  Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
+      <ns3:description>Deux Belges qui se laissent tenter par une affiche racoleuse, un touriste en Bretagne hébété par et un recordman d'apnée aux exploits inégalés...  Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+Tous les jours, en podcast, retrouvez une compilation des meilleures blagues de vos Grosses Têtes préférées.
+
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Deux Belges qui se laissent tenter par une affiche racoleuse, un touriste en Bretagne hébété par et un recordman d'apnée aux exploits inégalés...  Écoutez dans ce podcast 3 des meilleures blagues racontées par les Grosses Têtes de Laurent Ruquier.
+Tous...</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>02:02</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/4c1d8e0c-aedc-4397-83da-15c3ad76a45f.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/4c1d8e0c-aedc-4397-83da-15c3ad76a45f.jpg" />
+      <ns4:person role="host">Laurent Ruquier</ns4:person>
+      <ns4:txt purpose="smartlink">https://audmns.com/FzKUYUu</ns4:txt>
+      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>LE MEILLEUR DE BOUVARD - Quand le champagne vaut mieux que la bière... La blague d'Évelyne Leclercq</title>
       <guid isPermaLink="false">00ead3d9-6412-43c5-af78-0a608d1fd41b</guid>
@@ -79,7 +109,7 @@ Hébergé par Aud...</itunes:subtitle>
       <guid isPermaLink="false">c74039c4-6644-4cf9-89cf-c2bff5816f15</guid>
       <description>&lt;p&gt;Les histoires drôles de Booder vaguement imitées par Darie Boutboul et Philippe Geluck, la naissance d'une idylle entre Roselyne Bachelot et Booder ou encore les repas à l'Elysée de Guillaume Gomez préparés pour François Hollande... Retrouvez dans ce podcast le meilleur de l'émission du mercredi 25 novembre 2026.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
       <ns5:encoded>&lt;p&gt;Les histoires drôles de Booder vaguement imitées par Darie Boutboul et Philippe Geluck, la naissance d'une idylle entre Roselyne Bachelot et Booder ou encore les repas à l'Elysée de Guillaume Gomez préparés pour François Hollande... Retrouvez dans ce podcast le meilleur de l'émission du mercredi 25 novembre 2026.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
-      <pubDate>Wed, 25 Nov 2026 16:59:00 GMT</pubDate>
+      <pubDate>Wed, 25 Nov 2026 17:00:00 GMT</pubDate>
       <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/c74039c4-6644-4cf9-89cf-c2bff5816f15.mp3?_=1795621081" length="16908431" type="audio/mpeg" />
       <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
       <itunes:summary>Les histoires drôles de Booder vaguement imitées par Darie Boutboul et Philippe Geluck, la naissance d'une idylle entre Roselyne Bachelot et Booder ou encore les repas à l'Elysée de Guillaume Gomez préparés pour François Hollande... Retrouvez dans ce podcast le meilleur de l'émission du mercredi 25 novembre 2026.
@@ -97,8 +127,8 @@ Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pou
       <itunes:block>no</itunes:block>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>17:36</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/539fb5dc-845d-4508-89c5-862a444fd5fb.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/539fb5dc-845d-4508-89c5-862a444fd5fb.jpg" />
+      <itunes:image href="https://static.audiomeans.fr/img/episode/da21a789-bb15-4e60-823c-6e60c6ffa171.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/da21a789-bb15-4e60-823c-6e60c6ffa171.jpg" />
       <ns4:person role="host">Laurent Ruquier</ns4:person>
       <ns4:txt purpose="smartlink">https://audmns.com/jbZyEId</ns4:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
@@ -2422,33 +2452,6 @@ Hébergé par Audiomean...</itunes:subtitle>
       <ns3:image href="https://static.audiomeans.fr/img/episode/4c8ecf0b-db23-4ac7-8320-268dc6fc6d0c.jpg" />
       <ns4:person role="host">Laurent Ruquier</ns4:person>
       <ns4:txt purpose="smartlink">https://audmns.com/VmjrKpX</ns4:txt>
-      <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
-    </item>
-    <item>
-      <title>LES IMMANQUABLES - Le meilleur de l'émission du 13 novembre 2026</title>
-      <guid isPermaLink="false">56c1aa7c-fe27-4efb-9487-be4e016e25a4</guid>
-      <description>&lt;p&gt;L'accueil de Patrick Sabatier invité dans l'émission du jour, une mystérieuse chanson de Claude François... Retrouvez dans ce podcast le meilleur de l'émission du vendredi 13 novembre 2026.&lt;br&gt;&lt;br&gt;&lt;em&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
-      <ns5:encoded>&lt;p&gt;L'accueil de Patrick Sabatier invité dans l'émission du jour, une mystérieuse chanson de Claude François... Retrouvez dans ce podcast le meilleur de l'émission du vendredi 13 novembre 2026.&lt;br&gt;&lt;br&gt;&lt;em&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
-      <pubDate>Fri, 13 Nov 2026 16:59:00 GMT</pubDate>
-      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/56c1aa7c-fe27-4efb-9487-be4e016e25a4.mp3?_=1794585182" length="18813241" type="audio/mpeg" />
-      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
-      <itunes:summary>L'accueil de Patrick Sabatier invité dans l'émission du jour, une mystérieuse chanson de Claude François... Retrouvez dans ce podcast le meilleur de l'émission du vendredi 13 novembre 2026.Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
-      <ns3:description>L'accueil de Patrick Sabatier invité dans l'émission du jour, une mystérieuse chanson de Claude François... Retrouvez dans ce podcast le meilleur de l'émission du vendredi 13 novembre 2026.Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
-
-Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
-      <itunes:author>Laurent Ruquier</itunes:author>
-      <author>Laurent Ruquier</author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>L'accueil de Patrick Sabatier invité dans l'émission du jour, une mystérieuse chanson de Claude François... Retrouvez dans ce podcast le meilleur de l'émission du vendredi 13 novembre 2026.Retrouvez tous les jours le meilleur des Grosses Têtes en pod...</itunes:subtitle>
-      <itunes:block>no</itunes:block>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>19:35</itunes:duration>
-      <itunes:image href="https://static.audiomeans.fr/img/episode/f5389e33-1351-4286-bb63-d4d0fb599b02.jpg" />
-      <ns3:image href="https://static.audiomeans.fr/img/episode/f5389e33-1351-4286-bb63-d4d0fb599b02.jpg" />
-      <ns4:person role="host">Laurent Ruquier</ns4:person>
-      <ns4:txt purpose="smartlink">https://audmns.com/CWBBcqu</ns4:txt>
       <itunes:keywords>Divertissement,bonus,Laurent Ruquier,Humour,Culture,Les Grosses Têtes</itunes:keywords>
     </item>
     <item>
