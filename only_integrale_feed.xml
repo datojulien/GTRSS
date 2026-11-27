@@ -14,8 +14,8 @@
     <atom:link href="https://datojulien.github.io/GTRSS/only_integrale_feed.xml" rel="self" type="application/rss+xml" />
     <language>fr</language>
     <copyright>Copyright RTL</copyright>
-    <lastBuildDate>Fri, 27 Nov 2026 08:29:16 GMT</lastBuildDate>
-    <pubDate>Fri, 27 Nov 2026 08:29:16 GMT</pubDate>
+    <lastBuildDate>Fri, 27 Nov 2026 18:58:28 GMT</lastBuildDate>
+    <pubDate>Fri, 27 Nov 2026 18:58:28 GMT</pubDate>
     <webMaster>feeds@audiomeans.fr (Audiomeans)</webMaster>
     <generator>Audiomeans (https://www.audiomeans.fr)</generator>
     <itunes:subtitle>Les Grosses Têtes</itunes:subtitle>
@@ -45,6 +45,38 @@
     <ns3:category text="Comedy" />
     <ns4:person role="host">RTL</ns4:person>
     <ns4:txt purpose="smartlink">https://audmns.com/wMVyhOC</ns4:txt>
+    <item>
+      <title>L'INTÉGRALE - Émission du vendredi 27 novembre 2026</title>
+      <guid isPermaLink="false">5a2a4654-f8d6-4381-8459-6fedc74df36d</guid>
+      <description>&lt;p&gt;Avec Caroline Diament, Ethan Oliel, Liane Foly, Chantal Ladesou, Florian Gazan et Michel Fau ! &lt;/p&gt;&lt;p&gt;&lt;em&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</description>
+      <ns5:encoded>&lt;p&gt;Avec Caroline Diament, Ethan Oliel, Liane Foly, Chantal Ladesou, Florian Gazan et Michel Fau ! &lt;/p&gt;&lt;p&gt;&lt;em&gt;Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Hébergé par Audiomeans. Visitez &lt;a href="https://www.audiomeans.fr/politique-de-confidentialite"&gt;audiomeans.fr/politique-de-confidentialite&lt;/a&gt; pour plus d'informations.&lt;/p&gt;</ns5:encoded>
+      <pubDate>Fri, 27 Nov 2026 17:01:00 GMT</pubDate>
+      <enclosure url="https://audio.audiomeans.fr/file/tNNeEulsva/5a2a4654-f8d6-4381-8459-6fedc74df36d.mp3?_=1795795684" length="93432532" type="audio/mpeg" />
+      <link>https://www.rtl.fr/programmes/les-grosses-tetes</link>
+      <itunes:summary>Avec Caroline Diament, Ethan Oliel, Liane Foly, Chantal Ladesou, Florian Gazan et Michel Fau !
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</itunes:summary>
+      <ns3:description>Avec Caroline Diament, Ethan Oliel, Liane Foly, Chantal Ladesou, Florian Gazan et Michel Fau !
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+
+Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.</ns3:description>
+      <itunes:author>Laurent Ruquier</itunes:author>
+      <author>Laurent Ruquier</author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Avec Caroline Diament, Ethan Oliel, Liane Foly, Chantal Ladesou, Florian Gazan et Michel Fau !
+Retrouvez tous les jours le meilleur des Grosses Têtes en podcast sur RTL.fr et l'application RTL.
+
+Hébergé par Audiomeans. Visitez</itunes:subtitle>
+      <itunes:block>no</itunes:block>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>01:37:19</itunes:duration>
+      <itunes:image href="https://static.audiomeans.fr/img/episode/b6eba7e6-130b-47dc-9daf-02b7f79d7286.jpg" />
+      <ns3:image href="https://static.audiomeans.fr/img/episode/b6eba7e6-130b-47dc-9daf-02b7f79d7286.jpg" />
+      <ns4:person role="host">Laurent Ruquier</ns4:person>
+      <ns4:txt purpose="smartlink">https://audmns.com/zjEfOrD</ns4:txt>
+      <itunes:keywords>Divertissement,Laurent Ruquier,Humour,replay intégral,Culture,Les Grosses Têtes</itunes:keywords>
+    </item>
     <item>
       <title>L'INTÉGRALE - Émission du jeudi 26 novembre 2026</title>
       <guid isPermaLink="false">d503eebe-7865-4eb5-9aed-2c436900940e</guid>
